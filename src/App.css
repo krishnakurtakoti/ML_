@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.post-meta-dr-pasquale-minervini {
+  margin: 0 0 .4em 0;
+  color: #c7c7c7;
+}
+
+.post-meta__date-dr-pasquale-minervini {
+  /* Add any specific styles for the date here */
+}
+
+.post-meta__tags-dr-pasquale-minervini {
+  /* Add any specific styles for the tags here */
+}
+
+.post-title-dr-pasquale-minervini {
+  margin-top: 0;
+  font-size: 3.2em;
+  line-height: 1.2em;
+  letter-spacing: .05em;
+}
+
+h1.dr-pasquale-minervini, h2.dr-pasquale-minervini, h3.dr-pasquale-minervini, h4.dr-pasquale-minervini, h5.dr-pasquale-minervini {
+  margin-top: .8em;
+  margin-bottom: .4em;
+  font-family: "Roboto Slab", serif;
+  font-weight: lighter;
+  color: #eee4e4;
+  -webkit-font-smoothing: antialiased;
+}
+.row-peter-melchior {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-12-peter-melchior {
+  /* Any custom styles for the column can go here */
+}
+
+.table-peter-melchior {
+  /* Add custom styles for the table here */
+}
+
+.table-striped-peter-melchior {
+  /* Add custom styles for the striped table here */
+}
