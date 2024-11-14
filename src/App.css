@@ -14,14 +14,15 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #282c34; /* white; */
 }
 
 .App-link {
@@ -80,4 +81,144 @@ h1.dr-pasquale-minervini, h2.dr-pasquale-minervini, h3.dr-pasquale-minervini, h4
 
 .table-striped-peter-melchior {
   /* Add custom styles for the striped table here */
+}
+.contents-main-content-nicolas-p-rougie {
+  /* Add specific styles for this class if needed */
+}
+
+.topic-nicolas-p-rougie {
+  /* Add specific styles for this class if needed */
+}
+
+.topic-title-first-nicolas-p-rougie {
+  /* Add specific styles for the title */
+}
+
+.simple-nicolas-p-rougie {
+  /* Add specific styles for the list */
+}
+
+.reference-internal-nicolas-p-rougie {
+  color: #06e;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.main-content-nicolas-p-rougie ul.simple-nicolas-p-rougie li {
+  color: #06e;
+  font-weight: 400;
+  list-style-type: decimal;
+  list-style-position: inside;
+  /* list-style-type: none; */
+}
+.container-nicolas-p-rougie {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;  /* 3 columns: 1 for left sidebar, 3 for main content, and 1 for right sidebar */
+  gap: 20px;  /* Spacing between columns */
+  padding: 20px;
+}
+
+.main-content-nicolas-p-rougie {
+  grid-column: 2;  /* Main content takes the center column */
+}
+
+.sidebar-left-nicolas-p-rougie,
+.sidebar-right-nicolas-p-rougie {
+  padding: 15px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
+
+.sidebar-left-nicolas-p-rougie {
+  grid-column: 1;  /* Left sidebar in the first column */
+}
+
+.sidebar-right-nicolas-p-rougie {
+  grid-column: 3;  /* Right sidebar in the third column */
+}
+
+.title-nicolas-p-rougie {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.article-text-nicolas-p-rougie {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.sidebar-title-nicolas-p-rougie {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.sidebar-links-nicolas-p-rougie {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-links-nicolas-p-rougie li {
+  margin-bottom: 8px;
+}
+
+.sidebar-links-nicolas-p-rougie a {
+  color: #06e;
+  text-decoration: none;
+}
+.container-three-columns {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;  /* Column 1 & 3 will take 1/4th width, Column 2 takes 1/2 width */
+  gap: 20px;
+  padding: 20px;
+}
+
+.column-one, .column-two, .column-three {
+  background-color: #f1e7e7;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.column-one {
+  grid-column: 1;
+}
+
+.column-two {
+  grid-column: 2;
+}
+
+.column-three {
+  grid-column: 3;
+}
+
+h2 {
+  font-size: 1.6em;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .container-three-columns {
+    grid-template-columns: 1fr; /* Stack columns on smaller screens */
+  }
+
+  .column-one, .column-two, .column-three {
+    grid-column: 1; /* Stack all columns on mobile */
+  }
 }
