@@ -155,7 +155,7 @@ function App() {
             // itemscope itemtype="http://schema.org/Person"
             >
               <div className="author__avatar">
-                <img src="https://calebrob.com/images/face.jpg" className="author__avatar" alt="Caleb Robinson"></img>
+                <img src="https://calebrob.com/images/face.jpg" className="author__avatar" alt="Caleb Robinson"  style={{ width: '150px', height: 'auto' }} ></img>
               </div>
               
               <div id="#caleb-robinson-blog-archives" className="author__content">
