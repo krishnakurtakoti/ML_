@@ -222,3 +222,97 @@ ul li a:hover {
     grid-column: 1; /* Stack all columns on mobile */
   }
 }
+/* Import the Felix Altenberger font */
+@import url('https://fonts.googleapis.com/css2?family=Felix+Altenberger&display=swap');
+
+/* Media query for responsive design */
+@media only screen and (max-width: 992px) {
+    .Felix-Altenberger-post .post-content .post-title {
+        margin: 0 0 5px;
+    }
+}
+
+/* Apply Felix Altenberger font to post-title within Felix-Altenberger-post */
+.Felix-Altenberger-post .post .post-content .post-title {
+    margin: 0 0 10px;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Felix Altenberger', sans-serif; /* Apply Felix Altenberger font */
+}
+
+/* Apply Felix Altenberger font to h2 within Felix-Altenberger-post */
+.Felix-Altenberger-post h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    font-family: 'Felix Altenberger', sans-serif; /* Apply Felix Altenberger font */
+}
+
+/* General box-sizing for all elements */
+*, *::after, *::before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: 'Lato', sans-serif;
+    color: #515151;
+    background-color: #fbfbfb;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+/* p.Felix-Altenberger {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+} */
+p.Felix-Altenberger {
+  font-family: 'Lato', sans-serif;
+  color: #515151;
+  background-color: #fbfbfb;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+
+/* body {
+  font-family: 'Lato', sans-serif;
+  color: #515151;
+  background-color: #fbfbfb;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+.Armin-Ronacher {
+  /* Add custom styles for Armin Ronacher */
+  font-family: 'Lato', sans-serif;
+  color: #515151;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.Armin-Ronacher p {
+  margin-top: 10px;
+}
+.ui-simple-Armin-Ronacher {
+  list-style-type: disc; /* This applies the bullet points to the list items */
+  /**/
+   padding-left: 20px; 
+   /**/ /* Adds space for the bullet points */
+}

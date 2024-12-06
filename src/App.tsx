@@ -62,16 +62,18 @@ function App() {
         <h3>In this article</h3>
         <ul>
         <li>
+        <h1 className="vcard-names ">
             <a href="#caleb-robinson-blog-archives" style={{ textDecoration: 'underline' }}>
             Caleb-robinson - Understanding intersection-over-union
             </a>
-  
+        </h1>
         </li>
         <li>
+        <h1 className="vcard-names ">
             <a href="#dr-pasquale-minervini" style={{ textDecoration: 'underline' }}>
             Dr Pasquale Minervini - Some notes on Gaussian Fields and Label Propagation
             </a>
-  
+        </h1>
         </li> <a href="#PeterMelchior" style={{ textDecoration: 'underline' }}>
               Peter Melchior - 
             </a>
@@ -85,15 +87,19 @@ function App() {
                    </li>
             </ul>
         <li>
+        <h1 className="vcard-names ">
             <a href="#Nicolas_P_Rougier" style={{ textDecoration: 'underline' }}>
             Nicolas P. Rougier - From Python to Numpy
             </a>
+        </h1>
             <p>There are already a fair number of books about Numpy (see Bibliography) and a legitimate question is to wonder if another book is really necessary. As you may have guessed by reading these lines, my personal answer is yes, mostly because I think there is room for a different approach concentrating on the migration from Python to Numpy through vectorization. </p>
         </li>
         <li>
+        <h1 className="vcard-names ">
         <a href="#HeinerKüttler" style={{ textDecoration: 'underline' }}>
           Heiner Küttler - 
             </a>
+          </h1>
             <li>
                   <span className="post-date">Feb 19, 2023</span>
 
@@ -148,6 +154,103 @@ function App() {
                     <a className="post-link" href="https://heiner.ai/blog/2016/08/21/in-every-beginning-there-is-a-delusion.html">In every beginning there is a delusion</a>
                 </li>
           </li>
+          <li>
+            <a href="#Felix-Altenberger" style={{ textDecoration: 'underline' }}>
+              <strong>Felix-Altenberger - ML Engineer at ZenML.
+              Posting about ML, MLOps, Computer Vision.</strong>
+            </a>
+              <li>
+                    <span className="post-date">2021, Mar 30 </span>
+
+                      <a className="post-link" href="https://fa9r.com/blog/2020/12/30/tips-for-gan-training.html">A Guide for Building GANs - 10 Tips and Tricks</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Feb 19, 2023 </span>
+
+                      <a className="post-link" href="https://fa9r.com/blog/2021/03/30/icp-analysis.html">An Analysis of ICP Variants</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Feb 19, 2023 </span>
+
+                      <a className="post-link" href="https://fa9r.com/projects/2021/03/30/differentiable-icp.html">3D Reconstruction with Differentiable ICP</a>
+                  </li>
+        </li>
+        <li>
+            <a href="#ArminRonacher" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Armin Ronacher
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                  mitsuhiko
+
+                </span>
+                </h1>
+            </a>
+
+
+          
+              <li>
+                    <span className="post-date">2018, Mar 18 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/">You can't Rust that
+                      Some tips for how to be more productive in Rust by avoiding situations you cannot solve in Rust.</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Oct 19, 2016 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/">I don't understand Python's Asyncio</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Nov 18, 2015 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/">Python's Hidden Regular Expression Gems</a>
+                  </li>
+        </li>
+
+        <li>
+            <a href="#PeterGoldsborough" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Peter Goldsborough
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                 
+
+                </span>
+                </h1>
+            </a>
+
+
+          
+              <li>
+                    <span className="post-date">2018, Feb 4 </span>
+
+                      <a className="post-link" href="https://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/">A Promenade of PyTorch.</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Jan 20, 2018 </span>
+
+                      <a className="post-link" href="https://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/">Writing a Microservice in Rust</a>
+                  </li>
+                  <li>
+                    {/* <span className="post-date">Nov 18, 2015 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/">Python's Hidden Regular Expression Gems</a> */}
+                  </li>
+        </li>
+
+
         </ul>
 
         <div className="sidebar sticky">
@@ -546,6 +649,381 @@ https://www.npmjs.com/package/react-twitter-embed
 {/* <MyTwitterWidget name="vxnuaj" />
 <MyTwitterEmbed name="vxnuaj"  /> */}
 
+
+
+<div id="Felix-Altenberger">
+
+
+<article className="Felix-Altenberger-post">
+    
+    <a className="post-thumbnail" 
+    // style="background-image: url(/blog/images/icp-analysis.png)" 
+    style={{ backgroundImage: 'url(https://fa9r.com/blog/images/icp-analysis.png)' }} 
+    href="https://fa9r.com/blog/2021/03/30/icp-analysis.html"></a>
+    
+    <div className="post-content">
+        <h2 className="post-title"><a href="https://fa9r.com/blog/2021/03/30/icp-analysis.html">An Analysis of ICP Variants</a></h2>
+        <p>Over the years, various ICP modifications have been proposed. Now, which one should you use?...</p>
+        <span className="post-date">2021, Mar 30&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <span className="post-words">6 minute read</span>
+    </div>
+</article>
+<article className="Felix-Altenberger-post">
+    
+    <a className="post-thumbnail" 
+    // style="background-image: url(/blog/images/gan.png)" 
+    style={{ backgroundImage: 'url(https://fa9r.com/blog/images/gan.png' }} 
+    href="/blog/2020/12/30/tips-for-gan-training.html"></a>
+    
+    <div className="post-content">
+      <h2 className="post-title"><a href="/blog/2020/12/30/tips-for-gan-training.html">A Guide for Building GANs - 10 Tips and Tricks</a></h2>
+      <p>After having focused on GANs exclusively for the last year and a half, I wanted...</p>
+      <span className="post-date">2020, Dec 30&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      <span className="post-words">7 minute read</span>
+    </div>
+  </article>
+
+  <article className="Felix-Altenberger-post">
+    
+    <a className="post-thumbnail" 
+     style={{ backgroundImage: 'url(https://fa9r.com/blog/images/difficp.png' }} 
+    // style="background-image: url(/projects/images/difficp.png)" 
+    href="https://fa9r.com/projects/2021/03/30/differentiable-icp.html"></a>
+    <a className="post-thumbnail" 
+   style={{ backgroundImage: 'url(https://fa9r.com/blog/images/difficp.png)', 
+            width: '100%', height: '200px', 
+            backgroundSize: 'cover', backgroundPosition: 'center' }} 
+   href="https://fa9r.com/projects/2021/03/30/differentiable-icp.html">
+</a>
+
+    <div className="post-content">
+      <h2 className="post-title"><a href="https://fa9r.com/projects/2021/03/30/differentiable-icp.html">3D Reconstruction with Differentiable ICP</a></h2>
+      {/* <!--
+      <p>The Iterative Closest Point (ICP) algorithm is a widely used registration method, which iteratively approximates...</p>
+      --> */}
+      <div className="page-tag">
+        
+        <a href="/tags#Python" className="tag"># Python</a>
+        
+        <a href="/tags#PyTorch" className="tag"># PyTorch</a>
+        
+        <a href="/tags#ML" className="tag"># ML</a>
+        
+        <a href="/tags#Graphics" className="tag"># Graphics</a>
+        
+        <a href="/tags#3D Reconstruction" className="tag"># 3D Reconstruction</a>
+        
+        <a href="/tags#ICP" className="tag"># ICP</a>
+        
+        <a href="/tags#WithCode" className="tag"># WithCode</a>
+        
+      </div>
+      <br></br>
+      <span className="post-date">2021, Mar 30&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      <span className="post-words">9 minute read</span>
+    </div>
+
+    <ul>
+      <li><strong>Duration:</strong> July 2020 to March 2021 (9 months)</li>
+      <li><strong>Team:</strong> Me and supervising prof.</li>
+      <li><strong>My Responsibilities:</strong> Research, design and implementation of differentiable
+    ICP in Pytorch, ML model training and evaluation</li>
+      <li><strong>Source Code:</strong> <a href="https://github.com/fa9r/DiffICP">https://github.com/fa9r/DiffICP</a></li>
+    </ul>
+
+    <h3 id="differentiable-icp">Differentiable ICP</h3>
+
+    <p className="Felix-Altenberger">The ICP algorithm consists of the following five steps: source point selection,
+    correspondence search, correspondence weighting, correspondence rejection,
+    and the minimization of an error metric.
+    Source point selection and correspondence weighting are by default 
+    differentiable, so it is the remaining three steps that we need to explore
+    in more detail.</p>
+
+    <h4 id="differentiable-correspondence-finding">Differentiable Correspondence Finding</h4>
+    <p className="Felix-Altenberger">Standard ICP correspondences are found by searching the nearest neighbor of each
+    source point within the target point cloud, which can be formulated as follows:</p>
+
+
+
+    <p>
+      <img src="https://fa9r.com/projects/images/difficp_corrs.png" style={{width: '20%'}}></img>
+    </p>
+    <p className="Felix-Altenberger">The problem here is that the <em>argmin</em> operation is not properly differentiable,
+        since its derivative is everywhere either 0 or undefined.
+        There exist a variety of approximate methods, but they are similarly based on
+        concrete selections and are, therefore, not differentiable either.</p>
+
+
+        <p className="Felix-Altenberger">Fortunately, a soft relaxation can be formulated by
+expressing correspondence points as linear combinations of all target points
+with weights calculated as the softmax over negative distances:</p>
+
+
+      <p >
+        <img src="https://fa9r.com/projects/images/difficp_diffcorrs.png" style={{width: '50%'}}></img>
+      </p>
+
+  </article>
+
+
+
+  {/* <div>
+    <p>
+    Software developer and Open Source nut. Creator of the Flask framework. Engineering at <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/getsentry/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/getsentry">@getsentry</a>. Other things of interest: <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/pallets/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/pallets">@pallets</a> and <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/rust-lang/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rust-lang">@rust-lang</a>
+
+    </p>
+  </div>
+  <div className="m-0 mt-1 wb-break-all feed-sponsored-user-description Armin-Ronacher">
+  <p>Creator of the Flask framework, Jinja template engine, Lektor CMS, Insta snapshot testing tool and more. These days I dedicate most of my work to @getsentry, but I maintain a range of Rust libraries and always create more Open Source work.</p>
+  </div> */}
+
+
+  <div>
+
+
+
+
+
+
+<div id="ArminRonacher">
+
+
+          <h1 className="vcard-names ">
+
+          <span className="p-name vcard-fullname d-block overflow-hidden" 
+          // itemprop="name"
+          >
+            Armin Ronacher
+          </span>
+          <span className="p-nickname vcard-username d-block" 
+          //itemprop="additionalName"
+          >
+            mitsuhiko
+
+          </span>
+          </h1>
+
+
+          <p>
+          Software developer and Open Source nut. Creator of the Flask framework. Engineering at 
+          <a 
+          className="user-mention notranslate" 
+          data-hovercard-type="organization" 
+          data-hovercard-url="/orgs/getsentry/hovercard" 
+          data-octo-click="hovercard-link-click" 
+          data-octo-dimensions="link_type:self" 
+          href="https://github.com/getsentry"
+          >
+          @getsentry
+          </a>. 
+          Other things of interest: 
+          <a 
+          className="user-mention notranslate" 
+          data-hovercard-type="organization" 
+          data-hovercard-url="/orgs/pallets/hovercard" 
+          data-octo-click="hovercard-link-click" 
+          data-octo-dimensions="link_type:self" 
+          href="https://github.com/pallets"
+          >
+          @pallets
+          </a> 
+          and 
+          <a 
+          className="user-mention notranslate" 
+          data-hovercard-type="organization" 
+          data-hovercard-url="/orgs/rust-lang/hovercard" 
+          data-octo-click="hovercard-link-click" 
+          data-octo-dimensions="link_type:self" 
+          href="https://github.com/rust-lang"
+          >
+          @rust-lang
+          </a>
+          </p>
+          </div>
+
+
+
+          <div className="entry-overview Armin-Ronacher">
+            <div className="date">Mar 31, 2018</div>
+            <div className="detail">
+              <h1><a href="https://lucumr.pocoo.org/2018/3/31/you-cant-rust-that">You can't Rust that</a></h1>
+              
+              <div className="summary">
+                <p>Some tips for how to be more productive in Rust by avoiding situations you cannot solve in Rust.</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="entry-overview">
+            <div className="date">Oct 30, 2016</div>
+                <div className="detail">
+                  <h1><a href="https://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio">I don't understand Python's Asyncio</a></h1>
+                  
+                  <div className="summary"><p>A little confession that I have no idea how asyncio works in Python 3.</p>
+                </div>
+              
+            </div>
+          </div>
+
+          <h2>The Primitives</h2>
+                  <p><cite>asyncio</cite> is supposed to implement asynchronous IO with the help of
+          coroutines.  Originally implemented as a library around the <cite>yield</cite> and
+          <cite>yield from</cite> expressions it's now a much more complex beast as the
+          language evolved at the same time.  So here is the current set of things
+          that you need to know exist:</p>
+
+          <ul className="ui-simple-Armin-Ronacher">
+                  <li>event loops</li>
+                  <li>event loop policies</li>
+                  <li>awaitables</li>
+                  <li>coroutine functions</li>
+                  <li>old style coroutine functions</li>
+                  <li>coroutines</li>
+                  <li>coroutine wrappers</li>
+                  <li>generators</li>
+                  <li>futures</li>
+                  <li>concurrent futures</li>
+                  <li>tasks</li>
+                  <li>handles</li>
+                  <li>executors</li>
+                  <li>transports</li>
+                  <li>protocols</li>
+                  </ul>
+                  <p>In addition the language gained a few special methods that are new:</p>
+
+                  {/* <ul className="simple">
+                        <li><tt class="docutils literal">__aenter__</tt> and <tt class="docutils literal">__aexit__</tt> for asynchronous <cite>with</cite> blocks</li>
+                        <li><tt class="docutils literal">__aiter__</tt> and <tt class="docutils literal">__anext__</tt> for asynchronous iterators (async loops
+                        and async comprehensions).  For extra fun that protocol already changed
+                        once.  In 3.5 it returns an awaitable (a coroutine) in Python 3.6 it
+                        will return a newfangled async generator.</li>
+                        <li><tt class="docutils literal">__await__</tt> for custom awaitables</li>
+                        </ul> */}
+
+
+                    <div className="entry-overview">
+                                <div className="date">Nov 18, 2015</div>
+                                <div className="detail">
+                                  <h1 className="Felix-Altenberger"><a href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems">Python's Hidden Regular Expression Gems</a></h1>
+                                  
+                                  <div className="summary"><p className="Felix-Altenberger">Some hidden features of the Python re module and the support machinery
+                                  that drives it.</p>
+                                  </div>
+                                  
+                                </div>
+                              </div>
+                              <p className="Felix-Altenberger">There are many terrible modules in the Python standard library, but the
+                                Python <cite>re</cite> module is not one of them.  While it's old and has not been
+                                updated in many years, it's one of the best of all dynamic languages I
+                                would argue.</p>
+
+                                <h2>Fixing up Groups</h2>
+                                <p>One annoying thing is that our group indexes are not local to our own
+                              regular expression but to the combined one.  This means if you have a
+                              rule like 
+                              {/* <tt class="docutils literal">(a|b)</tt>  */}
+                              and you want to access that group by index, it will
+                              be wrong.  This would require a bit of extra engineering with a class that
+                              wraps the SRE match object with a custom one that adjusts the indexes and
+                              group names.  If you are curious about that I made a more complex version
+                              of the above solution that implements a proper match wrapper <a className="reference external" href="https://github.com/mitsuhiko/python-regex-scanner">in a github
+                              repository</a> together
+                              with some samples of what you can do with it.</p>
+
+          </div>
+      
+
+</div>
+<div id="PeterGoldsborough">
+<h1>
+  <a href="https://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/" className="site-title">Peter Goldsborough</a>
+
+  </h1>
+
+
+    <h1>A Promenade of PyTorch</h1>
+    <p>For the past two years, I’ve been quite heavily invested in
+    <a href="http://tensorflow.org">TensorFlow</a>, either <a href="https://arxiv.org/pdf/1610.01178.pdf">writing papers about it</a>, giving
+    <a href="https://www.youtube.com/watch?v=Lo1rXJdAJ7w">talks on how to extend its backend</a> or <a href="https://www.biorxiv.org/content/early/2017/12/02/227645">using it for my own deep learning
+    research</a>. As part of this journey, I’ve gotten quite a good sense of both
+    TensorFlow’s strong points as well as weaknesses – or simply architectural
+    decisions – that leave room for competition. That said, I have recently joined
+    the PyTorch team at <a href="https://research.fb.com/category/facebook-ai-research-fair/">Facebook AI Research</a> (FAIR), arguably TensorFlow’s biggest
+    competitor to date, and currently much favored in the research community for
+    reasons that will become apparent in subsequent paragraphs.</p>
+
+    <a href="https://disqus.com/by/disqus_vSdwzFeUPA/" data-action="profile" data-tab="" data-username="disqus_vSdwzFeUPA" target="_blank" rel="noopener noreferrer">No Name</a>
+    <p className="Felix-Altenberger">FYI: this idea of constructing a computation graph at runtime was done by Acar at CMU for self adjusting computations. You might be able to steal some ideas from them.</p>
+
+
+
+    <footer className="comment__footer">
+  <menu className="comment-footer__menu">
+    {/* <!-- Voting Section --> */}
+    <li className="voting" data-role="voting">
+      <div className="post-votes">
+        <a href="#" className="vote-up count-10" data-action="upvote" title="Vote up" 
+        // name="Vote up"
+        >Upvote
+          <span className="control"></span>
+          <span className="updatable count" data-role="likes"> 10</span>
+        </a>
+        <a href="#" className="vote-down count-0" data-action="downvote" title="Vote down" 
+         // name="Vote down"
+        > Downvote
+          <span className="control"></span>
+          <span className="updatable count" data-role="dislikes"> 0</span>
+        </a>
+      </div>
+    </li>
+
+    {/* <!-- Reply Section -->
+    <li class="reply" data-role="reply-link">
+      <a class="comment-footer__action" href="#" data-action="reply">
+        <span class="text">Reply</span>
+      </a>
+    </li> */}
+
+    {/* <!-- Share Section --> */}
+    {/* <li id="comment__share-3771658268" class="comment__share">
+      <a class="toggle" href="#" data-action="expand-share">
+        <i class="icon icon-share"></i>
+        <span class="text">Share ›</span>
+      </a>
+      <ul class="comment-share__buttons">
+        <div class="comment-share__social-share-buttons">
+          { <!-- Twitter Share Button --> }
+          <li class="twitter share__button-container">
+            <button class="share__button icon icon-twitter-x" data-action="share:twitter" aria-label="Share comment on X (Twitter)"></button>
+          </li>
+          { <!-- Facebook Share Button --> }
+          <li class="facebook share__button-container">
+            <button class="share__button icon icon-facebook" data-action="share:facebook" aria-label="Share comment on Facebook"></button>
+          </li>
+        </div>
+        { <!-- Link Share Button --> }
+        <li class="link share__button-container">
+          <button class="share__button icon icon-link" value="http://disq.us/p/1qdjq58" name="Link" title="Click to copy post link" data-action="copy-link" aria-label="Copy link to comment"></button>
+          <input class="share__button link_url" name="Link" title="Click to copy post link" data-action="copy-link" readonly>
+        </li>
+      </ul>
+    </li> */}
+
+    {/* <!-- Real-time Notification Section --> */}
+    {/* <li class="realtime" data-role="realtime-notification:3771658268">
+      <span class="realtime-replies realtime-replies--refresh icon icon-pencil" style="display: none;"></span>
+      <a href="#" class="realtime-button realtime-button--refresh" style="display: none;"></a>
+    </li> */}
+  </menu>
+</footer>
+<a href="https://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/" className="post-link">
+          <h3 className="h1 post-title">Non-Blocking Parallelism for Services in Go</h3>
+        </a>
+<h3 className="h1 post-title">Non-Blocking Parallelism for Services in Go</h3>
+</div>
+ 
 
 <TwitterTweetEmbed tweetId="1855509794993692780"  />
       </header>
