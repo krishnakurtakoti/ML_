@@ -59,7 +59,7 @@
 }
 
 h1.dr-pasquale-minervini, h2.dr-pasquale-minervini, h3.dr-pasquale-minervini, h4.dr-pasquale-minervini, h5.dr-pasquale-minervini {
-  margin-top: .8em;
+  margin-top: .4em;
   margin-bottom: .4em;
   font-family: "Roboto Slab", serif;
   font-weight: lighter;
@@ -315,4 +315,7 @@ p.Felix-Altenberger {
   /**/
    padding-left: 20px; 
    /**/ /* Adds space for the bullet points */
+}
+.vcard-names1 {
+  margin-top: 0; /* Removes the top margin */
 }
