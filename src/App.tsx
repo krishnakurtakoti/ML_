@@ -59,6 +59,9 @@ function App() {
         >
           Learn React
         </a>
+        </header>
+        <div className="App-header_replica">
+
         <h3>In this article</h3>
         <ul>
         <li>
@@ -67,7 +70,24 @@ function App() {
             Caleb-robinson - Understanding intersection-over-union
             </a>
         </h1>
+        <h3 className="archive__item-title" 
+// itemprop="headline"
+>  <span className="post-date">August 13, 2023 </span><a href="https://calebrob.com/algorithms/2023/08/13/ball-sort-puzzle.html" rel="permalink">Solving a game called  &#39;ball sort puzzle&#39; </a>
+</h3>
+
+
+<h3 className="archive__item-title" 
+// itemprop="headline"
+> <span className="post-date">October 02, 2019 </span> <a href="https://calebrob.com/fun/2019/10/02/elementary-cellular-automata.html" rel="permalink">Generating elementary cellular automata with Python</a>
+</h3>
+
+<h3 className="archive__item-title" 
+// itemprop="headline"
+> <span className="post-date">October 22, 2018 </span> <a href="https://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.html" rel="permalink">How to reproduce ImageNet validation results</a>
+</h3>
+
         </li>
+
         <li>
         <h1 className="vcard-names1 ">
             <a href="#dr-pasquale-minervini" style={{ textDecoration: 'underline' }}>
@@ -317,12 +337,342 @@ function App() {
 
 
             <li>
+
                 <a href="http://blog.ezyang.com/2019/05/pytorch-internals/" rel="bookmark">PyTorch internals</a>
                 <abbr className="published small" title="2019-05-16T22:11:22-0500">(May 16, 2019)</abbr>
               </li>
               
         </li>
   
+        <li>
+
+                {/* <h1>
+          <a href="http://blog.ezyang.com/about/" className="site-title">ezyang &#39;s blog</a>
+
+          </h1> */}
+            <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names1 ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                   Vincent_Qin &#39;s blog
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                 
+
+                </span>
+                </h1>
+            </a>
+
+
+
+          <li>
+
+            <a className="post-title-link" href="https://vincentqin.tech/posts/python-zip/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+                {/* <font style="vertical-align: inherit;">
+                  <font style="vertical-align: inherit;"> */}
+                    📝Note: Python zip()
+                    {/* </font></font> */}
+                    </span>
+            </a>
+            </li>
+            <li>
+
+            <a className="post-title-link" href="https://vincentqin.tech/posts/light-field-depth-estimation/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+                {/* <font style="vertical-align: inherit;">
+                  <font style="vertical-align: inherit;"> */}
+                    Light Field Depth Estimation
+                    {/* </font></font> */}
+                    </span>
+            </a>
+            <abbr className="published small" title="2019-05-16T22:11:22-0500">( 16/05/2018)</abbr>
+            </li>
+            <li>
+
+<a className="post-title-link" href="https://vincentqin.tech/posts/instant-ngp/" //itemprop="url"
+>
+<span 
+ // itemprop="name"
+ >
+ {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+ 📝Note: 5 seconds to train NeRF, NVIDIA Instant NeRF test
+ {/* </font></font> */}
+ </span>
+ </a>
+<abbr className="published small" title="2019-05-16T22:11:22-0500">( 01-05-2022)</abbr>
+</li>
+
+
+<li>
+<a className="post-title-link" href="https://vincentqin.tech/posts/slam-common-issues-ICP/" //itemprop="url"
+>
+<span 
+ // itemprop="name"
+ >
+ {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+ 📝Note: SLAM FAQ (IV): Solve ICP and use SVD decomposition to get the rotation matrix
+{/* </font></font> */}
+ </span>
+</a>
+<abbr className="published small" title="2019-05-16T22:11:22-0500">( 18-08-2019)</abbr>
+</li>
+
+
+
+        </li>
+
+
+        <li>
+
+                {/* <h1>
+          <a href="http://blog.ezyang.com/about/" className="site-title">ezyang &#39;s blog</a>
+
+          </h1> */}
+            <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names1 ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Andrew Tulloch—Machine Learning, Statistics, Systems
+               
+
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                 
+
+                </span>
+                </h1>
+                <h2>
+                About | Academic | GitHub | CV
+                </h2>
+            </a>
+
+
+            <li>
+
+            { <a className="post-title-link" href="https://tullo.ch/articles/pytorch-gpu-inference-performance/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+               
+               Improving PyTorch inference performance on GPUs with a few simple tricks
+                    
+                    </span>
+            </a> }
+            <abbr className="published small" title="2019-05-16T22:11:22-0500">( 3/10/2021)</abbr>
+            </li>
+          <li>
+
+            <a className="post-title-link" href="https://tullo.ch/articles/lasso-estimator/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+                {/* <font style="vertical-align: inherit;">
+                  <font style="vertical-align: inherit;"> */}
+                   The LASSO Estimator
+                    {/* </font></font> */}
+                    </span>
+            </a>
+            <abbr className="published small" title="2019-05-16T22:11:22-0500">( 13/05/2014)</abbr>
+            </li>
+
+           
+        </li>
+
+        <li>
+
+                {/* <h1>
+          <a href="http://blog.ezyang.com/about/" className="site-title">ezyang &#39;s blog</a>
+
+          </h1> */}
+            <a href="#m-clark" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names1 ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Michael Clarke
+               
+
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                 
+
+                </span>
+                </h1>
+                <h2>
+                https://m-clark.github.io/about.html
+                </h2>
+            </a>
+
+
+            <li>
+
+            { <a className="post-title-link" href="https://m-clark.github.io/posts/2022-09-deep-linear-models/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+               
+               Deep Linear Models
+                    
+                    </span>
+            </a> }
+            <abbr className="published small" title="2019-05-16T22:11:22-0500">( 10/10/2022)</abbr>
+            </li>
+          <li>
+
+            <a className="post-title-link" href="https://m-clark.github.io/posts/2021-10-30-double-descent/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+                {/* <font style="vertical-align: inherit;">
+                  <font style="vertical-align: inherit;"> */}
+                   Double Descent
+                    {/* </font></font> */}
+                    </span>
+            </a>
+            <abbr className="published small" title="2019-05-16T22:11:22-0500">( 13/11/2021)</abbr>
+            </li>
+
+           
+        </li>
+        <li>
+            <a href="#Hugo-Bowne-Anderson" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names1 ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Hugo-Bowne-Anderson
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                  data scientist - educator - writer - podcaster
+
+                </span>
+                </h1>
+            </a>
+
+
+          
+              <li>
+                    <span className="post-date">2020, Apr 14 </span>
+
+                      <a className="post-link" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">How to do Bayesian statistical modelling using numpy and PyMC3.</a>
+                  </li>
+                  {/* <li>
+                    <span className="post-date">Oct 19, 2016 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/">I don't understand Python's Asyncio</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Nov 18, 2015 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/">Python's Hidden Regular Expression Gems</a>
+                  </li> */}
+        </li>
+        <li>
+            <a href="#@sanjeevs_iitr" style={{ textDecoration: 'underline' }}>
+            <h1 className="vcard-names1 ">
+
+                <span className="p-name vcard-fullname d-block overflow-hidden" 
+                // itemprop="name"
+                >
+                  Sanjeev Sharma
+
+                </span>
+                <span className="p-nickname vcard-username d-block" 
+                //itemprop="additionalName"
+                >
+                @sanjeevs_iitr, Founder & CEO, Swaayatt Robot, Deep Eigen
+
+                </span>
+                </h1>
+            </a>
+
+
+          
+              <li>
+                    <span className="post-date">2024, Aug 24 </span>
+
+                      <a className="post-link" href="https://x.com/sanjeevs_iitr/status/1827230702095495328">Projective 3-Point (P3P) algorithm plays a crucial role in understanding the Visual Odometry and typical SLAM algorithmic pipelines.</a>
+                  </li>
+                  {/* <li>
+                    <span className="post-date">Oct 19, 2016 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/">I don't understand Python's Asyncio</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Nov 18, 2015 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/">Python's Hidden Regular Expression Gems</a>
+                  </li> */}
+        </li>
+        <li>
+        <a href="@KanakaRajanPhD" className="vcard-names1">
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Kanaka Rajan </span>
+            <span className="p-nickname vcard-username d-block">
+            I'm an Entreprenuer| Researcher
+            </span>
+          </h1>
+          <h3>
+        
+          </h3>
+        </a>
+
+
+          
+              <li>
+                    <span className="post-date">2024, Oct 17 </span>
+
+                      <a className="post-link" href="https://www.rajanlab.com/resources">research. Resources.</a>
+                  </li>
+                  {/* <li>
+                    <span className="post-date">Oct 19, 2016 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/">I don't understand Python's Asyncio</a>
+                  </li>
+                  <li>
+                    <span className="post-date">Nov 18, 2015 </span>
+
+                      <a className="post-link" href="https://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/">Python's Hidden Regular Expression Gems</a>
+                  </li> */}
+        </li>
 
         </ul>
 
@@ -388,6 +738,7 @@ function App() {
                     </a>
                   </li>
                 </ul>
+               
               </div>
             </div>
           </div>
@@ -412,6 +763,62 @@ function App() {
                 <a href="/tags/#semi-supervised learning">semi-supervised learning</a> 
               </span>
 </div>
+
+
+
+
+<div className="list__item">
+<article className="archive__item" 
+// itemscope="" itemtype="http://schema.org/CreativeWork"
+>
+<h2 className="archive__item-title" 
+// itemprop="headline"
+> <a href="https://calebrob.com/algorithms/2023/08/13/ball-sort-puzzle.html" rel="permalink">Solving a game called  &#39;ball sort puzzle&#39; </a>
+</h2>
+<p className="page__meta"><i className="fa fa-clock-o" aria-hidden="true"></i> 9 minute read</p>
+<p className="page__date"><strong><i className="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time 
+// datetime="2023-08-13T01:00:00-07:00"
+>August 13, 2023</time></p>
+<p className="archive__item-excerpt" 
+// itemprop="description"
+></p>
+{/* <!-- --> */}</article></div>
+
+
+<div className="list__item">
+<article className="archive__item" 
+// itemscope="" itemtype="http://schema.org/CreativeWork"
+>
+<h2 className="archive__item-title" 
+// itemprop="headline"
+> <a href="https://calebrob.com/fun/2019/10/02/elementary-cellular-automata.html" rel="permalink">Generating elementary cellular automata with Python</a>
+</h2>
+<p className="page__meta"><i className="fa fa-clock-o" aria-hidden="true"></i> 4 minute read</p>
+<p className="page__date"><strong><i className="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time 
+// datetime="2023-08-13T01:00:00-07:00"
+>October 02, 2019</time></p>
+<p className="archive__item-excerpt" 
+// itemprop="description"
+></p>
+{/* <!-- --> */}</article></div>
+
+<div className="list__item">
+<article className="archive__item" 
+// itemscope="" itemtype="http://schema.org/CreativeWork"
+>
+<h2 className="archive__item-title" 
+// itemprop="headline"
+> <a href="https://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.html" rel="permalink">How to reproduce ImageNet validation results</a>
+</h2>
+<p className="page__meta"><i className="fa fa-clock-o" aria-hidden="true"></i> 4 minute read</p>
+<p className="page__date"><strong><i className="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time 
+// datetime="2023-08-13T01:00:00-07:00"
+>October 22, 2018</time></p>
+<p className="archive__item-excerpt" 
+// itemprop="description"
+></p>
+{/* <!-- --> */}</article></div>
+
 
         <h1 className="post-title-dr-pasquale-minervini" id="dr-pasquale-minervini">
           
@@ -2852,8 +3259,564 @@ with weights calculated as the softmax over negative distances:</p>
 </div>
 
 
+<div id="Vincent_Qin">
+<h1>
+<a href="https://vincentqin.tech/" className="site-title">Vincent_Qin &#39;s blog</a>
+</h1>
+
+        {/* <h1 className="vcard-names1 ">
+
+                        <span className="p-name vcard-fullname d-block overflow-hidden" 
+                        // itemprop="name"
+                        >
+                          Vincent_Qin &#39;s blog
+                        </span>
+                        <span className="p-nickname vcard-username d-block" 
+                        //itemprop="additionalName"
+                        >
+                        
+
+                        </span>
+                        </h1> */}
+
+
+<ul>
+<li>🔭 I am currently working on SLAM.</li>
+<li>🌱 I am currently learning SLAM and AI.</li>
+<li>💬 Ask me about depth estimation/light filed/SLAM etc.</li>
+<li>👯 I am looking to collaborate on repo <a target="_blank" rel="noopener" href="https://github.com/Vincentqyw/Recent-Stars-2020">Recent-Stars-2020</a></li>
+<li>📫 How to reach me: vincentqin#hotmail.com (#-&gt;@)</li>
+<li>⚡ Fun fact: I 🧡🐈</li>
+</ul>
+
+<article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+        11-05
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://vincentqin.tech/posts/python-zip/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  📝Note: Python zip()
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article>
+  <article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+        2018-05-16
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+            <a className="post-title-link" href="https://vincentqin.tech/posts/light-field-depth-estimation/" 
+            // itemprop="url"
+            
+            >
+              <span 
+              // itemprop="name"
+              >
+                {/* <font style="vertical-align: inherit;">
+                  <font style="vertical-align: inherit;"> */}
+                    Light Field Depth Estimation
+                    {/* </font></font> */}
+                    </span>
+            </a>
+        </div>
+
+     
+      
+    </header>
+  </article>
+
+  <article 
+  // itemscope="" itemtype="http://schema.org/Article"
+  >
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-05-01T02:28:39+08:00" content="2022-05-01"
+        >
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+          01-05-2022
+        {/* </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://vincentqin.tech/posts/instant-ngp/" //itemprop="url"
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+                📝Note: 5 seconds to train NeRF, NVIDIA Instant NeRF test
+            {/* </font></font> */}
+            </span>
+          </a>
+      </div>
+
+      
+    </header>
+  </article>
+
+
+
+
+  <article 
+  // itemscope="" itemtype="http://schema.org/Article"
+  >
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-05-01T02:28:39+08:00" content="2022-05-01"
+        >
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+          18-08-2019
+        {/* </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://vincentqin.tech/posts/slam-common-issues-ICP/" //itemprop="url"
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> */}
+                📝Note: SLAM FAQ (IV): Solve ICP and use SVD decomposition to get the rotation matrix
+            {/* </font></font> */}
+            </span>
+          </a>
+      </div>
+
+      
+    </header>
+  </article>
+
+</div>
+
+
+<div id="Andrew_Tulloch">
+<h1>
+<a href="https://tullo.ch/" className="site-title">Andrew Tulloch &#39;s New blog</a>
+</h1>
+<h1>
+<a href="https://ajtulloch.github.io/" className="site-title">Andrew Tulloch &#39;s Old blog</a>
+</h1>
+
+        {/* <h1 className="vcard-names1 ">
+
+                        <span className="p-name vcard-fullname d-block overflow-hidden" 
+                        // itemprop="name"
+                        >
+                          Vincent_Qin &#39;s blog
+                        </span>
+                        <span className="p-nickname vcard-username d-block" 
+                        //itemprop="additionalName"
+                        >
+                        
+
+                        </span>
+                        </h1> */}
+
+<article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+      3-10-2021
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://tullo.ch/articles/pytorch-gpu-inference-performance/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  Improving PyTorch inference performance on GPUs with a few simple tricks
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article>
+
+<article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+        13-05-2014
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://tullo.ch/articles/lasso-estimator/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  The LASSO Estimator
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article>
+ 
+    
+
+</div>
+
+<div id="m-clark">
+<h1>
+<a href="https://m-clark.github.io/about.html" className="site-title">Michael Clarke &#39;s blog</a>
+</h1>
+
+
+        {/* <h1 className="vcard-names1 ">
+
+                        <span className="p-name vcard-fullname d-block overflow-hidden" 
+                        // itemprop="name"
+                        >
+                          Vincent_Qin &#39;s blog
+                        </span>
+                        <span className="p-nickname vcard-username d-block" 
+                        //itemprop="additionalName"
+                        >
+                        
+
+                        </span>
+                        </h1> */}
+<p>From t-tests to deep learning, I&#39;ve covered a lot of ground in modeling, visualizing, and understanding data. I can provide inference for models on millions of observations, classify biomedical images to determine pathology, and scrape the web to explore political sentiment. What &#39;s more, I can help others understand the results and take appropriate action regarding them.</p>
+<article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+      10-10-2022
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://m-clark.github.io/posts/2022-09-deep-linear-models/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  Deep Linear Models
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article>
+
+<article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+        13-11-2021
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://m-clark.github.io/posts/2021-10-30-double-descent/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  Double Descent
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article>
+ 
+    
+
+</div>
+
+<div id="Hugo-Bowne-Anderson">
+
+  <a href="https://hugobowne.github.io/#writing" className="vcard-names1">
+    <h1>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        Hugo-Bowne-Anderson
+      </span>
+      <span className="p-nickname vcard-username d-block">
+        data scientist - educator - writer - podcaster
+      </span>
+    </h1>
+  </a>
+
+
+
+
+<div className="row">
+    <div className="col-sm-4">
+        <img 
+            src="https://hugobowne.github.io/img/hba-fb-live.jpeg" 
+            alt="HBA FB Live" 
+            className="img-responsive img-rounded center-block"
+        />
+    </div>
+    <div className="col-sm-8">
+        <h3>other initiatives</h3>
+        <p>
+            I'm interested in exploring other ways to teach and discuss data science, machine learning, and AI. To this end, I piloted a series of 
+            <u>Facebook Live coding sessions</u> at DataCamp, which saw up to 40K unique viewers. Two of my favourites are 
+            <a 
+                href="https://www.datacamp.com/community/tutorials/tidyverse-tutorial-r" 
+                className="link-primary"
+            >
+                Getting Started with the Tidyverse
+            </a> through the Titanic data set and 
+            <a 
+                href="https://www.datacamp.com/community/tutorials/web-scraping-python-nlp" 
+                className="link-primary"
+            >
+                Web Scraping &amp; NLP in Python
+            </a>,  in which I scrape novels from the web and plot word frequency distributions.
+        </p>
+        <p>
+            I enjoy <u>writing tutorials</u>. You can find a bunch I've written on 
+            <a 
+                href="https://www.datacamp.com/community/tutorials" 
+                className="link-primary"
+            >
+                DataCamp's community page
+            </a> by searching for my name. Here are a few to get started with:
+        </p>
+        <p>
+            <a 
+                className="btn btn-primary" 
+                href="https://www.datacamp.com/community/tutorials/pandas-split-apply-combine-groupby"
+            >
+                Groupby, split-apply-combine and pandas 
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
+            <a 
+                className="btn btn-primary" 
+                href="https://www.datacamp.com/community/tutorials/pandas-multi-index"
+            >
+                Hierarchical indices, groupby and pandas 
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
+            <a 
+                className="btn btn-primary" 
+                href="https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn"
+            >
+                Preprocessing in Data Science (Part 1)
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
+            <a 
+                className="btn btn-primary" 
+                href="https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression"
+            >
+                Preprocessing in Data Science (Part 2)
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
+            <a 
+                className="btn btn-primary" 
+                href="https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-3-scaling-synthesized-data"
+            >
+                Preprocessing in Data Science (Part 3)
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
+        </p>
+        <p>
+            I'm constantly thinking about <u>how data science notebook technologies can be used to design productive educational environments</u>. You can check out Eric Ma's and my interactive Jupyter notebooks for our Bayesian data science workshops 
+            <a 
+                href="https://gke.mybinder.org/v2/gh/ericmjl/bayesian-stats-modelling-tutorial/master" 
+                className="link-primary"
+            >
+                here on Binder
+            </a> (more context in the GitHub repo 
+            <a 
+                href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial" 
+                className="link-primary"
+                style={{ fontSize: '2.5rem', fontWeight: 'bold' }}
+            >
+                here
+            </a>). I also built a DataCamp project that leverages the capabilities of Jupyter notebooks to create a novel educational experience: it's called 
+            <a 
+                href="https://www.datacamp.com/projects/38" 
+                className="link-primary"
+            >
+                "Word Frequency in Moby Dick"
+            </a> and in it, you'll get to scrape the novel Moby Dick from the website Project Gutenberg (which contains a large corpus of books), extract words from it, and dive into analyzing the distribution of words using the Natural Language Toolkit (nltk).
+        </p>
+        <p>
+            I've given a lot of <u>webinars for business leaders, managers, and learning and development leaders across several verticals</u>. Highlights include:
+            <a 
+                href="https://support.datacamp.com/hc/en-us/articles/360008278474-August-2018-Webinar-What-Managers-Need-To-Know-About-Machine-Learning" 
+                className="link-primary"
+            >
+                What Managers Need To Know About Machine Learning
+            </a>, 
+            <a 
+                href="https://support.datacamp.com/hc/en-us/articles/360006341254-June-2018-Webinar-Inside-the-Data-Science-Workflow" 
+                className="link-primary"
+            >
+                Inside the Data Science Workflow
+            </a> and 
+            <a 
+                href="https://support.datacamp.com/hc/en-us/articles/360013643274-Dec-2018-Webinar-Data-Literacy-in-the-21st-Century" 
+                className="link-primary"
+            >
+                Data Literacy in the 21st Century
+            </a>.
+        </p>
+    </div>
+</div>
+
+
+
+</div>
+
+<div id="@sanjeevs_iitr">
+<a href="https://sanjeevsharma.ai/" className="vcard-names1">
+    <h1>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        Sanjeev Sharma </span>
+      <span className="p-nickname vcard-username d-block">
+       I'm an Entreprenuer| Researcher
+      </span>
+    </h1>
+    <h3>
+    As the founder of Swaayatt Robots and Deep Eigen, I focus on developing cutting-edge algorithms for autonomous vehicles, enabling them to navigate highly complex and unpredictable environments.
+    </h3>
+  </a>
+
+
+<div id="row">
+<TwitterTweetEmbed tweetId="1827230702095495328"  />
+  
+</div>
+    
+
+</div>
+
+<div id="@KanakaRajanPhD">
+<a href="https://www.rajanlab.com/resources" className="vcard-names1">
+    <h1>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kanaka Rajan </span>
+      <span className="p-nickname vcard-username d-block">
+       I'm an Entreprenuer| Researcher
+      </span>
+    </h1>
+    <h3>
+   
+    </h3>
+  </a>
+  <p>Both lectures are available on the COSYNE YouTube channel (see lecture title links) under a Creative Commons license. To request access to the lecture slides, please email: <a href="mailto:kanaka_rajan@hms.harvard.edu">kanaka_rajan@hms.harvard.edu</a> &amp; <a href="mailto:kanaka-admin@stellatecomms.com">kanaka-admin@stellatecomms.com</a></p>
+  <p className="text-size-regular">If you &#39;d like to deepen your understanding of recurrent neural networks, I encourage you to <a href="https://drive.google.com/file/d/15xhRdgyyLB2YQNDvWybtAW0-Gazyg3v0/view" target="_blank"   className="link-primary"
+                style={{ fontSize: '2.5rem', fontWeight: 'bold' }}>complete a problem set</a> created in collaboration with the COSYNE Tutorial TAs. The problem set has detailed instructions and questions to work through. Problems 1 and 2 are intermediate and should be done after watching Lecture 1; Problem 3 is advanced and should be done after watching Lecture 2. Solutions are available in Julia, MATLAB, and Python.</p>
+<div id="row">
+<TwitterTweetEmbed tweetId="1846965942422507703"  />
+   
+</div>
+    
+</div>
+
+
+
+
+        </div> {/* Closing for className="App-header_replica"*/}
+        
+
+
 <TwitterTweetEmbed tweetId="1855509794993692780"  />
-      </header>
+      
     </div>
   );
 }
