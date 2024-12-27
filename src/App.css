@@ -329,3 +329,13 @@ p.Felix-Altenberger {
 .vcard-names1 {
   margin-top: 0; /* Removes the top margin */
 }
+.Andrew-Tulloch-H3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+}

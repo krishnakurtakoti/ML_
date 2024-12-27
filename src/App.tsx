@@ -46,7 +46,7 @@ export function MyTwitterEmbed({ name }: MyTwitterWidgetProps) {
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
@@ -59,7 +59,7 @@ function App() {
         >
           Learn React
         </a>
-        </header>
+        </header> */}
         <div className="App-header_replica">
 
         <h3>In this article</h3>
@@ -85,6 +85,12 @@ function App() {
 // itemprop="headline"
 > <span className="post-date">October 22, 2018 </span> <a href="https://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.html" rel="permalink">How to reproduce ImageNet validation results</a>
 </h3>
+<li>
+                  <span className="post-date">October 22, 2018 </span>
+
+                    <a className="post-link" href="#Caleb-Robinson-imagenet_validation">GitHub: How to reproduce ImageNet validation results</a>
+                </li>
+
 
         </li>
 
@@ -499,8 +505,24 @@ function App() {
             </a>
             <abbr className="published small" title="2019-05-16T22:11:22-0500">( 13/05/2014)</abbr>
             </li>
+            <li>
 
-           
+<a className="post-title-link" href="#Andrew_Tulloch_Cambridge_Part_III" 
+// itemprop="url"
+
+>
+  <span 
+  // itemprop="name"
+  >
+    {/* <font style="vertical-align: inherit;">
+      <font style="vertical-align: inherit;"> */}
+       Cambridge Part III Mathematics Notes
+        {/* </font></font> */}
+        </span>
+</a>
+<abbr className="published small" title="2019-05-16T22:11:22-0500">( 27/10/2014)</abbr>
+</li>
+            
         </li>
 
         <li>
@@ -593,6 +615,12 @@ function App() {
 
                       <a className="post-link" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">How to do Bayesian statistical modelling using numpy and PyMC3.</a>
                   </li>
+                  <li>
+                    <span className="post-date">2020, Apr 14 </span>
+
+                      <a className="post-link" href="#bayesian-stats-modelling-tutorial">GitHUb Repository: How to do Bayesian statistical modelling using numpy and PyMC3.</a>
+                  </li>
+                  
                   {/* <li>
                     <span className="post-date">Oct 19, 2016 </span>
 
@@ -642,7 +670,7 @@ function App() {
                   </li> */}
         </li>
         <li>
-        <a href="@KanakaRajanPhD" className="vcard-names1">
+        <a href="#@KanakaRajanPhD" className="vcard-names1" style={{ textDecoration: 'underline' }}>
           <h1>
             <span className="p-name vcard-fullname d-block overflow-hidden">
             Kanaka Rajan </span>
@@ -818,6 +846,102 @@ function App() {
 // itemprop="description"
 ></p>
 {/* <!-- --> */}</article></div>
+
+
+
+<div id="Caleb-Robinson-imagenet_validation">
+
+</div>
+<div className="a row pr-2" style={{ padding: '.75em 1em' }}>
+    <div className="col-sm-12">
+        <div className="col-sm-12 col-lg-4 mt-6">
+            <div className="rob-conery-card card shadow h-100" style={{ border: '2px solid black', boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)' 
+             // Add shadow here 
+             }}>
+                <div className="Box d-flex p-3 width-full public source">
+                    <div className="pinned-item-list-item-content">
+                        <div className="d-flex width-full position-relative">
+                            <div className="flex-1">
+                                <svg
+                                    aria-hidden="true"
+                                    height="16"
+                                    viewBox="0 0 16 16"
+                                    version="1.1"
+                                    width="16"
+                                    data-view-component="true"
+                                    className="octicon octicon-repo mr-1 color-fg-muted"
+                                >
+                                    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+                                </svg>
+                                <span data-view-component="true" className="position-relative">
+                                    <a
+                                        href="https://github.com/calebrob6/imagenet_validation"
+                                        className="Link mr-1 text-bold wb-break-word"
+                                        aria-labelledby="tooltip-6baf9a22-427b-4407-9260-e2fbc25d7c37"
+                                        style={{ textDecoration: 'underline' }} // Example of underlined link
+                                    >
+                                        <span className="repo">imagenet_validation </span>
+                                    </a>
+                                    <span></span>
+                                    <span className="Label Label--attention v-align-middle mt-1 no-wrap v-align-baseline Label--inline">
+                                        Public 
+                                    </span>
+                                </span>
+
+                                <p className="pinned-item-desc color-fg-muted text-small mt-2 mb-0">
+                                How to reproduce ImageNet validation results
+                                </p>
+
+                                <p className="mb-0 mt-2 f6 color-fg-muted">
+                                    <a href="https://github.com/calebrob6/imagenet_validation" className="pinned-item-meta Link--muted">
+                                        <svg
+                                            aria-label="stars"
+                                            role="img"
+                                            height="16"
+                                            viewBox="0 0 16 16"
+                                            version="1.1"
+                                            width="16"
+                                            data-view-component="true"
+                                            className="octicon octicon-star"
+                                        >
+                                            <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+                                        </svg>
+                                        34
+                                    </a>
+                                    <a href="https://github.com/robconery/pg_docs_api/forks" className="pinned-item-meta Link--muted">
+                                        <svg
+                                            aria-label="forks"
+                                            role="img"
+                                            height="16"
+                                            viewBox="0 0 16 16"
+                                            version="1.1"
+                                            width="16"
+                                            data-view-component="true"
+                                            className="octicon octicon-repo-forked"
+                                        >
+                                            <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                        </svg>
+                                        9
+                                    </a>
+                                </p>
+
+                                <p dir="auto">Jupyter Notebook</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p dir="auto">This code in this repository can be used to reproduce the <a href="https://keras.io/applications/index.html#documentation-for-individual-models" rel="nofollow">ImageNet validation results for Keras pretrained models</a>. A blog post describing this process in more detail is <a href="http://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.html" rel="nofollow">here</a>.</p>
+<h3>Code</h3>
+<ul>
+  <li>
+    <a href="https://github.com/calebrob6/imagenet_validation/blob/master/1.%20Preprocess%20ImageNet%20validation%20set.ipynb">1. Preprocess ImageNet validation set</a> - converts the raw ILSVRC2012 validation images/labels into NumPy arrays (<code className="language-plaintext highlighter-rouge">.npy</code> files) that can be used “as is” with pre-trained Keras models</li>
+    <li><a href="https://github.com/calebrob6/imagenet_validation/blob/master/2.%20Benchmark%20Keras%20pretrained%20models%20on%20ImageNet.ipynb">2. Benchmark Keras pretrained models on ImageNet.ipynb</a> - uses the preprocessed data and the VGG19 pre-trained network to reproduce the Top-1 and Top-5 accuracy reported in the Keras documentation.
+</li>
+</ul>
 
 
         <h1 className="post-title-dr-pasquale-minervini" id="dr-pasquale-minervini">
@@ -3523,7 +3647,108 @@ with weights calculated as the softmax over negative distances:</p>
     </header>
   </article>
  
-    
+  <article 
+// itemscope="" itemtype="http://schema.org/Article"
+>
+    <header className="post-header">
+      <div className="post-meta-container">
+        <time 
+        // itemprop="dateCreated" datetime="2022-11-05T21:01:43+08:00" content="2022-11-05"
+        >
+        27-10-2014
+          {/* <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+          
+        </font></font> */}
+        </time>
+      </div>
+
+      <div className="post-title">
+          <a className="post-title-link" href="https://tullo.ch/articles/cambridge-mathematics-notes/" 
+          // itemprop="url"
+          
+          >
+            <span 
+            // itemprop="name"
+            >
+              {/* <font style="vertical-align: inherit;">
+                <font style="vertical-align: inherit;"> */}
+                  Cambridge Part III Mathematics Notes
+                  {/* </font></font> */}
+                  </span>
+          </a>
+      </div>
+
+     
+      
+    </header>
+  </article> 
+
+  <div id="Andrew_Tulloch_Cambridge_Part_III">
+      <div className="the-content">
+        <section className="intro-content">
+            <p>I've cleaned up (somewhat) my notes from Cambridge Part III and have put them online - with LaTeX sources available on 
+            <a href="https://github.com/ajtulloch/CambridgeMathematicsPartIII">GitHub</a> and PDFs linked below.</p>
+
+            <h3 id="advanced-financial-models" className="Andrew-Tulloch-H3">Advanced Financial Models</h3>
+            <ul>
+                <li><a href="/static/cambridge/AdvancedFinancialModels-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/AdvancedFinancialModels-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="advanced-probability" className="Andrew-Tulloch-H3">Advanced Probability</h3>
+            <ul>
+                <li><a href="/static/cambridge/AdvancedProbability-LectureNotes.pdf">Lecture Notes</a></li>
+            </ul>
+
+            <h3 id="applied-bayesian-statistics" className="Andrew-Tulloch-H3">Applied Bayesian Statistics</h3>
+            <ul>
+                <li><a href="/static/cambridge/AppliedBayesianStatistics-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="convex-optimization" className="Andrew-Tulloch-H3">Convex Optimization</h3>
+            <ul>
+                <li><a href="/static/cambridge/ConvexOptimization-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/ConvexOptimization-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="mathematics-of-operations-research" className="Andrew-Tulloch-H3">Mathematics Of Operations Research</h3>
+            <ul>
+                <li><a href="/static/cambridge/MathematicsOfOperationsResearch-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/MathematicsOfOperationsResearch-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="non-parametric-statistics" className="Andrew-Tulloch-H3">Non-Parametric Statistics</h3>
+            <ul>
+                <li><a href="/static/cambridge/NonParametricStatistics-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/NonParametricStatistics-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="percolation" className="Andrew-Tulloch-H3">Percolation</h3>
+            <ul>
+                <li><a href="/static/cambridge/Percolation-LectureNotes.pdf">Lecture Notes</a></li>
+            </ul>
+
+            <h3 id="ramsay-theory" className="Andrew-Tulloch-H3">Ramsay Theory</h3>
+            <ul>
+                <li><a href="/static/cambridge/RamsayTheory-LectureNotes.pdf">Lecture Notes</a></li>
+            </ul>
+
+            <h3 id="statistical-theory" className="Andrew-Tulloch-H3">Statistical Theory</h3>
+            <ul>
+                <li><a href="/static/cambridge/StatisticalTheory-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/StatisticalTheory-Summary.pdf">Summary</a></li>
+            </ul>
+
+            <h3 id="time-series-and-monte-carlo-analysis" className="Andrew-Tulloch-H3">Time Series and Monte Carlo Analysis</h3>
+            <ul>
+                <li><a href="/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf">Lecture Notes</a></li>
+                <li><a href="/static/cambridge/TimeSeriesMonteCarlo-Summary.pdf">Summary</a></li>
+            </ul>
+        </section>
+    </div>
+</div>
+
+
 
 </div>
 
@@ -3760,6 +3985,103 @@ with weights calculated as the softmax over negative distances:</p>
 
 
 
+
+
+<div id="robconery_github_repo">
+
+
+
+</div>
+
+
+<div id="bayesian-stats-modelling-tutorial">
+
+</div>
+<div className="a row pr-2" style={{ padding: '.75em 1em' }}>
+    <div className="col-sm-12">
+        <div className="col-sm-12 col-lg-4 mt-6">
+            <div className="rob-conery-card card shadow h-100" style={{ border: '2px solid black', boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)' 
+             // Add shadow here 
+             }}>
+                <div className="Box d-flex p-3 width-full public source">
+                    <div className="pinned-item-list-item-content">
+                        <div className="d-flex width-full position-relative">
+                            <div className="flex-1">
+                                <svg
+                                    aria-hidden="true"
+                                    height="16"
+                                    viewBox="0 0 16 16"
+                                    version="1.1"
+                                    width="16"
+                                    data-view-component="true"
+                                    className="octicon octicon-repo mr-1 color-fg-muted"
+                                >
+                                    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+                                </svg>
+                                <span data-view-component="true" className="position-relative">
+                                    <a
+                                        href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial"
+                                        className="Link mr-1 text-bold wb-break-word"
+                                        aria-labelledby="tooltip-6baf9a22-427b-4407-9260-e2fbc25d7c37"
+                                        style={{ textDecoration: 'underline' }} // Example of underlined link
+                                    >
+                                        <span className="repo">bayesian-stats-modelling-tutorial</span>
+                                    </a>
+                                    <span></span>
+                                    <span className="Label Label--attention v-align-middle mt-1 no-wrap v-align-baseline Label--inline">
+                                        Public 
+                                    </span>
+                                </span>
+
+                                <p className="pinned-item-desc color-fg-muted text-small mt-2 mb-0">
+                                How to do Bayesian statistical modelling using numpy and PyMC3
+                                </p>
+
+                                <p className="mb-0 mt-2 f6 color-fg-muted">
+                                    <a href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial" className="pinned-item-meta Link--muted">
+                                        <svg
+                                            aria-label="stars"
+                                            role="img"
+                                            height="16"
+                                            viewBox="0 0 16 16"
+                                            version="1.1"
+                                            width="16"
+                                            data-view-component="true"
+                                            className="octicon octicon-star"
+                                        >
+                                            <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+                                        </svg>
+                                        659
+                                    </a>
+                                    <a href="https://github.com/robconery/pg_docs_api/forks" className="pinned-item-meta Link--muted">
+                                        <svg
+                                            aria-label="forks"
+                                            role="img"
+                                            height="16"
+                                            viewBox="0 0 16 16"
+                                            version="1.1"
+                                            width="16"
+                                            data-view-component="true"
+                                            className="octicon octicon-repo-forked"
+                                        >
+                                            <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+                                        </svg>
+                                        279
+                                    </a>
+                                </p>
+
+                                <p dir="auto">Jupyter Notebook</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 </div>
 
 <div id="@sanjeevs_iitr">
@@ -3798,9 +4120,104 @@ with weights calculated as the softmax over negative distances:</p>
    
     </h3>
   </a>
+ 
   <p>Both lectures are available on the COSYNE YouTube channel (see lecture title links) under a Creative Commons license. To request access to the lecture slides, please email: <a href="mailto:kanaka_rajan@hms.harvard.edu">kanaka_rajan@hms.harvard.edu</a> &amp; <a href="mailto:kanaka-admin@stellatecomms.com">kanaka-admin@stellatecomms.com</a></p>
+{/* <ul role="list">
+  <li>
+  <a href="https://colab.research.google.com/drive/1JUqsVxFhPYy6XsqHOvD0JzbXyIyOsxXN?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Julia</a> solution script</li>
+  <li><a href="https://drive.google.com/drive/folders/1inwMSHnld_50oAx0ohdnepIHqCM5NorL?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>MATLAB solution scripts</a>
+    <ul role="list">
+      <li><a href="https://drive.google.com/file/d/1eXF8Xgv6DJsZuJd1oMdq6rNZi6b-FZO0/view?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Problem 3: train RNN (generate data)</a>
+      </li>
+    </ul>
+  </li>
+    <li>Python:
+      <ul role="list">
+            <li><a href="https://colab.research.google.com/drive/1mhhGJ0QlwwyCj7me891tqN06QrAWxHni?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Problem 1</a></li>
+          <li><a href="https://colab.research.google.com/drive/1KK-6DhjIfPy87VaMcfeETy9USwRhfhvY?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Problem 2</a></li>
+          <li><a href="https://colab.research.google.com/drive/1OyW3xiW3BbvY2JsTBauj2_Cb2fIClchU?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Problem 3</a> and <a href="https://drive.google.com/file/d/13kMPt-ayxRrJGhfdGHgLNvltdLAV6nzK/view?usp=sharing" target="_blank"  style={{textDecoration: 'underline' }}>Problem 3 data.mat</a>
+        </li>
+      </ul>
+    </li>
+</ul> */}
+<div className="rob-conery-card card shadow h-100" 
+     style={{
+        border: '2px solid black',  // Black border for the card
+        boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)',  // Shadow effect
+        padding: '1em',  // Padding inside the card for spacing
+        borderRadius: '8px',  // Optional: Rounded corners for a smoother look
+        backgroundColor: '#fff'  // White background for the card
+    }}>
+
   <p className="text-size-regular">If you &#39;d like to deepen your understanding of recurrent neural networks, I encourage you to <a href="https://drive.google.com/file/d/15xhRdgyyLB2YQNDvWybtAW0-Gazyg3v0/view" target="_blank"   className="link-primary"
                 style={{ fontSize: '2.5rem', fontWeight: 'bold' }}>complete a problem set</a> created in collaboration with the COSYNE Tutorial TAs. The problem set has detailed instructions and questions to work through. Problems 1 and 2 are intermediate and should be done after watching Lecture 1; Problem 3 is advanced and should be done after watching Lecture 2. Solutions are available in Julia, MATLAB, and Python.</p>
+  <h3>Solution Scripts</h3>
+  <ul role="list" style={{ listStyleType: 'none', paddingLeft: '0' }}>
+    <li>
+      <a 
+        href="https://colab.research.google.com/drive/1JUqsVxFhPYy6XsqHOvD0JzbXyIyOsxXN?usp=sharing" 
+        target="_blank"  
+        style={{ textDecoration: 'underline' }}>
+        Julia solution script
+      </a>
+    </li>
+    <li>
+      <a 
+        href="https://drive.google.com/drive/folders/1inwMSHnld_50oAx0ohdnepIHqCM5NorL?usp=sharing" 
+        target="_blank"  
+        style={{ textDecoration: 'underline' }}>
+        MATLAB solution scripts
+      </a>
+      <ul role="list" style={{ listStyleType: 'none', paddingLeft: '20px' }}>
+        <li>
+          <a 
+            href="https://drive.google.com/file/d/1eXF8Xgv6DJsZuJd1oMdq6rNZi6b-FZO0/view?usp=sharing" 
+            target="_blank"  
+            style={{ textDecoration: 'underline' }}>
+            Problem 3: train RNN (generate data)
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Python:
+      <ul role="list" style={{ listStyleType: 'none', paddingLeft: '20px' }}>
+        <li>
+          <a 
+            href="https://colab.research.google.com/drive/1mhhGJ0QlwwyCj7me891tqN06QrAWxHni?usp=sharing" 
+            target="_blank"  
+            style={{ textDecoration: 'underline' }}>
+            Problem 1
+          </a>
+        </li>
+        <li>
+          <a 
+            href="https://colab.research.google.com/drive/1KK-6DhjIfPy87VaMcfeETy9USwRhfhvY?usp=sharing" 
+            target="_blank"  
+            style={{ textDecoration: 'underline' }}>
+            Problem 2
+          </a>
+        </li>
+        <li>
+          <a 
+            href="https://colab.research.google.com/drive/1OyW3xiW3BbvY2JsTBauj2_Cb2fIClchU?usp=sharing" 
+            target="_blank"  
+            style={{ textDecoration: 'underline' }}>
+            Problem 3
+          </a> 
+          and 
+          <a 
+            href="https://drive.google.com/file/d/13kMPt-ayxRrJGhfdGHgLNvltdLAV6nzK/view?usp=sharing" 
+            target="_blank"  
+            style={{ textDecoration: 'underline' }}>
+            Problem 3 data.mat
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
 <div id="row">
 <TwitterTweetEmbed tweetId="1846965942422507703"  />
    
