@@ -670,6 +670,56 @@ function App() {
                   </li> */}
         </li>
         <li>
+          <a href="#@gdb" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Greg Brockman </span>
+            <span className="p-nickname vcard-username d-block">
+            President & Co-Founder @OpenAI
+            </span>
+          </h1>
+        </a>
+
+        <li>
+                    <span className="post-date">2019, Jul 30 </span>
+
+                      <a className="post-link" href="https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner">How I became a machine learning practitioner</a>
+                  </li>
+                  <li>
+                    <span className="post-date">2025, Jan 01 </span>
+
+                      <a className="post-link" href="https://x.com/goyal__pramod/status/1874379586714341803">If you are starting ML in 2025, read this blog by 
+@gdb. I believe it will help you out.</a> Link: TwitterID: goyal__pramod
+                  </li>
+                  
+
+        </li>
+        <li>
+            <a href="#@GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Grant Slatton </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at http://rowzero.com</h3>
+          </a>
+
+
+          <p><a href="https://grantslatton.com/binary-iq" className="grantslatton-a">Binary IQ</a> — A model of LLM capability</p>
+
+<p><a href="https://grantslatton.com/rowzero-property-testing" className="grantslatton-a">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p>
+
+
+<p><a href="https://grantslatton.com/software-pathfinding" className="grantslatton-a">Algorithms we develop software by</a> — Pathfinding applied to the software solution domain</p>
+<p><a href="https://grantslatton.com/filesystems" className="grantslatton-a">Building Filesystems</a> — High level ideas in filesystem design</p>
+
+
+
+
+        </li>
+        <li>
         <a href="#@KanakaRajanPhD" className="vcard-names1" style={{ textDecoration: 'underline' }}>
           <h1>
             <span className="p-name vcard-fullname d-block overflow-hidden">
@@ -684,7 +734,7 @@ function App() {
         </a>
 
 
-          
+       
         <li>
                     <span className="post-date">2024, Oct 17 </span>
 
@@ -4438,13 +4488,27 @@ with weights calculated as the softmax over negative distances:</p>
       </ul>
     </li>
   </ul>
+
+
+
 </div>
 
-
+<div id="row">
+<TwitterTweetEmbed tweetId="1846965942422507703"  />
+   
+</div>
 
 <div id="@j0hnparkhill">
 
-
+<a href="#@j0hnparkhill" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            John Parkhill </span>
+            <span className="p-nickname vcard-username d-block">
+            ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
+            </span>
+          </h1>
+        </a>
 
 <h3>
   <a href="https://x.com/memming/following" target="_blank" rel="noopener noreferrer">
@@ -4906,10 +4970,133 @@ with weights calculated as the softmax over negative distances:</p>
 </ul>
 
 </div>
-<div id="row">
-<TwitterTweetEmbed tweetId="1846965942422507703"  />
+
+
+<div id="@gdb">
+<a href="https://x.com/gdb" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Greg Brockman </span>
+            <span className="p-nickname vcard-username d-block">
+            President & Co-Founder @OpenAI
+            </span>
+          </h1>
+        </a>
+
+
+
+        <a href="https://gregbrockman.com/" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Greg Brockman's Blog </span>
+            {/* <span className="p-nickname vcard-username d-block">
+            President & Co-Founder @OpenAI
+            </span> */}
+          </h1>
+        </a>
+
+
+        <article id="u5TReR2cWsQifoMYSHMtAg" className="post user_show">
+    <time 
+    // datetime="2019-07-30" 
+    className="article_time">Jul 30, 2019</time>
+    <h1 className="article_title"><a href="https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner">How I became a machine learning practitioner</a></h1>
+    <a href="https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner" className="content">
+    <p>For the first three years of OpenAI, I dreamed of becoming a machine learning expert but made little progress towards that goal. Over the past nine months, I&#39;ve finally made the transition to being a machine learning practitioner. It was hard but not impossible, and I think most people who are good programmers and know (or are willing to learn) the math can do it too. There are many online courses to self-study the technical side, and what turned out to be my biggest blocker was a mental barrier — getting ok with being a beginner again.</p>
+<p className="bleed_image">
+  <img src="https://svbtleusercontent.com/dvwQxNxkr6FKLVsDTBoqwm0xspap_small.png" alt="gdb-ml1.png" className="bleed" data-rjs="https://svbtleusercontent.com/dvwQxNxkr6FKLVsDTBoqwm0xspap_retina.png"></img></p><p><em>Studying machine learning during the 2018 holiday season.</em></p>
+<h1>Early days 
+</h1>
+<p>A founding principle of OpenAI is that we value research and engineering equally&nbsp;—&nbsp;our goal is to build working systems that solve previously impossible tasks, so we need both. (In fact, our team is comprised of 25% people primarily using software skills, 25% primarily using machine...</p></a>
+    <p className="continue_mark"><a href="https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner" className="buttonize outline small">Continue reading →</a></p>
+  </article>
+
+  <h1 id="early-days_1">Early days <a className="head_anchor" href="#early-days_1">#</a></h1>
+
+  <p>A founding principle of OpenAI is that we value research and engineering equally&nbsp;—&nbsp;our goal is to build working systems that solve previously impossible tasks, so we need both. (In fact, our team is comprised of 25% people primarily using software skills, 25% primarily using machine learning skills, and 50% doing a hybrid of the two.) So from day one of OpenAI, my software skills were always <a href="https://blog.gregbrockman.com/define-cto-openai#gym_1">in demand</a>, and I kept procrastinating on picking up the machine learning skills I wanted.</p>
+  <p>After helping build <a href="https://openai.com/blog/openai-gym-beta/">OpenAI Gym</a>, I was called to work on <a href="https://openai.com/blog/universe/">Universe</a>. And as Universe was winding down, we decided to start working on <a href="https://openai.com/five/#timeline">Dota</a> — and we needed someone to turn the game into a reinforcement learning environment before any machine learning could begin.</p>
+  <h1 id="dota_1">Dota <a className="head_anchor" href="#dota_1">#</a></h1>
+
+
+
+  <h1 id="time-out_1">Time out <a className="head_anchor" href="#time-out_1">#</a></h1>
+  <p>After we lost two games in The International in 2018, most observers thought we&#39;d <a href="https://twitter.com/polynoamial/status/1032988066967965696">topped out</a> what our approach could do. But we knew from our metrics that we were right on the edge of success and mostly needed more training. This meant the demands on my time had relented, and in November 2018, I felt I had an opening to take a gamble with three months of my time.</p>
+  <p className="gregbrockman-p"><em>I learn best when I have something specific in mind to build.</em> I decided to try building a chatbot. I started self-studying the curriculum we developed for our <a href="https://openai.com/blog/openai-fellows/">Fellows</a> program, selecting only the NLP-relevant modules. For example, I wrote and trained an LSTM language model and then a Transformer-based one. I also read up on topics like <a href="https://colah.github.io/posts/2015-09-Visual-Information/">information theory</a> and read many papers, poring over each line until I fully absorbed it.</p>
+
+  <p><em>I learn best when I have something specific in mind to build.</em> I decided to try building a chatbot. I started self-studying the curriculum we developed for our <a href="https://openai.com/blog/openai-fellows/">Fellows</a> program, selecting only the NLP-relevant modules. For example, I wrote and trained an LSTM language model and then a Transformer-based one. I also read up on topics like <a href="https://colah.github.io/posts/2015-09-Visual-Information/">information theory</a> and read many papers, poring over each line until I fully absorbed it.</p>
+
+  <p className="gregbrockman-p">It was slow going, but this time I expected it. I didn&#39;t experience flow state. I was reminded of how I&#39;d felt when I just started programming, and I kept thinking of how many years it had taken to achieve a feeling of mastery. I honestly wasn&#39;t confident that I would ever become good at machine learning. But I kept pushing because… well, honestly because I didn&#39;t want to be constrained to only understanding one part of my projects. I wanted to see the whole picture clearly.</p>
+
+  <p>It was slow going, but this time I expected it. I didn&#39;t experience flow state. I was reminded of how I&#39;d felt when I just started programming, and I kept thinking of how many years it had taken to achieve a feeling of mastery. I honestly wasn&#39;t confident that I would ever become good at machine learning. But I kept pushing because… well, honestly because I didn&#39;t want to be constrained to only understanding one part of my projects. I wanted to see the whole picture clearly.</p>
+
+
+  <p className="gregbrockman-p">One important conceptual step was overcoming a barrier I&#39;d been too timid to do with Dota: make substantive changes to someone else&#39;s machine learning code. I fine-tuned <a href="https://github.com/openai/finetune-transformer-lm">GPT-1</a> on chat datasets I&#39;d found, and made a small change to add my own naive sampling code. But it became so painfully slow as I tried to generate longer messages that my frustration overwhelmed my fear, and I implemented GPU caching — a change which touched the entire model.</p>
+
+
+  <p>One important conceptual step was overcoming a barrier I&#39;d been too timid to do with Dota: make substantive changes to someone else&#39;s machine learning code. I fine-tuned <a href="https://github.com/openai/finetune-transformer-lm">GPT-1</a> on chat datasets I&#39;d found, and made a small change to add my own naive sampling code. But it became so painfully slow as I tried to generate longer messages that my frustration overwhelmed my fear, and I implemented GPU caching — a change which touched the entire model.</p>
+
+  <p className="gregbrockman-p">I had to try a few times, throwing out my changes as they exceeded the complexity I could hold in my head. By the time I got it working a few days later, I realized I&#39;d learned something that I would have previously thought impossible: I now understood how the whole model was put together, down to small stylistic details like how the codebase elegantly handles TensorFlow variable scopes.</p>
+
+
+  <p>I had to try a few times, throwing out my changes as they exceeded the complexity I could hold in my head. By the time I got it working a few days later, I realized I&#39;d learned something that I would have previously thought impossible: I now understood how the whole model was put together, down to small stylistic details like how the codebase elegantly handles TensorFlow variable scopes.</p>
+
+</div>
+
+
+<div id="goyal__pramod">
+<TwitterTweetEmbed tweetId="1874379586714341803"  />
    
 </div>
+
+<div id="@GrantSlatton">
+{/* <a href="https://x.com/GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Grant Slatton </span>
+              <span className="p-nickname vcard-username d-block">
+                Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at http://rowzero.com
+              </span>
+            </h1>
+          </a> */}
+
+
+          <a href="https://x.com/GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Grant Slatton </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at http://rowzero.com</h3>
+          </a>
+          
+        <a href="https://grantslatton.com/" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Grant Slatton's Blog </span>
+            {/* <span className="p-nickname vcard-username d-block">
+            President & Co-Founder @OpenAI
+            </span> */}
+          </h1>
+        </a>
+
+        <p><a href="https://grantslatton.com/binary-iq" className="grantslatton-a">Binary IQ</a> — A model of LLM capability</p>
+
+<p><a href="https://grantslatton.com/rowzero-property-testing" className="grantslatton-a">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p>
+
+
+<p><a href="https://grantslatton.com/software-pathfinding" className="grantslatton-a">Algorithms we develop software by</a> — Pathfinding applied to the software solution domain</p>
+<p><a href="https://grantslatton.com/filesystems" className="grantslatton-a">Building Filesystems</a> — High level ideas in filesystem design</p>
+
+
+        {/* <p><a href="https://grantslatton.com/binary-iq">Binary IQ</a> — A model of LLM capability</p>
+
+
+
+        <p><a href="https://grantslatton.com/rowzero-property-testing">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p> */}
+</div>
+
     
 </div>
 

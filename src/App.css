@@ -339,3 +339,16 @@ p.Felix-Altenberger {
   font-weight: bold;
   unicode-bidi: isolate;
 }
+.gregbrockman-p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #4D4D4D;
+  font-family: 'proxima-nova', 'Helvetica', 'Avenir', 'Arial', sans-serif;
+  font-weight: 400;
+}
+.grantslatton-a {
+  color: #0D9488;
+  /*  var(--teal); */
+}
