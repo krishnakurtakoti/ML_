@@ -352,3 +352,114 @@ p.Felix-Altenberger {
   color: #0D9488;
   /*  var(--teal); */
 }
+/* Scoped styles for the specific row */
+.row.hugo.bowne-anderson-SelectedTalks {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+/* Universal box-sizing for all child elements within this specific div */
+.row.hugo.bowne-anderson-SelectedTalks * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* User agent stylesheet, applies to divs inside the specific row */
+.row.hugo.bowne-anderson-SelectedTalks div {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+/* Success section styling (can be applied if needed) */
+.row.hugo.bowne-anderson-SelectedTalks section.success {
+  background: #f8f9fa;
+  color: #000000;
+}
+
+/* Body-like styles scoped to this specific div */
+.row.hugo.bowne-anderson-SelectedTalks body {
+  overflow-x: hidden;
+  color: #000000;
+  background-color: #D5D5D5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+  margin: 0;
+}
+
+/* Body-like styles overriding injected body styles */
+.row.hugo.bowne-anderson-SelectedTalks body {
+  line-height: inherit;
+}
+/* Ensure that the row has no margins or padding */
+.row.hugo.bowne-anderson-SelectedTalks {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/* Make sure the video is responsive and occupies the correct area */
+.row.hugo.bowne-anderson-SelectedTalks .embed-responsive {
+  max-width: 100%; /* Ensure video container is responsive */
+  height: auto;    /* Maintain aspect ratio */
+}
+
+/* Optional: Add some padding to the right for the description for better spacing */
+.row.hugo.bowne-anderson-SelectedTalks .col-sm-8 {
+  padding-left: 20px;  /* Adjust padding as necessary */
+}
+/* Apply wrapper styling */
+.Alex-Nichol-article-wrapper {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px 40px;
+  box-sizing: border-box;
+  background-color: white;
+  box-shadow: 0 0 10px 0 rgb(0, 0, 0, 0.3);
+}
+
+/* Article content styles (text styling for article items) */
+.Alex-Nichol-article {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 40px 0 0 0;
+}
+
+.article-list {
+  list-style: none;
+  padding: 0;
+}
+
+.article-list li {
+  margin-bottom: 20px;
+}
+
+.article-list a {
+  text-decoration: none;
+  color: #0073e6;
+}
+
+.article-list a:hover {
+  text-decoration: underline;
+}
+
+.article-date {
+  font-size: 0.9em;
+  color: #888;
+  margin-left: 10px;
+}
+
+/* Styles for the text/description inside each article */
+.article-text {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 10px 0;
+}

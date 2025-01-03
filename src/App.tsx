@@ -6,6 +6,8 @@ import vxnuaj_DeepLearningDay78_Page_Tweet_Embed from './vxnuaj_DeepLearningDay7
 // import { TwitterTimelineEmbed } from 'react-twitter-embed';
 import { Timeline } from 'react-twitter-widgets';
 import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
+import EmbedComponent from './EmbedComponent';
+import ArticleListAlexNichole from './ArticleListAlexNichole';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -706,15 +708,14 @@ function App() {
             <h3>Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at http://rowzero.com</h3>
           </a>
 
-
           <p><a href="https://grantslatton.com/binary-iq" className="grantslatton-a">Binary IQ</a> — A model of LLM capability</p>
 
 <p><a href="https://grantslatton.com/rowzero-property-testing" className="grantslatton-a">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p>
 
-
+<p><a href="https://grantslatton.com/rust-macros" className="grantslatton-a">Rust Macros: Zero to Hero</a> — A comprehensive guide on Rust macros</p>
 <p><a href="https://grantslatton.com/software-pathfinding" className="grantslatton-a">Algorithms we develop software by</a> — Pathfinding applied to the software solution domain</p>
 <p><a href="https://grantslatton.com/filesystems" className="grantslatton-a">Building Filesystems</a> — High level ideas in filesystem design</p>
-
+<p><a href="https://grantslatton.com/quasirandom" className="grantslatton-a">Quasirandom sequences</a> — Cool method to generate non-clumping random points</p>
 
 
 
@@ -974,6 +975,173 @@ function App() {
 </ul>
 
 </li>
+<li>
+<a href="#@jfrankle.com" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Jonathan Frankle </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>Chief AI Scientist at Databricks. Founding team at MosaicML. MIT/Princeton alum. Lottery ticket enthusiast. Working on data intelligence.</h3>
+          </a>
+          <li style={{ marginBottom: '8px' }}>
+    <span className="post-meta">Nov 26, 2024</span>
+    <h3 style={{ margin: '4px 0' }}>
+      <a className="post-link" href="https://ofir.io/How-to-Build-Good-Language-Modeling-Benchmarks/">
+      Reposted by Jonathan Frankle: Ofir Press‬ ‪@ofirpress.bsky.social· 
+        I wrote some thoughts on how to build good LM benchmarks: ofir.io/How-to-Build...
+      </a>
+    </h3>
+  </li>
+</li>
+<li>
+
+<a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Alex Nichol </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>AI researcher, hobby web developer, math geek. Constantly learning.</h3>
+          </a>
+<ul className="article-list">
+          <li>
+            <a href="https://blog.aqnichol.com/2024/11/29/honeycrisp-a-deep-learning-framework/">
+              Honeycrisp: An Apple-First Deep Learning Framework
+              <label className="article-date">(11/29/2024)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2024/01/01/vpn-tunneling-to-share-streaming-services/">
+              Sharing Streaming Services Across Households
+              <label className="article-date">(01/01/2024)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2023/05/20/representing-3d-models-as-decision-trees/">
+              Representing 3D Models as Decision Trees
+              <label className="article-date">(05/20/2023)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/">
+              Large-Scale Vehicle Classification
+              <label className="article-date">(12/31/2022)</label>
+            </a>
+          </li>
+          <li>
+            <a href="/2021/04/12/data-and-machines/">
+              Data and Machines
+              <label className="article-date">(04/12/2021)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2020/03/04/vq-draw-a-new-generative-model/">
+              VQ-DRAW: A New Generative Model
+              <label className="article-date">(03/04/2020)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2020/01/18/research-didnt-pan-out/">
+              Research Projects That Didn’t Pan Out
+              <label className="article-date">(01/18/2020)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/">
+              Competing in the Obstacle Tower Challenge
+              <label className="article-date">(07/24/2019)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2019/04/03/prierarchy-implicit-hierarchies/">
+              Prierarchy: Implicit Hierarchies
+              <label className="article-date">(04/03/2019)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2018/12/24/solving-murder-with-go/">
+              Solving murder with Go
+              <label className="article-date">(12/24/2018)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/12/23/what-i-dont-know/">
+              What I Don’t Know
+              <label className="article-date">(12/23/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/10/31/adversarial-traintest-splits/">
+              Adversarial Train/Test Splits
+              <label className="article-date">(10/31/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/08/30/decision-trees-as-rl-policies/">
+              Decision Trees as RL Policies
+              <label className="article-date">(08/30/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/07/04/keeping-tabs-on-all-my-neural-networks/">
+              Keeping Tabs On All My Neural Networks
+              <label className="article-date">(07/04/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/06/11/why-im-remaking-openai-universe/">
+              Why I’m Remaking OpenAI Universe
+              <label className="article-date">(06/11/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/04/15/the-meta-learning-quest-part-1/">
+              The Meta-Learning Quest: Part 1
+              <label className="article-date">(04/15/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/04/05/slice-aliasing/">
+              Slice Aliasing Is Nicer Than You Realize
+              <label className="article-date">(04/05/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/03/08/the-bug-that-wasted-a-month-of-gpu-time/">
+              The Bug That Wasted a Month of GPU Time
+              <label className="article-date">(03/08/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/03/01/random-fun-with-linear-svms/">
+              Random Fun with Linear SVMs
+              <label className="article-date">(03/01/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/02/14/can-neural-networks-learn-to-spell/">
+              Can Neural Networks Learn to Spell?
+              <label className="article-date">(02/14/2017)</label>
+            </a>
+          </li>
+          <li>
+            <a href="https://blog.aqnichol.com/2017/02/12/ancient-philosophy-as-a-classification-problem/">
+              Ancient Philosophy as a Classification Problem
+              <label className="article-date">(02/12/2017)</label>
+            </a>
+          </li>
+        </ul>
+
+</li>
+
+
+
+
         </ul>
 
         <div className="sidebar sticky">
@@ -4256,7 +4424,68 @@ with weights calculated as the softmax over negative distances:</p>
 </div>
 
 
+{/* <div className="row">
+                <div className="col-sm-4">
+                    <div className="embed-responsive embed-responsive-16by9">
+                      <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/0pZc5u3e884"></iframe>
+                    </div>
+                </div>
+                <div className="col-sm-8">
+                    <h3>Bayesian Data Science by Simulation</h3>
+                    <p>PyCon 2019 Tutorial</p>
+                    <p>This tutorial was an Introduction to Bayesian data science through the lens of simulation or hacker statistics. Learners became familiar with many common probability distributions through i) matching them to real-world stories &amp; ii) simulating them. They worked with joint/conditional probabilities, Bayes Theorem, prior/posterior distributions and likelihoods, while seeing their applications in real-world data analyses. They then saw the utility of Bayesian inference in parameter estimation and comparing groups and we wrapped up with a dive into the wonderful world of probabilistic programming using PyMC3.</p>
+                    <a className="btn btn-primary" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">Tutorial material<span className="glyphicon glyphicon-chevron-right">
+                    </span></a>
+                </div>
+            </div> */}
 
+{/* 
+            <div className="row hugo bowne-anderson-SelectedTalks">
+    // <!-- Video on the left, 4 columns wide --> 
+    <div className="col-sm-4">
+        <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/0pZc5u3e884"></iframe>
+        </div>
+    </div>
+    
+    // <!-- Description on the right, 8 columns wide --> 
+    <div className="col-sm-8">
+        <h3>Bayesian Data Science by Simulation</h3>
+        <p>PyCon 2019 Tutorial</p>
+        <p>This tutorial was an Introduction to Bayesian data science through the lens of simulation or hacker statistics. Learners became familiar with many common probability distributions through i) matching them to real-world stories &amp; ii) simulating them. They worked with joint/conditional probabilities, Bayes Theorem, prior/posterior distributions and likelihoods, while seeing their applications in real-world data analyses. They then saw the utility of Bayesian inference in parameter estimation and comparing groups and we wrapped up with a dive into the wonderful world of probabilistic programming using PyMC3.</p>
+        <a className="btn btn-primary" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">Tutorial material<span className="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+</div> 
+*/}
+<h2>Selected Talks</h2>
+<div className="hugo bowne-anderson-SelectedTalks">
+                <div className="col-sm-4">
+                    <div className="embed-responsive embed-responsive-16by9">
+                      <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/89ye2hfsAsk"></iframe>
+                    </div>
+                </div>
+                <div className="col-sm-8">
+                    <h3>Bayesian Data Science Two Ways: Simulation and Probabilistic Programming </h3>
+                    <p>SciPy 2018 Tutorial</p>
+                    <p>This was a tutorial that I co-taught with Eric Ma to build participants&#39; knowledge of Bayesian inference, workflows and decision making under uncertainty. We started with the basics of probability via simulation and analysis of real-world datasets, building up to an understanding of Bayes&#39; theorem. We then introduced the use of probabilistic programming to do statistical modelling. Throughout this tutorial, we used a mixture of instructional time and hands-on time. During instructional time, we used a variety of datasets to anchor our instruction; during hands-on time, which immediately followed instructional time, our participants applied the concepts learned to <a href="https://datadryad.org/resource/doi:10.5061/dryad.g6g3h" style={{color: 'rgb(0, 0, 150)'}}>the Darwin&#39;s finches dataset</a>, which permeated the entire tutorial. </p>
+                    <a className="btn btn-primary" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">Tutorial material<span className="glyphicon glyphicon-chevron-right">
+                    </span></a>
+                </div>
+            </div>
+
+            <div className="hugo bowne-anderson-SelectedTalks">
+    <div className="col-sm-4">
+        <div className="embed-responsive embed-responsive-16by9">
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/0pZc5u3e884"></iframe>
+        </div>
+    </div>
+    <div className="col-sm-8">
+        <h3>Bayesian Data Science by Simulation</h3>
+        <p>PyCon 2019 Tutorial</p>
+        <p>This tutorial was an Introduction to Bayesian data science through the lens of simulation or hacker statistics. Learners became familiar with many common probability distributions through i) matching them to real-world stories &amp; ii) simulating them. They worked with joint/conditional probabilities, Bayes Theorem, prior/posterior distributions and likelihoods, while seeing their applications in real-world data analyses. They then saw the utility of Bayesian inference in parameter estimation and comparing groups and we wrapped up with a dive into the wonderful world of probabilistic programming using PyMC3.</p>
+        <a className="btn btn-primary" href="https://github.com/ericmjl/bayesian-stats-modelling-tutorial">Tutorial material<span className="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+</div>
 
 
 <div id="robconery_github_repo">
@@ -5085,10 +5314,59 @@ with weights calculated as the softmax over negative distances:</p>
 
 <p><a href="https://grantslatton.com/rowzero-property-testing" className="grantslatton-a">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p>
 
-
+<p><a href="https://grantslatton.com/rust-macros" className="grantslatton-a">Rust Macros: Zero to Hero</a> — A comprehensive guide on Rust macros</p>
 <p><a href="https://grantslatton.com/software-pathfinding" className="grantslatton-a">Algorithms we develop software by</a> — Pathfinding applied to the software solution domain</p>
 <p><a href="https://grantslatton.com/filesystems" className="grantslatton-a">Building Filesystems</a> — High level ideas in filesystem design</p>
+<p><a href="https://grantslatton.com/quasirandom" className="grantslatton-a">Quasirandom sequences</a> — Cool method to generate non-clumping random points</p>
 
+ <p><a href="https://grantslatton.com/how-to-software">How to write complex software</a> — A general method</p>
+ <p><a href="https://grantslatton.com/bureaulogy">Bureaulogy</a> — The study of bureaucracy</p>
+ <p><a href="https://grantslatton.com/peasants-plight">A peasant's plight</a> — On the shackling of the peasantry</p>
+ <p><a href="https://grantslatton.com/personal-api">Every Man his own API</a> — A sociotechnological trend</p>
+ <p><a href="https://grantslatton.com/culture-schelling">Culture is a set of social Schelling points</a> — Solving coordination problems in community-building</p>
+ <p><a href="https://grantslatton.com/portals">Portals are Undertheorized</a> — The importance of arrival</p>
+ <p><a href="https://grantslatton.com/binary-iq">Binary IQ</a> — A model of LLM capability</p>
+ <p><a href="https://grantslatton.com/bug-proof-engines">Designing bug-proof engines</a> — A spectrum of engineering philosophies</p>
+ <p><a href="https://grantslatton.com/accidental-urbanism">Accidental Urbanism</a> — How I got into the scene</p>
+ <p><a href="https://grantslatton.com/town-bootstrapping">How to Bootstrap a Town</a> — A modest plan</p>
+ <p><a href="https://grantslatton.com/sports-vs-games">Sports vs Games</a> — An aesthetic distinction</p>
+ <p><a href="https://grantslatton.com/nobody-cares">Nobody Cares</a> — A rant about caring</p>
+ <p><a href="https://grantslatton.com/rowzero-property-testing">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p>
+ <p><a href="https://grantslatton.com/rust-macros">Rust Macros: Zero to Hero</a> — A comprehensive guide on Rust macros</p>
+ <p><a href="https://grantslatton.com/software-pathfinding">Algorithms we develop software by</a> — Pathfinding applied to the software solution domain</p>
+ <p><a href="https://grantslatton.com/status-among-whom">Status among whom?</a> — An essay about status relativism</p>
+ <p><a href="https://grantslatton.com/bjj-ghost-escape">Ghost Side Control Escape System (BJJ)</a> — A video instructional on my preferred side control escape system</p>
+ <p><a href="https://grantslatton.com/filesystems">Building Filesystems</a> — High level ideas in filesystem design</p><p><a href="ai-auditability">AI follows auditability</a> — An essay about the order AI will move through the economy</p>
+ <p><a href="https://grantslatton.com/books">Book List</a> — Stuff I've read</p>
+ <p><a href="https://grantslatton.com/onsen-unreality">Onsen Unreality</a> — Our experience at an onsen 'theme park' in Tokyo</p>
+ <p><a href="https://grantslatton.com/tesla-fsd">Tesla Full Self-Driving</a> — My experience with FSD</p>
+ <p><a href="https://grantslatton.com/internet-fiction">Internet Fiction</a> — Collection of amateur stories — mainly sci-fi — that I like</p>
+ <p><a href="https://grantslatton.com/all-the-way-down">All the way down</a> — Very short story about simulation</p>
+ <p><a href="https://grantslatton.com/story-ideas">Story Ideas</a> — A collection of premises for stories</p>
+ <p><a href="https://grantslatton.com/things-i-wish-i-knew">Things I wish I knew earlier</a> — Collection of stuff I would tell my younger self if I could</p>
+ <p><a href="https://grantslatton.com/road-widths">Road Width Extremism</a> — In favor of narrow roads</p>
+ <p><a href="https://grantslatton.com/small-web">Links to See Also</a> — Other "small web" personal sites I recommend</p>
+ <p><a href="https://grantslatton.com/canvas-simulations">HTML5 Canvas simulations</a> — A collection of little HTML5 canvas demos</p>
+ <p><a href="https://grantslatton.com/twitter">Twitter</a> — Essay about how getting on Twitter unexpectedly added a lot of value to my life</p>
+ <p><a href="https://grantslatton.com/shuttle">Shuttle</a> — A useful concurrency checker library we used to verify our filesystem at AWS</p>
+ <p><a href="https://grantslatton.com/quasirandom">Quasirandom sequences</a> — Cool method to generate non-clumping random points</p>
+ <p><a href="https://grantslatton.com/book-review-the-perfectionists">Book Review: 'The Perfectionists: How Precision Engineers Created the Modern World'</a> — Excellent book about the history of precision machining</p>
+ <p><a href="https://grantslatton.com/markdown-nom-parser">Markdown-ish</a> — Writing a Markdown(ish) parser with the nom library</p>
+    <p><img src="/images/grant_and_sampson.jpg" alt="Grant holding Sampson at sunset overlooking Puget Sound"></img></p>
+
+{/* <body style="">
+    <h1>Howdy</h1>
+    <p>I'm Grant Slatton. I'm a founding engineer at <a href="https://rowzero.io/">Row Zero</a> where we've built the world's fastest spreadsheet.</p>
+    <p>Formerly, I was a senior engineer at <a href="https://en.wikipedia.org/wiki/Amazon_S3">AWS S3</a> where I led the team that built and owned the custom, high-performance storage node at the heart of the world's largest cloud storage service.</p>
+    <p>When I'm not writing code, you can find me woodworking in my garage, training BJJ at the gym, or walking around West Seattle with my wife, Jessica, and our corgi, Sampson.</p>
+    <p>Feel free to contact me at me@grantslatton.com, or <a href="https://twitter.com/grantslatton">on Twitter</a>.</p>
+    <hr>
+    <p>Here are some articles I've written that you might like:</p>
+   
+  <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8fc0b6466999b2ab&quot;,&quot;version&quot;:&quot;2024.10.5&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;44f687eddfe14cd0acf2364d2d86e762&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}}}" crossorigin="anonymous"></script>
+
+
+</body> */}
 
         {/* <p><a href="https://grantslatton.com/binary-iq">Binary IQ</a> — A model of LLM capability</p>
 
@@ -5096,6 +5374,60 @@ with weights calculated as the softmax over negative distances:</p>
 
         <p><a href="https://grantslatton.com/rowzero-property-testing">Lightweight property-based testing at Row Zero</a> — How we verify correctness</p> */}
 </div>
+
+<div id="@unixpickle">
+
+
+
+<a href="https://github.com/unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Alex Nichol </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>AI researcher, hobby web developer, math geek. Constantly learning.</h3>
+          </a>
+
+          <a href="https://blog.aqnichol.com/" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Alex Nichol Blog - Pickled ML</span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+          </a>
+          
+          <article>
+        {/* <h1>Posts</h1> */}
+       <ArticleListAlexNichole />
+    </article>
+</div>
+
+<div id="@jfrankle.com">
+
+
+
+<a href="https://bsky.app/profile/jfrankle.com" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Jonathan Frankle </span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+            <h3>Chief AI Scientist at Databricks. Founding team at MosaicML. MIT/Princeton alum. Lottery ticket enthusiast. Working on data intelligence.</h3>
+          </a>
+
+
+<EmbedComponent />
+{/* <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jt6vfiqztljw7kvv3qekdfer/app.bsky.feed.post/3lbsj6eh63c24" data-bluesky-cid="bafyreict6c5ls3l6pkimwvm4kwyy6suh7acjzmhfkihad6t6dduog2nnte"><p lang="en">I wrote some thoughts on how to build good LM benchmarks: ofir.io/How-to-Build...<br><br><a href="https://bsky.app/profile/did:plc:jt6vfiqztljw7kvv3qekdfer/post/3lbsj6eh63c24?ref_src=embed">[image or embed]</a></p>&mdash; Ofir Press (<a href="https://bsky.app/profile/did:plc:jt6vfiqztljw7kvv3qekdfer?ref_src=embed">@ofirpress.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jt6vfiqztljw7kvv3qekdfer/post/3lbsj6eh63c24?ref_src=embed">November 26, 2024 at 3:24 AM</a>
+</blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+ */}
+</div>
+
 
     
 </div>
