@@ -8,7 +8,6 @@ import { Timeline } from 'react-twitter-widgets';
 import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
 import EmbedComponent from './EmbedComponent';
 import ArticleListAlexNichole from './ArticleListAlexNichole';
-import MathJax from 'react-mathjax';
 import John_Parkhill_MathMLComponent_1 from './John_Parkhill_MathMLComponent_1';
 import { Slerp_for_quaternions_in_TF } from './Slerp_for_quaternions_in_TF';
 import { Slerp_for_quaternions_in_TF_copy } from './Slerp_for_quaternions_in_TF_copy';
