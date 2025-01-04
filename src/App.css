@@ -463,3 +463,37 @@ p.Felix-Altenberger {
   margin: 0;
   padding: 10px 0;
 }
+.custom-blockquote-John-Parkhill-Blog {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+  unicode-bidi: isolate;
+  padding-left: 20px; /* Optional, to provide some indentation */
+  border-left: 4px solid #888; /* Optional, adds a left border */
+  font-style: italic;
+  color: #555;
+  position: relative;
+}
+
+.custom-blockquote-John-Parkhill-Blog::before {
+  content: "John Parkhill's Blog - ";
+  font-weight: bold;
+  position: absolute;
+  top: -10px;  /* Adjust based on where you want it positioned */
+  left: -40px;  /* Adjust to move it left of the blockquote */
+  font-size: 1.2em;  /* You can adjust the font size here */
+  color: #333;
+}
+.-John-Parkhill-Blog {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  font-family: "Arial", sans-serif; /* Optional: customize font-family */
+  color: #333; /* Optional: set text color */
+  line-height: 1.6; /* Optional: adjust line-height */
+}

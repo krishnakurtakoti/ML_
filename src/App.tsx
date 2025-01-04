@@ -8,6 +8,12 @@ import { Timeline } from 'react-twitter-widgets';
 import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
 import EmbedComponent from './EmbedComponent';
 import ArticleListAlexNichole from './ArticleListAlexNichole';
+import MathJax from 'react-mathjax';
+import John_Parkhill_MathMLComponent_1 from './John_Parkhill_MathMLComponent_1';
+import { Slerp_for_quaternions_in_TF } from './Slerp_for_quaternions_in_TF';
+import { Slerp_for_quaternions_in_TF_copy } from './Slerp_for_quaternions_in_TF_copy';
+import { Slerp_for_quaternions_in_TF_copy1 } from './Slerp_for_quaternions_in_TF_copy1';
+
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1009,127 +1015,127 @@ function App() {
             <h3>AI researcher, hobby web developer, math geek. Constantly learning.</h3>
           </a>
 <ul className="article-list">
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2024/11/29/honeycrisp-a-deep-learning-framework/">
               Honeycrisp: An Apple-First Deep Learning Framework
               <label className="article-date">(11/29/2024)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2024/01/01/vpn-tunneling-to-share-streaming-services/">
               Sharing Streaming Services Across Households
               <label className="article-date">(01/01/2024)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2023/05/20/representing-3d-models-as-decision-trees/">
               Representing 3D Models as Decision Trees
               <label className="article-date">(05/20/2023)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/">
               Large-Scale Vehicle Classification
               <label className="article-date">(12/31/2022)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="/2021/04/12/data-and-machines/">
               Data and Machines
               <label className="article-date">(04/12/2021)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2020/03/04/vq-draw-a-new-generative-model/">
               VQ-DRAW: A New Generative Model
               <label className="article-date">(03/04/2020)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2020/01/18/research-didnt-pan-out/">
               Research Projects That Didn’t Pan Out
               <label className="article-date">(01/18/2020)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/">
               Competing in the Obstacle Tower Challenge
               <label className="article-date">(07/24/2019)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2019/04/03/prierarchy-implicit-hierarchies/">
               Prierarchy: Implicit Hierarchies
               <label className="article-date">(04/03/2019)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2018/12/24/solving-murder-with-go/">
               Solving murder with Go
               <label className="article-date">(12/24/2018)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/12/23/what-i-dont-know/">
               What I Don’t Know
               <label className="article-date">(12/23/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/10/31/adversarial-traintest-splits/">
               Adversarial Train/Test Splits
               <label className="article-date">(10/31/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/08/30/decision-trees-as-rl-policies/">
               Decision Trees as RL Policies
               <label className="article-date">(08/30/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/07/04/keeping-tabs-on-all-my-neural-networks/">
               Keeping Tabs On All My Neural Networks
               <label className="article-date">(07/04/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/06/11/why-im-remaking-openai-universe/">
               Why I’m Remaking OpenAI Universe
               <label className="article-date">(06/11/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/04/15/the-meta-learning-quest-part-1/">
               The Meta-Learning Quest: Part 1
               <label className="article-date">(04/15/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/04/05/slice-aliasing/">
               Slice Aliasing Is Nicer Than You Realize
               <label className="article-date">(04/05/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/03/08/the-bug-that-wasted-a-month-of-gpu-time/">
               The Bug That Wasted a Month of GPU Time
               <label className="article-date">(03/08/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/03/01/random-fun-with-linear-svms/">
               Random Fun with Linear SVMs
               <label className="article-date">(03/01/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/02/14/can-neural-networks-learn-to-spell/">
               Can Neural Networks Learn to Spell?
               <label className="article-date">(02/14/2017)</label>
             </a>
           </li>
-          <li>
+          <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2017/02/12/ancient-philosophy-as-a-classification-problem/">
               Ancient Philosophy as a Classification Problem
               <label className="article-date">(02/12/2017)</label>
@@ -5140,6 +5146,66 @@ with weights calculated as the softmax over negative distances:</p>
     </h3>
   </li>
 </ul>
+
+
+<li style={{ marginBottom: '8px' }}>
+    <span className="post-meta">Sep 5, 2020</span>
+    <h3 style={{ margin: '4px 0' }}>
+      <a className="post-link" href="https://jparkhill.netlify.app/QuaternionAveraging/">
+        Quaternion Averaging in Pytorch: Detailed Page
+      </a>
+    </h3>
+  </li>
+
+  <p>At atomsandbits.ai we implement some seriously large formulas in TensorFlow. If we just went from LaTeX to tf. we wouldn&#39;t be able to do it. Here&#39;s a list of tricks and tools we use, applied to the problem of averaging rotations. Come for the tf. stay for the hypersphere.</p>
+  <p>The tensormol0.2 model chemistry reproduces a huge swath of chemistry (37 elements), which is in some sense a large fraction of our world. It&#39;s a big ole&#39; formula for some geometry:</p>
+
+  <p><img src="/assets/tensormol.png" alt="TensorMol"></img></p>
+
+  {/* <p><img src="https://drive.google.com/file/d/1nVDhSeA60emakzFdNo9qY8gCawcI-lza/view?usp=drive_link" alt="tm"></img></p>
+  <p><img src="https://drive.google.com/uc?export=view&id=1nVDhSeA60emakzFdNo9qY8gCawcI-lza" alt="tm"></img></p> */}
+<p>How does one use TensorFlow effectively to get something complicated done? It&#39;s not easy. I thought I&#39;d write up an example a little simpler than modeling all of chemistry. How about averaging rotations/axis systems? Simple right? Well interesting story… The math is mostly due to Hamilton (~1843), however it wasn’t until the advent of computer graphics in 1985 that people even bothered to work out how to interpolate between rotations perfectly.</p>
+<p>#Rotation &amp; Quaternions</p>
+
+<p>The rotational algebra of our world is a beautiful bedeviling thing. The reason is that although rotations act on a three dimensional space, when embedded in three dimensions, rotations are not smooth or unique. When represented with Euler angles or matrices, every rotation has multiple representations. Change the order of rotations and you also change the endpoint (rotations are non-commutative) Traveling smoothly along some paths of rotations using a three dimensional embedding, suddenly the third degree of freedom can become inaccessible (the phenomenon of “Gimbal lock”). If you try to define an average or interpolated point-of-view in a naive way (axes=&gt; angles =&gt; interpolated angles) you will find gibberish zero axes, and jerky non-smooth behavior.</p>
+<blockquote>
+  <p className="custom-blockquote-John-Parkhill-Blog">The rotational algebra of our world is a beautiful bedeviling thing. The reason is that although rotations act on a three dimensional space, when embedded in three dimensions, rotations are not smooth or unique. When represented with Euler angles or matrices, every rotation has multiple representations. Change the order of rotations and you also change the endpoint (rotations are non-commutative) Traveling smoothly along some paths of rotations using a three dimensional embedding, suddenly the third degree of freedom can become inaccessible (the phenomenon of “Gimbal lock”). If you try to define an average or interpolated point-of-view in a naive way (axes=&gt; angles =&gt; interpolated angles) you will find gibberish zero axes, and jerky non-smooth behavior.</p>
+</blockquote>
+<p>To have smooth topology rotations must be embedded within a four-dimensional hypersphere, so we can forgive your brain. In this space a rotation is a 4-dimensional point, a quaternion, whose components can be thought of as the angle and 3 axis components of the rotation. Given a 3x3 rotation matrix Q, one can parameterize a quaternion (w,x,y,z)</p>
+<p className="-John-Parkhill-Blog">
+  To have smooth topology rotations must be embedded within a four-dimensional hypersphere, so we can forgive your brain. In this space a rotation is a 4-dimensional point, a quaternion, whose components can be thought of as the angle and 3 axis components of the rotation. Given a 3x3 rotation matrix Q, one can parameterize a quaternion (w,x,y,z).
+</p>
+<p><img src="/assets/quat2.png" alt="qm"/></p>
+
+
+<p>Given any set of orthogonal axes (rows of Q), Euler&#39;s theorem guarantees an axis-angle rotation which can map the natural xyz axes back and forth into the new frame. The formula above yields the natural 4-d form of that rotation.</p>
+<p>Now suppose you have two, three or four systems of axes (ax_1, ax_2, ax_3). For example you want to look at the sun then the moon, or you want to fit 4 pretty objects in your field of vision, or define invariant axes for a cloud of points (the reason we use this math in TensorMol). Can you simply average the quaternion components q_av = (ax_1+ax_2+ax_3)/3? Sadly no… You can immediately understand why if you imagine averaging rotations around opposite axis vectors as an owl might when spinning his head. The “good, smooth” quaternions keep to the surface of the 4-d hypersphere (a curvy subset of 4d-euclidean space). To interpolate lines on that sphere, you can use SLERP. To average multiple quaternions we must construct the 4x4 matrix which is the outer product of the list of quaternions (Nx4) with itself, weighted if desired:</p>
+<John_Parkhill_MathMLComponent_1 />
+<p>The largest eigenvector of this matrix is the desired average quaternion.</p>
+
+<h1 id="implementing-complex-math-in-tf">Implementing complex math in tf.</h1>
+<p>Again, my goal is to get rotationally invariant axes for a set of points which smooth, differentiable and local. I will walk through my whole implementation of this in tf.
+Step 1- Don&#39;t use tf. Write a simple test of your formulas in a notebook like math interface (mathematica, ipython/sage). Verify everything is working when you use all the fancy library routines tf. doesn&#39;t have (eigenvectors etc.). Here&#39;s what that looks like using mathematica.</p>
+<p><img src="/assets/quatrot.png" alt="qmrr"/></p>
+
+<p>Those fancy manipulate sliders are a nice way to get tangible faith that the point cloud is rotationally invariant when transformed using an averaged axis system depending on points in the cloud. It remains for us to do this same thing in tf. Were&#39; ready for step 2:</p>
+<script src="https://gist.github.com/krishnakurtakoti/f1226b9efe7b7a0a639bd77d166fbd92.js"></script>
+{/* <Slerp_for_quaternions_in_TF /> */}
+<Slerp_for_quaternions_in_TF_copy />
+{/* <Slerp_for_quaternions_in_TF_copy1 /> */}
+
+<p>Style notes about the tf. code given above:</p>
+
+
+<ul>
+  <li>Each routine can be easily compared with the mathematica output, to quickly debug.</li>
+  <li>In general it is best to choose an order of dimensions for your tensor which goes (least often contracted,…,most often contracted), because several helpful tf. functions assume the first dimension of a tensor is the batch dimension.</li>
+  <li>tf.sqrt, and 1/(tensor) are both unstable operations in tf. They are unstable in a tricky way, because the implied chain-rule derivative graph (coming from tf.gradients(… op…, var) will still often evaluate NaN’s even when it appears that the arguments to the routine would always be in the well-behaved domain. One must make liberal use of tf.clip_by_value() , tf.where(), and infinitesimals to ensure both the routine and routine’s derivatives are well-behaved. Safe_norm is a good example.</li>
+</ul>
+
+<h1 id="epilogue">Epilogue</h1>
+
+<p>So is all this serious rotational mathematics only good for defining axis systems for atomic positions. No! Facebook AI-Research and collaborators from the EPFL published a nice use of quaternions for skeletal motion planning <a href="https://arxiv.org/abs/1805.06485">last week</a></p>
 
 </div>
 
