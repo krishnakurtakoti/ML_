@@ -497,3 +497,79 @@ p.Felix-Altenberger {
   color: #333; /* Optional: set text color */
   line-height: 1.6; /* Optional: adjust line-height */
 }
+
+/* User and team mention styles */
+.user-mention, .team-mention {
+  font-weight: var(--base-text-weight-semibold, 600);
+  color: var(--fgColor-default, var(--color-fg-default));
+  white-space: nowrap;
+}
+
+/* Margin-top utility class */
+.mt-1 {
+  margin-top: var(--base-size-4, 4px) !important;
+}
+
+/* Margin reset utility class */
+.m-0 {
+  margin: 0 !important;
+}
+
+/* Muted color utilities */
+.color-fg-muted, .fgColor-muted {
+  color: var(--fgColor-muted, var(--color-fg-muted)) !important;
+}
+/* Custom styles for Alexandre Mutel */
+.prefix-Alexandre-Mutel a {
+  font-weight: bold;
+  color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1)); /* Inherit or custom color */
+  text-decoration: underline;
+}
+
+.prefix-Alexandre-Mutel li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  unicode-bidi: isolate;
+}
+
+.prefix-Alexandre-Mutel ul {
+  list-style-type: disc; /* Default bullet points */
+}
+/* Remove margin and padding to remove space between elements */
+h2.year {
+  margin-top: 0%;
+  margin-bottom: 0; /* Removes margin below the h2 */
+}
+
+ul {
+  margin-top: 0; /* Removes space above the ul */
+  padding-top: 0; /* Removes any padding above the ul */
+}
+
+ul li {
+  margin-bottom: 2px; /* Optional: adds space between list items, adjust if needed */
+}
+/* Remove space between the date and the post title */
+ul.bishal-santra-post-list li {
+  margin-bottom: 0;  /* Remove bottom margin between posts */
+}
+
+ul.bishal-santra-post-list li .bishal-santra-post-meta {
+  margin-bottom: 0; /* Remove space below the date */
+}
+
+ul.bishal-santra-post-list li h3 {
+  margin-top: 0;  /* Remove space above the title */
+  margin-bottom: 0; /* Remove bottom margin from title */
+}
+
+/* Optional: Adjust spacing between list items if needed */
+ul.bishal-santra-post-list {
+  padding: 0;
+  margin: 0;
+}
+
+ul.bishal-santra-post-list li {
+  padding: 0;
+  margin: 0;
+}

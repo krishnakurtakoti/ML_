@@ -12,6 +12,8 @@ import John_Parkhill_MathMLComponent_1 from './John_Parkhill_MathMLComponent_1';
 import { Slerp_for_quaternions_in_TF } from './Slerp_for_quaternions_in_TF';
 import { Slerp_for_quaternions_in_TF_copy } from './Slerp_for_quaternions_in_TF_copy';
 import { Slerp_for_quaternions_in_TF_copy1 } from './Slerp_for_quaternions_in_TF_copy1';
+import Alexandre_MutelBlogPosts from './Alexandre_Mutel';
+import Bishal_Santra_BlogPosts from './Bishal_Santra';
 
 
 // Define the expected props type for the component
@@ -1000,6 +1002,125 @@ function App() {
       </a>
     </h3>
   </li>
+</li>
+
+<li>
+
+<a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              @Alexandre_Mutel </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3><div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+Microsoft MVP, ex-demoscene PC/Amiga 🎆
+Veggie 🌿, opinions are my own.</div></h3>
+          </a>
+
+<Alexandre_MutelBlogPosts />
+{/* 
+          <h2 className="year" id="2018">
+      2023
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+<li 
+// className="prefix-Alexandre-Mutel"
+>
+  <a href="https://xoofx.github.io/blog/2023/07/09/10x-performance-with-simd-in-csharp-dotnet">10x Performance with SIMD Vectorized Code in C#/.NET</a>
+  <span className="blog-post-meta">
+    - <span className="date"><time 
+    // datetime="2023-07-09" itemprop="datePublished"
+    >Jul 9</time></span>
+    <i className="bi bi-tags"></i><a href="/blog/tag/csharp/" className="prefix-Alexandre-Mutel">C#</a>, <a href="/blog/tag/net/" className="prefix-Alexandre-Mutel">.NET</a>, <a href="/blog/tag/x86/" className="prefix-Alexandre-Mutel">x86</a>, <a href="/blog/tag/assembler/" className="prefix-Alexandre-Mutel">assembler</a>
+  </span>
+  <span className="subtitle">Use your CPU at its full width!</span>
+</li>
+
+
+
+<h2 className="year" id="2018">
+      2018
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+      <ul>
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/12/26/generate-async-from-sync-code-with-roslyn">Generate automatically async/await code from sync code with Roslyn</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-12-26" itemprop="datePublished"
+             >Dec 26</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr">Writing a Managed JIT in C# with CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+           // datetime="2018-04-12" itemprop="datePublished"
+            >Apr 12</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/06/porting-unity-to-coreclr">Porting the Unity Engine to .NET CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-04-06" itemprop="datePublished"
+            >Apr  6</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>, <a href="/blog/tag/unity/">Unity</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/03/09/productivity-with-resharper">Productivity with ReSharper</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-03-09" itemprop="datePublished"
+            >Mar  9</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/visual-studio/">Visual Studio</a>, <a href="/blog/tag/visual-studio-2015/">Visual Studio 2015</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+      </ul> */}
+
+</li>
+<li>
+
+<a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              @Bishal Santra </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3> <div>Research Engineer <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/microsoft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/microsoft">@microsoft</a> Research India | 
+            Working on Language Modeling for Retrieval | IIT KGP</div></h3>
+          </a>
+
+          <Bishal_Santra_BlogPosts />
 </li>
 <li>
 
@@ -5494,6 +5615,595 @@ Step 1- Don&#39;t use tf. Write a simple test of your formulas in a notebook lik
 </div>
 
 
+
+
+
+<div>
+  
+  
+  
+  <section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" 
+  alt="@Rishit-dagli profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Rishit-dagli" data-view-component="true" className="Link--primary Link text-bold">Rishit Dagli</a>
+              <span data-view-component="true" className="color-fg-muted text-normal">Rishit-dagli</span>
+            </p>
+              <div className="m-0 mt-1 wb-break-all"><div>CS + Math <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/UofT/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/UofT">@UofT</a> |
+AI Research, Qualcomm |
+Research ML, Vision  UofT, Vector |
+RT <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/kubernetes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kubernetes">@kubernetes</a> 1.26-9</div></div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    106
+                    repositories
+                  </span>
+                  <span>
+                    891
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+</div>
+
+
+
+<div id="@Alexandre_Mutel">
+
+<a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              @Alexandre_Mutel </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3><div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+Microsoft MVP, ex-demoscene PC/Amiga 🎆
+Veggie 🌿, opinions are my own.</div></h3>
+          </a>
+</div>
+
+<h3>
+  <a href="https://x.com/nietras1/following" target="_blank" rel="noopener noreferrer">
+    Followings of @nietras1 on X
+  </a>
+</h3>
+
+
+<div className="css-175oi2r r-1iusvr4 r-16y2uox">
+  <div className="css-175oi2r r-1awozwy r-18u37iz r-1wtj0ep">
+    <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+      <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+        <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+          <a href="https://x.com/xoofx" role="link" className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+            <div className="css-175oi2r r-1awozwy r-18u37iz r-dnmrzs">
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-1udh08x r-3s2u2q" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>Alexandre Mutel ▶ https://mastodon.social/@xoofx</span>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-9iso6" style={{ textOverflow: 'unset' }}></span>
+                </span>
+              </div>
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-xoduu5 r-18u37iz r-1q142lx" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1awozwy r-xoduu5" style={{ textOverflow: 'unset' }}>
+                  {/* Updated SVG size */}
+                  <svg viewBox="0 0 22 22" aria-label="Verified account" role="img" className="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-lrvibr r-m6rgpd r-1cvl2hr r-f9ja8p r-og9te1 r-3t4u6i" data-testid="icon-verified" style={{ width: '16px', height: '16px' }}>
+                    <g><path d="M20.396 11c-.018-.646-.215-1.275-.57-1.816-.354-.54-.852-.972-1.438-1.246.223-.607.27-1.264.14-1.897-.131-.634-.437-1.218-.882-1.687-.47-.445-1.053-.75-1.687-.882-.633-.13-1.29-.083-1.897.14-.273-.587-.704-1.086-1.245-1.44S11.647 1.62 11 1.604c-.646.017-1.273.213-1.813.568s-.969.854-1.24 1.44c-.608-.223-1.267-.272-1.902-.14-.635.13-1.22.436-1.69.882-.445.47-.749 1.055-.878 1.688-.13.633-.08 1.29.144 1.896-.587.274-1.087.705-1.443 1.245-.356.54-.555 1.17-.574 1.817.02.647.218 1.276.574 1.817.356.54.856.972 1.443 1.245-.224.606-.274 1.263-.144 1.896.13.634.433 1.218.877 1.688.47.443 1.054.747 1.687.878.633.132 1.29.084 1.897-.136.274.586.705 1.084 1.246 1.439.54.354 1.17.551 1.816.569.647-.016 1.276-.213 1.817-.567s.972-.854 1.245-1.44c.604.239 1.266.296 1.903.164.636-.132 1.22-.447 1.68-.907.46-.46.776-1.044.908-1.681s.075-1.299-.165-1.903c.586-.274 1.084-.705 1.439-1.246.354-.54.551-1.17.569-1.816zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"></path></g>
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div className="css-175oi2r r-1awozwy r-18u37iz r-1wbh5a2">
+          <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+            <a href="https://x.com/xoofx" role="link" 
+            // tabIndex="-1" 
+            className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+              <div className="css-175oi2r">
+                <div dir="ltr" className="css-146c3p1 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-18u37iz r-1wvb978" style={{ textOverflow: 'unset', color: 'rgb(83, 100, 113)' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>@xoofx</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="css-175oi2r r-1cwvpvk" style={{ minWidth: '0px' }}>
+      <button aria-describedby="id__wcoj9flt6h" aria-label="Follow @_Jaivardhan_" role="button" className="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" data-testid="731230526778970112-follow" type="button" style={{ backgroundColor: 'rgb(15, 20, 25)', borderColor: 'rgba(0, 0, 0, 0)' }}>
+        <div dir="ltr" className="css-146c3p1 r-bcqeeo r-qvutc0 r-37j5jr r-q4m81j r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-18u37iz r-16y2uox r-1777fci" style={{ textOverflow: 'unset', color: 'rgb(255, 255, 255)' }}>
+          <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1b43r93 r-1cwl3u0" style={{ textOverflow: 'unset' }}>
+            <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>Follow</span>
+          </span>
+        </div>
+      </button>
+    </div>
+    <div dir="auto" className="css-146c3p1" id="id__wcoj9flt6h" style={{ display: 'none' }}>
+      Click to Follow nietras1
+    </div>
+  </div>
+</div>
+
+<div>
+  
+  
+  
+  <section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/715038?v=4" 
+  alt="@xoofx profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none mb-2" 
+/>
+</a>
+          <div className="ml-2 mb-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/xoofx" data-view-component="true" className="Link--primary Link text-bold">xoofx </a>
+              <span data-view-component="true" className="color-fg-muted text-normal mb-2 mt-2">Alexandre Mutel</span>
+            </p>
+              {/* <div className="m-0 mt-1 wb-break-all"><div>CS + Math <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/UofT/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/UofT">@UofT</a> |
+AI Research, Qualcomm |
+Research ML, Vision  UofT, Vector |
+RT <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/kubernetes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kubernetes">@kubernetes</a> 1.26-9</div></div> */}
+
+<div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+Microsoft MVP, ex-demoscene PC/Amiga 🎆
+Veggie 🌿, opinions are my own.</div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    88
+                    repositories
+                  </span>
+                  <span>
+                    1.4k
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+</div>
+
+<h2 className="year" id="2018">
+      2023
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+<li 
+// className="prefix-Alexandre-Mutel"
+>
+  <a href="https://xoofx.github.io/blog/2023/07/09/10x-performance-with-simd-in-csharp-dotnet">10x Performance with SIMD Vectorized Code in C#/.NET</a>
+  <span className="blog-post-meta">
+    - <span className="date"><time 
+    // datetime="2023-07-09" itemprop="datePublished"
+    >Jul 9</time></span>
+    <i className="bi bi-tags"></i><a href="/blog/tag/csharp/" className="prefix-Alexandre-Mutel">C#</a>, <a href="/blog/tag/net/" className="prefix-Alexandre-Mutel">.NET</a>, <a href="/blog/tag/x86/" className="prefix-Alexandre-Mutel">x86</a>, <a href="/blog/tag/assembler/" className="prefix-Alexandre-Mutel">assembler</a>
+  </span>
+  <span className="subtitle">Use your CPU at its full width!</span>
+</li>
+<h2 className="year" id="2018">
+      2020
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+<ul>
+        <li 
+        // className="prefix-Alexandre-Mutel"
+        >
+          <a href="https://xoofx.github.io/blog/2020/03/21/stark-native-compiler">Stark - Native Compiler - Prototype 2019</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time
+            // datetime="2020-03-21" itemprop="datePublished"
+            >Mar 21</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/stark/">Stark</a>, <a href="/blog/tag/melody/">Melody</a>, <a href="/blog/tag/os/">OS</a>, <a href="/blog/tag/compiler/">Compiler</a>, <a href="/blog/tag/llvm/">LLVM</a>, <a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>
+          </span>
+          <span className="subtitle">Development of an AOT native compiler using RyuJIT</span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2020/03/06/stark-language-frontend-compiler">Stark - Language And Frontend Compiler - Prototype 2019</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2020-03-06" itemprop="datePublished"
+            >Mar  6</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/stark/">Stark</a>, <a href="/blog/tag/melody/">Melody</a>, <a href="/blog/tag/os/">OS</a>, <a href="/blog/tag/compiler/">Compiler</a>, <a href="/blog/tag/llvm/">LLVM</a>, <a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>
+          </span>
+          <span className="subtitle">Syntax of the language and the development of the front-end compiler</span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2020/03/05/stark-melody-dotnet-sel4">The Odyssey of Stark and Melody</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2020-03-05" itemprop="datePublished"
+            >Mar  5</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/stark/">Stark</a>, <a href="/blog/tag/melody/">Melody</a>, <a href="/blog/tag/os/">OS</a>, <a href="/blog/tag/compiler/">Compiler</a>, <a href="/blog/tag/llvm/">LLVM</a>, <a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>
+          </span>
+          <span className="subtitle">Prototyping a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel</span>
+        </li>
+
+      </ul>
+    
+      <h2 className="year" id="2018">
+      2018
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+      <ul>
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/12/26/generate-async-from-sync-code-with-roslyn">Generate automatically async/await code from sync code with Roslyn</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-12-26" itemprop="datePublished"
+             >Dec 26</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr">Writing a Managed JIT in C# with CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+           // datetime="2018-04-12" itemprop="datePublished"
+            >Apr 12</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/06/porting-unity-to-coreclr">Porting the Unity Engine to .NET CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-04-06" itemprop="datePublished"
+            >Apr  6</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>, <a href="/blog/tag/unity/">Unity</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/03/09/productivity-with-resharper">Productivity with ReSharper</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-03-09" itemprop="datePublished"
+            >Mar  9</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/visual-studio/">Visual Studio</a>, <a href="/blog/tag/visual-studio-2015/">Visual Studio 2015</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+      </ul>
+      <h2 className="year" id="2009">
+  2009
+  <a
+    className="anchorjs-link"
+    aria-label="Anchor"
+    data-anchorjs-icon=""
+    href="#2009"
+    style={{
+      font: '1em / 1 anchorjs-icons',
+      marginLeft: '0.1875em',
+      paddingRight: '0.1875em',
+      paddingLeft: '0.1875em',
+    }}
+  />
+</h2>
+<ul>
+<li>
+          <a href="https://xoofx.github.io/blog/2009/10/25/random-float-number-using-x86-asm-code.html">Random float number generator using x86 ASM code optimized in size</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2009-10-25" itemprop="datePublished"
+            >Oct 25</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/assembler/">assembler</a>, <a href="/blog/tag/x86/">x86</a>
+          </span>
+        </li>
+
+      </ul>
+<div id="Bishal_Santra">
+  
+  
+  
+  <section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/6783945?v=4" 
+  alt="@xoofx profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bsantraigi/" data-view-component="true" className="Link--primary Link text-bold">Bishal Santra </a>
+              <span data-view-component="true" className="color-fg-muted text-normal">Bishal Santra</span>
+            </p>
+            <div>Research Engineer <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/microsoft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/microsoft">@microsoft</a> Research India | 
+            Working on Language Modeling for Retrieval | IIT KGP</div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    103
+                    repositories
+                  </span>
+                  <span>
+                    36
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+
+
+
+        <ul className="bishal-santra-post-list">
+  <li>
+    <span className="bishal-santra-post-meta">Aug 12, 2023</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/blog/2023/08/12/llm-channel-method-flaw.html">
+        Explaining Issues with Channel Method in LLM Prompt-based Classification
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Feb 11, 2023</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/blog/2023/02/11/2022-02-11-algebraic-numbers-countable-proof.html">
+        Prove that the set of algebraic numbers are countable (using primes)
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Feb 10, 2023</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/blog/2023/02/10/2023-02-10-sum-1-by-n-divergent.html">
+        Is ∑<sub>i=1</sub><sup>n</sup> 1/n divergent?
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Oct 7, 2021</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2021/10/07/how-to-ssh-jump-cnerg.html">
+        How to Connect through an SSH Jump Server (For CNeRG project students)
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Oct 26, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/10/26/transformer-language-models-and-pretraining.html">
+        Transformer Language Models and Pretraining
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Aug 31, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/08/31/english-to-hindi-transliteration-using-seq2seq-model.html">
+        English to Hindi Transliteration using Seq2Seq Model
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Aug 31, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/08/31/deep-sentiment-analysis.html">
+        Deep Sentiment Analysis
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Jul 13, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/2019/07/13/text-classification-using-naive-bayes-method.html">
+        Text Classification using Naive Bayes Method
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Jul 8, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/07/08/training-xtra-small-transformer-language-model.html">
+        Training a Language Model with a Xtra-Small Transformer (Transformer-XS)
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Jul 7, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/07/07/simple-reddit-dialogue-preprocessor.html">
+        Simple Reddit Dialogue Preprocessor
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Jul 3, 2019</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2019/07/03/how-i-made-this-site.html">
+        How I created this site using Jekyll?
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Jan 12, 2017</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2017/01/12/generating-gamma-rv-cuda.html">
+        Generating Gamma Random Variable in CUDA in Parallel
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Aug 6, 2016</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2016/08/06/mmse-estimator.html">
+        Minimum Mean Squared Error (MMSE) Estimator
+      </a>
+    </h3>
+  </li>
+  <li>
+    <span className="bishal-santra-post-meta">Mar 14, 2016</span>
+    <h3>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/tutorial/2016/03/14/decycledjson.html">
+        DecycledJSON - Circular reference breakers for JSON
+      </a>
+    </h3>
+  </li>
+</ul>
+
+
+
+
+</div>
+
     
 </div>
 
@@ -5502,6 +6212,12 @@ Step 1- Don&#39;t use tf. Write a simple test of your formulas in a notebook lik
 
         </div> {/* Closing for className="App-header_replica"*/}
         
+
+
+
+
+
+
 
 
 <TwitterTweetEmbed tweetId="1855509794993692780"  />
