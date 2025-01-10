@@ -21,7 +21,7 @@ const CharlieMarshNotionArticle = () => {
         This is a collection of notes and blog posts I’ve written on Notion:
       </p>
        <li>
-          <a id="block-using-mypy-in-production-at-spring" className="notion-link notion-page emoji" href="/using-mypy-in-production-at-spring">
+          <a id="block-using-mypy-in-production-at-spring" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/using-mypy-in-production-at-spring">
             <span className="notion-page__icon">
               <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>🐍</span>
             </span>
@@ -29,7 +29,7 @@ const CharlieMarshNotionArticle = () => {
           </a>
        </li>
         <li>
-        <a id="block-whats-webassembly" className="notion-link notion-page emoji" href="/whats-webassembly">
+        <a id="block-whats-webassembly" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/whats-webassembly">
                 <span className="notion-page__icon">
                   <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>🌐</span>
                 </span>
@@ -37,7 +37,7 @@ const CharlieMarshNotionArticle = () => {
               </a>
         </li>
         <li>
-        <a id="block-python-tooling-could-be-much-much-faster" className="notion-link notion-page emoji" href="/python-tooling-could-be-much-much-faster">
+        <a id="block-python-tooling-could-be-much-much-faster" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/python-tooling-could-be-much-much-faster">
                 <span className="notion-page__icon">
                   <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>🛠️</span>
                 </span>
@@ -45,7 +45,7 @@ const CharlieMarshNotionArticle = () => {
               </a>
         </li>
         <li>
-        <a id="block-building-large-language-model-powered-applications" className="notion-link notion-page emoji" href="/building-large-language-model-powered-applications">
+        <a id="block-building-large-language-model-powered-applications" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/building-large-language-model-powered-applications">
                 <span className="notion-page__icon">
                   <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>🤖</span>
                 </span>
@@ -53,7 +53,7 @@ const CharlieMarshNotionArticle = () => {
               </a>
         </li>
         <li>
-        <a id="block-isolates-microvms-and-webassembly" className="notion-link notion-page emoji" href="/isolates-microvms-and-webassembly">
+        <a id="block-isolates-microvms-and-webassembly" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/isolates-microvms-and-webassembly">
                 <span className="notion-page__icon">
                   <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>☁️</span>
                 </span>
@@ -61,7 +61,7 @@ const CharlieMarshNotionArticle = () => {
               </a>
         </li>
         <li>
-        <a id="block-ruff-the-first-200-releases" className="notion-link notion-page emoji" href="/ruff-the-first-200-releases">
+        <a id="block-ruff-the-first-200-releases" className="notion-link notion-page emoji" href="https://notes.crmarsh.com/ruff-the-first-200-releases">
                 <span className="notion-page__icon">
                   <span className="notion-icon text" style={{ width: '20px', height: '20px', fontSize: '20px', fill: 'var(--color-text-default-light)' }}>⚡</span>
                 </span>
