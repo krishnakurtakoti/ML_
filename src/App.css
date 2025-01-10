@@ -573,3 +573,98 @@ ul.bishal-santra-post-list li {
   padding: 0;
   margin: 0;
 }
+.charlieMarsh-code-red {
+  display: inline;
+  color: #f1276f;
+}
+.charlieMarsh-code-orange {
+  display: inline;
+  color: #fd9721 !important;
+}
+*, 
+.charlieMarsh :after, 
+.charlieMarsh :before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.charlieMarsh .charlieMarsh-match-list li {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5em;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  list-style-type: none;
+}
+
+.charlieMarsh ul li {
+  list-style: square;
+}
+/* Style for links */
+.charlieMarsh-implicit {
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  color: #212529;
+}
+
+.charlieMarsh-implicit:hover {
+  text-decoration: underline;
+}
+
+.charlieMarsh-code-orange {
+  color: #f90; /* Or the color you prefer */
+}
+
+/* List and font size styling */
+.charlieMarsh-match-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.charlieMarsh-match-list-item {
+  font-size: 16px;
+  line-height: 24px;
+  list-style-type: square;
+  padding: 3px 2px;
+}
+
+.charlieMarsh-code-red {
+  color: #f1276f;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 767px) {
+  .charlieMarsh-match-list-item {
+    font-size: 12px;
+  }
+}
+/* Link styles */
+.charlieMarsh-implicit {
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  color:  #212529;;
+}
+
+.charlieMarsh-implicit:hover {
+  text-decoration: underline;
+}
+
+/* List styles */
+.charlieMarsh-posts-list {
+  list-style-type: square;
+  padding-left: 0;
+}
+
+.charlieMarsh-posts-list li {
+  font-size: 16px;
+  line-height: 24px;
+  padding: 3px 2px;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 767px) {
+  .charlieMarsh-posts-list li {
+    font-size: 12px;
+  }
+}

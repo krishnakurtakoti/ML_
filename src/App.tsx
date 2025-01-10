@@ -14,6 +14,9 @@ import { Slerp_for_quaternions_in_TF_copy } from './Slerp_for_quaternions_in_TF_
 import { Slerp_for_quaternions_in_TF_copy1 } from './Slerp_for_quaternions_in_TF_copy1';
 import Alexandre_MutelBlogPosts from './Alexandre_Mutel';
 import Bishal_Santra_BlogPosts from './Bishal_Santra';
+import CharlieMarsh_PublicProjects from './CharlieMarsh_PublicProjects';
+import CharlieMarshNotionArticle from './CharlieMarshNotionArticle';
+import CharlieMarsh_PostsList from './CharlieMarsh_PostsList';
 
 
 // Define the expected props type for the component
@@ -1003,6 +1006,66 @@ function App() {
     </h3>
   </li>
 </li>
+
+
+
+
+
+<li>
+
+<h3 style={{ fontSize: '32px', marginTop: '0.5em', marginBottom: '0', textDecoration: 'underline' }}>
+      <a href="#@Charlie_Marsh" className="implicit">
+        Charlie Marsh
+      </a>
+    </h3>
+
+  
+    <h3 style={{ fontWeight: 'normal', marginTop: '0.5em', marginBottom: '0', lineHeight: '1.4' }}>
+  Building{' '}
+  <b style={{ margin: '0' }}>
+    <a target="_blank" rel="noopener noreferrer" href="https://astral.sh" style={{ margin: '0' }}>
+      Astral
+    </a>
+  </b>
+  : high-performance tools for Python, starting with{' '}
+  <b style={{ margin: '0' }}>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/charliermarsh/ruff" style={{ margin: '0' }}>
+      Ruff
+    </a>
+  </b>
+  .
+  <br />
+  <br />
+  In the past: Staff software engineer at{' '}
+  <b style={{ margin: '0' }}>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.springdiscovery.com" style={{ margin: '0' }}>
+      Spring Discovery
+    </a>
+  </b>
+  , senior engineer at{' '}
+  <b style={{ margin: '0' }}>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.khanacademy.org" style={{ margin: '0' }}>
+      Khan Academy
+    </a>
+  </b>
+  , and Computer Science major at <b style={{ margin: '0' }}>Princeton</b>.
+  <br />
+  <br />
+  These days, I write on{' '}
+  <a target="_blank" rel="noopener noreferrer" href="https://notes.crmarsh.com/" style={{ margin: '0' }}>
+    Notion
+  </a>
+  .
+  <br />
+  <br />
+  Check out some of my public projects:
+</h3>
+
+    <CharlieMarshNotionArticle />
+
+</li>
+
+
 
 <li>
 
@@ -6200,6 +6263,111 @@ Veggie 🌿, opinions are my own.</div>
 </ul>
 
 
+
+
+</div>
+
+
+<div id="@Charlie_Marsh">
+
+<h1 style={{ fontSize: '80px', marginTop: '0.5em', marginBottom: '0' }}>
+      <a className="implicit" href="https://www.crmarsh.com/">
+        Charlie Marsh
+      </a>
+    </h1>
+
+<h2 style={{ fontWeight: 'normal', marginTop: '0.5em', lineHeight: '1.4' }}>
+      Building{' '}
+      <b>
+        <a target="_blank" rel="noopener noreferrer" href="https://astral.sh">
+          Astral
+        </a>
+      </b>
+      : high-performance tools for Python, starting with{' '}
+      <b>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/charliermarsh/ruff">
+          Ruff
+        </a>
+      </b>
+      .
+      <br />
+      <br />
+      In the past: Staff software engineer at{' '}
+      <b>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.springdiscovery.com">
+          Spring Discovery
+        </a>
+      </b>
+      , senior engineer at{' '}
+      <b>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.khanacademy.org">
+          Khan Academy
+        </a>
+      </b>
+      , and Computer Science major at <b>Princeton</b>.
+      <br />
+      <br />
+      These days, I write on{' '}
+      <a target="_blank" rel="noopener noreferrer" href="https://notes.crmarsh.com/">
+        Notion
+      </a>
+      .
+      <br />
+      <br />
+      Check out some of my public projects:
+    </h2>
+
+    <CharlieMarsh_PublicProjects />
+
+<CharlieMarshNotionArticle />
+
+{/* <article id="block-6d52b13d76774644b6424d22b79d7ea1" className="notion-root max-width has-footer">
+  <p id="block-d16f6052f7f2490d84d90e313df30d1a" className="notion-text notion-text__content notion-semantic-string">Hi, I&#39;m <a href="https://www.crmarsh.com/" className="notion-link link" target="_blank" rel="noopener noreferrer">Charlie Marsh</a>.</p>
+  <div id="block-faa963b710ea4dd7ad3ddd8b9c7f0735" className="notion-text"></div>
+  <p id="block-14d8a36b9fe8467d9f7a4877ef596fdc" className="notion-text notion-text__content notion-semantic-string">I&#39;m building high-performance developer tools for Python, starting with <a href="https://github.com/charliermarsh/ruff" className="notion-link link" target="_blank" rel="noopener noreferrer">Ruff</a>, an extremely fast Python linter written in Rust.</p>
+  <div id="block-4e8cb5d4688b44f3a5b76f567d06650a" class="notion-text"></div>
+  <p id="block-09e4ccc0bcbf43f98e5991be767e4fd8" class="notion-text notion-text__content notion-semantic-string">I was most recently a staff software engineer at <a href="https://www.springdiscovery.com/" class="notion-link link" target="_blank" rel="noopener noreferrer">Spring Discovery</a>. Before that, I was a senior software engineer at <a href="https://www.khanacademy.org/" class="notion-link link" target="_blank" rel="noopener noreferrer">Khan Academy</a>.</p>
+  <div id="block-a8de7fd07b2b476fa13f9c7b5655566e" class="notion-text"></div>
+  <p id="block-3e79c0b321a94f82b834418b2c840a5a" class="notion-text notion-text__content notion-semantic-string">This is a collection of notes and blog posts I’ve written on Notion:</p>
+  <a id="block-using-mypy-in-production-at-spring" class="notion-link notion-page emoji" href="/using-mypy-in-production-at-spring"><span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🐍</span></span>
+  <span class="notion-page__title notion-semantic-string">Using Mypy in production at Spring</span></a><a id="block-whats-webassembly" class="notion-link notion-page emoji" href="/whats-webassembly"><span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🌐</span></span><span class="notion-page__title notion-semantic-string">What’s WebAssembly?</span></a><a id="block-python-tooling-could-be-much-much-faster" class="notion-link notion-page emoji" href="/python-tooling-could-be-much-much-faster">
+  <span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🛠️</span></span>
+  <span class="notion-page__title notion-semantic-string">Python tooling could be much, much faster</span></a>
+  <a id="block-building-large-language-model-powered-applications" class="notion-link notion-page emoji" href="/building-large-language-model-powered-applications"><span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🤖</span></span><span class="notion-page__title notion-semantic-string">Building large language model-powered applications</span></a><a id="block-isolates-microvms-and-webassembly" class="notion-link notion-page emoji" href="/isolates-microvms-and-webassembly"><span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">☁️</span></span><span class="notion-page__title notion-semantic-string">Isolates, microVMs, and WebAssembly</span></a><a id="block-ruff-the-first-200-releases" class="notion-link notion-page emoji" href="/ruff-the-first-200-releases"><span class="notion-page__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">⚡</span></span><span class="notion-page__title notion-semantic-string">Ruff: The First 200 Releases</span></a>
+  <div id="block-6794a992cb584bb8b74aa9ff339b404f" class="notion-text"></div>
+  <p id="block-9fb5f04bf7274d309fb92d0001cf2e36" class="notion-text notion-text__content notion-semantic-string">You can find me on <a href="https://twitter.com/charliermarsh" class="notion-link link" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
+  <div id="block-3e5145177df04491ad1646c446e029af" class="notion-text"></div>
+  <p id="block-4dbb17370d7a42cf8a5f9114b0f62494" class="notion-text notion-text__content notion-semantic-string">For older posts and projects, check out my <a href="https://www.crmarsh.com/" class="notion-link link" target="_blank" rel="noopener noreferrer">personal site</a>.</p><div id="block-6b7e97965ac9469791dfdc655481fbca" class="notion-text"></div>
+  </article> */}
+
+<CharlieMarsh_PostsList />
+{/* 
+<ul className="posts-list">
+  <li><a target="_blank" href="https://engineering.khanacademy.org/posts/a-really-small-app.htm">Building a Really, Really Small Android App</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/test-plans">Writing a Reproducible Test Plan</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/code-review">Reviewing Code from Both Sides</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/configuring-robolectric">Getting up and Running with Robolectric</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/learning-android">Learning Android in a Production Setting</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/flow">Exploring Flow, Facebook's JavaScript Type Checker</a> (JavaScript Weekly)</li>
+  <li><a target="_blank" href="https://www.crmarsh.com/script">Bitcoin Script: An In-Browser Playground</a> (Hacker News)</li>
+  <li><a target="_blank" href="https://www.crmarsh.com/svg-performance">Speeding up SVGs with CSS Transforms at Khan Academy</a> (Hacker News)</li>
+  <li><a target="_blank" href="https://www.crmarsh.com/react-ssr">Rendering React Components on the Server</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/pdf/Styling_React_Components.pdf">Styling React Components: How to Escape Selector Hell</a> (talk delivered @ Khan Academy)</li>
+  <li><a target="_blank" href="https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide">An Overly Thorough Guide to Python Class Attributes</a> (Python Weekly)</li>
+  <li><a target="_blank" href="https://www.toptal.com/python/computational-geometry-in-python-from-theory-to-implementation">A Primer on Computational Geometry in Python</a> (Python Weekly)</li>
+  <li><a target="_blank" href="https://www.toptal.com/python/why-are-there-so-many-pythons">Why Are There So Many Pythons?</a> (Hacker News, Python Weekly, Pycoder's Weekly)</li><li><a target="_blank" href="/compiling-to-js">Compiling to JavaScript: A Case-by-Case Guide to the *Scripts</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/phantomjs">PhantomJS: Common Gotchas for Beginners</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/aws">The Idiot-Proof Guide to Setting up Your Personal AWS Instance</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/intro-to-sdn">An Introduction to Rule Optimization in Software Defined Networking</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/prefix-vs-ternary">Prefix vs. Ternary Rules in SDN</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/ocaml-dev-environment">Setting up an OCaml Environment on Mac OS X</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/programming-languages">Programming Languages and the Solutions they Suggest</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/intro-to-ocaml">First Thoughts on OCaml</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/streams">A Primer on Streams and Lazy Computation</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/binomial-heaps">Binomial Heaps: Merge Better</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/ios-performance">Performance Improvements in iOS</a></li>
+  <li><a target="_blank" href="https://www.crmarsh.com/np-vs-not-p">NP != NOT P</a></li>
+  </ul> */}
 
 
 </div>
