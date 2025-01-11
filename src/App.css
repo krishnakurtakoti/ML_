@@ -668,3 +668,8 @@ ul.bishal-santra-post-list li {
     font-size: 12px;
   }
 }
+/* In your CSS file */
+.article-no-space {
+  margin: 0;
+  padding: 0;
+}

@@ -17,6 +17,7 @@ import Bishal_Santra_BlogPosts from './Bishal_Santra';
 import CharlieMarsh_PublicProjects from './CharlieMarsh_PublicProjects';
 import CharlieMarshNotionArticle from './CharlieMarshNotionArticle';
 import CharlieMarsh_PostsList from './CharlieMarsh_PostsList';
+import KevinFransPostCard from './KevinFransPostCard';
 
 
 // Define the expected props type for the component
@@ -1013,11 +1014,15 @@ function App() {
 
 <li>
 
-<h3 style={{ fontSize: '32px', marginTop: '0.5em', marginBottom: '0', textDecoration: 'underline' }}>
+<h1 style={{ 
+  // fontSize: '32px',
+   marginTop: '0.5em', marginBottom: '0'
+  , textDecoration: 'underline' 
+   }}>
       <a href="#@Charlie_Marsh" className="implicit">
         Charlie Marsh
       </a>
-    </h3>
+    </h1>
 
   
     <h3 style={{ fontWeight: 'normal', marginTop: '0.5em', marginBottom: '0', lineHeight: '1.4' }}>
@@ -1064,7 +1069,33 @@ function App() {
     <CharlieMarshNotionArticle />
 
 </li>
+<li>
+{/* <h1 style={{fontSize: '3em',
+    marginTop: '-0.5em'}} href="#@kevin_frans">kevin frans website v5</h1> */}
+<a href="#@kevin_frans" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              kevin frans website v5</span>
+              <span className="p-nickname vcard-username d-block">
+              
+              </span>
+            </h1>
+          </a>
 
+<p className="desc">
+            {/* <!-- Hi, I'm Kevin! I'm a second-year undergrad at MIT. In the past, I was a research intern at OpenAI on the reinforcement learning team, and I was at Autodesk Research working on AI to automate design. In my free time, I play a lot of weird games and build some of my own. --> */}
+            Hey, I'm Kevin. I am a PhD student at <a href="https://bair.berkeley.edu/">BAIR</a> 
+            advised by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a> and 
+            <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>. 
+            I did my B.S. and M.Eng at MIT with <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>. 
+            I&nbsp;am&nbsp;interested in deep reinforcement learning, unsupervised learning, and AI-based creative tools. 
+            I&nbsp;also lead engineering at <a href="https://paragraphai.com/">ParagraphAI</a>. I&nbsp;have spent time at 
+            <a href="https://crosslabs.org">Cross Labs</a>, <a href="https://twitter.com/sizigistudios">Sizigi</a>, 
+            <a href="https://www.autodeskresearch.com/">Autodesk Research</a>, and <a href="https://openai.com/">OpenAI</a>. 
+            In&nbsp;my&nbsp;free&nbsp;time, I&nbsp;like to design and build&nbsp;<a href="https://store.steampowered.com/app/810780/RAIN_Project__a_touhou_fangame/">video</a>
+            &nbsp;<a href="https://store.steampowered.com/app/1256660/Iwate_Mountain_Dance/">games</a>.</p>
+
+</li>
 
 
 <li>
@@ -6372,7 +6403,30 @@ Veggie 🌿, opinions are my own.</div>
 
 </div>
 
-    
+<div id="@kevin_frans">
+<h1 style={{fontSize: '3em',
+    marginTop: '-0.5em'}}>kevin frans website v5</h1>
+
+
+<p className="desc">
+            {/* <!-- Hi, I'm Kevin! I'm a second-year undergrad at MIT. In the past, I was a research intern at OpenAI on the reinforcement learning team, and I was at Autodesk Research working on AI to automate design. In my free time, I play a lot of weird games and build some of my own. --> */}
+            Hey, I'm Kevin. I am a PhD student at <a href="https://bair.berkeley.edu/">BAIR</a> 
+            advised by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a> and 
+            <a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>. 
+            I did my B.S. and M.Eng at MIT with <a href="http://web.mit.edu/phillipi/">Phillip Isola</a>. 
+            I&nbsp;am&nbsp;interested in deep reinforcement learning, unsupervised learning, and AI-based creative tools. 
+            I&nbsp;also lead engineering at <a href="https://paragraphai.com/">ParagraphAI</a>. I&nbsp;have spent time at 
+            <a href="https://crosslabs.org">Cross Labs</a>, <a href="https://twitter.com/sizigistudios">Sizigi</a>, 
+            <a href="https://www.autodeskresearch.com/">Autodesk Research</a>, and <a href="https://openai.com/">OpenAI</a>. 
+            In&nbsp;my&nbsp;free&nbsp;time, I&nbsp;like to design and build&nbsp;<a href="https://store.steampowered.com/app/810780/RAIN_Project__a_touhou_fangame/">video</a>
+            &nbsp;<a href="https://store.steampowered.com/app/1256660/Iwate_Mountain_Dance/">games</a>.</p>
+
+            <KevinFransPostCard />
+
+</div>
+
+
+
 </div>
 
 
