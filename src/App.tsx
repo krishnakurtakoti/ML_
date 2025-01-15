@@ -18,7 +18,9 @@ import CharlieMarsh_PublicProjects from './CharlieMarsh_PublicProjects';
 import CharlieMarshNotionArticle from './CharlieMarshNotionArticle';
 import CharlieMarsh_PostsList from './CharlieMarsh_PostsList';
 import KevinFransPostCard from './KevinFransPostCard';
-
+import {stathiskamperisLinkedInPost} from './stathiskamperisLinkedInPost';
+import StathisKamperisLinks from './StathisKamperisLinks';
+import SewonMinTwitterUserDescription from './SewonMinTwitterUserDescription';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -765,20 +767,30 @@ function App() {
         </li>
 
 
-
-
         <li>
 
-
-        <a href="#@j0hnparkhill" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+<a href="#SewonMin" className="vcard-names1" style={{ textDecoration: 'underline' }}>
           <h1>
             <span className="p-name vcard-fullname d-block overflow-hidden">
-            John Parkhill </span>
+            Sewon Min </span>
             <span className="p-nickname vcard-username d-block">
-            ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
+            Incoming faculty @Berkeley_EECS @berkeley_ai ||  Research scientist at @allen_ai  ||  PhD from @uwcse @uwnlp.
             </span>
           </h1>
         </a>
+</li>
+
+        <li>
+
+        <a href="#@j0hnparkhill" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    John Parkhill </span>
+    <span className="p-nickname vcard-username d-block">
+    ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
+    </span>
+  </h1>
+</a>
           
       {/* <ul className="post-list"> */}
   {/* <li style={{ marginBottom: '8px' }}>
@@ -1215,6 +1227,19 @@ Veggie 🌿, opinions are my own.</div></h3>
           </a>
 
           <Bishal_Santra_BlogPosts />
+</li>
+<li>
+
+<a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Stathis Kamperis </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3>    <div>I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).</div></h3>
+          </a>
+
+
 </li>
 <li>
 
@@ -6426,6 +6451,218 @@ Veggie 🌿, opinions are my own.</div>
 </div>
 
 
+<div id="StathisKamperis">
+
+    
+<section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/9994264?v=4" 
+  alt="@xoofx profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ekamperi" data-view-component="true" className="Link--primary Link text-bold">Stathis Kamperis </a>
+              <span data-view-component="true" className="color-fg-muted text-normal">Stathis Kamperis</span>
+            </p>
+            <div>I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).</div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    15
+                    repositories
+                  </span>
+                  <span>
+                    29
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+
+{/* <stathiskamperisLinkedInPost /> */}
+<StathisKamperisLinks />
+
+
+</div>
+<div id="SewonMin">
+
+<a href="#SewonMin" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Sewon Min </span>
+            <span className="p-nickname vcard-username d-block">
+            Incoming faculty @Berkeley_EECS @berkeley_ai ||  Research scientist at @allen_ai  ||  PhD from @uwcse @uwnlp.
+            </span>
+          </h1>
+        </a>
+
+
+
+<div className="css-175oi2r r-1iusvr4 r-16y2uox">
+  <div className="css-175oi2r r-1awozwy r-18u37iz r-1wtj0ep">
+    <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+      <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+        <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+          <a href="https://x.com/sewon__min" role="link" className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+            <div className="css-175oi2r r-1awozwy r-18u37iz r-dnmrzs">
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-1udh08x r-3s2u2q" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>@sewon__min</span>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-9iso6" style={{ textOverflow: 'unset' }}></span>
+                </span>
+              </div>
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-xoduu5 r-18u37iz r-1q142lx" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1awozwy r-xoduu5" style={{ textOverflow: 'unset' }}>
+                  {/* Updated SVG size */}
+                  <svg viewBox="0 0 22 22" aria-label="Verified account" role="img" className="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-lrvibr r-m6rgpd r-1cvl2hr r-f9ja8p r-og9te1 r-3t4u6i" data-testid="icon-verified" style={{ width: '16px', height: '16px' }}>
+                    <g><path d="M20.396 11c-.018-.646-.215-1.275-.57-1.816-.354-.54-.852-.972-1.438-1.246.223-.607.27-1.264.14-1.897-.131-.634-.437-1.218-.882-1.687-.47-.445-1.053-.75-1.687-.882-.633-.13-1.29-.083-1.897.14-.273-.587-.704-1.086-1.245-1.44S11.647 1.62 11 1.604c-.646.017-1.273.213-1.813.568s-.969.854-1.24 1.44c-.608-.223-1.267-.272-1.902-.14-.635.13-1.22.436-1.69.882-.445.47-.749 1.055-.878 1.688-.13.633-.08 1.29.144 1.896-.587.274-1.087.705-1.443 1.245-.356.54-.555 1.17-.574 1.817.02.647.218 1.276.574 1.817.356.54.856.972 1.443 1.245-.224.606-.274 1.263-.144 1.896.13.634.433 1.218.877 1.688.47.443 1.054.747 1.687.878.633.132 1.29.084 1.897-.136.274.586.705 1.084 1.246 1.439.54.354 1.17.551 1.816.569.647-.016 1.276-.213 1.817-.567s.972-.854 1.245-1.44c.604.239 1.266.296 1.903.164.636-.132 1.22-.447 1.68-.907.46-.46.776-1.044.908-1.681s.075-1.299-.165-1.903c.586-.274 1.084-.705 1.439-1.246.354-.54.551-1.17.569-1.816zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"></path></g>
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div className="css-175oi2r r-1awozwy r-18u37iz r-1wbh5a2">
+          <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+            <a href="https://x.com/sewon__min" role="link" 
+            // tabIndex="-1" 
+            className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+              <div className="css-175oi2r">
+                <div dir="ltr" className="css-146c3p1 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-18u37iz r-1wvb978" style={{ textOverflow: 'unset', color: 'rgb(83, 100, 113)' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>@sewon__min</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="css-175oi2r r-1cwvpvk" style={{ minWidth: '0px' }}>
+      <button aria-describedby="id__wcoj9flt6h" aria-label="Follow @sewon__min" role="button" className="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" data-testid="731230526778970112-follow" type="button" style={{ backgroundColor: 'rgb(15, 20, 25)', borderColor: 'rgba(0, 0, 0, 0)' }}>
+        <div dir="ltr" className="css-146c3p1 r-bcqeeo r-qvutc0 r-37j5jr r-q4m81j r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-18u37iz r-16y2uox r-1777fci" style={{ textOverflow: 'unset', color: 'rgb(255, 255, 255)' }}>
+          <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1b43r93 r-1cwl3u0" style={{ textOverflow: 'unset' }}>
+            <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>Follow</span>
+          </span>
+        </div>
+      </button>
+    </div>
+    <div dir="auto" className="css-146c3p1" id="id__wcoj9flt6h" style={{ display: 'none' }}>
+      Click to Follow sewon__min
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+<SewonMinTwitterUserDescription />
+<p id="news-0"><span className="glyphicon glyphicon-ok"></span> 11/2024: I won't be attending EMNLP or NeurIPS this year, but my co-authors will be presenting our work!
+  Check out our papers on
+  <a href="https://www.arxiv.org/abs/2407.07087" target="_blank">Benchmarking the Reproduction of Copyrighted Text</a><sup>(EMNLP Main, NeurIPS Regulatable ML Workshop Contributed Talk)</sup>,
+  <a href="https://arxiv.org/abs/2407.12854" target="_blank">Scaling a Datastore in Retrieval-Based LMs</a><sup>(NeurIPS Main)</sup>, and
+  <a href="https://arxiv.org/abs/2409.02060" target="_blank">An Open Mixture-of-Experts LM</a><sup>(NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP), Oral Talk)</sup>.
+  </p>
+  <p id="news-1"><span className="glyphicon glyphicon-ok"></span> 11/2024: <b>I am recruiting PhD students at UC Berkeley's EECS!</b>
+  If you're interested, please apply directly through the UC Berkeley admissions portal (details <a href="https://www.sewonmin.com/faq.html" target="_blank">here</a>).
+  Kindly note that I cannot discuss applications outside the official admissions process.</p><p id="news-2"><span className="glyphicon glyphicon-ok"></span> 12/2023: I am attending EMNLP and NeurIPS!
+    At EMNLP, I will give an invited talk on <a href="https://arxiv.org/abs/2202.12837" target="_blank">Rethinking the Role of Demonstrations</a> at <a href="https://www.bigpictureworkshop.com/" target="_blank">the Big Picture Workshop</a> on Dec 7th,
+    and give an oral talk on <a href="https://arxiv.org/abs/2305.14251" target="_blank">FActScore</a> on Dec 8th.
+    At NeurIPS, I will give a spotlight talk on <a href="https://arxiv.org/abs/2308.04430" target="_blank">SILO</a> at <a href="https://sites.google.com/view/distshift2023" target="_blank">the Distribution Shifts Workshop</a> on Dec 15th,
+    and give an oral talk on <a href="https://arxiv.org/abs/2308.04430" target="_blank">SILO</a> at <a href="https://regulatableml.github.io/" target="_blank">the Regulatable ML Workshop</a> on Dec 16th.</p><p id="news-3"><span className="glyphicon glyphicon-ok"></span> 08/2023: Together with <a href="https://suchin.io/" target="_blank">Suchin Gururangan</a>,
+  we present <a href="https://arxiv.org/abs/2308.04430" target="_blank">SILO</a>, 
+  proposing to segregate the training data and the inference-time data in nonparametric LMs to mitigate legal risk in LMs.
+  </p>
+  <p id="news-4"><span className="glyphicon glyphicon-ok"></span> 07/2023: <a href="https://arxiv.org/abs/2212.10001" target="_blank">Our paper that examines the role of demonstrations in CoT prompting</a>,
+  led by <a href="https://boshi-wang.github.io/" target="_blank">Boshi Wang</a>, won an Honorable Mention at ACL 2023.
+  </p>
+  <p id="news-5"><span className="glyphicon glyphicon-ok"></span> 07/2023: I co-taught a tutorial on <a href="https://ACL2023-Retrieval-LM.github.io" target="_blank">retrieval-based LMs</a> at ACL 2023. Slides &amp; recordings are available on the website.</p><p id="news-6"><span className="glyphicon glyphicon-ok"></span> 12/2022: Check out our new preprint,
+  <a href="https://arxiv.org/abs/2212.01349" target="_blank">Nonparametric Masked Language Modeling</a>.
+  Code and model checkpoints available <a href="https://github.com/facebookresearch/NPM" target="_blank">here</a>.
+  </p>
+  <p id="news-7"><span className="glyphicon glyphicon-ok"></span> 09/2022: I was selected by the EECS Rising Stars Program.</p><p id="news-8"><span className="glyphicon glyphicon-ok"></span> 08/2022: Together with <a href="https://cs.stanford.edu/~eix/" target="_blank">Sang Michael Xie</a>, we wrote a post on <a href="https://ai.stanford.edu/blog/understanding-incontext/" target="_blank">How does in-context learning work? A framework for understanding the differences from traditional supervised learning</a> at Stanford AI Blog.</p>
+  <p id="news-9"><span className="glyphicon glyphicon-ok"></span> 05/2022: I co-taught the ACL tutorial on Few-Shot NLP with Pretrained Language Models (<a href="https://github.com/allenai/acl2022-zerofewshot-tutorial" target="_blank">slides</a>, <a href="https://underline.io/events/284/sessions?eventSessionId=10748" target="_blank">recordings</a>).</p>
+  <p id="news-10"><span className="glyphicon glyphicon-ok"></span> 02/2022: Check out our new preprint, <a href="https://arxiv.org/abs/2202.12837" target="_blank">Rethinking the Role of Demonstrations: What makes In-context Learning Work?</a>
+  All experiments reproducible from <a href="https://github.com/Alrope123/rethinking-demonstrations" target="_blank">this code</a>.
+  (Update 10/2022: The paper was accepted to EMNLP 2022.)
+  </p>
+  <p id="news-11"><span className="glyphicon glyphicon-ok"></span> 02/2022: I am co-organizing two workshops at ACL 2022: <a href="https://sites.google.com/view/repl4nlp2022/home" target="_blank">Repl4NLP</a> (<a href="https://sites.google.com/view/repl4nlp2022/call-for-papers?authuser=0" target="_blank">CFP</a>) and 
+   <a href="http://semiparametric.ml/" target="_blank">Spa-NLP</a> (<a href="http://www.semiparametric.ml/cfp.html" target="_blank">CFP</a>).</p><p id="news-12"><span className="glyphicon glyphicon-ok"></span> 10/2021: Our new preprint, <a href="https://arxiv.org/abs/2110.15943" target="_blank">MetaICL: Learning to Learn In Context</a> is out (w/ <a href="https://github.com/facebookresearch/MetaICL" target="_blank">code</a>).
+  Check out the <a href="http://qa.cs.washington.edu:2021" target="_blank">demo</a>!
+  (Update 04/2022: The paper was accepted to NAACL 2022.)
+  </p>
+
+{/* <p id="news-10"><span className="glyphicon glyphicon-ok"></span> 02/2022: Check out our new preprint, <a href="https://arxiv.org/abs/2202.12837" target="_blank">Rethinking the Role of Demonstrations: What makes In-context Learning Work?</a>
+  All experiments reproducible from <a href="https://github.com/Alrope123/rethinking-demonstrations" target="_blank">this code</a>.
+  (Update 10/2022: The paper was accepted to EMNLP 2022.)
+  </p> */}
+<p id="news-13"><span className="glyphicon glyphicon-ok"></span> 08/2021: Our new preprint, <a href="https://arxiv.org/abs/2108.04106" target="_blank">Noisy Channel Language Model Prompting for Few-Shot Text Classification</a> is out w/ <a href="https://github.com/shmsw25/Channel-LM-Prompting" target="_blank">code</a>!
+  (Update 02/2022: The paper was accepted to ACL 2022.)
+  </p>
+  <p id="news-14"><span className="glyphicon glyphicon-ok"></span> 07/2021: Our new preprint, <a href="https://arxiv.org/abs/2107.02153" target="_blank">FaVIQ: FAct Verification from Information-seeking Questions</a> is out! Visit <a href="https://faviq.github.io" target="_blank">FaVIQ website</a> to download data and see samples.
+  (Update 02/2022: The paper was accepted to ACL 2022.)
+  </p>
+  <p id="news-15"><span className="glyphicon glyphicon-ok"></span> 07/2021: I am co-organizing <a href="https://uskb-workshop.github.io/" target="_blank">The 2nd Workshop on Unstructured/Structured KBs</a>, hosted at AKBC 2021.</p><p id="news-16"><span className="glyphicon glyphicon-ok"></span> 06/2021: I co-taught the NAACL-HLT tutorial on <a href="https://github.com/allenai/naacl2021-longdoc-tutorial" target="_blank">Beyond Paragraphs: NLP for Long Sequences</a>.</p><p id="news-17"><span className="glyphicon glyphicon-ok"></span> 04/2021: Our new preprint, <a href="https://arxiv.org/abs/2104.08445" target="_blank">Joint Passage Ranking for Diverse Multi-Answer Retrieval</a>
+  is out! This is done as part of my internship at Google.
+  (Update 08/2021: The paper was accepted to EMNLP.)
+  </p>
+  <p id="news-18"><span className="glyphicon glyphicon-ok"></span> 01/2021: We, the NeurIPS 2020 EfficientQA organizers, together with participants,
+  wrote <a href="https://arxiv.org/abs/2101.00133" target="_blank">NeurIPS 2020 EfficientQA Competition:
+  	Systems, Analyses and Lessons Learned</a>.
+  The video of the NeuIPS event is also available <a href="https://www.youtube.com/watch?v=3tdWV4vAf2I" target="_blank">here</a>.
+   (Update 05/2021: The paper was accepted to PMLR.)</p>
+   <p id="news-19"><span className="glyphicon glyphicon-ok"></span> 12/2020: I am co-organizing <a href="https://mrqa.github.io/" target="_blank">The 3rd Workshop on Machine Reading for Question Answering</a>, hosted at EMNLP 2021. Stay tuned for Call for papers!</p><p id="news-20"><span className="glyphicon glyphicon-ok"></span> 09/2020: I made an <a href="http://qa.cs.washington.edu:2020" target="_blank">Open-domain QA Demo</a> using <a href="https://arxiv.org/abs/2004.04906" target="_blank">DPR</a>. Give it a try!</p>
+   <p id="news-21"><span className="glyphicon glyphicon-ok"></span> 06/2020: I am co-organizing <a href="http://efficientqa.github.io/" target="_blank">Competition on Efficient Open-Domain Question Answering</a>, hosted at NeurIPS 2020. [<a href="https://ai.google.com/research/NaturalQuestions/efficientqa" target="_blank">leaderboard</a>]</p>
+   <p id="news-22"><span className="glyphicon glyphicon-ok"></span> 06/2020: I am co-organizing <a href="https://uskb-workshop.github.io/" target="_blank">Workshop on Unstructured/Structured KBs</a>, hosted at AKBC 2020.</p>
+   <p id="news-23"><span className="glyphicon glyphicon-ok"></span> 04/2020: Our new preprint, <a href="https://arxiv.org/abs/2004.10645" target="_blank">AmbigQA: Answering Ambiguous Open-domain Questions</a>
+  is out! Visit <a href="https://nlp.cs.washington.edu/ambigqa/" target="_blank">AmbigQA website</a> to download data and see samples.</p>
+  <p id="news-24"><span className="glyphicon glyphicon-ok"></span> 04/2020: Our new preprint, <a href="https://arxiv.org/abs/2004.04906" target="_blank">Dense Passage Retrieval for Open-domain Question Answering</a>
+  is out (w/ <a href="https://github.com/facebookresearch/DPR" target="_blank">code</a>)!</p><p style={{marginTop: '5px'}}></p>
+
+</div>
 
 </div>
 
