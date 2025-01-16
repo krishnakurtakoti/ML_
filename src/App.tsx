@@ -18,9 +18,13 @@ import CharlieMarsh_PublicProjects from './CharlieMarsh_PublicProjects';
 import CharlieMarshNotionArticle from './CharlieMarshNotionArticle';
 import CharlieMarsh_PostsList from './CharlieMarsh_PostsList';
 import KevinFransPostCard from './KevinFransPostCard';
+import KevinFransPostCardWithSeparateCSS from './KevinFransPostCardWithSeparateCSS';
 import {stathiskamperisLinkedInPost} from './stathiskamperisLinkedInPost';
 import StathisKamperisLinks from './StathisKamperisLinks';
 import SewonMinTwitterUserDescription from './SewonMinTwitterUserDescription';
+import KristofferCarlsson from './KristofferCarlsson';
+import KristofferCarlssonTilesOnly from './KristofferCarlssonTilesOnly';
+import KristofferCarlssonTilesOnly1 from './KristofferCarlssonTilesOnly1';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1107,6 +1111,7 @@ function App() {
             In&nbsp;my&nbsp;free&nbsp;time, I&nbsp;like to design and build&nbsp;<a href="https://store.steampowered.com/app/810780/RAIN_Project__a_touhou_fangame/">video</a>
             &nbsp;<a href="https://store.steampowered.com/app/1256660/Iwate_Mountain_Dance/">games</a>.</p>
 
+<KevinFransPostCardWithSeparateCSS />
 </li>
 
 
@@ -1227,6 +1232,21 @@ Veggie 🌿, opinions are my own.</div></h3>
           </a>
 
           <Bishal_Santra_BlogPosts />
+</li>
+<li>
+
+<a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Kristoffer Carlsson </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3>    <div>Software engineer, Julia Computing</div></h3>
+          </a>
+            <KristofferCarlssonTilesOnly1 />
+          {/* <KristofferCarlssonTilesOnly /> */}
+          {/* <KristofferCarlsson /> */}
+
 </li>
 <li>
 
@@ -6663,6 +6683,44 @@ Veggie 🌿, opinions are my own.</div>
   is out (w/ <a href="https://github.com/facebookresearch/DPR" target="_blank">code</a>)!</p><p style={{marginTop: '5px'}}></p>
 
 </div>
+
+
+
+
+<div id="KristofferCarlsson">
+
+<a href="https://kristofferc.github.io/" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Kristoffer Carlsson </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3>    <div>Software engineer, Julia Computing</div></h3>
+          </a>
+<KristofferCarlsson />
+
+
+<p>Here are some of the open source projects I have created or been involved with:</p>
+<ul>
+<li><a href="https://github.com/JuliaLang/Pkg.jl" target="_blank">Pkg.jl</a> – Julia’s package manager.</li>
+<li><a href="https://github.com/KristofferC/NearestNeighbors.jl" target="_blank">NearestNeighbors.jl</a> – High performance nearest neighbor data structures and algorithms.</li>
+<li><a href="https://github.com/KristofferC/Tensors.jl" target="_blank">Tensors.jl</a> – Efficient computations with symmetric and non-symmetric tensors with support for automatic differentiation.</li>
+<li><a href="https://github.com/KristofferC/OhMyREPL.jl" target="_blank">OhMyREPL.jl</a> – Syntax highlighting and other enhancements for the Julia REPL.</li>
+<li><a href="https://github.com/KristofferC/Crayons.jl" target="_blank">Crayons.jl</a> – Colored and styled strings for terminals.</li>
+<li><a href="https://github.com/KristofferC/PGFPlotsX" target="_blank">PGFPlotsX.jl</a> – Seamlessly create plots in Julia using the PGFPlots LaTeX package.</li>
+<li><a href="https://github.com/JuliaSparse/Pardiso.jl" target="_blank">Pardiso.jl</a> – Calling the PARDISO sparse solver library.</li>
+<li><a href="https://github.com/KristofferC/Tokenize.jl" target="_blank">Tokenize.jl</a> –Tokenization for Julia source code.</li>
+<li><a href="https://github.com/KristofferC/TimerOutputs.jl" target="_blank">TimerOutputs.jl</a> – Formatted output of timed sections.</li>
+<li><a href="https://github.com/KristofferC/BlockArrays.jl" target="_blank">BlockArrays.jl</a> – Interface for blocked arrays.</li>
+<li><a href="https://github.com/JuliaStats/Distances.jl" target="_blank">Distances.jl</a> – A Julia package for evaluating distances(metrics) between vectors.</li>
+<li><a href="https://github.com/EconForge/NLsolve.jl" target="_blank">NLsolve.jl</a> – Julia solvers for systems of nonlinear equations and mixed complementarity problems</li>
+<li><a href="https://github.com/KristofferC/MMA.jl" target="_blank">MMA.jl</a> – The “Method of Moving Asymptotes”-algorithm. (old package)</li>
+</ul>
+
+
+</div>
+
+
 
 </div>
 

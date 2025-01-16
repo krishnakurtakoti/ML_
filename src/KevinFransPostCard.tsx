@@ -585,7 +585,7 @@ const KevinFransPostCard = () => {
           </header>
         </div>
       </article>
-      <article className="post-card post tag-research no-image no-image">
+      {/* <article className="post-card post tag-research no-image no-image">
         <div className="post-card-content">
           <header className="post-card-header" style={{ display: 'flex' }}>
             <span
@@ -695,7 +695,7 @@ const KevinFransPostCard = () => {
             </h3>
           </header>
         </div>
-      </article>
+      </article> */}
       <article className="post-card post tag-tutorials no-image no-image">
         <div className="post-card-content">
           <header className="post-card-header" style={{ display: 'flex' }}>

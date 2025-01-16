@@ -673,3 +673,138 @@ ul.bishal-santra-post-list li {
   margin: 0;
   padding: 0;
 }
+.kevn_frans-post-feed {
+  flex: 1 1 300px;
+}
+
+.kevn_frans-post-card {
+  /* Common styling for the post card */
+}
+
+.kevn_frans-post-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Align items to the start */
+  flex-wrap: wrap; /* Allow wrapping of content */
+  gap: 7.8px; /* Space between date and title */
+}
+
+.kevn_frans-post-card-header span {
+  color: rgb(167, 167, 167);
+  text-align: right;
+  padding-right: 20px;
+  white-space: nowrap; /* Prevent wrapping of the time */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Add ellipsis if the time is clipped */
+}
+
+.kevn_frans-post-card-header time {
+  font-size: 14px;
+}
+
+.kevn_frans-post-card-title {
+  margin: 0; /* Remove default margin */
+  flex-grow: 1; /* Allow the title to take up remaining space */
+}
+
+.kevn_frans-post-card-title b {
+  font-weight: bold;
+}
+
+.kevn_frans-post-card-content-link {
+  text-decoration: none;
+}
+
+/* Prevents space after each article */
+.kevn_frans-post-card + .kevn_frans-post-card {
+  margin-top: 0;
+}
+.KristofferCarlsson-article-list-item {
+  margin-bottom: 40px;
+}
+
+.KristofferCarlsson-article-metadata a {
+  color: #888;
+}
+
+a, h3.KristofferCarlsson-article-title a:hover {
+  color: #0095eb;
+  text-decoration: none;
+  transition: color 0.6s ease;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+a {
+  background-color: transparent;
+}
+
+.btn-primary.btn-outline {
+  color: #0095eb;
+  border-color: #0095eb;
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: inherit;
+  transition: all .5s;
+}
+
+.btn-primary {
+  border-color: #0095eb;
+  background: #0095eb;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.KristofferCarlsson-navbar-default .KristofferCarlsson-navbar-brand {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #2b2b2b;
+}
+
+.KristofferCarlsson-navbar-default .KristofferCarlsson-navbar-brand {
+  color: #777;
+}
+@media screen and (max-width: 1200px) {
+  .KristofferCarlsson-navbar-brand, 
+  .KristofferCarlsson-navbar-nav li a {
+      height: inherit;
+      line-height: 40px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+}
+.KristofferCarlsson-article-list-item-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
