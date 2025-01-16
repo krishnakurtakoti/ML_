@@ -830,28 +830,43 @@ function App() {
     </h3>
   </li> */}
   <li style={{ marginBottom: '8px' }}>
-    <span className="post-meta">May 30, 2021</span>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
+    <span className="post-meta" style={{ marginRight: '10px' }}>May 30, 2021</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/torchSDE/">
         Pricing Options with TorchSDE
       </a>
     </h3>
-  </li>
+  </div>
+</li>
+
+  {/* <li style={{ marginBottom: '8px' }}>
+    <span className="post-meta" style={{ marginRight: '10px' }}>May 30, 2021</span>
+    <h3 style={{ margin: '4px 0' }}>
+      <a className="post-link" href="https://jparkhill.netlify.app/torchSDE/">
+        Pricing Options with TorchSDE
+      </a>
+    </h3>
+  </li> */}
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Apr 30, 2021</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/SolvingDiffusions/">
         Solving multidimensional PDEs in pytorch
       </a>
     </h3>
+    </div>
   </li>
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Apr 7, 2021</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/HoldingVIX/">
         Using simple mean-reversion to remove carry from a VIX futures position
       </a>
     </h3>
+    </div>
   </li>
   {/* <li style={{ marginBottom: '8px' }}>
     <span className="post-meta">Mar 11, 2021</span>
@@ -862,28 +877,35 @@ function App() {
     </h3>
   </li> */}
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Mar 6, 2021</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/InformationInStochasticSeries/">
         Simply Extracting information out of your Stochastic Series
       </a>
     </h3>
+    </div>
   </li>
   <li style={{ marginBottom: '8px' }}>
-    <span className="post-meta">Jan 6, 2021</span>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
+  <span className="post-meta">Jan 6, 2021</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/MultivariateGumbel/">
         Copulas made simple with Pytorch Distributions
       </a>
     </h3>
+  </div>
+
   </li>
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Dec 5, 2020</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/HowToBet/">
         How to Size Bets. The Kelly Criterion in PyTorch
       </a>
     </h3>
+    </div>
   </li>
   {/* <li style={{ marginBottom: '8px' }}>
     <span className="post-meta">Nov 5, 2020</span>
@@ -902,20 +924,24 @@ function App() {
     </h3>
   </li> */}
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Sep 21, 2020</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/SomeArt/">
         Some Robot Art
       </a>
     </h3>
+    </div>
   </li>
   <li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="post-meta">Sep 5, 2020</span>
     <h3 style={{ margin: '4px 0' }}>
       <a className="post-link" href="https://jparkhill.netlify.app/QuaternionAveraging/">
         Quaternion Averaging in Pytorch
       </a>
     </h3>
+    </div>
   </li>
   {/* <li style={{ marginBottom: '8px' }}> 
     <span className="post-meta">Aug 5, 2020</span>
@@ -6225,13 +6251,26 @@ Veggie 🌿, opinions are my own.</div>
 
         <ul className="bishal-santra-post-list">
   <li>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
     <span className="bishal-santra-post-meta">Aug 12, 2023</span>
     <h3>
       <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/blog/2023/08/12/llm-channel-method-flaw.html">
         Explaining Issues with Channel Method in LLM Prompt-based Classification
       </a>
     </h3>
+    </div>
   </li>
+  <li>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
+    <span className="bishal-santra-post-meta" style={{ marginRight: '10px' }}>Aug 12, 2023</span>
+    <h3 style={{ margin: '0' }}>
+      <a className="bishal-santra-post-link" href="https://bsantraigi.github.io/blog/2023/08/12/llm-channel-method-flaw.html">
+        Explaining Issues with Channel Method in LLM Prompt-based Classification
+      </a>
+    </h3>
+  </div>
+</li>
+
   <li>
     <span className="bishal-santra-post-meta">Feb 11, 2023</span>
     <h3>
