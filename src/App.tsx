@@ -468,7 +468,7 @@ function App() {
           <a href="http://blog.ezyang.com/about/" className="site-title">ezyang &#39;s blog</a>
 
           </h1> */}
-            <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
+            {/* <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
             <h1 className="vcard-names1 ">
 
                 <span className="p-name vcard-fullname d-block overflow-hidden" 
@@ -488,8 +488,21 @@ function App() {
                 <h2>
                 About | Academic | GitHub | CV
                 </h2>
-            </a>
+            </a> */}
 
+            <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
+  <h1 className="vcard-names1" style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Andrew Tulloch—Machine Learning, Statistics, Systems
+    </span>
+    <span className="p-nickname vcard-username d-block">
+      {/* Nickname (if needed) */}
+    </span>
+  </h1>
+  <h2 style={{ margin: 0 }}>
+    About | Academic | GitHub | CV
+  </h2>
+</a>
 
             <li>
 
@@ -550,7 +563,7 @@ function App() {
           <a href="http://blog.ezyang.com/about/" className="site-title">ezyang &#39;s blog</a>
 
           </h1> */}
-            <a href="#m-clark" style={{ textDecoration: 'underline' }}>
+            {/* <a href="#m-clark" style={{ textDecoration: 'underline' }}>
             <h1 className="vcard-names1 ">
 
                 <span className="p-name vcard-fullname d-block overflow-hidden" 
@@ -570,8 +583,21 @@ function App() {
                 <h2>
                 https://m-clark.github.io/about.html
                 </h2>
-            </a>
+            </a> */}
 
+            <a href="#Vincent_Qin" style={{ textDecoration: 'underline' }}>
+  <h1 className="vcard-names1" style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Andrew Tulloch—Machine Learning, Statistics, Systems
+    </span>
+    <span className="p-nickname vcard-username d-block">
+      {/* Nickname (if needed) */}
+    </span>
+  </h1>
+  <h2 style={{ margin: 0 }}>
+    About | Academic | GitHub | CV
+  </h2>
+</a>
 
             <li>
 
@@ -714,7 +740,7 @@ function App() {
 
         </li>
         <li>
-            <a href="#@GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            {/* <a href="#@GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               Grant Slatton </span>
@@ -723,7 +749,22 @@ function App() {
               </span>
             </h1>
             <h3>Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at http://rowzero.com</h3>
-          </a>
+          </a> */}
+
+          <a href="#@GrantSlatton" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Grant Slatton
+    </span>
+    <span className="p-nickname vcard-username d-block">
+      {/* Nickname (if needed) */}
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    Formerly built the world's fastest filesystem at AWS, now the fastest spreadsheet at <a href="http://rowzero.com">rowzero.com</a>
+  </h3>
+</a>
+
 
           <p><a href="https://grantslatton.com/binary-iq" className="grantslatton-a">Binary IQ</a> — A model of LLM capability</p>
 
@@ -1143,16 +1184,31 @@ function App() {
 
 <li>
 
-<a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+{/* <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               @Alexandre_Mutel </span>
-              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            
             </h1>
             <h3><div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
 Microsoft MVP, ex-demoscene PC/Amiga 🎆
 Veggie 🌿, opinions are my own.</div></h3>
-          </a>
+          </a> */}
+          <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      @Alexandre_Mutel
+    </span>
+    
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+      Microsoft MVP, ex-demoscene PC/Amiga 🎆
+      Veggie 🌿, opinions are my own.
+    </div>
+  </h3>
+</a>
 
 <Alexandre_MutelBlogPosts />
 {/* 
@@ -1247,28 +1303,64 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
 <li>
 
-<a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+{/* <a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               @Bishal Santra </span>
-              {/* <span className="p-nickname vcard-username d-block"></span> */}
+             
             </h1>
             <h3> <div>Research Engineer <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/microsoft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/microsoft">@microsoft</a> Research India | 
             Working on Language Modeling for Retrieval | IIT KGP</div></h3>
-          </a>
+          </a> */}
+<a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      @Bishal Santra
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      Research Engineer 
+      <a className="user-mention notranslate" 
+         data-hovercard-type="organization" 
+         data-hovercard-url="/orgs/microsoft/hovercard" 
+         data-octo-click="hovercard-link-click" 
+         data-octo-dimensions="link_type:self" 
+         href="https://github.com/microsoft">
+        @microsoft
+      </a> 
+      Research India | Working on Language Modeling for Retrieval | IIT KGP
+    </div>
+  </h3>
+</a>
 
           <Bishal_Santra_BlogPosts />
 </li>
 <li>
 
-<a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+{/* <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               Kristoffer Carlsson </span>
-              {/* <span className="p-nickname vcard-username d-block"></span> */}
+             
             </h1>
             <h3>    <div>Software engineer, Julia Computing</div></h3>
-          </a>
+          </a> */}
+
+          <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kristoffer Carlsson
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>Software engineer, Julia Computing</div>
+  </h3>
+</a>
+
+
+
             <KristofferCarlssonTilesOnly1 />
           {/* <KristofferCarlssonTilesOnly /> */}
           {/* <KristofferCarlsson /> */}
@@ -1276,20 +1368,124 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
 <li>
 
-<a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+{/* <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               Stathis Kamperis </span>
-              {/* <span className="p-nickname vcard-username d-block"></span> */}
+              
             </h1>
             <h3>    <div>I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).</div></h3>
-          </a>
+          </a> */}
+          <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Stathis Kamperis
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).
+    </div>
+  </h3>
+</a>
 
 
 </li>
 <li>
+{/* <a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Danielle Navarro </span>
+             
+            </h1>
+            <h3>    <p>Hi there! I’m Danielle Navarro. I’m a 
+              <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+            data scientist</a>, 
+            
+            <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">generative artist</a>, and a <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">recovering academic</a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.</p></h3>
+          </a> */}
+<a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Danielle Navarro
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>Hi there! I’m Danielle Navarro. I’m a 
+      <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+        data scientist
+      </a>, 
+      <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">
+        generative artist
+      </a>, and a 
+      <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">
+        recovering academic
+      </a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.
+    </p>
+  </h3>
+</a>
 
-<a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+
+</li>
+<li>
+{/* <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie </span>
+             
+            </h1>
+            <h3>    <p>Hi there! I’m Yihui Xie. I’m a <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+              Freelancer (open source programmer, contractor, blogger, and writer)</a></p></h3>
+          </a> */}
+
+
+          <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie</span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>Hi there! I’m Yihui Xie. I’m a 
+      <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+        Freelancer (open source programmer, contractor, blogger, and writer)
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+{/* <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            ThomasLumley </span></h1>
+            <h3>    <p><span className="p-nickname vcard-username d-block">
+            on Mastodon and Blu Esky
+            </span></p> </h3>
+          
+        </a> */}
+
+
+        <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      ThomasLumley
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>
+      <span className="p-nickname vcard-username d-block">
+        on Mastodon and Blu Esky
+      </span>
+    </p>
+  </h3>
+</a>
+
+        </li>
+<li>
+
+{/* <a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
               <span className="p-name vcard-fullname d-block overflow-hidden">
               Alex Nichol </span>
@@ -1298,7 +1494,23 @@ Veggie 🌿, opinions are my own.</div></h3>
               </span>
             </h1>
             <h3>AI researcher, hobby web developer, math geek. Constantly learning.</h3>
-          </a>
+          </a> */}
+          <a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Alex Nichol
+    </span>
+    <span className="p-nickname vcard-username d-block">
+      {/* Nickname (if needed) */}
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    AI researcher, hobby web developer, math geek. Constantly learning.
+  </h3>
+</a>
+
+
+
 <ul className="article-list">
           <li style={{ marginBottom: '0' }}>
             <a href="https://blog.aqnichol.com/2024/11/29/honeycrisp-a-deep-learning-framework/">
@@ -6758,6 +6970,366 @@ Veggie 🌿, opinions are my own.</div>
 
 
 </div>
+
+
+
+<div id="DanielleNavarro">
+
+
+
+<a href="https://djnavarro.net/about/" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Danielle Navarro </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3>    <p>Hi there! I’m Danielle Navarro. I’m a 
+              <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+            data scientist</a>, 
+            
+            <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">generative artist</a>, and a <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">recovering academic</a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.</p></h3>
+          </a>
+
+
+
+
+  
+          <section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/2896325?v=4" 
+  alt="@djnavarro profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/djnavarro" data-view-component="true" className="Link--primary Link text-bold">djnavarro  </a>
+              <span data-view-component="true" className="color-fg-muted text-normal">Danielle Navarro</span>
+            </p>
+            <div>Data scientist. Former academic. Occasional generative artist</div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    233
+                    repositories
+                  </span>
+                  <span>
+                    1.1k
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+
+
+
+
+
+
+
+
+
+          <header id="title-block-header" className="quarto-title-block default">
+<div className="quarto-title">
+<h1 className="title">Contact details, social media, etc</h1>
+</div>
+
+
+
+<div className="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<ul>
+<li>Email: <a href="mailto:djnavarro@protonmail.com" data-original-href="mailto:djnavarro@protonmail.com">djnavarro@protonmail.com</a></li>
+<li>GitHub: <a href="https://github.com/djnavarro" data-original-href="https://github.com/djnavarro">github.com/djnavarro</a></li>
+<li>Mastodon: <a href="https://hachyderm.io/@djnavarro" data-original-href="https://hachyderm.io/@djnavarro">hachyderm.io/<span className="citation" data-cites="djnavarro">@djnavarro</span></a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/djnavarro" data-original-href="https://www.linkedin.com/in/djnavarro">linkedin.com/in/djnavarro</a> 
+{/* <!-- 
+- YouTube: [www.youtube.com/c/daniellenavarro77](https://www.youtube.com/c/daniellenavarro77)
+- Twitter (defunct): [twitter.com/djnavarro](https://twitter.com/djnavarro)
+--> */}
+</li>
+<li>Orcid: <a href="https://orcid.org/0000-0001-7648-6578" data-original-href="https://orcid.org/0000-0001-7648-6578">orcid.org/0000-0001-7648-6578</a></li>
+<li>Scholar: <a href="https://scholar.google.com/citations?user=QPH_lRIAAAAJ" data-original-href="https://scholar.google.com/citations?user=QPH_lRIAAAAJ">scholar.google.com/citations?user=QPH_lRIAAAAJ</a></li>
+</ul>
+
+
+<div className="quarto-title column-page-left">
+      <h1 className="title">Notes from a data witch</h1>
+            <p className="subtitle lead">A blog by Danielle Navarro</p>
+                      </div>
+                      <h3>    <p>Hi there! I’m Danielle Navarro.</p> 
+              <p><a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+              A blog by Danielle Navarro</a></p>
+            </h3>
+
+</div>
+
+
+
+
+
+<div id="YihuiXie">
+
+
+
+<a href="https://github.com/yihui" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie </span>
+              {/* <span className="p-nickname vcard-username d-block"></span> */}
+            </h1>
+            <h3>    <p>Hi there! I’m Yihui Xie. I’m a <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+              Freelancer (open source programmer, contractor, blogger, and writer)</a></p></h3>
+          </a>
+
+
+
+          <p>I’m currently a freelancer, and was a software engineer at Posit Software, PBC
+(2013-2023). I earned my PhD from the Department of Statistics, Iowa State
+University. My <a href="https://lib.dr.iastate.edu/etd/13518/" title="https://lib.dr.iastate.edu/etd/13518/" target="_blank">thesis</a> was <em>Dynamic
+<a href="https://github.com/ggobi/cranvas" title="https://github.com/ggobi/cranvas" target="_blank">Graphics</a> and <a href="/knitr/" title="https://yihui.org/knitr/">Reporting</a> for
+Statistics</em>, advised by <a href="https://www.dicook.org" title="https://www.dicook.org/" target="_blank">Di Cook</a> and <a href="https://www.stat.iastate.edu/people/heike-hofmann" title="https://www.stat.iastate.edu/people/heike-hofmann" target="_blank">Heike
+Hofmann</a>. I have developed a
+series of R packages either seriously or for
+<a href="https://cran.rstudio.com/package=fun" title="https://cran.rstudio.com/package=fun" target="_blank">fun</a> (or both), such as
+<a href="/litedown/" title="https://yihui.org/litedown/">litedown</a>, <a href="/knitr/" title="https://yihui.org/knitr/">knitr</a>, <a href="/animation/" title="https://yihui.org/animation/">animation</a>,
+<a href="https://bookdown.org" title="https://bookdown.org/" target="_blank">bookdown</a>,
+<a href="https://github.com/rstudio/blogdown" title="https://github.com/rstudio/blogdown" target="_blank">blogdown</a>,
+<a href="https://github.com/rstudio/pagedown" title="https://github.com/rstudio/pagedown" target="_blank">pagedown</a>,
+<a href="https://slides.yihui.org/xaringan/" title="https://slides.yihui.org/xaringan/" target="_blank">xaringan</a>, and <a href="/tinytex/" title="https://yihui.org/tinytex/">tinytex</a>. I
+founded a Chinese website called “<a href="https://cosx.org" title="https://cosx.org/" target="_blank">Capital of Statistics</a>” in
+2006, which has grown into a large online community on statistics. I initiated
+the China R conference in 2008. I’m a big fan of
+<a href="https://github.com/yihui" title="https://github.com/yihui" target="_blank">GitHub</a>, <a href="https://www.lyx.org" title="https://www.lyx.org/" target="_blank">LyX</a> and
+<a href="https://pandoc.org" title="https://pandoc.org/" target="_blank">Pandoc</a>. I used to hate IE but no longer care since it has
+almost died. I fall asleep when I see beamer slides, and I yell at people who
+use <code>\textbf{}</code> to write <code>\title{}</code>. I know I cannot eat code, so I cook almost
+every day to stay away from my computer for two hours.</p>
+
+
+<p>Author: <a href="https://github.com/yihui" target="_blank">Yihui Xie</a><br></br>
+  I was introduced to this Author by this Mastodon post - 
+  <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br>
+  by the Author 
+  <a href="https://hachyderm.io/@djnavarro" target="_blank">hachyderm.io/@djnavarro</a>
+</p>
+
+
+  
+<section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Rishit-dagli" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/163582?v=4" 
+  alt="@djnavarro profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/yihui" data-view-component="true" className="Link--primary Link text-bold">yihui </a>
+              <span data-view-component="true" className="color-fg-muted text-normal">Yihui Xie</span>
+            </p>
+            <div> <p>Hi there! I’m Yihui Xie. I’m a <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+            Freelancer (open source programmer, contractor, blogger, and writer)</a></p></div>
+
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    89
+                    repositories
+                  </span>
+                  <span>
+                    9.6k
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+
+
+
+
+<h2>2018</h2>
+<li><span>2018-07-30</span> <a href="https://yihui.org/en/2018/07/sql-stats-computing/">Solving Statistical Computing Problems with SQL</a></li>
+</div>
+
+<div id="@tslumley">
+
+<a href="https://x.com/tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            ThomasLumley </span>
+            <span className="p-nickname vcard-username d-block">
+            on Mastodon and Blu Esky
+            </span>
+          </h1>
+        </a>
+
+<p>
+  I got this tweet: <a href="https://x.com/tslumley/status/1023850297028829184" target="_blank">Thomas Lumley on X: "Blog post, software, and preprint for my #JSM2018 talk/poster"</a><br></br>
+  from this Author: <a href="https://yihui.org/en/" target="_blank">Yihui Xie</a><br></br>
+  from his blog post: <a href="https://yihui.org/en/2018/07/sql-stats-computing/" target="_blank">Solving Statistical Computing Problems with SQL - Yihui Xie | 谢益辉</a>
+</p>
+
+
+<a href="https://notstatschat.rbind.io/2018/03/05/faster-generalised-linear-models-in-largeish-data/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
+  <h1 className="article-title" style={{ margin: 0, flex: 1 }}>
+    Faster generalised linear models in largeish data
+  </h1>
+  <span className="article-date" style={{ marginLeft: '10px' }}>
+    2018/03/05
+  </span>
+</a>
+
+
+<div className="css-175oi2r r-1iusvr4 r-16y2uox">
+  <div className="css-175oi2r r-1awozwy r-18u37iz r-1wtj0ep">
+    <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+      <div className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l">
+        <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+          <a href="https://x.com/tslumley" role="link" className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+            <div className="css-175oi2r r-1awozwy r-18u37iz r-dnmrzs">
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-1udh08x r-3s2u2q" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>Thomas Lumley</span>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-9iso6" style={{ textOverflow: 'unset' }}></span>
+                </span>
+              </div>
+              <div dir="ltr" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-xoduu5 r-18u37iz r-1q142lx" style={{ textOverflow: 'unset', color: 'rgb(15, 20, 25)' }}>
+                <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1awozwy r-xoduu5" style={{ textOverflow: 'unset' }}>
+                  {/* Updated SVG size */}
+                  <svg viewBox="0 0 22 22" aria-label="Verified account" role="img" className="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-lrvibr r-m6rgpd r-1cvl2hr r-f9ja8p r-og9te1 r-3t4u6i" data-testid="icon-verified" style={{ width: '16px', height: '16px' }}>
+                    <g><path d="M20.396 11c-.018-.646-.215-1.275-.57-1.816-.354-.54-.852-.972-1.438-1.246.223-.607.27-1.264.14-1.897-.131-.634-.437-1.218-.882-1.687-.47-.445-1.053-.75-1.687-.882-.633-.13-1.29-.083-1.897.14-.273-.587-.704-1.086-1.245-1.44S11.647 1.62 11 1.604c-.646.017-1.273.213-1.813.568s-.969.854-1.24 1.44c-.608-.223-1.267-.272-1.902-.14-.635.13-1.22.436-1.69.882-.445.47-.749 1.055-.878 1.688-.13.633-.08 1.29.144 1.896-.587.274-1.087.705-1.443 1.245-.356.54-.555 1.17-.574 1.817.02.647.218 1.276.574 1.817.356.54.856.972 1.443 1.245-.224.606-.274 1.263-.144 1.896.13.634.433 1.218.877 1.688.47.443 1.054.747 1.687.878.633.132 1.29.084 1.897-.136.274.586.705 1.084 1.246 1.439.54.354 1.17.551 1.816.569.647-.016 1.276-.213 1.817-.567s.972-.854 1.245-1.44c.604.239 1.266.296 1.903.164.636-.132 1.22-.447 1.68-.907.46-.46.776-1.044.908-1.681s.075-1.299-.165-1.903c.586-.274 1.084-.705 1.439-1.246.354-.54.551-1.17.569-1.816zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"></path></g>
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div className="css-175oi2r r-1awozwy r-18u37iz r-1wbh5a2">
+          <div className="css-175oi2r r-1wbh5a2 r-dnmrzs">
+            <a href="https://x.com/tslumley" role="link" 
+            // tabIndex="-1" 
+            className="css-175oi2r r-1wbh5a2 r-dnmrzs r-1ny4l3l r-1loqt21">
+              <div className="css-175oi2r">
+                <div dir="ltr" className="css-146c3p1 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41 r-18u37iz r-1wvb978" style={{ textOverflow: 'unset', color: 'rgb(83, 100, 113)' }}>
+                  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>@tslumley</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="css-175oi2r r-1cwvpvk" style={{ minWidth: '0px' }}>
+      <button aria-describedby="id__wcoj9flt6h" aria-label="Follow @tslumley" role="button" className="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" data-testid="731230526778970112-follow" type="button" style={{ backgroundColor: 'rgb(15, 20, 25)', borderColor: 'rgba(0, 0, 0, 0)' }}>
+        <div dir="ltr" className="css-146c3p1 r-bcqeeo r-qvutc0 r-37j5jr r-q4m81j r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-18u37iz r-16y2uox r-1777fci" style={{ textOverflow: 'unset', color: 'rgb(255, 255, 255)' }}>
+          <span className="css-1jxf684 r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1b43r93 r-1cwl3u0" style={{ textOverflow: 'unset' }}>
+            <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3" style={{ textOverflow: 'unset' }}>Follow</span>
+          </span>
+        </div>
+      </button>
+    </div>
+    <div dir="auto" className="css-146c3p1" id="id__wcoj9flt6h" style={{ display: 'none' }}>
+      Click to Follow tslumley
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+</div>
+
+
+
 
 
 
