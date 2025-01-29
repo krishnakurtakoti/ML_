@@ -808,3 +808,46 @@ a {
   margin-top: 0;
   margin-bottom: 0;
 }
+/* IssueHeader.css */
+
+.gh-header-title {
+  margin-right: 150px;
+  margin-bottom: 0;
+  font-weight: var(--base-text-weight-normal, 400);
+  line-height: 1.125;
+  word-wrap: break-word;
+}
+
+.wb-break-word {
+  word-break: break-word !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
+.lh-condensed {
+  line-height: 1.25 !important;
+}
+
+.f1 {
+  font-size: var(--h1-size-mobile, 26px) !important;
+}
+
+.mb-2 {
+  margin-bottom: var(--base-size-8, 8px) !important;
+}
+
+.mr-0 {
+  margin-right: 0 !important;
+}
+
+.flex-auto {
+  flex: auto !important;
+}
+
+.f1-light {
+  font-weight: lighter; /* Adding the light style for the f1 class */
+}
+
+.color-fg-muted {
+  color: #6a737d; /* Color for the muted text */
+}

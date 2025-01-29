@@ -25,6 +25,11 @@ import SewonMinTwitterUserDescription from './SewonMinTwitterUserDescription';
 import KristofferCarlsson from './KristofferCarlsson';
 import KristofferCarlssonTilesOnly from './KristofferCarlssonTilesOnly';
 import KristofferCarlssonTilesOnly1 from './KristofferCarlssonTilesOnly1';
+import roboticcam_machine_learning_notes_github_repository from './RoboticCamMachineLearningNotesGithubRepository';
+import RoboticCamMachineLearningNotesGithubRepository from './RoboticCamMachineLearningNotesGithubRepository';
+import JuanitorduzGitHubProfile from './Juanitorduz';
+import AlexanderFischerGitHubProfile from './AlexanderFischerGitHubProfile';
+import RossWightmanGitHubProfile from './RossWightmanGitHubProfile';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1483,6 +1488,87 @@ Veggie 🌿, opinions are my own.</div></h3>
 </a>
 
         </li>
+ <li>
+
+   
+        <a
+  href="#roboticcam-machine-learning-note"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Prof Richard Xu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Prof Richard Xu.
+      <a
+        href="https://github.com/roboticcam"
+        data-original-href="https://github.com/roboticcam"
+      >
+        <div style={{ margin: 0 }}>
+          I am a Professor at the Department of Mathematics, Hong Kong Baptist
+          University (HKBU) 香港浸会大学数学系教授
+        </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+<a
+  href="#AlexanderFischerGitHubProfile"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Alexander Fischer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Alexander Fischer.
+      <a
+        href="https://github.com/s3alfisc"
+        data-original-href="https://github.com/s3alfisc"
+      >
+          <div>Data Scientist <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/trivago/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trivago">@trivago</a> </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+</li>
+<li>
+<a
+  href="#RossWightmanGitHubProfile"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Ross Wightman
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Ross Wightman.
+      <a
+        href="https://github.com/rwightman"
+        data-original-href="https://github.com/rwightman"
+      >
+          <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
 <li>
 
 {/* <a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
@@ -1641,7 +1727,34 @@ Veggie 🌿, opinions are my own.</div></h3>
         </ul>
 
 </li>
+<li>
+<a
+  href="#githubcom_huggingface_transformers_pull_35848"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Ross Wightman
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}> Hi there! I’m  Ross Wightman.
+    <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+    </p>
+    <p style={{ margin: 0 }}>
+      These are my PRs
+      <a
+        href="https://github.com/rwightman"
+        data-original-href="https://github.com/rwightman"
+      >
+         
+      </a>
+    </p>
+  </h3>
+</a>
 
+</li>
 
 
 
@@ -7331,7 +7444,249 @@ every day to stay away from my computer for two hours.</p>
 
 
 
+<div id="roboticcam-machine-learning-note">
 
+
+          <a
+  href="https://github.com/roboticcam"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Prof Richard Xu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Prof Richard Xu. I’m a{' '}
+      <a
+        href="https://github.com/roboticcam"
+        data-original-href="https://github.com/roboticcam"
+      >
+        <div style={{ margin: 0 }}>
+          I am a Professor at the Department of Mathematics, Hong Kong Baptist
+          University (HKBU) 香港浸会大学数学系教授
+        </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+
+<section aria-label="card content" data-view-component="true" className="mt-0">       
+     <div className="d-flex color-bg-subtle rounded-1 flex-justify-between p-3">
+        <div className="d-flex">
+          <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="3d157f5bd2d7b8717fe26a1be53aea1739fdce9b4de42cb7541db64bd93f260e" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/roboticcam" data-view-component="true" className="Link d-block">
+          {/* <img src="https://avatars.githubusercontent.com/u/39672672?s=96&amp;v=4" alt="@Rishit-dagli profile" size="48" height="48" width="48" data-view-component="true" className="feed-item-user-avatar avatar circle box-shadow-none"></img>
+           */}
+          <img 
+  src="https://avatars.githubusercontent.com/u/13326498?v=4" 
+  alt="@roboticcam profile" 
+  height="48" 
+  width="48" 
+  data-view-component="true" 
+  className="feed-item-user-avatar avatar circle box-shadow-none" 
+/>
+</a>
+          <div className="ml-2">
+            <p className="css-truncate text-bold wb-break-all m-0">
+              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:39672672},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="03ec8bcf1c360f8a58bb14636519040264e7fa8309f53fc8de53845452d0d76b" data-hovercard-type="user" data-hovercard-url="/users/Rishit-dagli/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=c-cb738117%3A109742%3Bjccid629%3A115315%3B79878423%3A116832%3B6cha1124%3A143780%3B4h1jc170%3A184406%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=4&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FOLLOW&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2025-01-06+21%3A15%3A42+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=user&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=39672672&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=44053202&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=followed&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=USER&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=39672672&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=6ABF%3AB6243%3A26C236%3A2F7A3C%3A677CC3A7" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/roboticcam" data-view-component="true" className="Link--primary Link text-bold">roboticcam  </a>
+              <span data-view-component="true" className="color-fg-muted text-normal">   Prof Richard Xu                 徐亦达教授</span>
+            </p>
+       
+            <div>I am a Professor at the Department of Mathematics, Hong Kong Baptist University (HKBU) 香港浸会大学数学系教授</div>
+              <p className="m-0 mt-1 color-fg-muted">
+                  <span className="mr-3">
+                    13
+                    repositories
+                  </span>
+                  <span>
+                    5.1k
+                    followers
+                  </span>
+              </p>
+          </div>
+        </div>
+
+        <div className="ml-1">
+          
+{/* <span className="user-following-container js-form-toggle-container">
+     <!-- '"` --><!-- </textarea></xmp> --> 
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" accept-charset="UTF-8" method="post" hidden=""><input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w">
+      <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow">
+</form>
+   <!-- '"` --><!-- </textarea></xmp> --> 
+  <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw">
+    <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli">
+</form>  </span> */}
+
+
+<span className="user-following-container js-form-toggle-container">
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are following Rishit-dagli" data-turbo="false" action="/users/follow?target=Rishit-dagli" acceptCharset="UTF-8" method="post" hidden>
+        <input type="hidden" name="authenticity_token" value="JodqzEyzLBXuymirb0_UYousEn4-PCoRC2oVdnJcD7PhXgLGtiMCx7JqSAYjcENt3axB03RDq5zMwrfL7Eg74w" />
+        <input type="submit" name="commit" value="Follow" className="btn btn-sm" title="Follow Rishit-dagli" aria-label="Follow Rishit-dagli" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Follow" />
+    </form>
+    {/* <!-- '"` --><!-- </textarea></xmp> --> */}
+    <form className="js-form-toggle-target" data-sr-feedback="You are unfollowing Rishit-dagli" data-turbo="false" action="/users/unfollow?target=Rishit-dagli" acceptCharset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="DVmoX7Y9dBK9A0ZB1JcSEI8Qy0iFgS0NXJCLXk-PaNoH4quScA5OP-LwYDfMJoA4aYkK3zf03rFiVwsB65j9Dw" />
+        <input type="submit" name="commit" value="Unfollow" className="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;follow_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FOLLOW&quot;,&quot;resource_relationship&quot;:&quot;followed&quot;,&quot;created_at&quot;:&quot;2025-01-06T21:15:42.000-08:00&quot;,&quot;record_id&quot;:39672672,&quot;resource_type&quot;:&quot;USER&quot;,&quot;resource_id&quot;:44053202,&quot;card_position&quot;:4,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;2F69FF6F-BD7C-4531-BE52-D8EED1D68A91&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;user&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;c-cb738117:109742;jccid629:115315;79878423:116832;6cha1124:143780;4h1jc170:184406;&quot;},&quot;original_request_id&quot;:&quot;6ABF:B6243:26C236:2F7A3C:677CC3A7&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:30724917}}" data-hydro-click-hmac="48c17575211694b6fb0401c069c7e9882740180e5345c331dc3789526fdce814" data-disable-with="Unfollow" title="Unfollow Rishit-dagli" aria-label="Unfollow Rishit-dagli" />
+    </form>
+</span>
+
+
+        </div>
+      </div>
+</section>
+
+
+<RoboticCamMachineLearningNotesGithubRepository  />
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Course on Foundational Mathematics in Machine Learning 机器学习基础数学课程</h1>
+<h1 
+// tabindex="-1"
+ className="heading-element" dir="auto">Course on Intemediate Mathematics in Machine Learning 机器学习中级数学课程</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Sinovation DeeCamp 创新工场DeeCAMP讲义</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Deep Learning Research Topics 深度学习研究</h1>
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Optimization Method 优化方法</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Deep Learning Basics 深度学习基础</h1>
+<h3 
+// tabindex="-1" 
+className="heading-element" dir="auto"><a href="https://github.com/roboticcam/machine-learning-notes/blob/master/files/rbm_cd.pdf">Restricted Boltzmann Machine</a></h3>
+<h1
+ // tabindex="-1" 
+className="heading-element" dir="auto">3D Geometry Computer vision 3D几何计算机视觉</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Reinforcement Learning 强化学习</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Natural Language Processing 自然语言处理</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Data Science PowerPoint and Source Code 数据科学 PowerPoint 和源代码</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Probabilistic Model 概率模型课件</h1>
+
+<h1 
+// tabindex="-1"
+ className="heading-element" dir="auto">Monte-Carlo Inference 蒙特卡洛推理</h1>
+
+<h1 
+// tabindex="-1" 
+className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率模型课件</h1>
+</div>
+
+
+
+<div id="AlexanderFischerGitHubProfile">
+
+
+<a
+  href="https://github.com/s3alfisc"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Alexander Fischer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Alexander Fischer.
+      <a
+        href="https://github.com/s3alfisc"
+        data-original-href="https://github.com/s3alfisc"
+      >
+          <div>Data Scientist <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/trivago/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trivago">@trivago</a> </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+<JuanitorduzGitHubProfile /> 
+<p>
+  follows
+</p>
+<AlexanderFischerGitHubProfile />
+</div>
+
+<div id="RossWightmanGitHubProfile">
+
+
+<a
+  href="https://github.com/rwightman"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Ross Wightman
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Ross Wightman.
+      <a
+        href="https://github.com/rwightman"
+        data-original-href="https://github.com/rwightman"
+      >
+          <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<RossWightmanGitHubProfile/>
+</div>
+
+
+<div id="githubcom_huggingface_transformers_pull_35848">
+
+
+<a
+  href="https://github.com/huggingface/transformers/pull/35848"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <div id="githubcom_huggingface_transformers_pull_35848">
+
+  <h1 className="gh-header-title">
+      <bdi className="js-issue-title markdown-title">🚨🚨🚨 image-classification pipeline single-label and multi-label prob type squashing fns (sigmoid vs softmax) are backwards</bdi>
+      <span className="f1-light color-fg-muted">#35848</span>
+    </h1>
+    
+  </div>
+</a>
+
+<h1 dir="auto">What does this PR do?</h1>
+<p dir="auto">Use the proper squashing/activation function to calc probabilities for image-classification pipeline.</p>
+<p dir="auto">Currently 'sigmoid' is used for models with the single-label problem type. This is not correct.</p>
+
+
+</div>
 
 </div>
 
