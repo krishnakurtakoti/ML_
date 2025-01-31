@@ -851,3 +851,34 @@ a {
 .color-fg-muted {
   color: #6a737d; /* Color for the muted text */
 }
+ /* Title Styling */
+ .clYxDg {
+  display: block;
+  order: 1;
+  font-size: var(--custom-font-size, 26px);
+  font-weight: var(--custom-font-weight, 400);
+  line-height: var(--custom-line-height, 1);
+  margin-right: 8px;
+}
+
+/* Code Styling inside .markdown-title */
+.markdown-title code {
+  padding: 2px var(--base-size-4);
+  font-size: 0.9em;
+  line-height: 1;
+  background-color: var(--bgColor-neutral-muted);
+  border-radius: var(--borderRadius-medium);
+}
+
+/* Media Query for Larger Screens */
+@media screen and (min-width: 544px) {
+  .clYxDg {
+    font-size: clamp(25px, 5vw, 32px); /* Scalable font size */
+  }
+}
+
+/* Inline styling for .lhNOUb */
+.lhNOUb {
+  display: inline;
+  word-break: break-word;
+}

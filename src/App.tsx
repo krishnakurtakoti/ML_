@@ -7,6 +7,9 @@ import vxnuaj_DeepLearningDay78_Page_Tweet_Embed from './vxnuaj_DeepLearningDay7
 import { Timeline } from 'react-twitter-widgets';
 import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
 import EmbedComponent from './EmbedComponent';
+import { RelativeTime } from '@primer/react'; // Assuming it's from Primer React or a similar library
+
+
 import ArticleListAlexNichole from './ArticleListAlexNichole';
 import John_Parkhill_MathMLComponent_1 from './John_Parkhill_MathMLComponent_1';
 import { Slerp_for_quaternions_in_TF } from './Slerp_for_quaternions_in_TF';
@@ -30,6 +33,10 @@ import RoboticCamMachineLearningNotesGithubRepository from './RoboticCamMachineL
 import JuanitorduzGitHubProfile from './Juanitorduz';
 import AlexanderFischerGitHubProfile from './AlexanderFischerGitHubProfile';
 import RossWightmanGitHubProfile from './RossWightmanGitHubProfile';
+import DanielleNavarroGitHubProfile from './DanielleNavarroGitHubProfile';
+import YixuanQiuGitHubProfile from './YixuanQiuGitHubProfile';
+import YihuiXieGitHubProfile from './YihuiXieGitHubProfile';
+import StevenGJohnsonGitHubProfile from './StevenGJohnsonGitHubProfile';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1563,6 +1570,82 @@ Veggie 🌿, opinions are my own.</div></h3>
         data-original-href="https://github.com/rwightman"
       >
           <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#StevenGJohnson"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Steven G. Johnson
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Steven G. Johnson.
+      <a
+        href="https://github.com/stevengj"
+        data-original-href="https://github.com/stevengj"
+      >
+           <div style={{ textAlign: 'center' }}>
+      Professor of{' '}
+      <a
+        href="http://math.mit.edu/applied/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Applied Mathematics
+      </a>{' '}
+      and{' '}
+      <a
+        href="http://web.mit.edu/physics/people/faculty/johnson_steven.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Physics, Massachusetts Institute of Technology
+      </a>
+      <br />
+    </div>
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#YixuanQiu1"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yixuan Qiu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Yixuan Qiu.
+      <a
+        href="https://github.com/yixuan/"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p>
+            </div>
       </a>
     </p>
   </h3>
@@ -7661,7 +7744,218 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
 
 <RossWightmanGitHubProfile/>
 </div>
+{/* <div id="YixuanQiu">
 
+
+<DanielleNavarroGitHubProfile /> <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ width: '96px', height: '78px', marginLeft: '10px' }}/>
+</div> */}
+
+
+<div id="YixuanQiu1">
+
+
+
+<a
+  href="https://github.com/yixuan/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yixuan Qiu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Yixuan Qiu.
+      <a
+        href="https://github.com/yixuan/"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p>
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<div style={{ display: 'flex', alignItems: 'center' }}>
+<DanielleNavarroGitHubProfile />
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <YihuiXieGitHubProfile />
+  <strong style={{ marginLeft: '10px' }}>Reference:  Mastodon post - </strong>
+  <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
+    hachyderm.io/@djnavarro/113477662963181887
+  </a>
+ 
+  {/* <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br> */}
+</div>
+<div style={{ display: 'flex', alignItems: 'center' }}>
+<YihuiXieGitHubProfile />
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <YixuanQiuGitHubProfile />
+  <strong style={{ marginLeft: '10px' }}>Reference:  Yihui Xie's post - </strong>
+ 
+  <a href="https://yihui.org/en/2018/07/sql-stats-computing/" target="_blank" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center'}}>Solving Statistical Computing Problems with SQL - Yihui Xie | 谢益辉</a>
+ 
+
+</div>
+
+</div>
+
+
+
+<div id="StevenGJohnson">
+
+
+<a
+  href="https://github.com/stevengj"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Steven G. Johnson
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Steven G. Johnson.
+      <a
+        href="https://github.com/stevengj"
+        data-original-href="https://github.com/stevengj"
+      >
+           <div style={{ textAlign: 'center' }}>
+      Professor of{' '}
+      <a
+        href="http://math.mit.edu/applied/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Applied Mathematics
+      </a>{' '}
+      and{' '}
+      <a
+        href="http://web.mit.edu/physics/people/faculty/johnson_steven.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Physics, Massachusetts Institute of Technology
+      </a>
+      <br />
+    </div>
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+<StevenGJohnsonGitHubProfile />
+
+<a
+        href="https://github.com/stevengj?tab=overview&from=2023-07-01&to=2023-07-31"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Overview of commits/PRs from July 1, 2023 to July 31, 2023
+      </a>
+<div>
+<a
+        href="https://github.com/stevengj?tab=overview&from=2023-07-01&to=2023-07-31"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Backend URL Link  https://github.com/stevengj?tab=overview&from=2023-07-01&to=2023-07-31
+      </a>
+</div>
+      
+    
+<h1 style={{ margin: 0 }}
+  className="Box-sc-g0xbh4-0 clYxDg prc-Heading-Heading-6CmGO"
+  data-component="PH_Title"
+  data-hidden="false"
+>
+  <bdi className="Box-sc-g0xbh4-0 lhNOUb markdown-title" data-testid="issue-title">
+  Random.randcycle(1) should throw?
+  </bdi>
+  <span className="Box-sc-g0xbh4-0 YJa-Di">
+  <a href="https://github.com/JuliaLang/julia/issues/50479" target="_blank" rel="noopener noreferrer">
+      #50479
+    </a>
+   
+    </span>
+</h1>
+
+<div style={{ display: 'flex', alignItems: 'center' }}>
+<a className="Box-sc-g0xbh4-0 cRhwji prc-Link-Link-85e08" 
+href="https://github.com/stevengj" data-hovercard-url="/users/stevengj/hovercard" data-testid="issue-body-header-author">stevengj</a>
+
+<div className="Box-sc-g0xbh4-0 bJQcYY ActivityHeader-module__footer--FVHp7"><span>opened </span>
+<a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/JuliaLang/julia/issues/50479" 
+data-testid="issue-body-header-link"><relative-time 
+// sx="[object Object]" 
+className="sc-aXZVg gcWyXp" 
+datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Jul 09, 2023</relative-time></a>
+
+{/* <span className="MarkdownLastEditedBy-module__container--fKxHN"><span> · </span><span>edited by 
+  <a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/stevengj">stevengj</a></span></span> */}
+
+  </div>
+</div>
+
+
+</div>
+
+
+
+<div id="merveenoyan">
+<h1
+  className="Box-sc-g0xbh4-0 clYxDg prc-Heading-Heading-6CmGO"
+  data-component="PH_Title"
+  data-hidden="false"
+  // style={{
+  //  // '--custom-font-size': '26px, 26px, var(--text-title-size-large, 32px)',
+  //   '--custom-line-height': '1',
+  //   '--custom-font-weight': 'normal',
+  // }}
+>
+  <bdi className="Box-sc-g0xbh4-0 lhNOUb markdown-title" data-testid="issue-title">
+    <code>AutoModel</code> class for <code>image-text-to-text</code> models
+  </bdi>
+  <span className="Box-sc-g0xbh4-0 YJa-Di">
+  <a href="https://github.com/huggingface/transformers/issues/32042" target="_blank" rel="noopener noreferrer">
+      #32042
+    </a>
+   
+    </span>
+</h1>
+{/* 
+<h1 className="Box-sc-g0xbh4-0 clYxDg prc-Heading-Heading-6CmGO" data-component="PH_Title" data-hidden="false" style="--custom-font-size: 26px,26px,var(--text-title-size-large, 32px),var(--text-title-size-large, 32px); --custom-line-height: 1; --custom-font-weight: normal;">
+  <bdi className="Box-sc-g0xbh4-0 lhNOUb markdown-title" data-testid="issue-title"><code>AutoModel</code> class for <code>image-text-to-text</code> models</bdi>&nbsp;<span className="Box-sc-g0xbh4-0 YJa-Di">#32042</span></h1> */}
+
+<div style={{ display: 'flex', alignItems: 'center' }}>
+<a className="Box-sc-g0xbh4-0 cRhwji prc-Link-Link-85e08" 
+href="https://github.com/merveenoyan" data-hovercard-url="/users/merveenoyan/hovercard" data-testid="issue-body-header-author">merveenoyan</a>
+
+
+<div className="Box-sc-g0xbh4-0 bJQcYY ActivityHeader-module__footer--FVHp7"><span>opened </span>
+<a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/huggingface/transformers/issues/32042#issue-2415755863" 
+data-testid="issue-body-header-link"><relative-time 
+// sx="[object Object]" 
+className="sc-aXZVg gcWyXp" 
+datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Jul 18, 2024</relative-time></a>
+<span className="MarkdownLastEditedBy-module__container--fKxHN"><span> · </span><span>edited by 
+  <a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/merveenoyan">merveenoyan</a></span></span></div>
+</div>
+
+
+
+
+</div>
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
