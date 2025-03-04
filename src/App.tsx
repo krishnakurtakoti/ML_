@@ -37,6 +37,13 @@ import DanielleNavarroGitHubProfile from './DanielleNavarroGitHubProfile';
 import YixuanQiuGitHubProfile from './YixuanQiuGitHubProfile';
 import YihuiXieGitHubProfile from './YihuiXieGitHubProfile';
 import StevenGJohnsonGitHubProfile from './StevenGJohnsonGitHubProfile';
+import JonShlensGitHubProfile from './JonShlens';
+import Alexandre_MutelPR_From_2025_02_01_To_2025_02_28_Avalonia_AvaloniaUI from './Alexandre_MutelPR_From_2025_02_01_To_2025_02_28_Avalonia_AvaloniaUI';
+import MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing from './MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing';
+import MilesCranmerGitHubProfile from './MilesCranmer';
+import HamelHusainGitHubProfile from './HamelHusain';
+import ChristopheDervieuxGitHubProfile from './ChristopheDervieux';
+import DavisVaughanGitHubProfile from './DavisVaughan';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1441,6 +1448,106 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 
 </li>
+
+<li>
+<a
+  href="#MilesCranmer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Miles Cranmer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Miles Cranmer.
+      <a
+        href="https://github.com/MilesCranmer"
+        data-original-href="https://github.com/MilesCranmer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+
+
+
+<li>
+
+<a
+  href="#DavisVaughan"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    DavisVaughan
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  DavisVaughan.
+      <a
+        href="https://github.com/DavisVaughan"
+        data-original-href="https://github.com/DavisVaughan"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+
+
+<li>
+
+<a
+  href="#JonShlens"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Jon Shlens
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Jon Shlens.
+      <a
+        href="https://github.com/shlens"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
 <li>
 {/* <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
             <h1>
@@ -6584,6 +6691,14 @@ Veggie 🌿, opinions are my own.</div>
         </li>
 
       </ul>
+
+
+      
+
+<Alexandre_MutelPR_From_2025_02_01_To_2025_02_28_Avalonia_AvaloniaUI />
+
+
+
 <div id="Bishal_Santra">
   
   
@@ -7749,6 +7864,259 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
 
 <DanielleNavarroGitHubProfile /> <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ width: '96px', height: '78px', marginLeft: '10px' }}/>
 </div> */}
+
+
+<div id="MilesCranmer">
+
+
+
+<a
+  href="https://github.com/MilesCranmer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Miles Cranmer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Miles Cranmer.
+      <a
+        href="https://github.com/MilesCranmer"
+        data-original-href="https://github.com/MilesCranmer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+<MilesCranmerGitHubProfile />
+<MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing />
+<div style={{ display: 'flex', alignItems: 'center' }}>
+
+  {/* <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <JonShlensGitHubProfile />
+  <strong style={{ marginLeft: '10px' }}>Reference:  </strong>
+  <a href="https://github.com/tensorflow/models/issues/2778" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
+    PR - Odd batch_size specific behaviour with nasnet_large on ImageNet validation #2778
+  </a> */}
+ 
+  {/* <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br> */}
+</div>
+
+</div>
+
+
+
+<div id="DavisVaughan">
+
+
+
+<a
+  href="https://github.com/DavisVaughan"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    DavisVaughan
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  DavisVaughan.
+      <a
+        href="https://github.com/DavisVaughan"
+        data-original-href="https://github.com/DavisVaughan"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+{/* <div style={{ display: 'flex', alignItems: 'center' }}>
+<HamelHusainGitHubProfile />
+https://github.com/hamelsmu?tab=following
+<p></p>
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <ChristopheDervieuxGitHubProfile />
+  https://bsky.app/profile/cderv.bsky.social
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <p>
+  https://bsky.app/profile/davisvaughan.bsky.social
+  
+  <strong style={{ marginLeft: '10px' }}>Reference:  </strong>
+  <a href="https://bsky.app/profile/davisvaughan.bsky.social/post/3lip3me7i5c2i" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
+  Air, an extremely fast R formatter by Davis Vaughan
+  </a>
+  </p>
+</div> */}
+
+
+<div style={{ display: 'flex', alignItems: 'center' }}>
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <HamelHusainGitHubProfile />
+    <a href="https://github.com/hamelsmu?tab=following" target="_blank" style={{ textDecoration: 'none', color: '#007bff', marginTop: '5px' }}>
+      https://github.com/hamelsmu?tab=following
+    </a>
+  </div>
+
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <ChristopheDervieuxGitHubProfile />
+    <a href="https://bsky.app/profile/cderv.bsky.social" target="_blank" style={{ textDecoration: 'none', color: '#007bff', marginTop: '5px' }}>
+      https://bsky.app/profile/cderv.bsky.social
+    </a>
+  </div>
+
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <a href="https://bsky.app/profile/davisvaughan.bsky.social" target="_blank" style={{ textDecoration: 'none', color: '#007bff', marginTop: '5px' }}>
+      https://bsky.app/profile/davisvaughan.bsky.social
+    </a>
+    
+    <strong style={{ marginTop: '10px' }}>Reference: </strong>
+    <a href="https://bsky.app/profile/davisvaughan.bsky.social/post/3lip3me7i5c2i" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
+      Air, an extremely fast R formatter by Davis Vaughan
+    </a>
+  </div>
+</div>
+<DavisVaughanGitHubProfile />
+
+
+
+<div className="quarto-grid-item-container">
+  <a className="quarto-grid-link" href="https://blog.davisvaughan.com/posts/2017-05-10-aws-rds-r/" data-original-href="https://blog.davisvaughan.com/posts/2017-05-10-aws-rds-r/">
+    <div className="quarto-grid-item card h-100 card-center borderless">
+      <div className="card-body post-contents">
+        <h5 className="no-anchor card-title listing-title">
+          Amazon RDS + R
+        </h5>
+        <div className="card-attribution card-text-small end">
+          <div className="listing-date">
+            May 10, 2017
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+</div>
+
+<div id="JonShlens">
+
+
+
+<a
+  href="https://github.com/shlens"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Jon Shlens
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Jon Shlens.
+      <a
+        href="https://github.com/shlens"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<div style={{ display: 'flex', alignItems: 'center' }}>
+<RossWightmanGitHubProfile />
+  <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+  <JonShlensGitHubProfile />
+  <strong style={{ marginLeft: '10px' }}>Reference:  </strong>
+  <a href="https://github.com/tensorflow/models/issues/2778" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
+    PR - Odd batch_size specific behaviour with nasnet_large on ImageNet validation #2778
+  </a>
+ 
+  {/* <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br> */}
+</div>
+
+
+<div className="" id="publications-text">
+    <h2 id="tutorials">Tutorials</h2>
+
+    <p>These tutorials provide a general introduction to topics I find quite interesting but often lack good explanations in textbooks or the online literature.</p>
+
+    <section className="tutorial">
+        <a target="_blank" href="http://arxiv.org/abs/1404.2986">
+            Tutorial on Independent Component Analysis
+        </a>
+        <p>A complete introduction and discussion of independent component analysis. Builds on previous tutorial on principal component analysis.</p>
+        <p><strong>Version 1.0</strong></p>
+    </section>
+
+    <section className="tutorial">
+        <a target="_blank" href="http://arxiv.org/abs/1404.1100">
+            Tutorial on Principal Component Analysis
+        </a>
+        <p>A full introduction, description, derivation, and discussion of principal component analysis. Concrete examples for intuition building, the mathematical relation to SVD, and new extensions of this algorithm.</p>
+        <p><strong>Version 3.02</strong></p>
+    </section>
+
+    <section className="tutorial">
+        <a target="_blank" href="http://arxiv.org/abs/1404.1998">
+            A Light Discussion and Derivation of Entropy
+        </a>
+        <p>A light discussion of the underlying assumptions behind entropy followed by a rigorous but simple derivation of the formula for entropy.</p>
+        <p><strong>Version 1.01</strong></p>
+    </section>
+
+    <section className="tutorial">
+        <a target="_blank" href="http://arxiv.org/abs/1404.2000">
+            Notes on Kullback-Leibler Divergence and Likelihood
+        </a>
+        <p>An intuitive discussion about where Kullback-Leibler divergence arises and its relationship to likelihood theory.</p>
+        <p><strong>Version 1.01</strong></p>
+    </section>
+
+    <section className="tutorial">
+        <a target="_blank" href="http://arxiv.org/abs/1404.1999">
+            Notes on Generalized Linear Models of Neurons
+        </a>
+        <p>An introduction to the application of GLMs to model neurons and networks of neurons. Brief discussion and derivation of primary equations pertaining to maximum likelihood estimation.</p>
+        <p><strong>Version 1.51</strong></p>
+    </section>
+
+</div>
+
+
+
+</div>
+
+
+
 
 
 <div id="YixuanQiu1">
