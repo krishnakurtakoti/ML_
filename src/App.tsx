@@ -1917,6 +1917,72 @@ Veggie 🌿, opinions are my own.</div></h3>
         </ul>
 
 </li>
+
+<li>
+<a
+  href="#ThomasStringer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Thomas Stringer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Thomas Stringer.
+      <a
+        href="https://github.com/trstringer"
+        data-original-href="https://github.com/trstringer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+
+<a
+  href="#MartinEvans"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Martin Evans
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Martin Evans.
+      <a
+        href="https://github.com/martindevans"
+        data-original-href="https://github.com/martindevans"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<a rel="nofollow me" className="Link--primary wb-break-all" href="http://martindevans.me">http://martindevans.me</a>
+
+
+</li>
+
+
 <li>
 <a
   href="#githubcom_huggingface_transformers_pull_35848"
@@ -8325,6 +8391,104 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 </div>
 
+
+<div id="ThomasStringer">
+
+
+
+<a
+  href="https://github.com/trstringer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Thomas Stringer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Thomas Stringer.
+      <a
+        href="https://github.com/trstringer"
+        data-original-href="https://github.com/trstringer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+<a
+  href="https://github.com/trstringer/manual-approval/issues/148"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Call for maintainers! #148.
+      <a
+        href="https://github.com/trstringer/manual-approval/issues/148"
+        data-original-href="https://github.com/trstringer/manual-approval/issues/148"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+<p dir="auto"><strong>Who should be a maintainer?</strong> Somebody with GitHub Actions experience, or the desire to obtain that experience. Also a maintainer should be a modern code craftsperson that is passionate about shipping production-quality software. This GitHub Action can be part of important build and deployment pipelines. Not to mention, it is likely running inside many existing users' environments in their runners. It is important that changes are well-tested, and are the right thing for our users.</p>
+
+</div>
+
+<div id="MartinEvans">
+
+
+
+<a
+  href="https://github.com/martindevans"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Martin Evans
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Martin Evans.
+      <a
+        href="https://github.com/martindevans"
+        data-original-href="https://github.com/martindevans"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<a rel="nofollow me" className="Link--primary wb-break-all" href="http://martindevans.me">http://martindevans.me</a>
+<h2 id="llamasharp">LLamaSharp</h2>
+<p><a href="https://github.com/SciSharp/LLamaSharp">LLamaSharp</a> is a C# wrapper around <a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a>. This is <strong>not</strong> my project alone, but I became one of the lead maintainers last year and I&#39;ve continued working on it this year.</p>
+<p>In 2024 my major contribution to LLamaSharp was the development of the <a href="https://github.com/SciSharp/LLamaSharp/blob/master/LLama/Batched/BatchedExecutor.cs"><code className="language-plaintext highlighter-rouge">BatchedExecutor</code></a> which is an entirely new low-level abstraction around language models. The <code className="language-plaintext highlighter-rouge">BatchedExecutor</code> is designed to expose all of the power of llama.cpp in a safe way, for example multiple parallel sequences evaluated all together in one batch is as simple as:</p>
+<p>Sequences can be easily saved and loaded, forked into 2 sequences with the same prefix (which internally share the same space in memory), the KV cache can be accessed and manipulated (e.g. to implement context shifting), sequences can even be prompted with embeddings directly which allows things like LLava.</p>
+<p>My long term goal for 2025 is to rewrite many of the higher level parts of LLamaSharp to operate on top of the <code className="language-plaintext highlighter-rouge">BatchedExecutor</code>, this will reduce the overall complexity of the project by implementing it all in one place and should offer more power to advanced users since they can always build on top of <code className="language-plaintext highlighter-rouge">BatchedExecutor</code> instead of using the low level llama.cpp primitives.</p>
+</div>
 <div id="githubcom_huggingface_transformers_pull_35848">
 
 

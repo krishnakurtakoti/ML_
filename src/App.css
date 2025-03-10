@@ -882,3 +882,14 @@ a {
   display: inline;
   word-break: break-word;
 }
+:root {
+  --fgColor-default: #1f2328;
+}
+
+.Link--primary {
+  color: var(--fgColor-default) !important;
+}
+
+.wb-break-all {
+  word-break: break-all !important;
+}
