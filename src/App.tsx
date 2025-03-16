@@ -1982,7 +1982,39 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
 
+<li>
 
+<a
+  href="#Elasticsearch"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Elasticsearch
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Elasticsearch. The heart of the Elastic Stack
+      <a
+        href="https://www.elastic.co/elasticsearch"
+        data-original-href="https://www.elastic.co/elasticsearch"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+
+</li>
 <li>
 <a
   href="#githubcom_huggingface_transformers_pull_35848"
@@ -8489,6 +8521,184 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 <p>Sequences can be easily saved and loaded, forked into 2 sequences with the same prefix (which internally share the same space in memory), the KV cache can be accessed and manipulated (e.g. to implement context shifting), sequences can even be prompted with embeddings directly which allows things like LLava.</p>
 <p>My long term goal for 2025 is to rewrite many of the higher level parts of LLamaSharp to operate on top of the <code className="language-plaintext highlighter-rouge">BatchedExecutor</code>, this will reduce the overall complexity of the project by implementing it all in one place and should offer more power to advanced users since they can always build on top of <code className="language-plaintext highlighter-rouge">BatchedExecutor</code> instead of using the low level llama.cpp primitives.</p>
 </div>
+
+
+<div id="MartinEvans">
+
+
+
+<a
+  href="https://github.com/martindevans"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Martin Evans
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Martin Evans.
+      <a
+        href="https://github.com/martindevans"
+        data-original-href="https://github.com/martindevans"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</div>
+
+<div id="Elasticsearch">
+
+
+
+<a
+  href="https://www.elastic.co/elasticsearch"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Elasticsearch
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Elasticsearch. The heart of the Elastic Stack
+      <a
+        href="https://www.elastic.co/elasticsearch"
+        data-original-href="https://www.elastic.co/elasticsearch"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<p>Elasticsearch is an open source distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning-fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.</p>
+
+
+
+<li>
+
+
+<a
+  href="#ItamarSyn-Hershko"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    ItamarSyn-Hershko
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m ItamarSyn-Hershko.
+      <a
+        href="https://github.com/synhershko"
+        data-original-href="https://github.com/synhershko"
+      >
+           <div>CTO &amp; Founder of BigData Boutique. Search, BigData and Cloud expert - making the cloud a better place day by day.</div>
+
+      </a>
+    </p>
+  </h3>
+</a>     
+
+</li>
+
+
+</div>
+
+
+<div id="ItamarSyn-Hershko">
+
+  
+<a
+  href="https://github.com/synhershko"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    ItamarSyn-Hershko
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m ItamarSyn-Hershko.
+      <a
+        href="https://github.com/synhershko"
+        data-original-href="https://github.com/synhershko"
+      >
+           <div>CTO &amp; Founder of BigData Boutique. Search, BigData and Cloud expert - making the cloud a better place day by day.</div>
+
+      </a>
+    </p>
+  </h3>
+</a>     
+
+<a href="https://logz.io/blog/securing-elasticsearch-clusters/">Securing Elasticsearch Clusters</a>
+
+  <p>A number of articles have been written over the past few days documenting the various methods of securing Elasticsearch, most notably of which is <a href="https://code972.com/blog/2017/01/107-dont-be-ransacked-securing-your-elasticsearch-cluster-properly/" target="_blank" rel="noopener noreferrer">this piece by Itamar Dyn-Hershko</a>. For all our readers using Elasticsearch — especially those who are using it in production — who are not necessarily aware of the various pitfalls that need to be taken into consideration, we’ve summed up some of the methods that we recommend employing.</p>
+
+</div>
+
+
+<div id="MarcClifton">
+
+  
+<a
+  href="https://github.com/cliftonm"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Marc Clifton
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Marc Clifton.
+      <a
+        href="https://github.com/cliftonm"
+        data-original-href="https://github.com/cliftonm"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>     
+<p>
+  <a rel="nofollow me" className="Link--primary wb-break-all" href="http://marcclifton.wordpress.com/">http://marcclifton.wordpress.com/</a>
+</p>
+
+<p>
+  <a href="https://muckrack.com/marc-clifton/articles">Articles by Marc Clifton</a>
+</p>
+
+<p>
+  <a href="https://www.codeproject.com/Articles/1280139/Azure-Function-Compute-Pi-Stress-Test">Azure Function: Compute Pi Stress Test</a>
+</p>
+
+</div>
+
 <div id="githubcom_huggingface_transformers_pull_35848">
 
 
@@ -8513,6 +8723,12 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 
 </div>
+
+
+
+
+
+
 
 </div>
 
