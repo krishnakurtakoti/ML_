@@ -1983,6 +1983,60 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
 
 <li>
+<a
+  href="#CédricLuthi"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Cédric Luthi
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Cédric Luthi.
+      <a
+        href="https://github.com/0xced"
+        data-original-href="https://github.com/0xced"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+
+
+<a
+  href="#MarkHeath"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Mark Heath
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Mark Heath.
+      <a
+        href="https://github.com/markheath"
+        data-original-href="https://github.com/markheath"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+<li>
 
 <a
   href="#Elasticsearch"
@@ -8556,6 +8610,79 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 </a>
 </div>
 
+<div id="CédricLuthi">
+
+  
+<a
+  href="https://github.com/0xced"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Cédric Luthi
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Cédric Luthi.
+      <a
+        href="https://github.com/0xced"
+        data-original-href="https://github.com/0xced"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+<a rel="nofollow me" className="Link--primary wb-break-all" href="https://hachyderm.io/@0xced">@0xced@hachyderm.io</a>
+
+<div>
+    <h3>GitHub - 0xced/Chisel: Remove Unwanted Dependencies from Your .NET Projects</h3>
+    <h5>Remove Unwanted Dependencies from Your .NET Projects - 0xced/Chisel</h5>
+    <a href="https://hachyderm.io/@0xced/114021283741021680" target="_blank" rel="noopener noreferrer">
+        Visit the 0xced/Chisel page on Hachyderm
+    </a>
+</div>
+
+
+</div>
+
+
+<div id="MarkHeath">
+  <a
+    href="https://github.com/markheath"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        Mark Heath
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Mark Heath.
+    </h3>
+  </a>
+
+  <div>
+    <h3>GitHub - markheath/azure-functions-links: Useful Links for Azure Functions</h3>
+    <h5>Useful Links for Azure Functions - markheath/azure-functions-links</h5>
+    <a
+      href="https://github.com/markheath/azure-functions-links"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the Azure Functions Links GitHub Repository
+    </a>
+  </div>
+</div>
+
+
+
+
 <div id="Elasticsearch">
 
 
@@ -8698,6 +8825,13 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 </p>
 
 </div>
+
+
+
+
+
+
+
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
