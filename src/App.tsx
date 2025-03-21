@@ -44,6 +44,12 @@ import MilesCranmerGitHubProfile from './MilesCranmer';
 import HamelHusainGitHubProfile from './HamelHusain';
 import ChristopheDervieuxGitHubProfile from './ChristopheDervieux';
 import DavisVaughanGitHubProfile from './DavisVaughan';
+import Bytefish_facerec_GitHubRepository from './BytefishFacerecGitHubRepository';
+import Markheath_azure_functions_links_GitHubRepository from './Markheath_azure_functions_links_GitHubRepository';
+import Cédric_Luthi_0xced_Chisel_GitHubRepository from './Cédric_Luthi_0xced_Chisel_GitHubRepository';
+import Nelhage_llama_GitHubRepository from './NelhageLlamaGitHubRepository';
+import DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository from './DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository';
+import FeiPeng_fiigii_PacketTracerGitHubRepository from './FeiPeng_fiigii_PacketTracerGitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -2068,6 +2074,56 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 
 
+</li>
+<li>
+  <a
+    href="#PhilippWagner"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Philipp Wagner
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Philipp Wagner.
+    </h3>
+  </a>
+</li>
+<li>
+
+  <a
+    href="#DaniloPoccia"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Danilo Poccia
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Danilo Poccia.
+    </h3>
+  </a>
+</li>
+<li>
+
+  <a
+    href="#FeiPeng"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Fei Peng
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Fei Peng.
+    </h3>
+  </a>
 </li>
 <li>
 <a
@@ -8647,6 +8703,7 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
     </a>
 </div>
 
+<Cédric_Luthi_0xced_Chisel_GitHubRepository />
 
 </div>
 
@@ -8678,10 +8735,137 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
       Visit the Azure Functions Links GitHub Repository
     </a>
   </div>
+
+  <Markheath_azure_functions_links_GitHubRepository />
 </div>
 
 
 
+<div id="DaniloPoccia">
+  <a
+    href="https://github.com/danilop"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Danilo Poccia
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Danilo Poccia.
+    </h3>
+  </a>
+
+  <div>
+    <h3>GitHub - danilop/AWS_Lambda_in_Action: This source code distribution is a companion to the AWS Lambda in Action book available from Manning Publications.</h3>
+    <h5>https://www.manning.com/books/aws-lambda-in-action</h5>
+    <a
+      href="https://github.com/danilop/AWS_Lambda_in_Action"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the AWS_Lambda_in_Action GitHub Repository
+    </a>
+  </div>
+
+  <DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository />
+
+  <div>
+    <h3>New – A Shared File System for Your Lambda Functions</h3>
+    <h5>https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/</h5>
+    <p>by Danilo Poccia on 16 JUN 2020 in Amazon Elastic File System (EFS), Announcements, AWS Lambda, Compute, Launch, News, Serverless, Storage</p>
+    <a
+      href="https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the New – A Shared File System for Your Lambda Functions Blog Post
+    </a>
+</div>
+
+</div>
+
+<div id="FeiPeng">
+  <a
+    href="https://github.com/fiigii"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Fei Peng
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Fei Peng.
+    </h3>
+  </a>
+
+  <div>
+    <h3>Hardware Intrinsic in .NET Core 3.0 - Introduction</h3>
+    <h5>https://fiigii.com/2019/03/03/Hardware-intrinsic-in-NET-Core-3-0-Introduction/</h5>
+    <p>by Fei Peng on 2019-03-03 in .NET Core, SIMD, x86</p>
+    <a
+      href="https://fiigii.com/2019/03/03/Hardware-intrinsic-in-NET-Core-3-0-Introduction/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the Hardware Intrinsic in .NET Core 3.0 - Introduction Documentation
+    </a>
+  </div>
+
+<div>
+    <h3>API Proposal: Add Intel Hardware Intrinsic Functions and Namespace #23057</h3>
+    <h5>https://github.com/dotnet/runtime/issues/23057</h5>
+    <p>Repository: <a href="https://github.com/dotnet/runtime" target="_blank" rel="noopener noreferrer">github.com/dotnet/runtime</a></p>
+    <a
+      href="https://github.com/dotnet/runtime/issues/23057"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the GitHub Issue for API Proposal: Add Intel Hardware Intrinsic Functions and Namespace
+    </a>
+</div>
+
+
+<FeiPeng_fiigii_PacketTracerGitHubRepository />
+
+</div>
+
+<div id="PhilippWagner">
+  <a
+    href="https://github.com/bytefish"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Philipp Wagner
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Philipp Wagner.
+    </h3>
+  </a>
+
+  <div>
+    <h3>GitHub - bytefish/facerec: Implements face recognition algorithms for MATLAB/GNU Octave and Python.</h3>
+    {/* <h5>Useful Links for Azure Functions - markheath/azure-functions-links</h5> */}
+    <a
+      href="https://github.com/bytefish/facerec"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Implements face recognition algorithms for MATLAB/GNU Octave and Python
+    </a>
+  </div>
+  <Bytefish_facerec_GitHubRepository />
+
+
+
+ 
+</div>
 
 <div id="Elasticsearch">
 
@@ -8831,6 +9015,8 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 
 
+
+<Nelhage_llama_GitHubRepository />
 
 
 <div id="githubcom_huggingface_transformers_pull_35848">
