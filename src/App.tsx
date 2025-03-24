@@ -50,6 +50,9 @@ import Cédric_Luthi_0xced_Chisel_GitHubRepository from './Cédric_Luthi_0xced_C
 import Nelhage_llama_GitHubRepository from './NelhageLlamaGitHubRepository';
 import DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository from './DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository';
 import FeiPeng_fiigii_PacketTracerGitHubRepository from './FeiPeng_fiigii_PacketTracerGitHubRepository';
+import YoshifumiKawai_Cysharp_ZLinq_GitHubRepository from './YoshifumiKawai_Cysharp_ZLinq_GitHubRepository';
+import Serilog_serilog_aspnetcore_GitHubRepository from './Serilog_serilog_aspnetcore_GitHubRepository';
+import IvanCesar_yohney_elastic_net_example_GitHubRepository from './IvanCesar_yohney_elastic_net_example_GitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -8867,6 +8870,9 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
  
 </div>
 
+
+
+
 <div id="Elasticsearch">
 
 
@@ -8932,9 +8938,104 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 </li>
 
+<li>
+  <a
+    href="#AndrewLock_.NETEscapades"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      AndrewLock
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m AndrewLock.
+    </h3>
+  </a>
+  </li>
+  <li>
 
+  <a
+    href="#IvanCesar"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ivan Cesar
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Ivan Cesar.
+    </h3>
+  </a>
+</li>
 </div>
 
+<div id="AndrewLock_.NETEscapades">
+  <a
+    href="https://github.com/andrewlock"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      AndrewLock
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m AndrewLock.
+    </h3>
+  </a>
+
+  <div>
+    <h3>Writing Logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core</h3>
+    <h5>https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/</h5>
+    <p>Category: <strong>ASP.NET Core, DevOps, Logging, Docker</strong></p>
+    <p>Published on: <strong>June 20, 2018</strong></p>
+    <p>Estimated Reading Time: <strong>~7 min read</strong></p>
+    <a href="https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+        Visit the full article: Writing Logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core
+    </a>
+</div>
+
+<Serilog_serilog_aspnetcore_GitHubRepository />
+</div>
+
+
+<div id="IvanCesar">
+  <a
+    href="https://github.com/yohney"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ivan Cesar
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Ivan Cesar.
+    </h3>
+  </a>
+
+<div>
+    <h3>An Elasticsearch Tutorial for .NET Developers</h3>
+    <h5>https://www.toptal.com/dot-net/elasticsearch-dot-net-developers</h5>
+    <p>Category: <strong>Elasticsearch, .NET, Tutorial</strong></p>
+    <p>Published on: <strong>8 September 2017</strong></p>
+    <p>Author: <strong>Ivan Cesar</strong></p>
+    <a href="https://www.toptal.com/dot-net/elasticsearch-dot-net-developers" 
+       target="_blank" 
+       rel="noopener noreferrer">
+        Visit the full article: An Elasticsearch Tutorial for .NET Developers
+    </a>
+</div>
+<IvanCesar_yohney_elastic_net_example_GitHubRepository />
+</div>
 
 <div id="ItamarSyn-Hershko">
 
@@ -9017,7 +9118,7 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 
 <Nelhage_llama_GitHubRepository />
-
+<YoshifumiKawai_Cysharp_ZLinq_GitHubRepository />
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
