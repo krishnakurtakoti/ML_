@@ -53,6 +53,7 @@ import FeiPeng_fiigii_PacketTracerGitHubRepository from './FeiPeng_fiigii_Packet
 import YoshifumiKawai_Cysharp_ZLinq_GitHubRepository from './YoshifumiKawai_Cysharp_ZLinq_GitHubRepository';
 import Serilog_serilog_aspnetcore_GitHubRepository from './Serilog_serilog_aspnetcore_GitHubRepository';
 import IvanCesar_yohney_elastic_net_example_GitHubRepository from './IvanCesar_yohney_elastic_net_example_GitHubRepository';
+import Divyashreepathihalli_Issue_keras_team_keras_hub_1875 from './divyashreepathihalli_Issue_keras_team_keras_hub_1875';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -2127,6 +2128,92 @@ Veggie 🌿, opinions are my own.</div></h3>
       Hi there! I’m Fei Peng.
     </h3>
   </a>
+</li>
+<li>
+
+<a
+  href="#KerasHub"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    KerasHub: Multi-framework Pretrained Models
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Pretrained model hub for Keras 3.
+      <a
+        href="https://keras.io/keras_hub/"
+        data-original-href="https://keras.io/keras_hub/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#MohammadElsheimy"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Mohammad Elsheimy
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Mohammad Elsheimy
+      <a
+        href="https://justlikemagic.home.blog/about/"
+        data-original-href="https://justlikemagic.home.blog/about/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#YoshifumiKawai"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yoshifumi Kawai
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Yoshifumi Kawai
+      <a
+        href="https://github.com/neuecc"
+        data-original-href="https://github.com/neuecc"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
 </li>
 <li>
 <a
@@ -9115,10 +9202,209 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 
 
+<div id="KerasHub">
+
+
+
+<a
+  href="https://keras.io/keras_hub/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    KerasHub: Multi-framework Pretrained Models
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Pretrained model hub for Keras 3.
+      <a
+        href="https://keras.io/keras_hub/"
+        data-original-href="https://keras.io/keras_hub/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<li>
+
+<a
+  href="#AnshumanMishra"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Anshuman Mishra
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Anshuman Mishra
+      <a
+        href="https://github.com/shivance"
+        data-original-href="https://github.com/shivance"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+
+
+
+</div>
+
+
+<div id="AnshumanMishra">
+
+
+<a
+  href="https://github.com/shivance"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Anshuman Mishra
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Anshuman Mishra
+      <a
+        href="https://github.com/shivance"
+        data-original-href="https://github.com/shivance"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<div>GDE; Google Summer of Code'23 <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/tensorflow/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tensorflow">@tensorflow</a>; Contributor <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/keras-team/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/keras-team">@keras-team</a>; </div>
+
+<div className="authoring-page-link">
+  <p>Visit the authoring page here: <a href="https://shivance.github.io/pages/authoring.html" target="_blank">Authoring Page</a></p>
+</div>
+
+
+
+<div className="tweet-container">
+  <p><strong>Anshuman Mishra (@mishradotexe)</strong></p>
+  <p>I wrote Qwen 2.5 from scratch. Works with JAX, PyTorch and Tensorflow. This marks my return to open source after an year.</p>
+  <a href="https://x.com/mishradotexe/status/1902005764493017527" target="_blank">
+    View the Tweet
+  </a>
+  <br></br>
+  <a href="https://github.com/keras-team/keras-hub/pull/2088" target="_blank">
+    PR mentioned in the tweet: Add Qwen 2.5 by shivance · Pull Request #2088 · keras-team/keras-hub · GitHub
+  </a>
+</div>
+
+
+
+<div className="commit-container">
+  <p><strong>Commit: </strong>checkpoint conversion wip</p>
+  <p><strong>New File Added: </strong><code>tools/checkpoint_conversion/convert_qwen_checkpoints.py</code></p>
+  <a href="https://github.com/keras-team/keras-hub/pull/2088/commits/f7e8ee52b1ff56dc34165f29fe6e8b86bab28a29" target="_blank">
+    View Commit
+  </a>
+</div>
+
+<div className="pr-info">
+  <p>Now, see another PR by the same Keras Team: <strong>SIMILAR TASK</strong></p>
+</div>
+
+<Divyashreepathihalli_Issue_keras_team_keras_hub_1875 />
+
+
+</div>
+
+
+<div id="YoshifumiKawai">
+
+
+<a
+  href="https://github.com/neuecc"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yoshifumi Kawai
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Yoshifumi Kawai
+      <a
+        href="https://github.com/neuecc"
+        data-original-href="https://github.com/neuecc"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+<YoshifumiKawai_Cysharp_ZLinq_GitHubRepository />
+
+
+</div>
+
+
+<div id="MohammadElsheimy">
+
+
+<a
+  href="https://justlikemagic.home.blog/about/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Mohammad Elsheimy
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Mohammad Elsheimy
+      <a
+        href="https://justlikemagic.home.blog/about/"
+        data-original-href="https://justlikemagic.home.blog/about/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</div>
+
 
 
 <Nelhage_llama_GitHubRepository />
-<YoshifumiKawai_Cysharp_ZLinq_GitHubRepository />
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
