@@ -54,6 +54,10 @@ import YoshifumiKawai_Cysharp_ZLinq_GitHubRepository from './YoshifumiKawai_Cysh
 import Serilog_serilog_aspnetcore_GitHubRepository from './Serilog_serilog_aspnetcore_GitHubRepository';
 import IvanCesar_yohney_elastic_net_example_GitHubRepository from './IvanCesar_yohney_elastic_net_example_GitHubRepository';
 import Divyashreepathihalli_Issue_keras_team_keras_hub_1875 from './divyashreepathihalli_Issue_keras_team_keras_hub_1875';
+import TagList from './TagList';
+import MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite from './MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite';
+import Practical_otel_opentelemetry_aspire_collector_GitHubRepository from './Practical_otel_opentelemetry_aspire_collector_GitHubRepository';
+import Martinjt_ocb_config_builder_GitHubRepository from './Martinjt_ocb_config_builder_GitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -109,7 +113,7 @@ function App() {
         </a>
         </header> */}
         <div className="App-header_replica">
-
+        <TagList />
         <h3>In this article</h3>
         <ul>
         <li>
@@ -8197,6 +8201,9 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
 </a>
 <MilesCranmerGitHubProfile />
 <MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing />
+
+<MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite/>
+
 <div style={{ display: 'flex', alignItems: 'center' }}>
 
   {/* <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
@@ -9304,6 +9311,32 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 </div>
 
 
+<h3 className="anchored" data-anchor-id="medium" style={{ position: 'relative' }}>
+      <a href="https://medium.com/" data-original-href="https://medium.com/">Medium</a>
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#medium"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+          position: 'absolute',
+          top: '50%',
+          right: '-20px',
+          transform: 'translateY(-50%)',
+        }}
+      ></a>
+    </h3>
+
+<ul>
+<li><a href="https://shivance.medium.com/interview-with-2x-kaggle-grandmaster-data-science-manager-at-emirates-nbd-ravi-ramakrishnan-3308a3936c07" data-original-href="https://shivance.medium.com/interview-with-2x-kaggle-grandmaster-data-science-manager-at-emirates-nbd-ravi-ramakrishnan-3308a3936c07">Interview with 2x Kaggle Grandmaster, Data Science Manager at Emirates NBD: Ravi Ramakrishnan</a></li>
+<li><a href="https://juliazoid.com/fluxible-unet-c71e411c8b2d" data-original-href="https://juliazoid.com/fluxible-unet-c71e411c8b2d">Flux.jl is so flexible — Deep Learning in Julia</a></li>
+<li><a href="https://shivance.medium.com/kaggle-x-julia-advanced-house-price-prediction-eda-1124b9a96f97" data-original-href="https://shivance.medium.com/kaggle-x-julia-advanced-house-price-prediction-eda-1124b9a96f97">Kaggle x Julia : Advanced House Price Prediction : EDA</a></li>
+</ul>
+
 
 <div className="tweet-container">
   <p><strong>Anshuman Mishra (@mishradotexe)</strong></p>
@@ -9326,6 +9359,7 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
     View Commit
   </a>
 </div>
+
 
 <div className="pr-info">
   <p>Now, see another PR by the same Keras Team: <strong>SIMILAR TASK</strong></p>
@@ -9405,6 +9439,17 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 
 <Nelhage_llama_GitHubRepository />
+<Practical_otel_opentelemetry_aspire_collector_GitHubRepository />
+
+<Martinjt_ocb_config_builder_GitHubRepository />
+<p>
+  timdeschryver (<a href="https://github.com/timdeschryver">https://github.com/timdeschryver</a>) starred 2 repositories on 25/3/25
+  <br />
+  <a href="https://github.com/practical-otel/opentelemetry-aspire-collector">practical-otel/opentelemetry-aspire-collector</a> (C#) 28 STARS
+  <br />
+  <a href="https://github.com/microsoft/playwright-mcp"> microsoft/playwright-mcp</a>
+</p>
+
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
