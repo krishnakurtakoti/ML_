@@ -58,6 +58,8 @@ import TagList from './TagList';
 import MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite from './MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite';
 import Practical_otel_opentelemetry_aspire_collector_GitHubRepository from './Practical_otel_opentelemetry_aspire_collector_GitHubRepository';
 import Martinjt_ocb_config_builder_GitHubRepository from './Martinjt_ocb_config_builder_GitHubRepository';
+import Abpframework_abp_GitHubRepository from './Abpframework_abp_GitHubRepository';
+import Open_telemetry_opentelemetry_collector_GitHubRepository from './Open_telemetry_opentelemetry_collector_GitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -2214,6 +2216,58 @@ Veggie 🌿, opinions are my own.</div></h3>
             
          
             </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+<li>
+ 
+<a
+  href="#Abpframework_abp"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    ABP
+    </span>
+  </h1>
+  {/* <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m ABP.
+      <a href="https://abp.io/" rel="nofollow">ABP</a>
+    </p>
+    
+
+  </h3> */}
+</a>
+<p dir="auto"><a href="https://abp.io/" rel="nofollow">ABP</a> offers an <strong>opinionated architecture</strong> to build enterprise software solutions with <strong>best practices</strong> on top of the <strong>.NET</strong> and the <strong>ASP.NET Core</strong> platforms. 
+   </p>
+</li>
+<li>
+  
+  
+<a
+  href="#OpenTelemetry_CNCF"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    OpenTelemetry - CNCF
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m OpenTelemetry - CNCF.
+      <a
+        href="https://github.com/open-telemetry"
+        data-original-href="https://github.com/open-telemetry"
+      >
+          
+
       </a>
     </p>
   </h3>
@@ -8687,6 +8741,14 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 </a>
 <p dir="auto"><strong>Who should be a maintainer?</strong> Somebody with GitHub Actions experience, or the desire to obtain that experience. Also a maintainer should be a modern code craftsperson that is passionate about shipping production-quality software. This GitHub Action can be part of important build and deployment pipelines. Not to mention, it is likely running inside many existing users' environments in their runners. It is important that changes are well-tested, and are the right thing for our users.</p>
 
+<p>
+      <strong>Manual Approval in a GitHub Actions Workflow</strong><br />
+      <strong>Posted:</strong> March 28, 2022<br />
+      <strong>Updated:</strong> March 28, 2022<br />
+      <a href="https://trstringer.com/github-actions-manual-approval/">Visit the full article here</a>
+    </p>
+
+
 </div>
 
 <div id="MartinEvans">
@@ -9436,12 +9498,34 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 
 </div>
 
+<div id="MartinDotNet">
 
+  
+<a
+  href="https://github.com/martinjt"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    MartinDotNet
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m MartinDotNet.
+      <a
+        href="https://github.com/martinjt"
+        data-original-href="https://github.com/martinjt"
+      >
+          
 
-<Nelhage_llama_GitHubRepository />
-<Practical_otel_opentelemetry_aspire_collector_GitHubRepository />
+      </a>
+    </p>
+  </h3>
+</a>
 
-<Martinjt_ocb_config_builder_GitHubRepository />
+<a rel="nofollow me" className="Link--primary wb-break-all" href="https://martinjt.me">https://martinjt.me</a>
 <p>
   timdeschryver (<a href="https://github.com/timdeschryver">https://github.com/timdeschryver</a>) starred 2 repositories on 25/3/25
   <br />
@@ -9449,6 +9533,116 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
   <br />
   <a href="https://github.com/microsoft/playwright-mcp"> microsoft/playwright-mcp</a>
 </p>
+
+<Practical_otel_opentelemetry_aspire_collector_GitHubRepository />
+<p>Visit the article "Building a Secure OpenTelemetry Collector" published on <strong>20 December, 2023</strong> here: <a href="https://martinjt.me/2023/12/20/building-a-secure-opentelemetry-collector/" target="_blank">Building a Secure OpenTelemetry Collector</a></p>
+
+
+<Martinjt_ocb_config_builder_GitHubRepository />
+
+</div>
+<div id="Abpframework_abp">
+
+  
+<a
+  href="https://github.com/abpframework/abp"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    ABP
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m ABP.
+      <a href="https://abp.io/" rel="nofollow">ABP</a>
+    </p>
+    <p dir="auto"><a href="https://abp.io/" rel="nofollow">ABP</a> offers an <strong>opinionated architecture</strong> to build enterprise software solutions with <strong>best practices</strong> on top of the <strong>.NET</strong> and the <strong>ASP.NET Core</strong> platforms. 
+   </p>
+
+  </h3>
+</a>
+<Abpframework_abp_GitHubRepository />
+
+
+
+<p>
+Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 25/3/25
+  <br />
+  <a href="https://github.com/abpframework/abp">abpframework/abp </a> (C#) 13.3k STARS
+
+</p>
+
+<p dir="auto"><a href="https://abp.io/" rel="nofollow">ABP</a> offers an <strong>opinionated architecture</strong> to build enterprise software solutions with <strong>best practices</strong> on top of the <strong>.NET</strong> and the <strong>ASP.NET Core</strong> platforms. It provides the fundamental infrastructure, production-ready startup templates, pre-built application modules, UI themes, tooling, guides and documentation to implement that architecture properly and <strong>automate the details</strong> and repetitive works as much as possible.</p>
+
+</div>
+
+
+
+<div id="OpenTelemetry_CNCF">
+
+  
+<a
+  href="https://github.com/open-telemetry"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    OpenTelemetry - CNCF
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m OpenTelemetry - CNCF.
+      <a
+        href="https://github.com/open-telemetry"
+        data-original-href="https://github.com/open-telemetry"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<div>OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.</div>
+<Open_telemetry_opentelemetry_collector_GitHubRepository />
+
+<li>
+
+<a
+  href="#MartinDotNet"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    MartinDotNet
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m MartinDotNet.
+      <a
+        href="https://github.com/martinjt"
+        data-original-href="https://github.com/martinjt"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+
+
+
+</div>
+<Nelhage_llama_GitHubRepository />
+
 
 
 <div id="githubcom_huggingface_transformers_pull_35848">
