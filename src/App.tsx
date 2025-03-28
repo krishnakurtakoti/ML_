@@ -1934,7 +1934,32 @@ Veggie 🌿, opinions are my own.</div></h3>
         </ul>
 
 </li>
+<li>
 
+<a
+  href="#RogerKoenker"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Roger Koenker
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Roger Koenker.
+      <a
+        href="http://www.econ.uiuc.edu/~roger/"
+        data-original-href="http://www.econ.uiuc.edu/~roger/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
 <li>
 <a
   href="#ThomasStringer"
@@ -9707,6 +9732,57 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 </div>
 
 
+<div id="RogerKoenker">
+
+  
+<a
+  href="http://www.econ.uiuc.edu/~roger/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Roger Koenker
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Roger Koenker.
+      <a
+        href="http://www.econ.uiuc.edu/~roger/"
+        data-original-href="http://www.econ.uiuc.edu/~roger/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+<div style={{ fontFamily: 'Arial, sans-serif', margin: '20px', color: '#333' }}>
+    <h1 style={{ color: '#2c3e50' }}>How to Run Regression on Large Datasets in R</h1>
+    <p style={{ fontSize: '1em', color: '#7f8c8d', marginBottom: '15px' }}>October 2, 2011 | Programming, R, Statistics</p>
+    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Running regression models on large datasets can be challenging, especially when data exceeds the available memory in your system. In this post, I will walk you through how to perform linear regression using large datasets in R using various techniques to overcome memory limitations. For more information and examples, visit the original article on <a href="https://statr.me/2011/10/large-regression/" target="_blank" style={{ color: '#3498db' }}>Statr.me</a>.</p>
+  </div>
+
+
+  <div style={{ fontFamily: 'Arial, sans-serif', margin: '20px', color: '#333' }}>
+    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Xiao Nan yixuanq 12 years ago: Yup. There's more. Prof. Roger Koenker once combined MySQL with his qr: <a href="http://www.econ.uiuc.edu/~r" target="_blank" style={{ color: '#3498db' }}>Link</a>. There's barely few experiments on the cluster & classification's hpc topic. I think the algorithms are just naturally inefficient or too complicated to reimplement.</p>
+  </div>
+
+
+  <div style={{ fontFamily: 'Arial, sans-serif', margin: '20px', color: '#333' }}>
+    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>
+    <a  href="http://www.econ.uiuc.edu/~roger/research/rq/LM.html" target="_blank" style={{ color: '#3498db' }}> <strong>Statistical Analysis of Large Datasets - An Exploration of R - MySQL Interface:</strong> 
+        Visit the link
+      </a> by Roger Koenker, University of Illinois, and Álvaro A. Novo, University of Illinois. Topics include Least Squares and Quantile Regression.
+    </p>
+  </div>
+
+
+
+</div>
 <div id="githubcom_huggingface_transformers_pull_35848">
 
 
