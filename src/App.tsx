@@ -119,7 +119,988 @@ function App() {
         <TagList />
         <h3>In this article</h3>
         <ul>
+       
+
+<li>
+
+{/* <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              @Alexandre_Mutel </span>
+            
+            </h1>
+            <h3><div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+Microsoft MVP, ex-demoscene PC/Amiga 🎆
+Veggie 🌿, opinions are my own.</div></h3>
+          </a> */}
+          <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      @Alexandre_Mutel
+    </span>
+    
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
+      Microsoft MVP, ex-demoscene PC/Amiga 🎆
+      Veggie 🌿, opinions are my own.
+    </div>
+  </h3>
+</a>
+
+<Alexandre_MutelBlogPosts />
+{/* 
+          <h2 className="year" id="2018">
+      2023
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+<li 
+// className="prefix-Alexandre-Mutel"
+>
+  <a href="https://xoofx.github.io/blog/2023/07/09/10x-performance-with-simd-in-csharp-dotnet">10x Performance with SIMD Vectorized Code in C#/.NET</a>
+  <span className="blog-post-meta">
+    - <span className="date"><time 
+    // datetime="2023-07-09" itemprop="datePublished"
+    >Jul 9</time></span>
+    <i className="bi bi-tags"></i><a href="/blog/tag/csharp/" className="prefix-Alexandre-Mutel">C#</a>, <a href="/blog/tag/net/" className="prefix-Alexandre-Mutel">.NET</a>, <a href="/blog/tag/x86/" className="prefix-Alexandre-Mutel">x86</a>, <a href="/blog/tag/assembler/" className="prefix-Alexandre-Mutel">assembler</a>
+  </span>
+  <span className="subtitle">Use your CPU at its full width!</span>
+</li>
+
+
+
+<h2 className="year" id="2018">
+      2018
+      <a
+        className="anchorjs-link"
+        aria-label="Anchor"
+        data-anchorjs-icon=""
+        href="#2018"
+        style={{
+          font: '1em / 1 anchorjs-icons',
+          marginLeft: '0.1875em',
+          paddingRight: '0.1875em',
+          paddingLeft: '0.1875em',
+        }}
+      ></a>
+    </h2>
+      <ul>
         <li>
+          <a href="https://xoofx.github.io/blog/2018/12/26/generate-async-from-sync-code-with-roslyn">Generate automatically async/await code from sync code with Roslyn</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-12-26" itemprop="datePublished"
+             >Dec 26</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr">Writing a Managed JIT in C# with CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+           // datetime="2018-04-12" itemprop="datePublished"
+            >Apr 12</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/04/06/porting-unity-to-coreclr">Porting the Unity Engine to .NET CoreCLR</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-04-06" itemprop="datePublished"
+            >Apr  6</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>, <a href="/blog/tag/unity/">Unity</a>
+          </span>
+        </li>
+
+        <li>
+          <a href="https://xoofx.github.io/blog/2018/03/09/productivity-with-resharper">Productivity with ReSharper</a>
+          <span className="blog-post-meta">
+            - <span className="date"><time 
+            // datetime="2018-03-09" itemprop="datePublished"
+            >Mar  9</time></span>
+            <i className="bi bi-tags"></i><a href="/blog/tag/visual-studio/">Visual Studio</a>, <a href="/blog/tag/visual-studio-2015/">Visual Studio 2015</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
+          </span>
+        </li>
+
+      </ul> */}
+
+</li>
+<li>
+
+{/* <a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              @Bishal Santra </span>
+             
+            </h1>
+            <h3> <div>Research Engineer <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/microsoft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/microsoft">@microsoft</a> Research India | 
+            Working on Language Modeling for Retrieval | IIT KGP</div></h3>
+          </a> */}
+<a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      @Bishal Santra
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      Research Engineer 
+      <a className="user-mention notranslate" 
+         data-hovercard-type="organization" 
+         data-hovercard-url="/orgs/microsoft/hovercard" 
+         data-octo-click="hovercard-link-click" 
+         data-octo-dimensions="link_type:self" 
+         href="https://github.com/microsoft">
+        @microsoft
+      </a> 
+      Research India | Working on Language Modeling for Retrieval | IIT KGP
+    </div>
+  </h3>
+</a>
+
+          <Bishal_Santra_BlogPosts />
+</li>
+<li>
+
+{/* <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Kristoffer Carlsson </span>
+             
+            </h1>
+            <h3>    <div>Software engineer, Julia Computing</div></h3>
+          </a> */}
+
+          <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kristoffer Carlsson
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>Software engineer, Julia Computing</div>
+  </h3>
+</a>
+
+
+
+            <KristofferCarlssonTilesOnly1 />
+          {/* <KristofferCarlssonTilesOnly /> */}
+          {/* <KristofferCarlsson /> */}
+
+</li>
+<li>
+
+{/* <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Stathis Kamperis </span>
+              
+            </h1>
+            <h3>    <div>I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).</div></h3>
+          </a> */}
+          <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Stathis Kamperis
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>
+      I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).
+    </div>
+  </h3>
+</a>
+
+
+</li>
+<li>
+{/* <a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Danielle Navarro </span>
+             
+            </h1>
+            <h3>    <p>Hi there! I’m Danielle Navarro. I’m a 
+              <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+            data scientist</a>, 
+            
+            <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">generative artist</a>, and a <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">recovering academic</a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.</p></h3>
+          </a> */}
+<a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Danielle Navarro
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>Hi there! I’m Danielle Navarro. I’m a 
+      <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
+        data scientist
+      </a>, 
+      <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">
+        generative artist
+      </a>, and a 
+      <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">
+        recovering academic
+      </a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.
+    </p>
+  </h3>
+</a>
+
+
+</li>
+
+<li>
+<a
+  href="#MilesCranmer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Miles Cranmer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Miles Cranmer.
+      <a
+        href="https://github.com/MilesCranmer"
+        data-original-href="https://github.com/MilesCranmer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+
+
+
+<li>
+
+<a
+  href="#DavisVaughan"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    DavisVaughan
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  DavisVaughan.
+      <a
+        href="https://github.com/DavisVaughan"
+        data-original-href="https://github.com/DavisVaughan"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+
+
+<li>
+
+<a
+  href="#JonShlens"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Jon Shlens
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Jon Shlens.
+      <a
+        href="https://github.com/shlens"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+<li>
+{/* <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie </span>
+             
+            </h1>
+            <h3>    <p>Hi there! I’m Yihui Xie. I’m a <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+              Freelancer (open source programmer, contractor, blogger, and writer)</a></p></h3>
+          </a> */}
+
+
+          <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie</span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>Hi there! I’m Yihui Xie. I’m a 
+      <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
+        Freelancer (open source programmer, contractor, blogger, and writer)
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+{/* <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+          <h1>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            ThomasLumley </span></h1>
+            <h3>    <p><span className="p-nickname vcard-username d-block">
+            on Mastodon and Blu Esky
+            </span></p> </h3>
+          
+        </a> */}
+
+
+        <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      ThomasLumley
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p>
+      <span className="p-nickname vcard-username d-block">
+        on Mastodon and Blu Esky
+      </span>
+    </p>
+  </h3>
+</a>
+
+        </li>
+ <li>
+
+   
+        <a
+  href="#roboticcam-machine-learning-note"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Prof Richard Xu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Prof Richard Xu.
+      <a
+        href="https://github.com/roboticcam"
+        data-original-href="https://github.com/roboticcam"
+      >
+        <div style={{ margin: 0 }}>
+          I am a Professor at the Department of Mathematics, Hong Kong Baptist
+          University (HKBU) 香港浸会大学数学系教授
+        </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+<a
+  href="#AlexanderFischerGitHubProfile"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Alexander Fischer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Alexander Fischer.
+      <a
+        href="https://github.com/s3alfisc"
+        data-original-href="https://github.com/s3alfisc"
+      >
+          <div>Data Scientist <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/trivago/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trivago">@trivago</a> </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+</li>
+<li>
+<a
+  href="#RossWightmanGitHubProfile"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Ross Wightman
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Ross Wightman.
+      <a
+        href="https://github.com/rwightman"
+        data-original-href="https://github.com/rwightman"
+      >
+          <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#StevenGJohnson"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Steven G. Johnson
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Steven G. Johnson.
+      <a
+        href="https://github.com/stevengj"
+        data-original-href="https://github.com/stevengj"
+      >
+           <div style={{ textAlign: 'center' }}>
+      Professor of{' '}
+      <a
+        href="http://math.mit.edu/applied/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Applied Mathematics
+      </a>{' '}
+      and{' '}
+      <a
+        href="http://web.mit.edu/physics/people/faculty/johnson_steven.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Physics, Massachusetts Institute of Technology
+      </a>
+      <br />
+    </div>
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#YixuanQiu1"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yixuan Qiu
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Yixuan Qiu.
+      <a
+        href="https://github.com/yixuan/"
+        data-original-href="https://github.com/yixuan/"
+      >
+          <div>
+            
+          <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p>
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+<li>
+
+<a
+  href="#RogerKoenker"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Roger Koenker
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Roger Koenker.
+      <a
+        href="http://www.econ.uiuc.edu/~roger/"
+        data-original-href="http://www.econ.uiuc.edu/~roger/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+<a
+  href="#ThomasStringer"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Thomas Stringer
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Thomas Stringer.
+      <a
+        href="https://github.com/trstringer"
+        data-original-href="https://github.com/trstringer"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+
+<a
+  href="#MartinEvans"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Martin Evans
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m  Martin Evans.
+      <a
+        href="https://github.com/martindevans"
+        data-original-href="https://github.com/martindevans"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+<a rel="nofollow me" className="Link--primary wb-break-all" href="http://martindevans.me">http://martindevans.me</a>
+
+
+</li>
+
+<li>
+<a
+  href="#CédricLuthi"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Cédric Luthi
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Cédric Luthi.
+      <a
+        href="https://github.com/0xced"
+        data-original-href="https://github.com/0xced"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+
+
+<a
+  href="#MarkHeath"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Mark Heath
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Mark Heath.
+      <a
+        href="https://github.com/markheath"
+        data-original-href="https://github.com/markheath"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+<li>
+
+<a
+  href="#Elasticsearch"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Elasticsearch
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Elasticsearch. The heart of the Elastic Stack
+      <a
+        href="https://www.elastic.co/elasticsearch"
+        data-original-href="https://www.elastic.co/elasticsearch"
+      >
+          <div>
+            
+          {/* <p>Currently an associate professor in
+<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+
+</li>
+<li>
+  <a
+    href="#PhilippWagner"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Philipp Wagner
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Philipp Wagner.
+    </h3>
+  </a>
+</li>
+<li>
+
+  <a
+    href="#DaniloPoccia"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Danilo Poccia
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Danilo Poccia.
+    </h3>
+  </a>
+</li>
+<li>
+
+  <a
+    href="#FeiPeng"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Fei Peng
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Fei Peng.
+    </h3>
+  </a>
+</li>
+<li>
+
+<a
+  href="#KerasHub"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    KerasHub: Multi-framework Pretrained Models
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Pretrained model hub for Keras 3.
+      <a
+        href="https://keras.io/keras_hub/"
+        data-original-href="https://keras.io/keras_hub/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#MohammadElsheimy"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Mohammad Elsheimy
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Mohammad Elsheimy
+      <a
+        href="https://justlikemagic.home.blog/about/"
+        data-original-href="https://justlikemagic.home.blog/about/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#YoshifumiKawai"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yoshifumi Kawai
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Yoshifumi Kawai
+      <a
+        href="https://github.com/neuecc"
+        data-original-href="https://github.com/neuecc"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+<li>
+ 
+<a
+  href="#Abpframework_abp"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    ABP
+    </span>
+  </h1>
+  {/* <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m ABP.
+      <a href="https://abp.io/" rel="nofollow">ABP</a>
+    </p>
+    
+
+  </h3> */}
+</a>
+<p dir="auto"><a href="https://abp.io/" rel="nofollow">ABP</a> offers an <strong>opinionated architecture</strong> to build enterprise software solutions with <strong>best practices</strong> on top of the <strong>.NET</strong> and the <strong>ASP.NET Core</strong> platforms. 
+   </p>
+</li>
+<li>
+  
+  
+<a
+  href="#OpenTelemetry_CNCF"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    OpenTelemetry - CNCF
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m OpenTelemetry - CNCF.
+      <a
+        href="https://github.com/open-telemetry"
+        data-original-href="https://github.com/open-telemetry"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+  
+<a
+  href="#SafiaAbdalla"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Safia Abdalla
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Safia Abdalla.
+      <a
+        href="https://github.com/captainsafia"
+        data-original-href="https://github.com/captainsafia"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+<a
+  href="#githubcom_huggingface_transformers_pull_35848"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Ross Wightman
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}> Hi there! I’m  Ross Wightman.
+    <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
+    </p>
+    <p style={{ margin: 0 }}>
+      These are my PRs
+      <a
+        href="https://github.com/rwightman"
+        data-original-href="https://github.com/rwightman"
+      >
+         
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+
+<li>
         <h1 className="vcard-names1 ">
             <a href="#caleb-robinson-blog-archives" style={{ textDecoration: 'underline' }}>
             Caleb-robinson - Understanding intersection-over-union
@@ -1216,566 +2197,6 @@ function App() {
 
 <KevinFransPostCardWithSeparateCSS />
 </li>
-
-
-<li>
-
-{/* <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">
-              @Alexandre_Mutel </span>
-            
-            </h1>
-            <h3><div>Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
-Microsoft MVP, ex-demoscene PC/Amiga 🎆
-Veggie 🌿, opinions are my own.</div></h3>
-          </a> */}
-          <a href="#@Alexandre_Mutel" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      @Alexandre_Mutel
-    </span>
-    
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <div>
-      Director C#/.NET Tech Group at Unity, OSS, lang/compilers, GPU/sound, architecture 🏎️
-      Microsoft MVP, ex-demoscene PC/Amiga 🎆
-      Veggie 🌿, opinions are my own.
-    </div>
-  </h3>
-</a>
-
-<Alexandre_MutelBlogPosts />
-{/* 
-          <h2 className="year" id="2018">
-      2023
-      <a
-        className="anchorjs-link"
-        aria-label="Anchor"
-        data-anchorjs-icon=""
-        href="#2018"
-        style={{
-          font: '1em / 1 anchorjs-icons',
-          marginLeft: '0.1875em',
-          paddingRight: '0.1875em',
-          paddingLeft: '0.1875em',
-        }}
-      ></a>
-    </h2>
-<li 
-// className="prefix-Alexandre-Mutel"
->
-  <a href="https://xoofx.github.io/blog/2023/07/09/10x-performance-with-simd-in-csharp-dotnet">10x Performance with SIMD Vectorized Code in C#/.NET</a>
-  <span className="blog-post-meta">
-    - <span className="date"><time 
-    // datetime="2023-07-09" itemprop="datePublished"
-    >Jul 9</time></span>
-    <i className="bi bi-tags"></i><a href="/blog/tag/csharp/" className="prefix-Alexandre-Mutel">C#</a>, <a href="/blog/tag/net/" className="prefix-Alexandre-Mutel">.NET</a>, <a href="/blog/tag/x86/" className="prefix-Alexandre-Mutel">x86</a>, <a href="/blog/tag/assembler/" className="prefix-Alexandre-Mutel">assembler</a>
-  </span>
-  <span className="subtitle">Use your CPU at its full width!</span>
-</li>
-
-
-
-<h2 className="year" id="2018">
-      2018
-      <a
-        className="anchorjs-link"
-        aria-label="Anchor"
-        data-anchorjs-icon=""
-        href="#2018"
-        style={{
-          font: '1em / 1 anchorjs-icons',
-          marginLeft: '0.1875em',
-          paddingRight: '0.1875em',
-          paddingLeft: '0.1875em',
-        }}
-      ></a>
-    </h2>
-      <ul>
-        <li>
-          <a href="https://xoofx.github.io/blog/2018/12/26/generate-async-from-sync-code-with-roslyn">Generate automatically async/await code from sync code with Roslyn</a>
-          <span className="blog-post-meta">
-            - <span className="date"><time 
-            // datetime="2018-12-26" itemprop="datePublished"
-             >Dec 26</time></span>
-            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
-          </span>
-        </li>
-
-        <li>
-          <a href="https://xoofx.github.io/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr">Writing a Managed JIT in C# with CoreCLR</a>
-          <span className="blog-post-meta">
-            - <span className="date"><time 
-           // datetime="2018-04-12" itemprop="datePublished"
-            >Apr 12</time></span>
-            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>
-          </span>
-        </li>
-
-        <li>
-          <a href="https://xoofx.github.io/blog/2018/04/06/porting-unity-to-coreclr">Porting the Unity Engine to .NET CoreCLR</a>
-          <span className="blog-post-meta">
-            - <span className="date"><time 
-            // datetime="2018-04-06" itemprop="datePublished"
-            >Apr  6</time></span>
-            <i className="bi bi-tags"></i><a href="/blog/tag/csharp/">C#</a>, <a href="/blog/tag/net/">.NET</a>, <a href="/blog/tag/coreclr/">CoreCLR</a>, <a href="/blog/tag/unity/">Unity</a>
-          </span>
-        </li>
-
-        <li>
-          <a href="https://xoofx.github.io/blog/2018/03/09/productivity-with-resharper">Productivity with ReSharper</a>
-          <span className="blog-post-meta">
-            - <span className="date"><time 
-            // datetime="2018-03-09" itemprop="datePublished"
-            >Mar  9</time></span>
-            <i className="bi bi-tags"></i><a href="/blog/tag/visual-studio/">Visual Studio</a>, <a href="/blog/tag/visual-studio-2015/">Visual Studio 2015</a>, <a href="/blog/tag/roslyn/">Roslyn</a>
-          </span>
-        </li>
-
-      </ul> */}
-
-</li>
-<li>
-
-{/* <a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">
-              @Bishal Santra </span>
-             
-            </h1>
-            <h3> <div>Research Engineer <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/microsoft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/microsoft">@microsoft</a> Research India | 
-            Working on Language Modeling for Retrieval | IIT KGP</div></h3>
-          </a> */}
-<a href="#Bishal_Santra" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      @Bishal Santra
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <div>
-      Research Engineer 
-      <a className="user-mention notranslate" 
-         data-hovercard-type="organization" 
-         data-hovercard-url="/orgs/microsoft/hovercard" 
-         data-octo-click="hovercard-link-click" 
-         data-octo-dimensions="link_type:self" 
-         href="https://github.com/microsoft">
-        @microsoft
-      </a> 
-      Research India | Working on Language Modeling for Retrieval | IIT KGP
-    </div>
-  </h3>
-</a>
-
-          <Bishal_Santra_BlogPosts />
-</li>
-<li>
-
-{/* <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">
-              Kristoffer Carlsson </span>
-             
-            </h1>
-            <h3>    <div>Software engineer, Julia Computing</div></h3>
-          </a> */}
-
-          <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      Kristoffer Carlsson
-    </span>
-    {/* <span className="p-nickname vcard-username d-block"></span> */}
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <div>Software engineer, Julia Computing</div>
-  </h3>
-</a>
-
-
-
-            <KristofferCarlssonTilesOnly1 />
-          {/* <KristofferCarlssonTilesOnly /> */}
-          {/* <KristofferCarlsson /> */}
-
-</li>
-<li>
-
-{/* <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">
-              Stathis Kamperis </span>
-              
-            </h1>
-            <h3>    <div>I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).</div></h3>
-          </a> */}
-          <a href="#StathisKamperis" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      Stathis Kamperis
-    </span>
-    {/* <span className="p-nickname vcard-username d-block"></span> */}
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <div>
-      I am a radiation oncologist and physicist. I like to build bridges between different scientific disciplines (medicine, physics, informatics).
-    </div>
-  </h3>
-</a>
-
-
-</li>
-<li>
-{/* <a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">
-              Danielle Navarro </span>
-             
-            </h1>
-            <h3>    <p>Hi there! I’m Danielle Navarro. I’m a 
-              <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
-            data scientist</a>, 
-            
-            <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">generative artist</a>, and a <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">recovering academic</a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.</p></h3>
-          </a> */}
-<a href="#DanielleNavarro" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      Danielle Navarro
-    </span>
-    {/* <span className="p-nickname vcard-username d-block"></span> */}
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p>Hi there! I’m Danielle Navarro. I’m a 
-      <a href="https://blog.djnavarro.net/" data-original-href="https://blog.djnavarro.net/">
-        data scientist
-      </a>, 
-      <a href="https://art.djnavarro.net/" data-original-href="https://art.djnavarro.net/">
-        generative artist
-      </a>, and a 
-      <a href="https://papers.djnavarro.net/" data-original-href="https://papers.djnavarro.net/">
-        recovering academic
-      </a> living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.
-    </p>
-  </h3>
-</a>
-
-
-</li>
-
-<li>
-<a
-  href="#MilesCranmer"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Miles Cranmer
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Miles Cranmer.
-      <a
-        href="https://github.com/MilesCranmer"
-        data-original-href="https://github.com/MilesCranmer"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-
-
-
-
-<li>
-
-<a
-  href="#DavisVaughan"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    DavisVaughan
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  DavisVaughan.
-      <a
-        href="https://github.com/DavisVaughan"
-        data-original-href="https://github.com/DavisVaughan"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-
-
-
-<li>
-
-<a
-  href="#JonShlens"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Jon Shlens
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Jon Shlens.
-      <a
-        href="https://github.com/shlens"
-        data-original-href="https://github.com/yixuan/"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-
-<li>
-{/* <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-            <h1>
-              <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie </span>
-             
-            </h1>
-            <h3>    <p>Hi there! I’m Yihui Xie. I’m a <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
-              Freelancer (open source programmer, contractor, blogger, and writer)</a></p></h3>
-          </a> */}
-
-
-          <a href="#YihuiXie" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">Yihui Xie</span>
-    {/* <span className="p-nickname vcard-username d-block"></span> */}
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p>Hi there! I’m Yihui Xie. I’m a 
-      <a href="https://github.com/yihui" data-original-href="https://yihui.org/en/">
-        Freelancer (open source programmer, contractor, blogger, and writer)
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-{/* <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-          <h1>
-            <span className="p-name vcard-fullname d-block overflow-hidden">
-            ThomasLumley </span></h1>
-            <h3>    <p><span className="p-nickname vcard-username d-block">
-            on Mastodon and Blu Esky
-            </span></p> </h3>
-          
-        </a> */}
-
-
-        <a href="#@tslumley" className="vcard-names1" style={{ textDecoration: 'underline' }}>
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      ThomasLumley
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p>
-      <span className="p-nickname vcard-username d-block">
-        on Mastodon and Blu Esky
-      </span>
-    </p>
-  </h3>
-</a>
-
-        </li>
- <li>
-
-   
-        <a
-  href="#roboticcam-machine-learning-note"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-      Prof Richard Xu
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Prof Richard Xu.
-      <a
-        href="https://github.com/roboticcam"
-        data-original-href="https://github.com/roboticcam"
-      >
-        <div style={{ margin: 0 }}>
-          I am a Professor at the Department of Mathematics, Hong Kong Baptist
-          University (HKBU) 香港浸会大学数学系教授
-        </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-<a
-  href="#AlexanderFischerGitHubProfile"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Alexander Fischer
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Alexander Fischer.
-      <a
-        href="https://github.com/s3alfisc"
-        data-original-href="https://github.com/s3alfisc"
-      >
-          <div>Data Scientist <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/trivago/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trivago">@trivago</a> </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-
-</li>
-<li>
-<a
-  href="#RossWightmanGitHubProfile"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Ross Wightman
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Ross Wightman.
-      <a
-        href="https://github.com/rwightman"
-        data-original-href="https://github.com/rwightman"
-      >
-          <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-
-<a
-  href="#StevenGJohnson"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Steven G. Johnson
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Steven G. Johnson.
-      <a
-        href="https://github.com/stevengj"
-        data-original-href="https://github.com/stevengj"
-      >
-           <div style={{ textAlign: 'center' }}>
-      Professor of{' '}
-      <a
-        href="http://math.mit.edu/applied/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Applied Mathematics
-      </a>{' '}
-      and{' '}
-      <a
-        href="http://web.mit.edu/physics/people/faculty/johnson_steven.html"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Physics, Massachusetts Institute of Technology
-      </a>
-      <br />
-    </div>
-
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-
-<a
-  href="#YixuanQiu1"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Yixuan Qiu
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Yixuan Qiu.
-      <a
-        href="https://github.com/yixuan/"
-        data-original-href="https://github.com/yixuan/"
-      >
-          <div>
-            
-          <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p>
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
 <li>
 
 {/* <a href="#@unixpickle" className="vcard-names1" style={{ textDecoration: 'underline' }}>
@@ -1934,427 +2355,6 @@ Veggie 🌿, opinions are my own.</div></h3>
         </ul>
 
 </li>
-<li>
-
-<a
-  href="#RogerKoenker"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Roger Koenker
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Roger Koenker.
-      <a
-        href="http://www.econ.uiuc.edu/~roger/"
-        data-original-href="http://www.econ.uiuc.edu/~roger/"
-      >
-          
-
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-<li>
-<a
-  href="#ThomasStringer"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Thomas Stringer
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Thomas Stringer.
-      <a
-        href="https://github.com/trstringer"
-        data-original-href="https://github.com/trstringer"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-<li>
-
-<a
-  href="#MartinEvans"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Martin Evans
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Martin Evans.
-      <a
-        href="https://github.com/martindevans"
-        data-original-href="https://github.com/martindevans"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-<a rel="nofollow me" className="Link--primary wb-break-all" href="http://martindevans.me">http://martindevans.me</a>
-
-
-</li>
-
-<li>
-<a
-  href="#CédricLuthi"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Cédric Luthi
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Cédric Luthi.
-      <a
-        href="https://github.com/0xced"
-        data-original-href="https://github.com/0xced"
-      >
-          
-
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-<li>
-
-
-<a
-  href="#MarkHeath"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Mark Heath
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Mark Heath.
-      <a
-        href="https://github.com/markheath"
-        data-original-href="https://github.com/markheath"
-      >
-          
-
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-
-<li>
-
-<a
-  href="#Elasticsearch"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Elasticsearch
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Elasticsearch. The heart of the Elastic Stack
-      <a
-        href="https://www.elastic.co/elasticsearch"
-        data-original-href="https://www.elastic.co/elasticsearch"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-
-
-</li>
-<li>
-  <a
-    href="#PhilippWagner"
-    className="vcard-names1"
-    style={{ textDecoration: 'underline' }}
-  >
-    <h1 style={{ margin: 0 }}>
-      <span className="p-name vcard-fullname d-block overflow-hidden">
-      Philipp Wagner
-      </span>
-    </h1>
-    <h3 style={{ margin: 0 }}>
-      Hi there! I’m Philipp Wagner.
-    </h3>
-  </a>
-</li>
-<li>
-
-  <a
-    href="#DaniloPoccia"
-    className="vcard-names1"
-    style={{ textDecoration: 'underline' }}
-  >
-    <h1 style={{ margin: 0 }}>
-      <span className="p-name vcard-fullname d-block overflow-hidden">
-      Danilo Poccia
-      </span>
-    </h1>
-    <h3 style={{ margin: 0 }}>
-      Hi there! I’m Danilo Poccia.
-    </h3>
-  </a>
-</li>
-<li>
-
-  <a
-    href="#FeiPeng"
-    className="vcard-names1"
-    style={{ textDecoration: 'underline' }}
-  >
-    <h1 style={{ margin: 0 }}>
-      <span className="p-name vcard-fullname d-block overflow-hidden">
-      Fei Peng
-      </span>
-    </h1>
-    <h3 style={{ margin: 0 }}>
-      Hi there! I’m Fei Peng.
-    </h3>
-  </a>
-</li>
-<li>
-
-<a
-  href="#KerasHub"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    KerasHub: Multi-framework Pretrained Models
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-    Pretrained model hub for Keras 3.
-      <a
-        href="https://keras.io/keras_hub/"
-        data-original-href="https://keras.io/keras_hub/"
-      >
-          <div>
-            
-         
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-
-<a
-  href="#MohammadElsheimy"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Mohammad Elsheimy
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-    Mohammad Elsheimy
-      <a
-        href="https://justlikemagic.home.blog/about/"
-        data-original-href="https://justlikemagic.home.blog/about/"
-      >
-          <div>
-            
-         
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-<li>
-
-<a
-  href="#YoshifumiKawai"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Yoshifumi Kawai
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-    Yoshifumi Kawai
-      <a
-        href="https://github.com/neuecc"
-        data-original-href="https://github.com/neuecc"
-      >
-          <div>
-            
-         
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-
-<li>
- 
-<a
-  href="#Abpframework_abp"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    ABP
-    </span>
-  </h1>
-  {/* <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m ABP.
-      <a href="https://abp.io/" rel="nofollow">ABP</a>
-    </p>
-    
-
-  </h3> */}
-</a>
-<p dir="auto"><a href="https://abp.io/" rel="nofollow">ABP</a> offers an <strong>opinionated architecture</strong> to build enterprise software solutions with <strong>best practices</strong> on top of the <strong>.NET</strong> and the <strong>ASP.NET Core</strong> platforms. 
-   </p>
-</li>
-<li>
-  
-  
-<a
-  href="#OpenTelemetry_CNCF"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    OpenTelemetry - CNCF
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m OpenTelemetry - CNCF.
-      <a
-        href="https://github.com/open-telemetry"
-        data-original-href="https://github.com/open-telemetry"
-      >
-          
-
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-<li>
-  
-<a
-  href="#SafiaAbdalla"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Safia Abdalla
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m Safia Abdalla.
-      <a
-        href="https://github.com/captainsafia"
-        data-original-href="https://github.com/captainsafia"
-      >
-          
-
-      </a>
-    </p>
-  </h3>
-</a>
-</li>
-<li>
-<a
-  href="#githubcom_huggingface_transformers_pull_35848"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Ross Wightman
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}> Hi there! I’m  Ross Wightman.
-    <div>Computer Vision <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/huggingface/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/huggingface">@huggingface</a>. Always learning, constantly curious. Building ML/AI systems, watching loss curves.</div>
-    </p>
-    <p style={{ margin: 0 }}>
-      These are my PRs
-      <a
-        href="https://github.com/rwightman"
-        data-original-href="https://github.com/rwightman"
-      >
-         
-      </a>
-    </p>
-  </h3>
-</a>
-
-</li>
-
-
 
         </ul>
 
@@ -9768,7 +9768,7 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 
 
   <div style={{ fontFamily: 'Arial, sans-serif', margin: '20px', color: '#333' }}>
-    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Xiao Nan yixuanq 12 years ago: Yup. There's more. Prof. Roger Koenker once combined MySQL with his qr: <a href="http://www.econ.uiuc.edu/~r" target="_blank" style={{ color: '#3498db' }}>Link</a>. There's barely few experiments on the cluster & classification's hpc topic. I think the algorithms are just naturally inefficient or too complicated to reimplement.</p>
+    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Xiao Nan yixuanq 12 years ago: Yup. There's more. Prof. Roger Koenker once combined MySQL with his qr: <a href="http://www.econ.uiuc.edu/~roger/" target="_blank" style={{ color: '#3498db' }}>Link</a>. There's barely few experiments on the cluster & classification's hpc topic. I think the algorithms are just naturally inefficient or too complicated to reimplement.</p>
   </div>
 
 
