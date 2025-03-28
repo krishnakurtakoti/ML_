@@ -60,6 +60,7 @@ import Practical_otel_opentelemetry_aspire_collector_GitHubRepository from './Pr
 import Martinjt_ocb_config_builder_GitHubRepository from './Martinjt_ocb_config_builder_GitHubRepository';
 import Abpframework_abp_GitHubRepository from './Abpframework_abp_GitHubRepository';
 import Open_telemetry_opentelemetry_collector_GitHubRepository from './Open_telemetry_opentelemetry_collector_GitHubRepository';
+import Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API from './Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -2265,6 +2266,32 @@ Veggie 🌿, opinions are my own.</div></h3>
       <a
         href="https://github.com/open-telemetry"
         data-original-href="https://github.com/open-telemetry"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+  
+<a
+  href="#SafiaAbdalla"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Safia Abdalla
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Safia Abdalla.
+      <a
+        href="https://github.com/captainsafia"
+        data-original-href="https://github.com/captainsafia"
       >
           
 
@@ -9019,6 +9046,12 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
       Implements face recognition algorithms for MATLAB/GNU Octave and Python
     </a>
   </div>
+
+  <h3 
+  // tabindex="-1" 
+  className="heading-element" dir="auto">Advanced Examples: Building your own PredictableModel</h3>
+ <p dir="auto">Basically all face recognition algorithms are the combination of a <a href="https://github.com/bytefish/facerec/blob/master/py/facerec/feature.py">feature extraction</a>
+ and a <a href="https://github.com/bytefish/facerec/blob/master/py/facerec/classifier.py">classifier</a>. The Eigenfaces method for example is a Principal Component Analysis with a Nearest Neighbor classifier. Local Binary Patterns Histograms . The feature (which must be an <a href="https://github.com/bytefish/facerec/blob/master/py/facerec/feature.py">AbstractFeature</a>) and the classifier (which must be an <a href="https://github.com/bytefish/facerec/blob/master/py/facerec/classifier.py">AbstractClassifier</a>) form a <a href="https://github.com/bytefish/facerec/blob/master/py/facerec/model.py">PredictableModel</a>, which does the feature extraction and learns the classifier.</p>
   <Bytefish_facerec_GitHubRepository />
 
 
@@ -9643,6 +9676,35 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 </div>
 <Nelhage_llama_GitHubRepository />
 
+<div id="SafiaAbdalla">
+
+  
+<a
+  href="https://github.com/captainsafia"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Safia Abdalla
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+      Hi there! I’m Safia Abdalla.
+      <a
+        href="https://github.com/captainsafia"
+        data-original-href="https://github.com/captainsafia"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API />
+
+</div>
 
 
 <div id="githubcom_huggingface_transformers_pull_35848">
