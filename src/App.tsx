@@ -61,6 +61,7 @@ import Martinjt_ocb_config_builder_GitHubRepository from './Martinjt_ocb_config_
 import Abpframework_abp_GitHubRepository from './Abpframework_abp_GitHubRepository';
 import Open_telemetry_opentelemetry_collector_GitHubRepository from './Open_telemetry_opentelemetry_collector_GitHubRepository';
 import Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API from './Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API';
+import ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster from './ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -890,23 +891,7 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
-<li>
 
-  <a
-    href="#FeiPeng"
-    className="vcard-names1"
-    style={{ textDecoration: 'underline' }}
-  >
-    <h1 style={{ margin: 0 }}>
-      <span className="p-name vcard-fullname d-block overflow-hidden">
-      Fei Peng
-      </span>
-    </h1>
-    <h3 style={{ margin: 0 }}>
-      Hi there! I’m Fei Peng.
-    </h3>
-  </a>
-</li>
 <li>
 
 <a
@@ -1070,6 +1055,61 @@ Veggie 🌿, opinions are my own.</div></h3>
     </p>
   </h3>
 </a>
+</li>
+<li>
+  
+
+<a
+  href="#Single_instruction_multiple_data_(SIMD)"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Single instruction, multiple data (SIMD)
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Single instruction, multiple data (SIMD).
+      <a
+        href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data"
+        data-original-href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#SciML"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    SciML Open Source Scientific Machine Learning
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Open source software for scientific machine learning
+      <a
+        href="https://github.com/SciML"
+        data-original-href="https://github.com/SciML"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
 </li>
 <li>
 <a
@@ -8684,9 +8724,17 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
   <a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/stevengj">stevengj</a></span></span> */}
 
   </div>
+ 
+  
 </div>
-
-
+<div className="Box-sc-g0xbh4-0 bJQcYY ActivityHeader-module__footer--FVHp7"><span>  on </span>
+<a className="Box-sc-g0xbh4-0 bjFvWy prc-Link-Link-85e08" href="https://github.com/JuliaLang/julia/issues/50479#issuecomment-1627827580" 
+data-testid="issue-body-header-link"><relative-time 
+// sx="[object Object]" 
+className="sc-aXZVg gcWyXp" 
+datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Jul 10, 2023</relative-time></a>
+</div>
+<p dir="auto">I found <a href="https://sci-hub.se/https://doi.org/10.1007/BF01941134" rel="nofollow">another paper on Sattolo's algorithm</a> that defines cyclic permutations in a different way, which allows the identity permutation <em>only</em> for n=1:</p>
 </div>
 
 
@@ -8905,6 +8953,13 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
 </a>
 
 <a rel="nofollow me" className="Link--primary wb-break-all" href="https://hachyderm.io/@0xced">@0xced@hachyderm.io</a>
+
+<p>
+Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish</a>) followed Cédric Luthi (<a href="https://github.com/0xced">https://github.com/0xced</a>) on 25/1/25
+ 
+
+</p>
+
 
 <div>
     <h3>GitHub - 0xced/Chisel: Remove Unwanted Dependencies from Your .NET Projects</h3>
@@ -9763,7 +9818,7 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 <div style={{ fontFamily: 'Arial, sans-serif', margin: '20px', color: '#333' }}>
     <h1 style={{ color: '#2c3e50' }}>How to Run Regression on Large Datasets in R</h1>
     <p style={{ fontSize: '1em', color: '#7f8c8d', marginBottom: '15px' }}>October 2, 2011 | Programming, R, Statistics</p>
-    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Running regression models on large datasets can be challenging, especially when data exceeds the available memory in your system. In this post, I will walk you through how to perform linear regression using large datasets in R using various techniques to overcome memory limitations. For more information and examples, visit the original article on <a href="https://statr.me/2011/10/large-regression/" target="_blank" style={{ color: '#3498db' }}>Statr.me</a>.</p>
+    <p style={{ fontSize: '1.1em', lineHeight: '1.6' }}>Visit the original article on <a href="https://statr.me/2011/10/large-regression/" target="_blank" style={{ color: '#3498db' }}>Statr.me(https://statr.me/2011/10/large-regression/)</a>.</p>
   </div>
 
 
@@ -9780,9 +9835,98 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </p>
   </div>
 
+  <a
+      href="http://www.econ.uiuc.edu/~roger/research/vinaigrettes/vinaigrette.html"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the R Vinaigrettes Page - contains
+    </a> 
+    <p>
+      Conformal Quantile Regression	<a href="http://www.econ.uiuc.edu/~roger/research/vinaigrettes/conformal.pdf"> pdf </a>
+    </p>
+
+</div>
+
+<div id="Single_instruction_multiple_data_(SIMD)">
+
+  
+<a
+  href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Single instruction, multiple data (SIMD)
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Single instruction, multiple data (SIMD).
+      <a
+        href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data"
+        data-original-href="https://en.wikipedia.org/wiki/Single_instruction,_multiple_data"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+<li>
+
+  <a
+    href="#FeiPeng"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Fei Peng
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Fei Peng.
+    </h3>
+  </a>
+</li>
 
 
 </div>
+
+
+<div id="SciML">
+
+  
+<a
+  href="https://github.com/SciML"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    SciML Open Source Scientific Machine Learning
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Open source software for scientific machine learning
+      <a
+        href="https://github.com/SciML"
+        data-original-href="https://github.com/SciML"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</div>
+<ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster />
 <div id="githubcom_huggingface_transformers_pull_35848">
 
 

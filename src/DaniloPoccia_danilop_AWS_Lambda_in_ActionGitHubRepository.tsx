@@ -78,7 +78,7 @@ const DaniloPoccia_danilop_AWS_Lambda_in_ActionGitHubRepository  = () => {
                                     </a>
                                 </p>
 
-                                <p dir="auto">C#</p>
+                                <p dir="auto">JavaScript</p>
                             </div>
                         </div>
                     </div>
