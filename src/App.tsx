@@ -62,6 +62,9 @@ import Abpframework_abp_GitHubRepository from './Abpframework_abp_GitHubReposito
 import Open_telemetry_opentelemetry_collector_GitHubRepository from './Open_telemetry_opentelemetry_collector_GitHubRepository';
 import Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API from './Cédric_Luthi_0xced_dotnet_aspnetcore_pull_58161pull_58161_From_2024_10_01_To_2024_10_31_Implement_the_Mvc_PushFileStreamResult_API';
 import ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster from './ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster';
+import GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 from './GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31';
+import AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31 from './AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31';
+import AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers from './AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1060,6 +1063,61 @@ Veggie 🌿, opinions are my own.</div></h3>
   
 
 <a
+  href="#AnthonySneed"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Anthony Sneed
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Anthony Sneed
+      <a
+        href="https://github.com/tonysneed"
+        data-original-href="https://github.com/tonysneed"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+  
+
+<a
+  href="#Vincent_D_Warmerdam"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Vincent D. Warmerdam
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Vincent D. Warmerdam
+      <a
+        href="https://github.com/koaning"
+        data-original-href="https://github.com/koaning"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+  
+
+<a
   href="#Single_instruction_multiple_data_(SIMD)"
   className="vcard-names1"
   style={{ textDecoration: 'underline' }}
@@ -1110,6 +1168,86 @@ Veggie 🌿, opinions are my own.</div></h3>
   </h3>
 </a>
 
+</li>
+<li>
+  
+<a
+  href="#YunjeyChoi"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yunjey Choi
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Yunjey Choi
+      <a
+        href="https://github.com/yunjey"
+        data-original-href="https://github.com/yunjey"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+  
+
+<a
+  href="#PaulBerg"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Paul Berg
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Paul Berg
+      <a
+        href="https://github.com/Pangoraw"
+        data-original-href="https://github.com/Pangoraw"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#BenoîtLegat"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Benoît Legat
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Benoît Legat
+      <a
+        href="https://github.com/blegat/"
+        data-original-href="https://github.com/blegat/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
 </li>
 <li>
 <a
@@ -9274,6 +9412,38 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 <Serilog_serilog_aspnetcore_GitHubRepository />
 </div>
 
+<div id="AnthonySneed">
+
+  
+<a
+  href="https://github.com/tonysneed"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Anthony Sneed
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Anthony Sneed
+      <a
+        href="https://github.com/tonysneed"
+        data-original-href="https://github.com/tonysneed"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<p></p>
+
+<a href="https://blog.tonysneed.com/" target="_blank">
+    View the Blog Page
+  </a>
+</div>
 
 <div id="IvanCesar">
   <a
@@ -9754,7 +9924,6 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 
 
 </div>
-<Nelhage_llama_GitHubRepository />
 
 <div id="SafiaAbdalla">
 
@@ -9927,6 +10096,162 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 
 </div>
 <ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_2025_02_28_Testmaster />
+
+
+<div id="YunjeyChoi">
+
+  
+<a
+  href="https://github.com/yunjey"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Yunjey Choi
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Yunjey Choi
+      <a
+        href="https://github.com/yunjey"
+        data-original-href="https://github.com/yunjey"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+<p>https://github.com/yunjey/pytorch-tutorial</p>
+
+</div>
+
+<div id="Vincent_D_Warmerdam">
+
+  
+<a
+  href="https://github.com/koaning"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Vincent D. Warmerdam
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Vincent D. Warmerdam
+      <a
+        href="https://github.com/koaning"
+        data-original-href="https://github.com/koaning"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+<a
+      href="https://koaning.io/posts/factorio/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the The factorio benchmark blog posted on Date 2025/03/10
+    </a>
+    <p><a href="https://jackhopkins.github.io/factorio-learning-environment">This page</a> has all the details of the work, which include:</p>
+    <ul>
+<li>A <a href="https://github.com/JackHopkins/factorio-learning-environment">Python library</a> that can interact with the game, which is the main entrypoint for the agents that compete in tasks.</li>
+<li>A <a href="https://jackhopkins.github.io/factorio-learning-environment/leaderboard">leaderboard</a> with the results of the agents that have competed so far (Claude seems the winner, but the fact that one of the authors is from Anthropic might help there).</li>
+</ul>
+
+<p>https://github.com/JackHopkins/factorio-learning-environment</p>
+</div>
+
+
+
+<div id="PaulBerg">
+
+  
+<a
+  href="https://github.com/Pangoraw"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Paul Berg
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Paul Berg
+      <a
+        href="https://github.com/Pangoraw"
+        data-original-href="https://github.com/Pangoraw"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+<AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31 />
+<AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers />
+
+</div>
+<div id="BenoîtLegat">
+
+  
+<a
+  href="https://github.com/blegat/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Benoît Legat
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Benoît Legat
+      <a
+        href="https://github.com/blegat/"
+        data-original-href="https://github.com/blegat/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+<a
+      href="https://blegat.github.io/ccir/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <h1>The Applications of Mathematical Optimisation, Mixed-integer Linear Programming</h1>
+      <h2>
+        Course given at the <i>Cambridge Centre for International Research</i>
+      </h2>
+    </a>
+<p>https://blegat.github.io/teaching/</p>
+<p>https://blegat.github.io/ccir/practical1/</p>
+</div>
+
+<Nelhage_llama_GitHubRepository />
+<GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 />
+
+
 <div id="githubcom_huggingface_transformers_pull_35848">
 
 
