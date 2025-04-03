@@ -65,6 +65,9 @@ import ChrisRackauckasPR_SciML_SciMLSensitivity_jl_pull_1159_From_2025_02_01_To_
 import GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 from './GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31';
 import AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31 from './AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31';
 import AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers from './AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers';
+import WhyThisRepo from './WhyThisRepo';
+import MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 from './MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31';
+import Roboflow_rf_detr_graphs_contributors_ContributorList from './Roboflow_rf_detr_graphs_contributors';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1170,6 +1173,59 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
 <li>
+
+  
+<a
+  href="#ml_linear_regression"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Linear Regression in Machine learning
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Linear Regression in Machine learning
+      <a
+        href="https://www.geeksforgeeks.org/ml-linear-regression/"
+        data-original-href="https://www.geeksforgeeks.org/ml-linear-regression/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+
+<a
+  href="#SamGreyDanus"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Sam Grey Danus
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Sam Grey Danus
+      <a
+        href="https://github.com/greydanus"
+        data-original-href="https://github.com/greydanus"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
   
 <a
   href="#YunjeyChoi"
@@ -1241,6 +1297,61 @@ Veggie 🌿, opinions are my own.</div></h3>
       <a
         href="https://github.com/blegat/"
         data-original-href="https://github.com/blegat/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+   
+<a
+  href="#Dask_GitHub"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Dask
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Parallel computing with task scheduling
+      <a
+        href="https://github.com/dask/dask"
+        data-original-href="https://github.com/dask/dask"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+</li>
+<li>
+
+<a
+  href="#pickle_python_object_serialization"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    The Python Pickle Module
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    The Python Pickle Module
+      <a
+        href="https://www.geeksforgeeks.org/pickle-python-object-serialization/"
+        data-original-href="https://www.geeksforgeeks.org/pickle-python-object-serialization/"
       >
           
 
@@ -9443,6 +9554,14 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 <a href="https://blog.tonysneed.com/" target="_blank">
     View the Blog Page
   </a>
+  <p></p>
+  <a href="https://blog.tonysneed.com/2022/03/21/event-driven-microservices-dotnet-platform/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+        Visit the full article: Announcing Event Driven .NET – An Event Driven Microservices Platform for .NET | Posted on March 21, 2022 by Tony Sneed
+    </a>
+  <WhyThisRepo />
+  <p>https://blog.tonysneed.com/2020/06/25/event-stream-processing-micro-framework-apache-kafka/</p>
 </div>
 
 <div id="IvanCesar">
@@ -9715,6 +9834,98 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 
 </div>
 
+  
+  
+<div id="Dask_GitHub">
+
+<a
+  href="https://github.com/dask/dask"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Dask
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Parallel computing with task scheduling
+      <a
+        href="https://github.com/dask/dask"
+        data-original-href="https://github.com/dask/dask"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+
+<li>
+
+<a
+  href="#Dask_Parallel_Python_Fast_and_Easy"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Dask
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Dask is a Python library for parallel and distributed computing. 
+      <a
+        href="https://www.dask.org/"
+        data-original-href="https://www.dask.org/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+</div>
+<div id="Dask_Parallel_Python_Fast_and_Easy">
+
+
+
+<a
+  href="https://www.dask.org/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Dask
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Dask is a Python library for parallel and distributed computing. 
+      <a
+        href="https://www.dask.org/"
+        data-original-href="https://www.dask.org/"
+      >
+          <div>
+            
+         
+            </div>
+      </a>
+    </p>
+  </h3>
+</a>
+</div>
 
 <div id="YoshifumiKawai">
 
@@ -9778,6 +9989,49 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
     </p>
   </h3>
 </a>
+
+</div>
+<div id="SamGreyDanus">
+
+  
+<a
+  href="https://github.com/greydanus"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Sam Grey Danus
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Sam Grey Danus
+      <a
+        href="https://github.com/greydanus"
+        data-original-href="https://github.com/greydanus"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<div>Windscape AI and Greenfield Properties. Previously <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/google/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/google">@google</a> Brain, <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/dartmouth/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dartmouth">@dartmouth</a> College</div>
+<a rel="nofollow me" className="Link--primary wb-break-all" href="https://greydanus.github.io/about_me/">https://greydanus.github.io/about_me/</a>
+<br></br>
+<a rel="nofollow me" className="Link--primary wb-break-all" href="https://twitter.com/samgreydanus">@samgreydanus</a>
+
+<p>
+Sam Grey Danus (<a href="https://github.com/greydanus">https://github.com/greydanus</a>) starred 2 repositories on 02/4/25
+  <br />
+  <a href="zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> (Jupyter Notebook) 3 Stars
+  <br />
+  <a href="https://github.com/zwimpee2/cursivetransformer">https://github.com/zwimpee2/cursivetransformer</a> (Jupyter Notebook) 1 Star
+</p>
+<p>
+Both repositories, <a href="zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> and  <a href="https://github.com/zwimpee2/cursivetransformer">https://github.com/zwimpee2/cursivetransformer</a>, focus on training a transformer model to generate cursive, with progress updates noted in their respective README files (February 12, 2025, and August 13, 2025).
+</p>
 
 </div>
 
@@ -10171,10 +10425,98 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 </ul>
 
 <p>https://github.com/JackHopkins/factorio-learning-environment</p>
+
+<WhyThisRepo />
 </div>
 
+<div id="ml_linear_regression">
+
+  
+<a
+  href="https://www.geeksforgeeks.org/ml-linear-regression/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Linear Regression in Machine learning
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Linear Regression in Machine learning
+      <a
+        href="https://www.geeksforgeeks.org/ml-linear-regression/"
+        data-original-href="https://www.geeksforgeeks.org/ml-linear-regression/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
 
 
+
+<li>
+
+<a
+  href="#BenoîtLegat_ml_linear_regression"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Benoît Legat
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Benoît Legat
+      <a
+        href="https://github.com/blegat/"
+        data-original-href="https://github.com/blegat/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+
+</div>
+
+<div id="BenoîtLegat_ml_linear_regression">
+
+  
+<a
+  href="https://github.com/blegat/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Benoît Legat
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Benoît Legat
+      <a
+        href="https://github.com/blegat/"
+        data-original-href="https://github.com/blegat/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<a href="https://blegat.github.io/ccir/practical1/" target="_blank" rel="noopener noreferrer">
+      Practical 1 – Linear regressions | Benoît Legat | Written by: Jean Bouchat
+    </a>
+</div>
 <div id="PaulBerg">
 
   
@@ -10206,6 +10548,12 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 <AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31 />
 <AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers />
 
+
+<a href="https://www.ber.gp/posts/moments-estimates/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Fast online estimates on the GPU | Posts · 06/08/2021 · 4 minutes
+    </a>
 </div>
 <div id="BenoîtLegat">
 
@@ -10248,9 +10596,114 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 <p>https://blegat.github.io/ccir/practical1/</p>
 </div>
 
-<Nelhage_llama_GitHubRepository />
-<GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 />
 
+<div id="pickle_python_object_serialization">
+ 
+<a
+  href="https://www.geeksforgeeks.org/pickle-python-object-serialization/"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    The Python Pickle Module
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    The Python Pickle Module
+      <a
+        href="https://www.geeksforgeeks.org/pickle-python-object-serialization/"
+        data-original-href="https://www.geeksforgeeks.org/pickle-python-object-serialization/"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<li>
+
+  <a
+    href="#mrocklin_pickle_python_object_serialization"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Matthew Rocklin
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Matthew Rocklin.
+    </h3>
+  </a>
+</li>
+<li>
+  
+  <a
+    href="#glemaitre_pickle_python_object_serialization"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Guillaume Lemaitre
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Guillaume Lemaitre.
+    </h3>
+  </a>
+</li>
+</div>
+
+<div id="mrocklin_pickle_python_object_serialization">
+  <a
+    href="https://github.com/mrocklin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Matthew Rocklin
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Matthew Rocklin.
+    </h3>
+  </a>
+
+  <a href="https://matthewrocklin.com/blog/work/2018/07/23/protocols-pickle" 
+       target="_blank" 
+       rel="noopener noreferrer">
+        Visit the full article: Pickle isn't slow, it's a protocol | Posted on 2018/07/23 by Matthew Rocklin
+    </a>
+
+</div>
+
+<div id="glemaitre_pickle_python_object_serialization">
+  <a
+    href="https://github.com/glemaitre"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Guillaume Lemaitre
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Guillaume Lemaitre.
+    </h3>
+  </a>
+  <GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 />
+</div>
+
+
+<Nelhage_llama_GitHubRepository />
+<MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
+<Roboflow_rf_detr_graphs_contributors_ContributorList />
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
