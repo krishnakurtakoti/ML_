@@ -68,6 +68,7 @@ import AvikPalPR_EnzymeAD_Reactant_jl_95_From_2024_8_01_To_2024_8_31_Reviewers f
 import WhyThisRepo from './WhyThisRepo';
 import MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 from './MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31';
 import Roboflow_rf_detr_graphs_contributors_ContributorList from './Roboflow_rf_detr_graphs_contributors';
+import Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay from './Erikbern_ann_benchmarks_GitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1359,6 +1360,40 @@ Veggie 🌿, opinions are my own.</div></h3>
     </p>
   </h3>
 </a>
+</li>
+<li>
+  
+  <a
+    href="#AndriyBurkov"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Andriy Burkov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Andriy Burkov.
+    </h3>
+  </a>
+</li>
+<li>
+
+  <a
+    href="#richlander_containe_workshop"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      .NET 8 container workshop
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    .NET 8 container workshop.
+    </h3>
+  </a>
 </li>
 <li>
 <a
@@ -10516,6 +10551,17 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 <a href="https://blegat.github.io/ccir/practical1/" target="_blank" rel="noopener noreferrer">
       Practical 1 – Linear regressions | Benoît Legat | Written by: Jean Bouchat
     </a>
+
+<p>
+  <strong>Recommended for you:</strong><br />
+  jump-dev/MathOptInterface.jl (<a href="https://github.com/jump-dev/MathOptInterface.jl">https://github.com/jump-dev/MathOptInterface.jl</a>) is a data structure for mathematical optimization problems in Julia.
+  <br />
+  <a href="https://github.com/jump-dev/MathOptInterface.jl">MathOptInterface.jl</a> (Julia) 434 Stars
+  <br />
+  Contributors: 
+  <a href="https://github.com/jump-dev/MathOptInterface.jl/graphs/contributors">View Contributors</a>
+</p>
+
 </div>
 <div id="PaulBerg">
 
@@ -10594,6 +10640,17 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </a>
 <p>https://blegat.github.io/teaching/</p>
 <p>https://blegat.github.io/ccir/practical1/</p>
+
+
+<p>
+  <strong>Recommended for you:</strong><br />
+  jump-dev/MathOptInterface.jl (<a href="https://github.com/jump-dev/MathOptInterface.jl">https://github.com/jump-dev/MathOptInterface.jl</a>) is a data structure for mathematical optimization problems in Julia.
+  <br />
+  <a href="https://github.com/jump-dev/MathOptInterface.jl">MathOptInterface.jl</a> (Julia) 434 Stars
+  <br />
+  Contributors: 
+  <a href="https://github.com/jump-dev/MathOptInterface.jl/graphs/contributors">View Contributors</a>
+</p>
 </div>
 
 
@@ -10700,6 +10757,51 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
   <GuillaumeLemaitrelPR_probabl_ai_skore_966_From_204_12_01_To_2024_12_31 />
 </div>
 
+<div id="AndriyBurkov">
+  <a
+    href="https://github.com/aburkov"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Andriy Burkov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Andriy Burkov.
+    </h3>
+  </a>
+
+  <p>
+  Andriy Burkov (<a href="https://github.com/aburkov">https://github.com/aburkov</a>) starred a repository on 03/4/25
+  <br />
+  <a href="https://github.com/erikbern/ann-benchmarks">https://github.com/erikbern/ann-benchmarks</a> (Python) 5.2k Stars
+  <p className="f4 my-3">
+        Benchmarks of approximate nearest neighbor libraries in Python
+      </p>
+      <a title="http://ann-benchmarks.com" role="link" target="_blank" rel="noopener noreferrer nofollow" className="text-bold" href="http://ann-benchmarks.com">ann-benchmarks.com</a>
+</p>
+<WhyThisRepo />
+<Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay />
+
+</div>
+<div id="richlander_containe_workshop">
+  <a
+    href="https://github.com/richlander/container-workshop"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      .NET 8 container workshop
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    .NET 8 container workshop.
+    </h3>
+  </a>
+</div>
 
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
