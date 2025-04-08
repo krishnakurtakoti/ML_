@@ -69,6 +69,8 @@ import WhyThisRepo from './WhyThisRepo';
 import MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 from './MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31';
 import Roboflow_rf_detr_graphs_contributors_ContributorList from './Roboflow_rf_detr_graphs_contributors';
 import Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay from './Erikbern_ann_benchmarks_GitHubRepository';
+import Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 from './Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31';
+import Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31 from './Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1392,6 +1394,55 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
     .NET 8 container workshop.
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#krasserm"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Martin Krasser
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Martin Krasser.
+    </h3>
+  </a>
+</li>
+<li>
+  
+  <a
+    href="#AhmetAlpBalkan"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ahmet Alp Balkan
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Ahmet Alp Balkan.
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#AnisAthalye"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Anish Athalye
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Anish Athalye.
     </h3>
   </a>
 </li>
@@ -7425,8 +7476,19 @@ Veggie 🌿, opinions are my own.</div>
       </ul>
 
 
-      
+      <p>
+Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 7/4/25
+  <br />
+  <a href="https://github.com/Alan-Rock-GS/GpuScript">Alan-Rock-GS/GpuScript </a> (C#) 171 STARS
 
+</p>
+   
+<p>
+Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 5/4/25
+  <br />
+  <a href="https://github.com/nietras/Llm.cs">https://github.com/nietras/Llm.cs </a> (C#) 49 STARS
+
+</p>
 <Alexandre_MutelPR_From_2025_02_01_To_2025_02_28_Avalonia_AvaloniaUI />
 
 
@@ -8958,7 +9020,7 @@ https://github.com/hamelsmu?tab=following
 </a>
 
 <StevenGJohnsonGitHubProfile />
-
+<Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31 />
 <a
         href="https://github.com/stevengj?tab=overview&from=2023-07-01&to=2023-07-31"
         target="_blank"
@@ -9207,6 +9269,13 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
     </p>
   </h3>
 </a>
+
+<p>
+Martin Evans (<a href="https://github.com/martindevans">https://github.com/martindevans</a>) starred a repository on 5/4/25
+  <br />
+  <a href="https://github.com/nietras/Llm.cs">https://github.com/nietras/Llm.cs </a> (C#) 49 STARS
+
+</p>
 </div>
 
 <div id="CédricLuthi">
@@ -10136,6 +10205,10 @@ Both repositories, <a href="zwimpee/cursivetransformer">https://github.com/zwimp
 
   </h3>
 </a>
+
+
+
+
 <Abpframework_abp_GitHubRepository />
 
 
@@ -10802,10 +10875,113 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </h3>
   </a>
 </div>
+<div id="krasserm">
+  <a
+    href="https://github.com/krasserm"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Martin Krasser
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Martin Krasser.
+    </h3>
+  </a>
+  <Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 />
+<WhyThisRepo />
+</div>
+
+<div id="AhmetAlpBalkan">
+  <a
+    href="https://github.com/ahmetb"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ahmet Alp Balkan
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Ahmet Alp Balkan.
+    </h3>
+  </a>
+
+  <p>
+  Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</a>) followed Anish Athalye (<a href="https://github.com/anishathalye">https://github.com/anishathalye</a>) on 5/4/25
+</p>
+<p>
+Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</a>) starred a repository on 5/4/25
+  <br />
+  <a href="https://github.com/anishathalye/porcupine">anishathalye/porcupine </a> (Go) 1k STARS
+
+</p>
+</div>
+
+<div id="AnisAthalye">
+  <a
+    href="https://github.com/anishathalye"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Anish Athalye
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Anish Athalye.
+    </h3>
+  </a>
+
+  <ul className="vcard-details">
+  <li className="vcard-detail pt-1 hide-sm hide-md" itemProp="worksFor" // show_title="false" 
+  aria-label="Organization: @cleanlab">
+    <svg className="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
+    </svg>
+    <span className="p-org">
+      <div>
+        <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/cleanlab/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/cleanlab">@cleanlab</a>
+      </div>
+    </span>
+  </li>
+
+  <li className="vcard-detail pt-1 hide-sm hide-md" itemProp="homeLocation" 
+  // show_title="false" 
+  aria-label="Home location: San Francisco, CA">
+    <svg className="octicon octicon-location" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
+    </svg>
+    <span className="p-label">San Francisco, CA</span>
+  </li>
+
+  <li itemProp="email" aria-label="Email: me@anishathalye.com" className="vcard-detail pt-1">
+    <svg className="octicon octicon-mail" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"></path>
+    </svg>
+    <a className="Link--primary wb-break-all" href="mailto:me@anishathalye.com">me@anishathalye.com</a>
+  </li>
+
+  <li itemProp="url" data-test-selector="profile-website-url" className="vcard-detail pt-1">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" className="octicon octicon-link">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+    <a className="Link--primary" href="https://anishathalye.com" target="_blank" rel="noopener noreferrer">anishathalye.com</a>
+  </li>
+</ul>
+
+
+
+  </div>
 
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
+
 
 <div id="githubcom_huggingface_transformers_pull_35848">
 
