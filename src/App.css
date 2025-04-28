@@ -953,3 +953,9 @@ a {
 .code-snippet .function {
   color: #66d9ef; /* Light blue color for functions */
 }
+section {
+  margin-bottom: 20px; /* Adjust the value for more or less space */
+}
+.section-gap-cédric-luthi {
+  margin-bottom: 48px; /* Adjust the value for more or less space */
+}

@@ -1414,6 +1414,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+  <a
+    href="#SimonWillison"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Simon Willison
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Simon Willison.
+    </h3>
+  </a>
+</li>
+<li>
   
   <a
     href="#AhmetAlpBalkan"
@@ -9307,13 +9323,66 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
 
 <a rel="nofollow me" className="Link--primary wb-break-all" href="https://hachyderm.io/@0xced">@0xced@hachyderm.io</a>
 
-<p>
-Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish</a>) followed Cédric Luthi (<a href="https://github.com/0xced">https://github.com/0xced</a>) on 25/1/25
- 
+<section  className="section-gap-cédric-luthi">
+    <p>
+        Philipp Wagner (<a href="https://github.com/bytefish">https://github.com/bytefish</a>) 
+        followed Cédric Luthi (<a href="https://github.com/0xced">https://github.com/0xced</a>) on 25/1/25.
+    </p>
 
+   
+</section>
+
+<section className="section-gap-cédric-luthi">
+<p>
+        {/* You can find a discussion on this issue in a Hachyderm post by */}
+        <a href="https://hachyderm.io/@0xced/114309797988146204">Visit the @0xced/114309797988146204 post page on Hachyderm</a>, 
+        which references the relevant issue on GitHub 
+        <a href="https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139">ServiceBusAdministrationClient support #17</a>. 
+        The posted date is 10/4/25.
+    </p>
+    <p>
+        In the discussion on 
+        <a href="https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139" target="_blank">GitHub Link - https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139</a>, 
+        a user expressed difficulties encountered while attempting to install and run the Azure Service Bus Emulator. 
+        They reported persistent errors that persisted despite following the provided installation instructions. 
+        The community responded with suggestions to verify system requirements and permissions, 
+        encouraging further dialogue to troubleshoot and resolve these issues collaboratively.
+    </p>
+</section>
+
+<section className="section-gap-cédric-luthi">
+    <div>
+        <h3>GitHub - 0xced/Chisel: Remove Unwanted Dependencies from Your .NET Projects</h3>
+        <h5>Remove Unwanted Dependencies from Your .NET Projects - 0xced/Chisel</h5>
+        <a href="https://hachyderm.io/@0xced/114021283741021680" target="_blank" rel="noopener noreferrer">
+            Visit the 0xced/Chisel page on Hachyderm
+        </a>
+    </div>
+</section>
+
+
+
+{/*
+<section>
+ <p>
+Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish</a>) followed Cédric Luthi (<a href="https://github.com/0xced">https://github.com/0xced</a>) on 25/1/25
+</p>
+</section>
+
+<section>
+<p>
+
+<a href="https://hachyderm.io/@0xced/114309797988146204">Visit the @0xced/114309797988146204 post page on Hachyderm</a>, which references the relevant issue on GitHub <a href="https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139">ServiceBusAdministrationClient support #17</a>. The posted date is 10/4/25.
+</p>
+<p>
+In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139" target="_blank">GitHub Link - https://github.com/Azure/azure-service-bus-emulator-installer/issues/17#issuecomment-2790842139</a>, a user expressed difficulties encountered while attempting to install and run the Azure Service Bus Emulator. They reported persistent errors that persisted despite following the provided installation instructions. The community responded with suggestions to verify system requirements and permissions, encouraging further dialogue to troubleshoot and resolve these issues collaboratively.
 </p>
 
+</section>
 
+
+
+<section>
 <div>
     <h3>GitHub - 0xced/Chisel: Remove Unwanted Dependencies from Your .NET Projects</h3>
     <h5>Remove Unwanted Dependencies from Your .NET Projects - 0xced/Chisel</h5>
@@ -9323,6 +9392,10 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 </div>
 
 <Cédric_Luthi_0xced_Chisel_GitHubRepository />
+
+</section> */}
+
+
 
 </div>
 
@@ -9451,6 +9524,39 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 <FeiPeng_fiigii_PacketTracerGitHubRepository />
 
 </div>
+
+
+<div id="TimurIskhakov">
+  <a
+    href="https://github.com/timiskhakov"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Timur Iskhakov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Timur Iskhakov.
+    </h3>
+  </a>
+  <p>
+    On April 20, 2025, a Reddit user shared their excitement about completing their first significant AI project in C#, which utilized ONNX (Open Neural Network Exchange). They expressed how impressed they were by the capabilities of the ONNX framework, highlighting its ability to streamline model training and deployment across various platforms. The post detailed their journey through the project, including the challenges they faced and the solutions they discovered. The author encouraged others in the community to explore ONNX for their own AI endeavors, noting its versatility and the positive impact it had on their workflow. The enthusiasm radiating from their experience resonated with fellow enthusiasts, sparking discussions and sharing of similar projects. 
+    <a href="https://www.reddit.com/r/csharp/comments/1k37gj7/my_first_big_ai_project_in_c_onnx_blown_away_by/">Link to the post</a> - Posted on 20/4/25.
+</p>
+
+<p><a href="https://www.reddit.com/r/csharp/comments/1k37gj7/my_first_big_ai_project_in_c_onnx_blown_away_by/">https://www.reddit.com/r/csharp/comments/1k37gj7/my_first_big_ai_project_in_c_onnx_blown_away_by/</a></p>
+  <p>My biggest tip is to do as much as possible on the GPU—I use ILGPU to do this, but you could also use something like compute shaders in Silk.NET, OpenTK, or ComputeSharp. — <a href="https://www.reddit.com/user/nullandkale/">nullandkale</a>, posted on 21/4/25</p>
+
+<p>I searched in Microsoft Bing Browser with the query "<strong>ilgpu c#</strong>" and found these helpful results: 
+<a href="https://timiskhakov.github.io/posts/computing-the-convex-hull-on-gpu">Computing the Convex Hull on GPU</a> and 
+<a href="https://timiskhakov.github.io/posts/vectorized-computations-and-simd">Vectorized Computations and SIMD</a>.</p>
+
+
+</div>
+
+
 
 <div id="PhilippWagner">
   <a
@@ -10129,12 +10235,12 @@ Philipp Wagner(<a href="https://github.com/bytefish">https://github.com/bytefish
 <p>
 Sam Grey Danus (<a href="https://github.com/greydanus">https://github.com/greydanus</a>) starred 2 repositories on 02/4/25
   <br />
-  <a href="zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> (Jupyter Notebook) 3 Stars
+  <a href="https://github.com/zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> (Jupyter Notebook) 3 Stars
   <br />
   <a href="https://github.com/zwimpee2/cursivetransformer">https://github.com/zwimpee2/cursivetransformer</a> (Jupyter Notebook) 1 Star
 </p>
 <p>
-Both repositories, <a href="zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> and  <a href="https://github.com/zwimpee2/cursivetransformer">https://github.com/zwimpee2/cursivetransformer</a>, focus on training a transformer model to generate cursive, with progress updates noted in their respective README files (February 12, 2025, and August 13, 2025).
+Both repositories, <a href="https://github.com/zwimpee/cursivetransformer">https://github.com/zwimpee/cursivetransformer</a> and  <a href="https://github.com/zwimpee2/cursivetransformer">https://github.com/zwimpee2/cursivetransformer</a>, focus on training a transformer model to generate cursive, with progress updates noted in their respective README files (February 12, 2025, and August 13, 2025).
 </p>
 
 </div>
@@ -10424,7 +10530,23 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </h3>
   </a>
 </li>
-
+<li>
+  
+  <a
+    href="#TimurIskhakov"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Timur Iskhakov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Timur Iskhakov.
+    </h3>
+  </a>
+</li>
 
 </div>
 
@@ -10893,7 +11015,39 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
   <Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 />
 <WhyThisRepo />
 </div>
+<div id="SimonWillison">
+  <a
+    href="https://github.com/simonw"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Simon Willison
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Simon Willison.
+    </h3>
+  </a>
 
+<p>
+Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 25/4/25
+  <br />
+  <a href="https://github.com/antirez/hnstyle">antirez/hnstyle </a> (Python) 40 STARS
+
+</p>
+
+<p dir="auto">This repository contains the code used in the following blog post and YouTube videos:</p>
+<ul dir="auto">
+<li><a href="https://antirez.com/news/150" rel="nofollow">https://antirez.com/news/150</a></li>
+<li><a href="https://www.youtube.com/@antirez" rel="nofollow">https://www.youtube.com/@antirez</a></li>
+</ul>
+<p>
+ Now, we are ready to insert the word into a Redis vector set, using the command: <code>VADD key FP32 [blob with 350 floats] username</code>. The details of vector sets are not covered here, but you can find the documentation <a href="https://github.com/redis/redis/blob/unstable/modules/vector-sets/README.md">here</a>. For additional information regarding Redis, you may also check out this:  <a href="https://antirez.com/news/150">Visit the full article: Reproducing Hacker News writing style fingerprinting</a> Date: 16/4/25.
+</p>
+
+</div>
 <div id="AhmetAlpBalkan">
   <a
     href="https://github.com/ahmetb"
@@ -10974,7 +11128,15 @@ Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</
   </li>
 </ul>
 
+<p>
+  Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</a>) followed Anish Athalye (<a href="https://github.com/anishathalye">https://github.com/anishathalye</a>) on 5/4/25
+</p>
+<p>
+Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</a>) starred a repository on 5/4/25
+  <br />
+  <a href="https://github.com/anishathalye/porcupine">anishathalye/porcupine </a> (Go) 1k STARS
 
+</p>
 
   </div>
 
