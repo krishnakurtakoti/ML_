@@ -959,3 +959,9 @@ section {
 .section-gap-cédric-luthi {
   margin-bottom: 48px; /* Adjust the value for more or less space */
 }
+.section-gap-simon-willison {
+  margin-bottom: 48px; /* Adjust the value for more or less space */
+}
+.no-margin {
+  margin: 0;
+}

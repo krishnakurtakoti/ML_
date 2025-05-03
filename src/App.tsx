@@ -71,6 +71,7 @@ import Roboflow_rf_detr_graphs_contributors_ContributorList from './Roboflow_rf_
 import Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay from './Erikbern_ann_benchmarks_GitHubRepository';
 import Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 from './Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31';
 import Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31 from './Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31';
+import Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository from './Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1490,7 +1491,72 @@ Veggie 🌿, opinions are my own.</div></h3>
 </a>
 
 </li>
+<li>
+<a
+  href="#Rotation_related_problems"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Rotation related problems
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Rotation_related_problems. Quarternions. Rodrigues’ rotation formula
+      <a
+        href=""
+        data-original-href=""
+      >
 
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+  <a
+    href="#CUDAProgrammingModel"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      CUDA Programming Model
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      <p style={{ margin: 0 }}>
+      CUDA Programming Model
+        <a
+          href=""
+          data-original-href=""
+        >
+  
+        </a>
+      </p>
+    </h3>
+  </a>
+</li>
+<li>
+
+<a
+    href="#MatLeonard"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Mat Leonard
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Mat Leonard.
+    </h3>
+  </a>
+
+  </li>
 <li>
         <h1 className="vcard-names1 ">
             <a href="#caleb-robinson-blog-archives" style={{ textDecoration: 'underline' }}>
@@ -9553,8 +9619,59 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
 <a href="https://timiskhakov.github.io/posts/computing-the-convex-hull-on-gpu">Computing the Convex Hull on GPU</a> and 
 <a href="https://timiskhakov.github.io/posts/vectorized-computations-and-simd">Vectorized Computations and SIMD</a>.</p>
 
+<Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository />
 
 </div>
+
+<div id="KristofferCarlsson_SIMD_and_SIMD_intrinsics_in_Julia">
+{/* <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Kristoffer Carlsson </span>
+             
+            </h1>
+            <h3>    <div>Software engineer, Julia Computing</div></h3>
+          </a> */}
+
+<a href="KristofferCarlsson_SIMD_and_SIMD_intrinsics_in_Julia" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kristoffer Carlsson
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>Software engineer, Julia Computing</div>
+  </h3>
+</a>
+<h3 className="KristofferCarlsson-article-title" 
+  // itemprop="name"
+  >
+    <a href="http://kristofferc.github.io/post/intrinsics/" 
+    // itemprop="url"
+    >SIMD and SIMD-intrinsics in Julia</a>
+  </h3>
+  
+  <h3 className="KristofferCarlsson-article-title" 
+  // itemprop="name"
+  >
+  Visit the Blog Post titled 
+  <a href="http://kristofferc.github.io/post/intrinsics/" 
+  // itemprop="url"
+  > SIMD and SIMD-intrinsics in Julia</a> 
+</h3> Posted on Tue, Nov 13, 2018 
+<span className="article-tags">
+    <i className="fa fa-tags"></i>
+    
+    <a className="article-tag-link" href="http://kristofferc.github.iotags/simd"> simd</a>, 
+    
+    <a className="article-tag-link" href="http://kristofferc.github.iotags/intrinsics">intrinsics</a>, 
+    
+    <a className="article-tag-link" href="http://kristofferc.github.iotags/julia">julia</a>
+    
+  </span>
+</div>
+
 
 
 
@@ -10547,7 +10664,37 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </h3>
   </a>
 </li>
+<li>
 
+{/* <a href="#KristofferCarlsson" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+            <h1>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Kristoffer Carlsson </span>
+             
+            </h1>
+            <h3>    <div>Software engineer, Julia Computing</div></h3>
+          </a> */}
+
+          <a href="#KristofferCarlsson_SIMD_and_SIMD_intrinsics_in_Julia" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kristoffer Carlsson
+    </span>
+    {/* <span className="p-nickname vcard-username d-block"></span> */}
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <div>Software engineer, Julia Computing</div>
+  </h3>
+</a>
+<h3 className="no-margin KristofferCarlsson-article-title" 
+  // itemprop="name"
+  >
+  Visit the Blog Post titled 
+  <a href="http://kristofferc.github.io/post/intrinsics/" 
+  // itemprop="url"
+  > SIMD and SIMD-intrinsics in Julia</a>
+  </h3>
+</li>
 </div>
 
 
@@ -11030,23 +11177,270 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
       Hi there! I’m Simon Willison.
     </h3>
   </a>
+  <section className="section-gap-simon-willison">
+  <p>
+    Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 25/4/25
+      <br />
+      <a href="https://github.com/antirez/hnstyle">antirez/hnstyle </a> (Python) 40 STARS
 
+    </p>
+
+    <p dir="auto">This repository contains the code used in the following blog post and YouTube videos:</p>
+    <ul dir="auto">
+    <li><a href="https://antirez.com/news/150" rel="nofollow">https://antirez.com/news/150</a></li>
+    <li><a href="https://www.youtube.com/@antirez" rel="nofollow">https://www.youtube.com/@antirez</a></li>
+    </ul>
+    <p>
+    Now, we are ready to insert the word into a Redis vector set, using the command: <code>VADD key FP32 [blob with 350 floats] username</code>. The details of vector sets are not covered here, but you can find the documentation <a href="https://github.com/redis/redis/blob/unstable/modules/vector-sets/README.md">here</a>. For additional information regarding Redis, you may also check out this:  <a href="https://antirez.com/news/150">Visit the full article: Reproducing Hacker News writing style fingerprinting</a> Date: 16/4/25.
+    </p>
+  </section>
+
+
+<section className="section-gap-simon-willison">
 <p>
-Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 25/4/25
+Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 14/4/25
   <br />
-  <a href="https://github.com/antirez/hnstyle">antirez/hnstyle </a> (Python) 40 STARS
+  <a href="https://github.com/invisal/sqlite-internal">invisal/sqlite-internal </a> (JavaScript, TypeScript) 260 STARS
 
 </p>
+<p><a href="https://github.com/querymx/querym">https://github.com/querymx/querym</a></p>
+</section>
 
-<p dir="auto">This repository contains the code used in the following blog post and YouTube videos:</p>
-<ul dir="auto">
-<li><a href="https://antirez.com/news/150" rel="nofollow">https://antirez.com/news/150</a></li>
-<li><a href="https://www.youtube.com/@antirez" rel="nofollow">https://www.youtube.com/@antirez</a></li>
-</ul>
-<p>
- Now, we are ready to insert the word into a Redis vector set, using the command: <code>VADD key FP32 [blob with 350 floats] username</code>. The details of vector sets are not covered here, but you can find the documentation <a href="https://github.com/redis/redis/blob/unstable/modules/vector-sets/README.md">here</a>. For additional information regarding Redis, you may also check out this:  <a href="https://antirez.com/news/150">Visit the full article: Reproducing Hacker News writing style fingerprinting</a> Date: 16/4/25.
+
+
+</div>
+<div id="CUDAProgrammingModel">
+  
+
+<a
+  href=""
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    CUDA Programming Model
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    CUDA Programming Model
+      <a
+        href=""
+        data-original-href=""
+      >
+
+      </a>
+    </p>
+  </h3>
+</a>
+<li>
+
+<a
+  href="#TimurIskhakov_CUDAProgrammingModel"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    
+    Timur Iskhakov
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    
+    Timur Iskhakov
+      <a
+        href="https://github.com/timiskhakov"
+        data-original-href="https://github.com/timiskhakov"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+</div>
+<div id="Rotation_related_problems">
+
+
+
+<a
+  href=""
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Rotation related problems
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Rotation_related_problems. Quarternions. Rodrigues’ rotation formula
+      <a
+        href=""
+        data-original-href=""
+      >
+
+      </a>
+    </p>
+  </h3>
+</a>
+
+
+
+<li>
+<a
+  href="#Andrzej_Więckowski_Rotation_related_problems"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    
+    Andrzej Więckowski, Ph.D.
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    
+    Andrzej Więckowski, Ph.D.
+      <a
+        href="https://github.com/andywiecko"
+        data-original-href="https://github.com/andywiecko"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+</li>
+<li>
+<a href="#@j0hnparkhill_Rotation_related_problems" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+<h1 style={{ margin: 0 }}>
+<span className="p-name vcard-fullname d-block overflow-hidden">
+John Parkhill </span>
+<span className="p-nickname vcard-username d-block">
+ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
+</span>
+</h1>
+</a>
+</li>
+
+
+</div>
+
+
+<div id="Andrzej_Więckowski_Rotation_related_problems">
+
+  
+<a
+  href="https://github.com/andywiecko"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    
+    Andrzej Więckowski, Ph.D.
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    
+    Andrzej Więckowski, Ph.D.
+      <a
+        href="https://github.com/andywiecko"
+        data-original-href="https://github.com/andywiecko"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<section className="section-gap-simon-willison">
+  <p>
+  Martin Evans(<a href="https://github.com/martindevans">https://github.com/martindevans</a>) starred 3 repositories on 2/5/25
+      <br />
+      <a href="https://github.com/andywiecko/BurstMathUtils">BurstMathUtils</a> (C#) 28 STARS
+      <br />
+      <a href="https://github.com/andywiecko/BurstCollections">BurstCollections      </a> (C#) 78 STARS
+      <br />
+      <a href="https://github.com/andywiecko/PBD2D">PBD2D </a> (C#) 98 STARS
+      <br />
+    </p>
+    <p>
+  <a href="https://andywiecko.github.io/blog/03-rodrigues-formula.html" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the full article: Rodrigues’ formula | Posts · 16/02/2025 · 4 minutes
+  </a>
 </p>
 
+
+  </section>
+</div>
+<div id="@j0hnparkhill_Rotation_related_problems">
+
+<a href="#@j0hnparkhill" className="vcard-names1" style={{ textDecoration: 'underline' }}>
+<h1>
+<span className="p-name vcard-fullname d-block overflow-hidden">
+John Parkhill </span>
+<span className="p-nickname vcard-username d-block">
+ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
+</span>
+</h1>
+</a>
+<li style={{ marginBottom: '8px' }}>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
+    <span className="post-meta">Sep 5, 2020</span>
+    <h3 style={{ margin: '4px 0' }}>
+      <a className="post-link" href="https://jparkhill.netlify.app/QuaternionAveraging/">
+        Quaternion Averaging in Pytorch
+      </a>
+    </h3>
+    </div>
+  </li>
+</div>
+
+<div id="TimurIskhakov_CUDAProgrammingModel">
+
+  
+<a
+  href="https://github.com/timiskhakov"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    
+    Timur Iskhakov
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    
+    Timur Iskhakov
+      <a
+        href="https://github.com/timiskhakov"
+        data-original-href="https://github.com/timiskhakov"
+      >
+          
+
+      </a>
+    </p>
+  </h3>
+</a>
+<a href="https://timiskhakov.github.io/posts/computing-the-convex-hull-on-gpu" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Computing the Convex Hull on GPU | Posts · 05/10/2020 · 10 minutes · c# cuda algorithms
+    </a>
 </div>
 <div id="AhmetAlpBalkan">
   <a
@@ -11139,7 +11533,49 @@ Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</
 </p>
 
   </div>
+<div id="MatLeonard">
+<a
+    href="https://github.com/mcleonard"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Mat Leonard
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Mat Leonard.
+    </h3>
+  </a>
 
+
+
+<h3>
+  <a href="https://github.com/Kritikalcoder?tab=following" target="_blank" rel="noopener noreferrer">
+    Followings of Kritika Prakash on GitHub
+  </a>
+</h3>
+<a href="https://mcleonard.github.io/sampyl/tutorial.html#defining-a-model" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Tutorial - How to use Sampyl with a simple linear model | Posts · 21/9/2018 · 10 minutes 
+    </a>
+    <p></p>
+    <a href="https://mcleonard.github.io/sampyl/examples.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full GitHub Documentation: Examples - Models built with Sampyl - German Tank Problem 
+    </a>
+    <p>
+      </p>
+      <a href="https://mcleonard.github.io/sampyl/examples/german_tank_problem.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full GitHub Documentation: Example - German Tank Problem, a classic problem in statistics
+    </a>
+      
+</div>
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
