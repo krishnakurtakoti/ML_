@@ -72,6 +72,9 @@ import Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay from './Erikbern_ann
 import Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 from './Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31';
 import Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31 from './Stevengj_JuliaMath_FastChebInterp_jl_issues_24_From_2025_1_01_To_2025_3_31';
 import Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository from './Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository';
+import Huggingface_nanoVLM_Contributors_ContributorList from './huggingface_nanoVLM_Contributors';
+import OriolNieto from './OriolNietoProfile';
+import AndrésMarafioti from './AndrésMarafiotiGitHubProfile';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1492,6 +1495,31 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
 <li>
+  
+  <a
+    href="#AlexChiZ"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Alex Chi Z.
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      <p style={{ margin: 0 }}>
+      Alex Chi Z.
+        <a
+          href=""
+          data-original-href=""
+        >
+  
+        </a>
+      </p>
+    </h3>
+  </a>
+</li>
+<li>
 <a
   href="#Rotation_related_problems"
   className="vcard-names1"
@@ -1557,6 +1585,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 
   </li>
+<li>
+<a
+    href="#OriolNieto"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Oriol Nieto
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Oriol Nieto.
+    </h3>
+  </a>
+</li>
 <li>
         <h1 className="vcard-names1 ">
             <a href="#caleb-robinson-blog-archives" style={{ textDecoration: 'underline' }}>
@@ -5523,6 +5567,39 @@ with weights calculated as the softmax over negative distances:</p>
 <li>📫 How to reach me: vincentqin#hotmail.com (#-&gt;@)</li>
 <li>⚡ Fun fact: I 🧡🐈</li>
 </ul>
+
+
+<section className="section-gap-Realcat-Vincentqyw">
+<p>
+Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vincentqyw</a>) starred a repository on 7/5/25
+  <br />
+  <a href="https://github.com/huggingface/nanoVLM">huggingface/nanoVLM </a> (Jupyter Notebook 79.9%, Python 20.1%) 961 STARS
+
+</p>
+<Huggingface_nanoVLM_Contributors_ContributorList />
+<AndrésMarafioti /> 
+<p>
+  follows
+</p> 
+<OriolNieto />
+<a href="https://www.urinieto.com/2017/02/deep-xor/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Tutorial - Deep XOR | Posts · 26/2/2017 · 1 minute 
+    </a>
+</section>
+
+
+<section className="section-gap-Realcat-Vincentqyw">
+<p>
+Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vincentqyw</a>) starred a repository on 3/5/25
+  <br />
+  <a href="https://github.com/skyzh/tiny-llm">skyzh/tiny-llm </a> (Python, C++) 1.8k STARS
+
+</p>
+</section>
+
+
 
 <article 
 // itemscope="" itemtype="http://schema.org/Article"
@@ -11177,6 +11254,16 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
       Hi there! I’m Simon Willison.
     </h3>
   </a>
+
+  <section className="section-gap-simon-willison">
+<p>
+Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 3/5/25
+  <br />
+  <a href="https://github.com/skyzh/tiny-llm">skyzh/tiny-llm </a> (Python, C++) 1.8k STARS
+
+</p>
+</section>
+
   <section className="section-gap-simon-willison">
   <p>
     Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 25/4/25
@@ -11203,9 +11290,9 @@ Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>
   <a href="https://github.com/invisal/sqlite-internal">invisal/sqlite-internal </a> (JavaScript, TypeScript) 260 STARS
 
 </p>
-<p><a href="https://github.com/querymx/querym">https://github.com/querymx/querym</a></p>
+<p style={{ margin: 0 }}><a href="https://github.com/querymx/querym">https://github.com/querymx/querym</a></p>
+<WhyThisRepo />
 </section>
-
 
 
 </div>
@@ -11334,7 +11421,45 @@ ML, director of machine learning Terray Therapeutics (https://x.com/Terray_Tx).
 
 </div>
 
+<div id="AlexChiZ">
+  
 
+<a
+  href="https://github.com/skyzh"
+  className="vcard-names1"
+  style={{ textDecoration: 'underline' }}
+>
+  <h1 style={{ margin: 0 }}>
+    <span className="p-name vcard-fullname d-block overflow-hidden">
+    Alex Chi Z.
+    </span>
+  </h1>
+  <h3 style={{ margin: 0 }}>
+    <p style={{ margin: 0 }}>
+    Alex Chi Z.
+      <a
+        href=""
+        data-original-href=""
+      >
+
+      </a>
+    </p>
+  </h3>
+</a>
+<section className="section-gap-simon-willison">
+<p>
+Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 3/5/25
+  <br />
+  <a href="https://github.com/skyzh/tiny-llm">skyzh/tiny-llm </a> (Python, C++) 1.8k STARS
+
+</p>
+</section>
+<a href="https://www.skyzh.dev/blog/2022-05-29-shared-state-in-risingwave/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Delta Join in the Streaming Engine based on a shared state index | Posts · 29/15/2022 · 10 minutes 
+    </a>
+</div>
 <div id="Andrzej_Więckowski_Rotation_related_problems">
 
   
@@ -11576,6 +11701,46 @@ Ahmet Alp Balkan(<a href="https://github.com/ahmetb">https://github.com/ahmetb</
     </a>
       
 </div>
+<div id="OriolNieto">
+<a
+    href="https://github.com/urinieto"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Oriol Nieto
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Oriol Nieto.
+    </h3>
+  </a>
+
+  <section className="section-gap-Realcat-Vincentqyw">
+<p>
+Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vincentqyw</a>) starred a repository on 7/5/25
+  <br />
+  <a href="https://github.com/huggingface/nanoVLM">huggingface/nanoVLM </a> (Jupyter Notebook 79.9%, Python 20.1%) 961 STARS
+
+</p>
+<Huggingface_nanoVLM_Contributors_ContributorList />
+<AndrésMarafioti /> 
+<p>
+  follows
+</p> 
+<OriolNieto />
+<a href="https://www.urinieto.com/2017/02/deep-xor/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Tutorial - Deep XOR | Posts · 26/2/2017 · 1 minute 
+    </a>
+</section>
+
+</div>
+
+
+
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
