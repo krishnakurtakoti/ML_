@@ -75,6 +75,9 @@ import Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository from './Timiskha
 import Huggingface_nanoVLM_Contributors_ContributorList from './huggingface_nanoVLM_Contributors';
 import OriolNieto from './OriolNietoProfile';
 import AndrésMarafioti from './AndrésMarafiotiGitHubProfile';
+import MerlinVR_UdonSharp_ContributorList from './MerlinVR_UdonSharp_ContributorList';
+import MomotheMonsterGitHubProfile from './MomotheMonsterGitHubProfile';
+import ChristophKubischGitHubProfile from './ChristophKubischGitHubProfile';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -9428,6 +9431,48 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
     </p>
   </h3>
 </a>
+<section className="section-gap-MartinEvans">
+<p>
+Martin Evans (<a href="https://github.com/martindevans">https://github.com/martindevans</a>) starred a repository on 5/4/25
+  <br />
+  <a href="https://github.com/MerlinVR/UdonSharp">https://github.com/MerlinVR/UdonSharp </a> (C#) 706 STARS
+</p>
+<MerlinVR_UdonSharp_ContributorList />
+<MomotheMonsterGitHubProfile />
+<h3>
+  <a href="https://github.com/momo-the-monster?tab=following" target="_blank" rel="noopener noreferrer">
+    Followings of	Momo the Monster(momo-the-monster) on GitHub
+  </a>
+</h3>
+<h3>
+  <a href="https://github.com/jcowles?tab=following" target="_blank" rel="noopener noreferrer">
+    Followings of	Jeremy Cowles (jcowles) on GitHub
+  </a>
+</h3>
+<ChristophKubischGitHubProfile />
+<a href="https://pixeljetstream.blogspot.com/2015/02/life-of-triangle-nvidias-logical.html" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the full article: Life of a triangle - NVIDIA's logical pipeline | Posts · 6/02/2016 
+  </a>
+  <h2>Further reading</h2>
+  {/* <p>
+  Next to the white papers mentioned at the beginning, the article series <a href="https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/">"A trip through the graphics-pipeline"</a> by Fabian Giesen is worth a read and there is also a <a href="http://on-demand.gputechconf.com/gtc/2013/video/S3466-Performance-Optimization-Guidelines-GPU-Architecture-Details.mp4">quite in-depth talk</a>
+  </p> */}
+  <p>
+  Next to the white papers mentioned at the beginning, the article series 
+  <a href="https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/">"A trip through the graphics-pipeline"</a> 
+  by Fabian Giesen is worth a read and there is also a 
+  <a href="http://on-demand.gputechconf.com/gtc/2013/video/S3466-Performance-Optimization-Guidelines-GPU-Architecture-Details.mp4">quite in-depth talk</a>
+</p>
+
+<a href="https://fgiesen.wordpress.com/" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the Blog: The ryg blog (When I grow up I'll be an inventor)
+  </a>
+</section>
+
 
 <p>
 Martin Evans (<a href="https://github.com/martindevans">https://github.com/martindevans</a>) starred a repository on 5/4/25
