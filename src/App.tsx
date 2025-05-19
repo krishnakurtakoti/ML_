@@ -1100,6 +1100,38 @@ Veggie 🌿, opinions are my own.</div></h3>
 </a>
 </li>
 <li>
+<a
+    href="#ConradLudgate"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Conrad Ludgate
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Conrad Ludgate.
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#SQLJoin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      SQL Join
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    SQL Join.
+    </h3>
+  </a>
+</li>
+<li>
   
 
 <a
@@ -11783,9 +11815,103 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
 </section>
 
 </div>
-
-
-
+<div id="ConradLudgate">
+<a
+    href="https://github.com/conradludgate"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Conrad Ludgate
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Conrad Ludgate.
+    </h3>
+  </a>
+  <a href="https://conradludgate.com/posts/cnpg" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the full article: Postgres | Posts · 5/11/2023 
+  </a>
+  <WhyThisRepo />
+  <p>I've always run the basic <code>postgres</code> docker image with no backups or replicas configured.
+Since I have a new cluster now, I thought I should try something new. I recently read about
+<a href="https://news.ycombinator.com/item?id=37616033">CloudNative PG on HN</a> so I decided to look into it.
+It got high praise from the replies, which is quite remarkable for HN.</p>
+<p>It seems to have all the features I would want from a 'managed' postgres:</p>
+<ul className="conrad-ludgate">
+<li>Managed backups</li>
+<li>Easily create a new database</li>
+<li>Manage secrets</li>
+</ul>
+</div>
+<div id="SQLJoin">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      SQL Join
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    SQL Join.
+    </h3>
+  </a>
+  <li>
+  
+  <a
+    href="#SQLJoin_AlibabaCloudCommunity"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Alibaba Cloud Community
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Alibaba Cloud Community.
+    </h3>
+  </a>
+  <h3 className="no-margin KristofferCarlsson-article-title" 
+  // itemprop="name"
+  >
+  Visit the Blog Post titled 
+  <a href="https://www.alibabacloud.com/blog/how-to-write-a-high-performance-sql-join-implementation-and-best-practices-of-joins_599145" 
+  // itemprop="url"
+  >How to Write a High-Performance SQL Join: Implementation and Best Practices of Joins</a>
+  </h3>
+</li>
+</div>
+<div id="SQLJoin_AlibabaCloudCommunity">
+<a
+    href="https://www.alibabacloud.com/blog/how-to-write-a-high-performance-sql-join-implementation-and-best-practices-of-joins_599145"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Alibaba Cloud Community
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Alibaba Cloud Community.
+    </h3>
+  </a>
+  <h3 className="no-margin KristofferCarlsson-article-title" 
+  // itemprop="name"
+  >
+  Visit the Blog Post titled 
+  <a href="https://www.alibabacloud.com/blog/how-to-write-a-high-performance-sql-join-implementation-and-best-practices-of-joins_599145" 
+  // itemprop="url"
+  >How to Write a High-Performance SQL Join: Implementation and Best Practices of Joins</a>
+  </h3>
+</div>
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />

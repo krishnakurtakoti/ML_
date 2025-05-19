@@ -974,3 +974,12 @@ section {
 .section-gap-MartinEvans * {
   margin: 0 !important;
 }
+.conrad-ludgate {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 20px; /* Reduced from 40px to 20px */
+  /* padding-inline-start: 40px; */
+  unicode-bidi: isolate;
+}
