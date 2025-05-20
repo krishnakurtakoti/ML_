@@ -78,6 +78,7 @@ import AndrésMarafioti from './AndrésMarafiotiGitHubProfile';
 import MerlinVR_UdonSharp_ContributorList from './MerlinVR_UdonSharp_ContributorList';
 import MomotheMonsterGitHubProfile from './MomotheMonsterGitHubProfile';
 import ChristophKubischGitHubProfile from './ChristophKubischGitHubProfile';
+import Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30 from './rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1503,6 +1504,22 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
 <li>
 <a
+    href="#Xuan-SonNguyen"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Xuan-Son Nguyen
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Xuan-Son Nguyen
+    </h3>
+  </a>
+</li>
+<li>
+<a
   href="#githubcom_huggingface_transformers_pull_35848"
   className="vcard-names1"
   style={{ textDecoration: 'underline' }}
@@ -1633,6 +1650,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
     Oriol Nieto.
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#GuillaumeGuy"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Guillaume Guy
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Guillaume Guy
     </h3>
   </a>
 </li>
@@ -5602,6 +5635,16 @@ with weights calculated as the softmax over negative distances:</p>
 <li>📫 How to reach me: vincentqin#hotmail.com (#-&gt;@)</li>
 <li>⚡ Fun fact: I 🧡🐈</li>
 </ul>
+
+
+<section className="section-gap-Realcat-Vincentqyw">
+<p>
+Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vincentqyw</a>) starred a repository on 13/5/25
+  <br />
+  <a href="https://github.com/ngxson/smolvlm-realtime-webcam">ngxson/smolvlm-realtime-webcam </a> (HTML) 3.2k STARS
+
+</p>
+</section>
 
 
 <section className="section-gap-Realcat-Vincentqyw">
@@ -11912,9 +11955,67 @@ It got high praise from the replies, which is quite remarkable for HN.</p>
   >How to Write a High-Performance SQL Join: Implementation and Best Practices of Joins</a>
   </h3>
 </div>
+
+
+<div id="Xuan-SonNguyen">
+<a
+    href="https://github.com/ngxson/"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Xuan-Son Nguyen
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Xuan-Son Nguyen
+    </h3>
+  </a>
+  <section className="section-gap-Realcat-Vincentqyw">
+<p>
+Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vincentqyw</a>) starred a repository on 13/5/25
+  <br />
+  <a href="https://github.com/ngxson/smolvlm-realtime-webcam">ngxson/smolvlm-realtime-webcam </a> (HTML) 3.2k STARS
+
+</p>
+</section>
+  <a href="https://blog.ngxson.com/easier-to-understand-natural-language-processing" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Easier to Understand: Natural Language Processing | Posts · 10/2/2024 · 5 minutes
+    </a>
+</div>
+
+<div id="GuillaumeGuy">
+<a
+    href="https://github.com/guillaumeguy"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Guillaume Guy
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Guillaume Guy
+    </h3>
+  </a>
+  <Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30 />
+  <a href="https://www.guillaume.nyc/dont-use-raw-embeddings" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Don't use raw embeddings | Posts · 16/4/2025 · 3 minute 
+    </a>
+    <WhyThisRepo />
+    <p>However, embeddings are still quite large. OpenAI&#39;s <code>text-embedding-3-large</code> can reach up to d=3072, which means 6kB (stored as float32) per entity. From experience, this is enough to overwhelm SQL engines when performing large JOINs, as this data needs to be sent across the network for a distributed JOIN.</p>
+</div>
+
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
+
 
 
 <div id="githubcom_huggingface_transformers_pull_35848">
