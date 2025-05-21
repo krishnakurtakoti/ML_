@@ -11375,6 +11375,48 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     </h3>
   </a>
 
+<section className="section-gap-simon-willison">
+  <p>
+  Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) contributed to a repository on 14/5/25
+    <br />
+    <a href="https://github.com/taketwo/llm-ollama">taketwo/llm-ollama </a> (Python) 292 STARS
+  </p>
+  <h3>
+    <a href="https://github.com/taketwo?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Sergey Alexandrov(taketwo) on GitHub
+    </a>
+  </h3>
+  <h3>
+    <a href="https://github.com/klmr?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Konrad Rudolph(klmr) on GitHub
+    </a>
+  </h3>
+  <h3>
+    <a href="https://github.com/pditommaso?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Paolo Di Tommaso(pditommaso) on GitHub
+    </a>
+  </h3>
+  <a
+      href="https://github.com/stephenturner"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+        Stephen Turner
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+        Hi there! I’m Stephen Turner.
+      </h3>
+    </a>
+    <a href="https://blog.stephenturner.us/p/duckdb-vs-dplyr-vs-base-r" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: DuckDB vs dplyr vs base R | Posts · 7/10/2024 
+    </a>
+</section>
+
   <section className="section-gap-simon-willison">
 <p>
 Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) starred a repository on 3/5/25
@@ -11985,6 +12027,25 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
        rel="noopener noreferrer">
        Visit the full article: Easier to Understand: Natural Language Processing | Posts · 10/2/2024 · 5 minutes
     </a>
+    <WhyThisRepo />
+    {/* <p style={{
+  maxWidth: '100vw',
+  width: '100%',
+  paddingLeft: '2rem',
+  paddingRight: '2rem',
+  marginBottom: '1rem',
+}}>
+  In fact, convolution neural networks work quite well with images, because in the worst case, you can cut the image to a certain size. For example, creating a model to recognize handwritten digits (MNIST dataset) is one of the <a class=" text-accent " target="_blank" rel="noopener" href="https://colab.research.google.com/github/skorch-dev/skorch/blob/master/notebooks/MNIST.ipynb">very typical and easy-to-experiment exercises for newcomers to machine learning.</a></p> */}
+  <p style={{
+  maxWidth: '100vw',
+  width: '100%',
+  paddingLeft: '2rem',
+  paddingRight: '2rem',
+  marginBottom: '1rem',
+}}>
+  In fact, convolution neural networks work quite well with images, because in the worst case, you can cut the image to a certain size. For example, creating a model to recognize handwritten digits (MNIST dataset) is one of the <a className="text-accent" target="_blank" rel="noopener" href="https://colab.research.google.com/github/skorch-dev/skorch/blob/master/notebooks/MNIST.ipynb">very typical and easy-to-experiment exercises for newcomers to machine learning.</a>
+</p>
+
 </div>
 
 <div id="GuillaumeGuy">
@@ -12002,6 +12063,7 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
     Guillaume Guy
     </h3>
   </a>
+  <section className="section-gap-GuillaumeGuy">
   <Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30 />
   <a href="https://www.guillaume.nyc/dont-use-raw-embeddings" 
        target="_blank" 
@@ -12010,6 +12072,8 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
     </a>
     <WhyThisRepo />
     <p>However, embeddings are still quite large. OpenAI&#39;s <code>text-embedding-3-large</code> can reach up to d=3072, which means 6kB (stored as float32) per entity. From experience, this is enough to overwhelm SQL engines when performing large JOINs, as this data needs to be sent across the network for a distributed JOIN.</p>
+  </section>
+
 </div>
 
 <Nelhage_llama_GitHubRepository />

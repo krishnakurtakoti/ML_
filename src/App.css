@@ -965,13 +965,22 @@ section {
 .no-margin {
   margin: 0;
 }
+.section-gap-simon-willison * {
+  margin: 0 !important;
+}
 .section-gap-Realcat-Vincentqyw{
   margin-bottom: 48px; /* Adjust the value for more or less space */
+}
+.section-gap-Realcat-Vincentqyw * {
+  margin: 0 !important;
 }
 .section-gap-MartinEvans{
   margin-bottom: 48px; /* Adjust the value for more or less space */
 }
 .section-gap-MartinEvans * {
+  margin: 0 !important;
+}
+.section-gap-GuillaumeGuy * {
   margin: 0 !important;
 }
 .conrad-ludgate {
