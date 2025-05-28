@@ -79,6 +79,7 @@ import MerlinVR_UdonSharp_ContributorList from './MerlinVR_UdonSharp_Contributor
 import MomotheMonsterGitHubProfile from './MomotheMonsterGitHubProfile';
 import ChristophKubischGitHubProfile from './ChristophKubischGitHubProfile';
 import Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30 from './rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30';
+import MichaelTarlton_Twitter from './MichaelTarlton_Twitter';
 
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
@@ -1666,6 +1667,38 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
     Guillaume Guy
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#DB"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      DB
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    DB.
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#Books"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Books
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Books.
     </h3>
   </a>
 </li>
@@ -7712,14 +7745,59 @@ Veggie 🌿, opinions are my own.</div>
 
       </ul>
 
+      <div id="YanCui(theburningmonk)">
+      <section className="section-gap-AlexandreMutel">
+            <p>
+              Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 10/5/25
+                <br />
+                <a href="https://github.com/metalama/Metalama">metalama/Metalama </a> (C#) 292 STARS
 
+              </p>
+              <p className="f4 my-3">
+                      A meta-programming framework for code generation, aspect-oriented programming, and architecture verification of large C# codebases.
+                    </p>
+                    <h3>
+                    <a href="https://github.com/gfraiteur?tab=following" target="_blank" rel="noopener noreferrer">
+                      Followings of	Gael Fraiteur on GitHub
+                    </a>
+                  </h3>
+        <a
+            href="https://github.com/theburningmonk"
+            className="vcard-names1"
+            style={{ textDecoration: 'underline' }}
+          >
+            <h1 style={{ margin: 0 }}>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Yan Cui
+              </span>
+            </h1>
+            <h3 style={{ margin: 0 }}>
+              Hi there! I’m Yan Cui(theburningmonk).
+            </h3>
+          </a>
+          <a href="https://theburningmonk.com/2023/12/how-to-perform-database-migration-for-a-live-service-with-no-downtime/" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            Visit the full article: How to perform database migration for a live service with no downtime | Posts · AWS, DynamoDB, Serverless · 12/2023 
+          </a>
+          <p></p>
+          <a href="https://theburningmonk.com/2021/04/building-a-custom-iam-system-has-made-me-appreciate-aws-iam-even-more/" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            Visit the full article: Building a custom IAM system has made me appreciate AWS IAM even more | Posts · AppSync, AWS, Lambda, Serverless · 12/2023 
+          </a>
+          </section>
+      </div>
+
+
+      <section className="section-gap-AlexandreMutel">
       <p>
-Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 7/4/25
-  <br />
-  <a href="https://github.com/Alan-Rock-GS/GpuScript">Alan-Rock-GS/GpuScript </a> (C#) 171 STARS
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 7/4/25
+          <br />
+          <a href="https://github.com/Alan-Rock-GS/GpuScript">Alan-Rock-GS/GpuScript </a> (C#) 171 STARS
 
-</p>
-   
+        </p>
+      </section>
 <p>
 Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 5/4/25
   <br />
@@ -11311,19 +11389,25 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
       Hi there! I’m Andriy Burkov.
     </h3>
   </a>
-
-  <p>
-  Andriy Burkov (<a href="https://github.com/aburkov">https://github.com/aburkov</a>) starred a repository on 03/4/25
-  <br />
-  <a href="https://github.com/erikbern/ann-benchmarks">https://github.com/erikbern/ann-benchmarks</a> (Python) 5.2k Stars
-  <p className="f4 my-3">
-        Benchmarks of approximate nearest neighbor libraries in Python
+  <div id="_AndriyBurkov_erikbern_ann-benchmarks">
+      <section className="section-gap-AndriyBurkov">
+      <p>
+        Andriy Burkov (<a href="https://github.com/aburkov">https://github.com/aburkov</a>) starred a repository on 03/4/25
+        <br />
+        <a href="https://github.com/erikbern/ann-benchmarks">https://github.com/erikbern/ann-benchmarks</a> (Python) 5.2k Stars
+        <p className="f4 my-3">
+              Benchmarks of approximate nearest neighbor libraries in Python
+            </p>
+            <a title="http://ann-benchmarks.com" role="link" target="_blank" rel="noopener noreferrer nofollow" className="text-bold" href="http://ann-benchmarks.com">ann-benchmarks.com</a>
       </p>
-      <a title="http://ann-benchmarks.com" role="link" target="_blank" rel="noopener noreferrer nofollow" className="text-bold" href="http://ann-benchmarks.com">ann-benchmarks.com</a>
-</p>
-<WhyThisRepo />
-<Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay />
+      <WhyThisRepo />
+      <Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay />
 
+    </section>
+ 
+  </div>
+
+ 
 </div>
 <div id="richlander_containe_workshop">
   <a
@@ -11374,7 +11458,9 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
       Hi there! I’m Simon Willison.
     </h3>
   </a>
+<div id="SimonWillison_StephenTurner">
 
+</div>
 <section className="section-gap-simon-willison">
   <p>
   Simon Willison(<a href="https://github.com/simonw">https://github.com/simonw</a>) contributed to a repository on 14/5/25
@@ -12076,10 +12162,469 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
 
 </div>
 
+<div id="HrishiOlickel">
+<a
+    href="https://github.com/hrishioa"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Hrishi Olickel
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Hrishi Olickel.
+    </h3>
+  </a>
+  <a href="https://olickel.com/subqueries-and-ctes-an-example-of-query-optimization-in-postgres" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Subqueries and CTEs: an example of query optimization in Postgres | Optimization isn't always premature | Posts · 9/10/2020 · 5 minutes 
+    </a>
+</div>
+
+<div id="AntonZhiyanov">
+<a
+    href="https://github.com/nalgeon"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Anton Zhiyanov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Anton Zhiyanov.
+    </h3>
+  </a>
+  <a href="https://antonz.org/sql-join/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: SQL join flavors | Posts · 20/6/20203 · 5 minutes 
+    </a>
+    <ul dir="auto">
+<li><a href="https://github.com/nalgeon/codapi">codapi</a> — Interactive code examples for all types of technical writing.</li>
+<li><a href="https://github.com/nalgeon/redka">redka</a> — Redis re-implemented with SQLite.</li>
+<li><a href="https://github.com/nalgeon/sqlean">sqlean</a> — SQLite extensions.</li>
+</ul>
+</div>
+<div id="James(@capjamesg)">
+<a
+    href="https://github.com/capjamesg"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      James (@capjamesg)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m James (@capjamesg).
+    </h3>
+  </a>
+  <a href="https://jamesg.blog/2024/08/19/nosql-database-python" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Building a NoSQL database in Python | Posts · 19/8/2024 · 5 minutes 
+    </a>
+</div>
+<div id="Books">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Books
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Books.
+    </h3>
+  </a>
+</div>
+{ <div id="MichaelTarlton">
+<a
+    href="https://x.com/MichaeTa"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Michael Tarlton
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Michael Tarlton.
+    </h3>
+  </a>
+  <MichaelTarlton_Twitter />
+  <p></p>
+  <p>
+    {/* <img src="https://tarlton.info/attachments/Backprop-chain-Drawing-3.png" // width="auto" height="auto" 
+  alt=""></img> */}
+Just re-illustrating the example from the Russell book Chapter 21. Note how the unit “numbers” have changed.
+Give it a shot if you have literally nothing else to do. There is a reason we make computers do this.</p>
+
+<a href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the Wikipedia Page: Artificial Intelligence: A Modern Approach |  Written by Stuart J. Russell and Peter Norvig 
+  </a>
+  {/* <div className="mw-body-content"> */}
+  <p>
+  <i>AIMA</i> has been called "the most popular artificial intelligence textbook in the world",
+      <sup id="cite_ref-2" className="reference">
+        <a href="#cite_note-2">
+          <span className="cite-bracket">[</span>2<span className="cite-bracket">]</span>
+        </a>
+      </sup>{" "}
+      and is considered the standard text in the field of AI.
+      <sup id="cite_ref-3" className="reference">
+        <a href="#cite_note-3">
+          <span className="cite-bracket">[</span>3<span className="cite-bracket">]</span>
+        </a>
+      </sup>
+      <sup id="cite_ref-4" className="reference">
+        <a href="#cite_note-4">
+          <span className="cite-bracket">[</span>4<span className="cite-bracket">]</span>
+        </a>
+      </sup>{" "}
+      As of 2023, it was being used at over 1500 universities worldwide,
+      <sup id="cite_ref-5" className="reference">
+        <a href="#cite_note-5">
+          <span className="cite-bracket">[</span>5<span className="cite-bracket">]</span>
+        </a>
+      </sup>{" "}
+      and it has over 59,000 citations on{" "}
+      <a href="/wiki/Google_Scholar" title="Google Scholar">
+        Google Scholar
+      </a>
+      .
+      <sup id="cite_ref-6" className="reference">
+        <a href="#cite_note-6">
+          <span className="cite-bracket">[</span>6<span className="cite-bracket">]</span>
+        </a>
+      </sup>
+  </p>
+
+    {/* </div> */}
+
+
+</div> }
+
+
+
 <Nelhage_llama_GitHubRepository />
 <MatthewRocklinPR_pytorch_pytorch_issues_9168_From_2018_7_01_To_2018_8_31 />
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
 
+
+<div id="DB">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      DB
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    DB.
+    </h3>
+  </a>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+      href="#SQLJoin"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+        SQL Join 
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+      SQL Join.
+      </h3>
+    </a>
+    {/* <h3 className="no-margin KristofferCarlsson-article-title" 
+    // itemprop="name"
+    >
+    Visit the Blog Post titled 
+    <a href="https://www.alibabacloud.com/blog/how-to-write-a-high-performance-sql-join-implementation-and-best-practices-of-joins_599145" 
+    // itemprop="url"
+    >How to Write a High-Performance SQL Join: Implementation and Best Practices of Joins</a>
+    </h3> */}
+  </section>
+</li>
+
+
+
+
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#AlexChiZ"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Alex Chi Z.
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      <p style={{ margin: 0 }}>
+      Alex Chi Z.
+        <a
+          href=""
+          data-original-href=""
+        >
+  
+        </a>
+      </p>
+    </h3>
+  </a>
+  <h3 className="no-margin KristofferCarlsson-article-title" 
+    // itemprop="name" 
+    style={{ margin: 0 }}
+    >
+    <a href="https://www.skyzh.dev/blog/2022-05-29-shared-state-in-risingwave/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Delta Join in the Streaming Engine based on a shared state index | Posts · 29/15/2022 · 10 minutes 
+    </a>
+    </h3>
+    {/* <a
+      href="#SQLJoin"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+        SQL Join 
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+      SQL Join.
+      </h3>
+    </a> */}
+
+  </section>
+</li>
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#ConradLudgate"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Conrad Ludgate
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+    Conrad Ludgate.
+    </h3>
+  </a>
+  <a href="https://conradludgate.com/posts/cnpg" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Visit the full article: Postgres | Posts · 5/11/2023 
+  </a>
+    </section>
+</li>
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+        href="#SimonWillison_StephenTurner"
+        className="vcard-names1"
+        style={{ textDecoration: 'underline' }}
+      >
+        <h1 style={{ margin: 0 }}>
+          <span className="p-name vcard-fullname d-block overflow-hidden">
+          Stephen Turner
+          </span>
+        </h1>
+        <h3 style={{ margin: 0 }}>
+          Hi there! I’m Stephen Turner.
+        </h3>
+      </a>
+      <a href="https://blog.stephenturner.us/p/duckdb-vs-dplyr-vs-base-r" 
+        target="_blank" 
+        rel="noopener noreferrer" style={{ margin: 0 }}>
+        Visit the full article: DuckDB vs dplyr vs base R | Posts · 7/10/2024 
+      </a>
+    </section>
+</li>
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+      href="#SimonWillison_StephenTurner"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+          Stephen Turner
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+        Hi there! I’m Stephen Turner.
+      </h3>
+    </a>
+    <a
+      href="https://blog.stephenturner.us/p/duckdb-vs-dplyr-vs-base-r"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ margin: 0 }}
+    >
+      Visit the full article: DuckDB vs dplyr vs base R | Posts · 7/10/2024
+    </a>
+  </section>
+</li>
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+      <a
+    href="#_AndriyBurkov_erikbern_ann-benchmarks"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Andriy Burkov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Andriy Burkov.
+    </h3>
+  </a>
+      {/* <p>
+        Andriy Burkov (<a href="https://github.com/aburkov">https://github.com/aburkov</a>) starred a repository on 03/4/25
+        <br />
+        <a href="https://github.com/erikbern/ann-benchmarks">https://github.com/erikbern/ann-benchmarks</a> (Python) 5.2k Stars
+       
+      </p>
+      <WhyThisRepo />
+      <Erikbern_ann_benchmarks_GitHubRepository_CodeDisplay /> */}
+
+      <p className="f4 my-3">
+              Benchmarks of approximate nearest neighbor libraries in Python
+            </p>
+            <a title="http://ann-benchmarks.com" role="link" target="_blank" rel="noopener noreferrer nofollow" className="text-bold" href="http://ann-benchmarks.com">ann-benchmarks.com</a>
+    </section>
+</li>
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#HrishiOlickel"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Hrishi Olickel
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Hrishi Olickel.
+    </h3>
+  </a>
+  <a href="https://olickel.com/subqueries-and-ctes-an-example-of-query-optimization-in-postgres" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Subqueries and CTEs: an example of query optimization in Postgres | Optimization isn't always premature | Posts · 9/10/2020 · 10 minutes 
+    </a>
+  </section>
+  </li>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+        href="#AntonZhiyanov"
+        className="vcard-names1"
+        style={{ textDecoration: 'underline' }}
+      >
+        <h1 style={{ margin: 0 }}>
+          <span className="p-name vcard-fullname d-block overflow-hidden">
+          Anton Zhiyanov
+          </span>
+        </h1>
+        <h3 style={{ margin: 0 }}>
+          Hi there! I’m Anton Zhiyanov.
+        </h3>
+      </a>
+      <a href="https://antonz.org/sql-join/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: SQL join flavors | Posts · 20/6/20203 · 5 minutes 
+    </a>
+  </section>
+  </li>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#James(@capjamesg)"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      James (@capjamesg)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m James (@capjamesg).
+    </h3>
+  </a>
+  <a href="https://jamesg.blog/2024/08/19/nosql-database-python" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Building a NoSQL database in Python | Posts · 19/8/2024 · 5 minutes 
+    </a>
+    </section>
+  </li>
+
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+      href="#YanCui(theburningmonk)"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+        Yan Cui
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+        Hi there! I’m Yan Cui(theburningmonk).
+      </h3>
+    </a>
+    <a href="https://theburningmonk.com/2023/12/how-to-perform-database-migration-for-a-live-service-with-no-downtime/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: How to perform database migration for a live service with no downtime | Posts · AWS, DynamoDB, Serverless · 12/2023 
+    </a>
+</section>
+</li>
+
+
+
+
+</div>
 
 
 <div id="githubcom_huggingface_transformers_pull_35848">

@@ -980,7 +980,19 @@ section {
 .section-gap-MartinEvans * {
   margin: 0 !important;
 }
+.section-gap-AlexandreMutel{
+  margin-bottom: 48px; /* Adjust the value for more or less space */
+}
+.section-gap-AlexandreMutel * {
+  margin: 0 !important;
+}
 .section-gap-GuillaumeGuy * {
+  margin: 0 !important;
+}
+.section-gap-SQL-Join * {
+  margin: 0 !important;
+}
+.section-gap-AndriyBurkov * {
   margin: 0 !important;
 }
 .conrad-ludgate {
@@ -991,4 +1003,12 @@ section {
   padding-inline-start: 20px; /* Reduced from 40px to 20px */
   /* padding-inline-start: 40px; */
   unicode-bidi: isolate;
+}
+.no-margin-bottom {
+  margin-bottom: 0 !important;
+}
+.no-margin-bottom1 {
+  list-style: none;   /* ✅ Removes the bullet/dot */
+  margin: 0;          /* ✅ Removes any default margin */
+  padding: 0;         /* ✅ Optional: removes default padding */
 }
