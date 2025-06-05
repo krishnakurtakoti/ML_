@@ -80,7 +80,8 @@ import MomotheMonsterGitHubProfile from './MomotheMonsterGitHubProfile';
 import ChristophKubischGitHubProfile from './ChristophKubischGitHubProfile';
 import Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30 from './rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_04_30';
 import MichaelTarlton_Twitter from './MichaelTarlton_Twitter';
-
+import ZonghengYang_skypilot_org_skypilot_ContributorList from './ZonghengYang_skypilot_org_skypilot_ContributorList';
+import GautamMittalGitHubProfile from './GautamMittalGitHubProfile';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -996,7 +997,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </h3>
 </a>
 </li>
-
+<li>
+<a
+    href="#Dapr"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Dapr
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Dapr
+    </h3>
+  </a>
+</li>
 <li>
  
 <a
@@ -1295,6 +1311,7 @@ Veggie 🌿, opinions are my own.</div></h3>
   </h3>
 </a>
 </li>
+
 <li>
   
 
@@ -1699,6 +1716,54 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Hi there! I’m Books.
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#Span_T_andPipelines"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Span&lt;T&gt; and Pipelines
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+   {/* Span<T> and Pipelines */} Span&lt;T&gt; and Pipelines
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#ReshamaShaikh"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Reshama Shaikh (@reshamas)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Reshama Shaikh (@reshamas).
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#SuYang"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Su Yang
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Su Yang
     </h3>
   </a>
 </li>
@@ -7792,6 +7857,16 @@ Veggie 🌿, opinions are my own.</div>
 
       <section className="section-gap-AlexandreMutel">
       <p>
+              Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) followed a GitHub user on 2/5/25
+                <br />
+                <a href="https://github.com/meziantou">meziantou </a>
+
+              </p>
+      </section>
+ 
+
+      <section className="section-gap-AlexandreMutel">
+      <p>
         Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 7/4/25
           <br />
           <a href="https://github.com/Alan-Rock-GS/GpuScript">Alan-Rock-GS/GpuScript </a> (C#) 171 STARS
@@ -9896,6 +9971,15 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
 
 <Timiskhakov_ComputingTheConvexHullOnGpu_GitHubRepository />
 
+<div id="TimurIskhakov_Span_T_andPipelines">
+<a href="https://timiskhakov.github.io/posts/exploring-spans-and-pipelines" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Exploring Spans and Pipelines | Improving the performance of file parsing by using new goodies in .NET Core | Posts · 31/10/2019 · 5 minutes · c# cuda algorithms
+    </a>
+</div>
+
+
 </div>
 
 <div id="KristofferCarlsson_SIMD_and_SIMD_intrinsics_in_Julia">
@@ -10970,6 +11054,33 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
   > SIMD and SIMD-intrinsics in Julia</a>
   </h3>
 </li>
+
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-Single_instruction_multiple_data_SIMD" style={{ margin: 0 }}>
+  <a
+    href="#GéraldBarré_SIMD"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Gérald Barré (@meziantou)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Gérald Barré (@meziantou).
+    </h3>
+  </a>
+  <a href="https://www.meziantou.net/replace-characters-in-a-string-using-vectorization.htm" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Replace characters in a string using Vectorization | Posts · 11/7/2022 · 4 minutes 
+    </a>
+  </section>
+
+</li>
+
 </div>
 
 
@@ -11440,6 +11551,17 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
     Martin Krasser.
     </h3>
   </a>
+
+
+<section className="section-gap-krasserm">
+<p>
+Martin Krasser(<a href="https://github.com/krasserm">https://github.com/krasserm</a>) starred a repository on 26/3/25
+  <br />
+  <a href="https://github.com/wjayesh/mahilo">wjayesh/mahilo </a> (Python) 360 STARS
+
+</p>
+</section>
+
   <Krasserm_fsdl_text_recognizer_2021_labs_From_2021_3_01_To_2021_3_31 />
 <WhyThisRepo />
 </div>
@@ -12231,6 +12353,204 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
        Visit the full article: Building a NoSQL database in Python | Posts · 19/8/2024 · 5 minutes 
     </a>
 </div>
+
+<div id="ZonghengYang">
+<a
+    href="https://github.com/concretevitamin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Zongheng Yang (@concretevitamin)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Zongheng Yang (@concretevitamin).
+    </h3>
+  </a>
+  <section className="section-gap-ZonghengYang">
+      <h3>
+      <a href="https://github.com/kvfrans?tab=following" target="_blank" rel="noopener noreferrer">
+        Followings of Kevin Frans on GitHub
+      </a>
+    </h3>
+    <GautamMittalGitHubProfile />
+    <p>
+    Gautam Mittal (<a href="https://github.com/gmittal">https://github.com/gmittal</a>) has a repository 
+          <br />
+          <a href="https://github.com/skypilot-org/skypilot">skypilot-org/skypilot</a> (Python) 8.2k STARS
+
+        </p>
+    <ZonghengYang_skypilot_org_skypilot_ContributorList />
+      <a href="https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/" 
+          target="_blank" 
+          rel="noopener noreferrer">
+          Visit the full article: SQL Query Optimization Meets Deep Reinforcement Learning | Posts  · 18/9/2018 
+        </a>
+  </section>
+  
+  
+</div>
+
+<div id="ChrisDone">
+<a
+    href="https://github.com/chrisdone"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Chris Done (@chrisdone)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Chris Done (@chrisdone).
+    </h3>
+  </a>
+  <p>
+Artin Ghasivand(<a href="https://github.com/Ei30metry">https://github.com/Ei30metry</a>) followed a GitHub user on 27/6/24
+  <br />
+  <a href="https://github.com/chrisdone">https://github.com/chrisdone </a>
+  <div>Artificial Labs <a className="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/artificialio/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/artificialio">@artificialio</a> </div>
+<section className="section-gap-wjayesh">
+   <a href="https://chrisdone.com/posts/postgresql-pagination/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Fast pagination on PostgreSQL | Posts  · 19/11/2014  ·  2 minutes
+    </a>
+</section>
+</p>
+</div>
+
+<div id="JayeshSharma">
+<a
+    href="https://github.com/wjayesh"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jayesh Sharma (@wjayesh)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Jayesh Sharma (@wjayesh).
+    </h3>
+  </a>
+  <section className="section-gap-wjayesh">
+<p>
+Martin Krasser(<a href="https://github.com/krasserm">https://github.com/krasserm</a>) starred a repository on 26/3/25
+  <br />
+  <a href="https://github.com/wjayesh/mahilo">wjayesh/mahilo </a> (Python) 360 STARS
+
+</p>
+  <a href="https://medium.com/c-sharp-programming/building-distributed-apps-using-dapr-locally-and-on-azure-65316a2f259" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Building distributed apps using Dapr, locally and on Azure | Posts  · 17/3/2021  · .Net Programming, Microservices · 10 minutes
+    </a>
+    <h2 className="heading-element" dir="auto">📑 Latest Blog Posts</h2>
+    <ul dir="auto">
+<li><a href="https://medium.com/thedeephub/how-mahilo-stands-out-in-the-sea-of-ai-agent-frameworks-07925892b15e?source=rss-18ed07d706ef------2" rel="nofollow">How mahilo Stands Out in The Sea of AI Agent Frameworks</a></li>
+<li><a href="https://medium.com/thedeephub/building-a-voice-enabled-python-fastapi-app-using-openais-realtime-api-bfdf2947c3e4?source=rss-18ed07d706ef------2" rel="nofollow">Building a voice-enabled Python FastAPI app using OpenAI’s Realtime API</a></li>
+<li><a href="https://wjayesh.medium.com/how-autonomous-agents-work-the-concept-and-its-langchain-implementation-e1a77f612427?source=rss-18ed07d706ef------2" rel="nofollow">How Autonomous Agents Work: The Concept and Its LangChain Implementation</a></li>
+<li><a href="https://dev.to/wjayesh/not-just-another-mlflow-on-kubernetes-article-2522" rel="nofollow">Not just another MLflow on Kubernetes article</a></li>
+<li><a href="https://dev.to/wjayesh/explained-simply-aws-iam-and-kubernetes-rbac-1hja" rel="nofollow">Explained Simply: AWS IAM and Kubernetes RBAC</a></li>
+</ul>
+</section>
+</div>
+
+<div id="ReshamaShaikh">
+<a
+    href="https://github.com/reshamas"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Reshama Shaikh (@reshamas)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Reshama Shaikh (@reshamas).
+    </h3>
+  </a>
+<p></p>
+    <a href="https://reshamas.github.io/fastai-week-2-classifying-african-and-asian-elephants/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Fastai Week 2 Classifying African And Asian Elephants | Posts · 5/11/2018 · 4 minutes 
+    </a>
+    <p></p>
+    <a href="https://reshamas.github.io/fastai-week-1-classifying-camels-horses-and-elephants/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Fastai Week 1 Classifying Camels Horses And Elephants | Posts · 28/10/2018 · 5 minutes 
+    </a>
+    <p></p>
+    <a href="https://reshamas.github.io/my-first-kaggle-competition/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: My First Kaggle Competition | Posts · 18/4/2018 · 5 minutes 
+    </a>
+
+</div>
+
+<div id="GéraldBarré">
+<a
+    href="https://github.com/meziantou"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Gérald Barré (@meziantou)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Gérald Barré (@meziantou).
+    </h3>
+  </a>
+  <h4 className="heading-element" dir="auto">📗 Recent blog posts</h4>
+  <ul dir="auto">
+<li><a href="https://www.meziantou.net/using-pattern-matching-in-csharp-for-performance-optimization.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Using Pattern Matching in C# for Performance Optimization</a></li>
+<li><a href="https://www.meziantou.net/use-csharp-14-extensions-to-simplify-enum-parsing.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Use C# 14 extensions to simplify enum Parsing</a></li>
+<li><a href="https://www.meziantou.net/stringcomparison-invariantculture-is-not-always-invariant.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">StringComparison.InvariantCulture is not always invariant</a></li>
+<li><a href="https://www.meziantou.net/using-snapshot-testing-to-validate-ef-core-schema.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Using Snapshot Testing to validate EF Core schema</a></li>
+<li><a href="https://www.meziantou.net/migrate-from-mstest-to-xunit-using-a-roslyn-analyzer.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Migrate from MSTest to xUnit using a Roslyn analyzer</a></li>
+<li><a href="https://www.meziantou.net/using-roslyn-to-analyze-and-rewrite-code-in-a-solution.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Using Roslyn to analyze and rewrite code in a solution</a></li>
+<li><a href="https://www.meziantou.net/hsts-for-httpclient-in-dotnet.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Enhance Your .NET HttpClient with HSTS Support</a></li>
+<li><a href="https://www.meziantou.net/exploring-collectionsmarshal-for-dictionary.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Exploring CollectionsMarshal for Dictionary</a></li>
+<li><a href="https://www.meziantou.net/signing-commits-in-git-using-ssh-keys-on-windows.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Signing commits in Git using SSH keys on Windows</a></li>
+<li><a href="https://www.meziantou.net/reading-usn-journal-with-dotnet.htm?utm_medium=social&amp;utm_source=syndication" rel="nofollow">Reading USN Journal with .NET</a></li>
+</ul>
+<section className="section-gap-GéraldBarré">
+<p>
+              Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) followed a GitHub user on 2/5/25
+                <br />
+                <a href="https://github.com/meziantou">meziantou </a>
+
+              </p>
+</section>
+ 
+             
+                  <a href="https://www.meziantou.net/prevent-accidental-disclosure-of-configuration-secrets.htm" 
+                    target="_blank" 
+                    rel="noopener noreferrer">
+                    Visit the full article: Prevent accidental disclosure of configuration secrets | Posts · 13/2/2023 · 4 minutes 
+                  </a>
+             
+              <p></p>
+              <div id="GéraldBarré_SIMD">
+                <a href="https://www.meziantou.net/replace-characters-in-a-string-using-vectorization.htm" 
+                    target="_blank" 
+                    rel="noopener noreferrer">
+                    Visit the full article: Replace characters in a string using Vectorization | Posts · 11/7/2022 · 4 minutes 
+                  </a>
+              </div>
+ 
+</div>
 <div id="Books">
 <a
     href=""
@@ -12324,6 +12644,189 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
 <Roboflow_rf_detr_graphs_contributors_ContributorList />
 
 
+<div id="daily_dev_idoshamun">
+<a
+    href="https://github.com/idoshamun"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ido Shamun
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ido Shamun
+    </h3>
+  </a>
+  <a href="https://daily.dev/blog/sql-join-vs-subquery-the-game-changer" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: SQL Join vs Subquery: The Game Changer | Posts · 19/11/2020 · 3 minutes 
+    </a>
+</div>
+
+<div id="SuYang">
+<a
+    href="https://github.com/soulteary/"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Su Yang
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Su Yang
+    </h3>
+  </a>
+  <a href="https://soulteary.com/2025/02/07/intel-b580-gpu-with-docker-and-deepseek-r1-distill-qwen-7b.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Intel B580 GPU Large Model Container Inference Practice: A Case Study of DeepSeek R1 Distill Qwen 7B (Part 1) | Posts · 7/2/2025 · 25 minutes 
+    </a>
+</div>
+<div id="Span_T_andPipelines_Scooletz">
+<a
+    href="https://github.com/Scooletz"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        Szymon Kulec
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Szymon Kulec
+    </h3>
+  </a>
+  <a href="https://krasserm.github.io/2015/01/13/event-sourcing-at-global-scale/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Event sourcing at global scale | Posts · 13/1/2015 · 5 minutes 
+    </a>
+    <p>
+    Scooletz (<a href="https://disqus.com/by/scooletz/">https://disqus.com/by/scooletz/</a>) commented on 18/1/15
+    </p>
+  <a href="https://blog.scooletz.com/2018/08/14/thruster-building-a-not-so-fast-memory-pool/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: A fast and efficient implementation of a MemoryPool&lt;T&gt; | Posts · 13/1/2015 · 5 minutes 
+    </a>
+    
+</div>
+
+<div id="Dapr">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Dapr
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Dapr
+    </h3>
+  </a>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#JayeshSharma"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jayesh Sharma (@wjayesh)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Jayesh Sharma (@wjayesh).
+    </h3>
+  </a>
+  <a href="https://medium.com/c-sharp-programming/building-distributed-apps-using-dapr-locally-and-on-azure-65316a2f259" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Building distributed apps using Dapr, locally and on Azure | Posts  · 17/3/2021  · .Net Programming, Microservices · 10 minutes
+    </a>
+  </section>
+  </li>
+</div>
+
+<div id="Span_T_andPipelines">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Span&lt;T&gt; and Pipelines
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+   {/* Span<T> and Pipelines */} Span&lt;T&gt; and Pipelines
+    </h3>
+  </a>
+
+
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+     <a
+    href="#TimurIskhakov_Span_T_andPipelines"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Timur Iskhakov
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Timur Iskhakov.
+    </h3>
+  </a>
+
+<a href="https://timiskhakov.github.io/posts/exploring-spans-and-pipelines" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Exploring Spans and Pipelines | Improving the performance of file parsing by using new goodies in .NET Core | Posts · 31/10/2019 · 5 minutes · c# cuda algorithms
+    </a>
+  </section>
+  </li>
+
+
+
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+      href="#Span_T_andPipelines_Scooletz"
+      className="vcard-names1"
+      style={{ textDecoration: 'underline' }}
+    >
+      <h1 style={{ margin: 0 }}>
+        <span className="p-name vcard-fullname d-block overflow-hidden">
+          Szymon Kulec
+        </span>
+      </h1>
+      <h3 style={{ margin: 0 }}>
+        Szymon Kulec
+      </h3>
+    </a>
+    <a href="https://blog.scooletz.com/2018/08/14/thruster-building-a-not-so-fast-memory-pool/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: A fast and efficient implementation of a MemoryPool&lt;T&gt; | Posts · 13/1/2015 · 5 minutes 
+    </a>
+  </section>
+  </li>
+
+</div>
 <div id="DB">
 <a
     href=""
@@ -12620,9 +13123,78 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
     </a>
 </section>
 </li>
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#ZonghengYang"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Zongheng Yang (@concretevitamin)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Zongheng Yang (@concretevitamin).
+    </h3>
+  </a>
+  <a href="https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: SQL Query Optimization Meets Deep Reinforcement Learning | Posts  · 18/9/2018 
+    </a>
+</section>
+</li>
 
 
 
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#daily_dev_idoshamun"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ido Shamun
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ido Shamun
+    </h3>
+  </a>
+  <a href="https://daily.dev/blog/sql-join-vs-subquery-the-game-changer" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: SQL Join vs Subquery: The Game Changer | Posts · 19/11/2020 · 3 minutes 
+    </a>
+</section>
+</li>
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#ChrisDone"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Chris Done (@chrisdone)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Chris Done (@chrisdone).
+    </h3>
+  </a>
+    <a href="https://chrisdone.com/posts/postgresql-pagination/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Fast pagination on PostgreSQL | Posts  · 19/11/2014  ·  2 minutes
+    </a>
+</section>
+</li>
 
 </div>
 
