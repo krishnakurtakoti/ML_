@@ -82,6 +82,9 @@ import Rwightman_pull_mlfoundations_open_clip_pull_1069_From_2025_04_01_To_2025_
 import MichaelTarlton_Twitter from './MichaelTarlton_Twitter';
 import ZonghengYang_skypilot_org_skypilot_ContributorList from './ZonghengYang_skypilot_org_skypilot_ContributorList';
 import GautamMittalGitHubProfile from './GautamMittalGitHubProfile';
+import Max_Liani_Twitter_Following from './Max_Liani_Twitter_Following';
+import Anthony_ShawPR_langchain_ai_langchain_community_pull_88_From_2025_5_01_To_2025_5_31 from './Anthony_ShawPR_langchain_ai_langchain_community_pull_88_From_2025_5_01_To_2025_5_31';
+import Edzer_Pebesma_VCardDetails from './Edzer_Pebesma_VCardDetails';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -1767,6 +1770,54 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+<li>
+<a
+    href="#AsankhayaSharma"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Asankhaya Sharma
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Asankhaya Sharma
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#Max_Liani"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Max Liani
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Max Liani
+    </h3>
+  </a>
+</li>
+{/* <li>
+<a
+    href="#Marlene"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Marlene
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Marlene
+    </h3>
+  </a>
+</li> */}
 <li>
         <h1 className="vcard-names1 ">
             <a href="#caleb-robinson-blog-archives" style={{ textDecoration: 'underline' }}>
@@ -12687,6 +12738,131 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
        Visit the full article: Intel B580 GPU Large Model Container Inference Practice: A Case Study of DeepSeek R1 Distill Qwen 7B (Part 1) | Posts · 7/2/2025 · 25 minutes 
     </a>
 </div>
+
+
+<div id="AsankhayaSharma">
+<a
+    href="https://github.com/codelion"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Asankhaya Sharma
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Asankhaya Sharma
+    </h3>
+  </a>
+  <section className="section-gap-AsankhayaSharma">
+    <p>
+    Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>) 
+    <br />
+    {/* <a href="https://github.com/codelion/openevolve">codelion/openevolve </a> (Python) 2.3k STARS
+    <br /> */}
+    codelion launched their sponsorship page 💖  <a href="https://github.com/codelion">Asankhaya Sharma codelion</a> on 10/6/25
+  </p>
+  </section>
+
+ <section className="section-gap-AsankhayaSharma">
+    <p>
+      Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>) Trending repositories on 23/5/25
+        <br />
+        <a href="https://github.com/codelion/openevolve">codelion/openevolve </a> (Python) 2.3k STARS
+
+      </p>
+ </section>
+
+</div>
+
+<div id="Max_Liani">
+<a
+    href="https://x.com/maxliani"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Max Liani
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Max Liani
+    </h3>
+  </a>
+  <Max_Liani_Twitter_Following />
+  <div dir="auto" className="css-146c3p1 r-bcqeeo r-1ttztb7 r-qvutc0 r-37j5jr r-a023e6 r-rjixqe r-16dba41" data-testid="UserDescription" style={{ color: "rgb(15, 20, 25)"  , display: "flex", alignItems: "center", flexWrap: "nowrap", gap: "5px"}}>
+  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3">
+    Raytracing Director at Nvidia. Previously: Tech Lead for RenderMan at Pixar, Architect of Glimpse Renderer at Animal Logic
+  </span>
+  {/* <img alt="🇮🇹" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f1ee-1f1f9.svg" title="Flag of Italy" className="r-4qtqp9 r-dflpy8 r-k4bwe5 r-1kpi4qh r-pp5qcn r-h9hxbl" />
+  <img alt="🇦🇺" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f1e6-1f1fa.svg" title="Flag of Australia" className="r-4qtqp9 r-dflpy8 r-k4bwe5 r-1kpi4qh r-pp5qcn r-h9hxbl" />
+  <img alt="🇺🇸" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg" title="Flag of United States" className="r-4qtqp9 r-dflpy8 r-k4bwe5 r-1kpi4qh r-pp5qcn r-h9hxbl" />
+  <img alt="🇨🇦" draggable="false" src="https://abs-0.twimg.com/emoji/v2/svg/1f1e8-1f1e6.svg" title="Flag of Canada" className="r-4qtqp9 r-dflpy8 r-k4bwe5 r-1kpi4qh r-pp5qcn r-h9hxbl" /> */}
+  <span className="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3"> Views are my own.</span>
+</div>
+  <a href="https://maxliani.wordpress.com/2023/03/17/dnnd-1-a-deep-neural-network-dive/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: DNND 1: a Deep Neural Network Dive | Posts  · 27/3/2023  · Software Development · 5 minutes
+    </a>
+</div>
+
+<div id="Marlene">
+<a
+    href="https://github.com/marlenezw"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Marlene
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Marlene
+    </h3>
+  </a>
+  <div>Pythonista and Developer Advocate at Microsoft 🥑✨ Learning and teaching Python🐍</div>
+  <p>
+Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) Created a pull request on 2/6/25
+  <br />
+  <a href="https://github.com/langchain-ai/langchain-community/pull/88">langchain-ai/langchain-community/pull/88 </a> 
+
+</p>
+  <Anthony_ShawPR_langchain_ai_langchain_community_pull_88_From_2025_5_01_To_2025_5_31 />
+    <a href="https://marlenezw.hashnode.dev/an-introduction-to-ibis-for-python-programmers" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: An Introduction to Ibis for Python Programmers | A More Pythonic Way To Work With Databases | Posts  · 14/3/2022  · Python, Databases · 10 minutes
+    </a>
+  
+</div>
+
+<div id="EdzerPebesma">
+<a
+    href="https://github.com/edzer"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Edzer Pebesma
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Edzer Pebesma
+    </h3>
+  </a>
+  <div>geoinformatics, spatial statistics, R.</div>
+   <Edzer_Pebesma_VCardDetails />
+      <a href="https://r-spatial.org/2017/07/14/Large_scale_OSM_in_R.html" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Setting up large scale OSM environments for R using Osmosis and PostgreSQL with PostGIS | Posts  · 14/6/2017  · Databases, geoinformatics, spatial statistics, R. · 5 minutes
+    </a>
+</div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
     href="https://github.com/Scooletz"
@@ -13195,7 +13371,54 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
     </a>
 </section>
 </li>
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#Marlene"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Marlene
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Marlene
+    </h3>
+  </a>
+      <a href="https://marlenezw.hashnode.dev/an-introduction-to-ibis-for-python-programmers" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: An Introduction to Ibis for Python Programmers | A More Pythonic Way To Work With Databases | Posts  · 14/3/2022  · Python, Databases · 10 minutes
+    </a>
+</section>
+</li>
 
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#EdzerPebesma"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Edzer Pebesma
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Edzer Pebesma
+    </h3>
+  </a>
+   <a href="https://r-spatial.org/2017/07/14/Large_scale_OSM_in_R.html" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Setting up large scale OSM environments for R using Osmosis and PostgreSQL with PostGIS | Posts  · 14/6/2017  · Databases, geoinformatics, spatial statistics, R. · 5 minutes
+    </a>
+</section>
+</li>
+ 
 </div>
 
 
