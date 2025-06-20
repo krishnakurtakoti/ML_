@@ -84,7 +84,11 @@ import ZonghengYang_skypilot_org_skypilot_ContributorList from './ZonghengYang_s
 import GautamMittalGitHubProfile from './GautamMittalGitHubProfile';
 import Max_Liani_Twitter_Following from './Max_Liani_Twitter_Following';
 import Anthony_ShawPR_langchain_ai_langchain_community_pull_88_From_2025_5_01_To_2025_5_31 from './Anthony_ShawPR_langchain_ai_langchain_community_pull_88_From_2025_5_01_To_2025_5_31';
+import Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30 from './Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30';
 import Edzer_Pebesma_VCardDetails from './Edzer_Pebesma_VCardDetails';
+import Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30 from './Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30';
+import Pranjali_Awasthi_raidingAI_Twitter_Following from './Max_Liani_Twitter_Following copy';
+import JimmyLefevre_kb_GitHubRepository from './Cédric_Luthi_0xced_Chisel_GitHubRepository copy';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -1799,6 +1803,150 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Max Liani
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#MicrosoftMVP"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Microsoft MVP
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Microsoft MVP
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#AnthonyShaw"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Anthony Shaw(@tonybaloney)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Anthony Shaw(@tonybaloney)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#EthanHarris"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ethan Harris(@ethanwharris)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ethan Harris(@ethanwharris)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#JirkaBorovec"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Jirka Borovec(@Borda)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jirka Borovec(@Borda)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#DavidPine"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       David Pine(@IEvangelist)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      David Pine(@IEvangelist)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#Friedrich_von_Never"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Friedrich von Never(@ForNeVeR)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Friedrich von Never(@ForNeVeR)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#AdamSitnik"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Adam Sitnik(@adamsitnik)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Adam Sitnik(@adamsitnik)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#AshVardanian"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ash Vardanian(@ashvardanian)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ash Vardanian(@ashvardanian)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#JimmyLefevre"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Jimmy Lefevre(@JimmyLefevre)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+       Jimmy Lefevre(@JimmyLefevre)
     </h3>
   </a>
 </li>
@@ -7861,6 +8009,16 @@ Veggie 🌿, opinions are my own.</div>
 
       </ul>
 
+
+      <section className="section-gap-AlexandreMutel">
+             <p>
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 20/6/25
+          <br />
+          <a href="https://github.com/JimmyLefevre/kb">JimmyLefevre/kb </a> (C) 275 STARS
+          </p>
+      </section>
+
+
       <div id="YanCui(theburningmonk)">
       <section className="section-gap-AlexandreMutel">
             <p>
@@ -9603,37 +9761,47 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
     </p>
   </h3>
 </a>
+ <section className="section-gap-trstringer">
 <a
   href="https://github.com/trstringer/manual-approval/issues/148"
   className="vcard-names1"
   style={{ textDecoration: 'underline' }}
 >
 
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-    Call for maintainers! #148.
-      <a
-        href="https://github.com/trstringer/manual-approval/issues/148"
-        data-original-href="https://github.com/trstringer/manual-approval/issues/148"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
-<a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
-<a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-<p dir="auto"><strong>Who should be a maintainer?</strong> Somebody with GitHub Actions experience, or the desire to obtain that experience. Also a maintainer should be a modern code craftsperson that is passionate about shipping production-quality software. This GitHub Action can be part of important build and deployment pipelines. Not to mention, it is likely running inside many existing users' environments in their runners. It is important that changes are well-tested, and are the right thing for our users.</p>
+                      <h3 style={{ margin: 0 }}>
+            <p style={{ margin: 0 }}>
+            Call for maintainers! #148.
+              <a
+                href="https://github.com/trstringer/manual-approval/issues/148"
+                data-original-href="https://github.com/trstringer/manual-approval/issues/148"
+              >
+                  <div>
+                    
+                  {/* <p>Currently an associate professor in
+        <a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
+        <a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
+                    </div>
+              </a>
+            </p>
+          </h3>
+        </a>
+        <p dir="auto"><strong>Who should be a maintainer?</strong> Somebody with GitHub Actions experience, or the desire to obtain that experience. Also a maintainer should be a modern code craftsperson that is passionate about shipping production-quality software. This GitHub Action can be part of important build and deployment pipelines. Not to mention, it is likely running inside many existing users' environments in their runners. It is important that changes are well-tested, and are the right thing for our users.</p>
 
-<p>
-      <strong>Manual Approval in a GitHub Actions Workflow</strong><br />
-      <strong>Posted:</strong> March 28, 2022<br />
-      <strong>Updated:</strong> March 28, 2022<br />
-      <a href="https://trstringer.com/github-actions-manual-approval/">Visit the full article here</a>
-    </p>
+        <p>
+              <strong>Manual Approval in a GitHub Actions Workflow</strong><br />
+              <strong>Posted:</strong> March 28, 2022<br />
+              <strong>Updated:</strong> March 28, 2022<br />
+              <a href="https://trstringer.com/github-actions-manual-approval/">Visit the full article here</a>
+            </p>
+            <a href="https://www.meziantou.net/replace-characters-in-a-string-using-vectorization.htm" target="_blank" rel="noopener noreferrer"> Visit the full article: Manual Approval in a GitHub Actions Workflow | Posts · 28/3/2022 · 4 minutes </a>
+            <p></p>
+        <a href="https://github.com/trstringer/manual-approval/issues" 
+          target="_blank" 
+          rel="noopener noreferrer">
+          Open an issue on the trstringer/manual-approval repository
+        </a>
+
+ </section>
 
 
 </div>
@@ -11131,7 +11299,29 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
   </section>
 
 </li>
-
+<li className="no-margin-bottom1">
+  <section className="section-gap-Single_instruction_multiple_data_SIMD" style={{ margin: 0 }}>
+    <a
+    href="#Friedrich_von_Never"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Friedrich von Never(@ForNeVeR)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Friedrich von Never(@ForNeVeR)
+    </h3>
+  </a>
+   <a href="https://fornever.me/en/posts/2023-10-21.code-vectorization.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Code Vectorization in .NET and Other Technologies | Posts · 32/10/2023 · 5 minutes 
+    </a>
+  </section>
+  </li>
 </div>
 
 
@@ -12682,7 +12872,13 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
         </a>
       </sup>
   </p>
-
+<div style={{ textAlign: 'center' }}>
+      <img 
+        src="https://m.media-amazon.com/images/I/41DXHTpEq6L._SX342_SY445_.jpg"
+        alt="Product Image" 
+        style={{ maxWidth: '100%', height: 'auto' }}
+      />
+    </div>
     {/* </div> */}
 
 
@@ -12863,6 +13059,378 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       Visit the full article: Setting up large scale OSM environments for R using Osmosis and PostgreSQL with PostGIS | Posts  · 14/6/2017  · Databases, geoinformatics, spatial statistics, R. · 5 minutes
     </a>
 </div>
+
+<div id="MicrosoftMVP">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Microsoft MVP
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Microsoft MVP
+    </h3>
+  </a>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+    href="#GéraldBarré"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Gérald Barré (@meziantou)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m Gérald Barré (@meziantou).
+    </h3>
+  </a>
+  </section>
+  </li>
+</div>
+<div id="AnthonyShaw">
+<a
+    href="https://github.com/tonybaloney"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Anthony Shaw(@tonybaloney)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Anthony Shaw(@tonybaloney)
+    </h3>
+  </a>
+
+
+  <section className="section-gap-AnthonyShaw">
+    <p>
+       Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+        <br />
+        <a href="https://github.com/Azure-Samples/eShopLite/pull/4">Azure-Samples/eShopLite</a> on 31/5/25
+
+      </p>
+  </section>
+
+    <section className="section-gap-AnthonyShaw">
+          <p>
+      Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+        <br />
+        <a href="https://github.com/langchain-ai/langchain-azure/pull/99">langchain-ai/langchain-azure - langchain-ai/langchain-azure/pull/99 </a> on 10/6/25
+
+      </p>
+      <Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30 />
+      <WhyThisRepo />
+      <p dir="auto">MD5 and SHA1 should never be used for cache keys because there is a chance of collisions.</p>
+      <p dir="auto">The implication here is that the in-process cache dictionary will use different cache keys, but that doesn't matter since it's stored in memory and you need to restart to run this update.</p>
+    </section>
+
+</div>
+<div id="JirkaBorovec">
+<a
+    href="https://github.com/Borda"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Jirka Borovec(@Borda)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jirka Borovec(@Borda)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+       <p>
+      Jirka Borovec(<a href="https://github.com/Borda">https://github.com/Borda</a>) contributed to 
+        <br />
+        <a href="https://github.com/Lightning-AI/lightning-thunder/pull/2208">Lightning-AI/lightning-thunder/</a> on 10/6/25
+
+      </p>
+      <Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30 />
+   </section>
+</div>
+<div id="EthanHarris">
+<a
+    href="https://github.com/ethanwharris"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ethan Harris(@ethanwharris)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ethan Harris(@ethanwharris)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+        <ul dir="auto">
+      <li>Code for our paper <a href="https://arxiv.org/abs/2002.12047" rel="nofollow">"FMix: Enhancing Mixed Sample Data Augmentation"</a></li>
+      <li>Used by the <a href="https://www.kaggle.com/c/bengaliai-cv19/discussion/135966" rel="nofollow">second place team in the Bengali.AI Handwritten Grapheme Classification Kaggle competition</a> and by the <a href="https://www.kaggle.com/c/rfcx-species-audio-detection/discussion/220522" rel="nofollow">third place team in the Rainforest Connection Species Audio Detection Kaggle competition</a></li>
+      </ul>
+        <a href="https://www.kaggle.com/c/bengaliai-cv19/discussion/135966" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            Visit the full article: Bengali.AI Handwritten Grapheme Classification | Classify the components of handwritten Bengali | Discussion  · Bengali.AI · Research Code Competition · 17/3/2020 · 10 minutes
+          </a>
+   </section>
+
+     <section className="section-gap-AnthonyShaw">
+       <p>
+      Jirka Borovec(<a href="https://github.com/Borda">https://github.com/Borda</a>) contributed to 
+        <br />
+        <a href="https://github.com/Lightning-AI/lightning-thunder/pull/2208">Lightning-AI/lightning-thunder/</a> on 10/6/25
+
+      </p>
+      <Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30 />
+
+   </section>
+</div>
+<div id="DavidPine">
+<a
+    href="https://github.com/IEvangelist"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       David Pine(@IEvangelist)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      David Pine(@IEvangelist)
+    </h3>
+  </a>
+ 
+
+  <section className="section-gap-AnthonyShaw">
+    <p>
+       Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+        <br />
+        <a href="https://github.com/Azure-Samples/eShopLite/pull/4">Azure-Samples/eShopLite</a> on 31/5/25
+
+      </p>
+        <h3>
+                    <a href="https://github.com/elbruno?tab=following" target="_blank" rel="noopener noreferrer">
+                      Followings of	El Bruno(@elbruno) on GitHub
+                    </a>
+                  </h3>
+  </section>
+</div>
+<div id="BohdanStupak">
+<a
+    href="https://github.com/Wkalmar"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Bohdan Stupak(@Wkalmar)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Bohdan Stupak(@Wkalmar)
+    </h3>
+  </a>
+    
+      <a href="https://blog.ndepend.com/improve-c-code-performance-with-spant/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+       Visit the full article: Improve C# code performance with Span&lt;T&gt; | Posts  · 24/3/2025  · 9 minutes 
+    </a>
+</div>
+<div id="Friedrich_von_Never">
+<a
+    href="https://github.com/ForNeVeR"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Friedrich von Never(@ForNeVeR)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Friedrich von Never(@ForNeVeR)
+    </h3>
+  </a>
+  <section className="section-gap-AnthonyShaw">
+      <p>
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) 
+        followed Friedrich von Never (<a href="https://github.com/ForNeVeR">https://github.com/ForNeVeR</a>) on 21/2/25.
+    </p>
+  </section>
+
+<section className="section-gap-AnthonyShaw">
+        <a href="https://fornever.me/en/posts/2023-10-21.code-vectorization.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: Code Vectorization in .NET and Other Technologies | Posts · 32/10/2023 · 5 minutes 
+    </a>
+    <p></p>
+      <a href="https://fornever.me/en/posts/2021-02-12.constrained-diff-algorithm.html" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Visit the full article: A variant of a diff algorithm for constrained conditions | Posts · 12/2/2021 · 5 minutes 
+    </a>
+    <h1>Further reading</h1>
+    <ul>
+<li><a href="https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/">part 1</a></li>
+<li><a href="https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2/">part 2</a></li>
+<li><a href="https://blog.jcoglan.com/2017/02/17/the-myers-diff-algorithm-part-3/">part 3</a></li>
+</ul>
+</section>
+</div>
+<div id="Will_DePue_@0hq">
+<a
+    href="https://github.com/0hq"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Will DePue(@0hq)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Will DePue(@0hq)
+    </h3>
+  </a>
+  <section className="section-gap-AnthonyShaw">
+       <a href="https://zeenews.india.com/photos/business/meet-girl-who-mastered-coding-at-11-built-rs-1000000000-crore-startup-at-just-16-she-is-2916239" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full news article: Meet Girl Who Mastered Coding At 11, Built Rs 1,00,00,00,000 Crore Startup At Just 16— She Is… | News Article  · 15/6/2025  · AI · 5 minutes
+    </a>
+    <Pranjali_Awasthi_raidingAI_Twitter_Following />
+    <p></p>
+      <a href="https://github.com/0hq/tinyvector" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full news article: A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!) | GitHub Repository  · 12/6/2023  · the tiny, least-dumb, speedy vector embedding database · 5 minutes
+    </a>
+    <p></p>
+         <a href="https://www.pinecone.io/learn/vector-search-filtering/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full news article: The Missing WHERE Clause in Vector Search  | Posts · 30/6/2023  · the tiny, least-dumb, speedy vector embedding database · 5 minutes
+    </a>
+  </section>
+
+</div>
+<div id="AdamSitnik">
+<a
+    href="https://github.com/adamsitnik"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Adam Sitnik(@adamsitnik)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Adam Sitnik(@adamsitnik)
+    </h3>
+  </a>
+  <div>Open Source contributor, #BenchmarkDotNet maintainer. My job on .NET Team is to make the .NET the fastest developer platform on the planet.</div>
+   <a href="https://adamsitnik.com/Span/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Span  | Posts · 13/7/2017  · Span&lt;T&gt;  · 5 minutes
+    </a>
+</div>
+<div id="AshVardanian">
+<a
+    href="https://github.com/ashvardanian"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ash Vardanian(@ashvardanian)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ash Vardanian(@ashvardanian)
+    </h3>
+  </a>
+  <section className="section-gap-AnthonyShaw">
+          <p>
+    Matt DesLauriers (<a href="https://github.com/mattdesl">https://github.com/mattdesl</a>) starred a repository on 17/6/25
+      <br />
+      <a href="https://github.com/mattdesl/canvas-dimensions">https://github.com/mattdesl/canvas-dimensions</a> (JavaScript ) 32 STARS
+    
+    </p>
+    <a href="https://github.com/unum-cloud/uform/issues/107" 
+              target="_blank" 
+              rel="noopener noreferrer">
+              Created an issue in <a href="https://github.com/unum-cloud/uform">unum-cloud/uform</a> 
+            </a> that received 2 comments on 9/6/25
+  </section>
+
+</div>
+<div id="JimmyLefevre">
+<a
+    href="https://github.com/JimmyLefevre"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Jimmy Lefevre(@JimmyLefevre)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+       Jimmy Lefevre(@JimmyLefevre)
+    </h3>
+  </a>
+  <a
+    href="https://www.linkedin.com/in/jimmy-lefevre/"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+     <h3 style={{ margin: 0 }}>
+       Jimmy Lefevre - LinkedIn
+    </h3>
+  </a>
+  
+    <p className="passion-text-jimmy-lefevre">
+        Passionate about technology, I am particularly committed to training myself and understanding new development best practices. 
+        From web to software, including mobile applications and IoT, I put my skills to the service of innovation, 
+        but also of transmission by giving courses at CESI in Dijon, Lille, and Nancy, and by sharing my knowledge with my colleagues whenever possible.
+      </p>
+    <section className="section-gap-AnthonyShaw">
+     <p>
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 20/6/25
+          <br />
+          <a href="https://github.com/JimmyLefevre/kb">JimmyLefevre/kb </a> (C) 275 STARS
+
+     </p>
+       <JimmyLefevre_kb_GitHubRepository />
+        <WhyThisRepo /> 
+        <div className="markdown-heading" dir="auto"><h2 
+        // tabindex="-1" 
+        className="heading-element" dir="auto">kb_text_shape.h</h2>
+        {/* <a id="user-content-kb_text_shapeh" class="anchor" aria-label="Permalink: kb_text_shape.h" href="#kb_text_shapeh"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+      */}
+        </div> 
+        <p dir="auto">
+          <a href="https://github.com/JimmyLefevre/kb/blob/main/kb_text_shape.h">kb_text_shape.h</a> provides ICU-like text segmentation (i.e. breaking Unicode text by direction, line, word and grapheme). It also provides Harfbuzz-like text shaping for OpenType fonts, which means it is capable of handling complex script layout and ligatures, among other things.</p>
+  </section>
+
+</div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
     href="https://github.com/Scooletz"
@@ -13001,7 +13569,51 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
     </a>
   </section>
   </li>
-
+<li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+    href="#BohdanStupak"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Bohdan Stupak(@Wkalmar)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Bohdan Stupak(@Wkalmar)
+    </h3>
+  </a>
+    
+ <a href="https://blog.ndepend.com/improve-c-code-performance-with-spant/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+       Visit the full article: Improve C# code performance with Span&lt;T&gt; | Posts  · 24/3/2025  · 9 minutes 
+    </a>
+  </section>
+  </li>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#AdamSitnik"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Adam Sitnik(@adamsitnik)
+      </span>
+    </h1>
+  </a>
+  <div>Open Source contributor, #BenchmarkDotNet maintainer. My job on .NET Team is to make the .NET the fastest developer platform on the planet.</div>
+   <a href="https://adamsitnik.com/Span/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Span  | Posts · 13/7/2017  · Span&lt;T&gt;  · 5 minutes
+    </a>
+  </section>
+    </li>
 </div>
 <div id="DB">
 <a
@@ -13418,6 +14030,31 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
     </a>
 </section>
 </li>
+
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#Will_DePue_@0hq"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Will DePue(@0hq)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Will DePue(@0hq)
+    </h3>
+  </a>
+    <a href="https://www.pinecone.io/learn/vector-search-filtering/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full news article: The Missing WHERE Clause in Vector Search  | Posts · 30/6/2023  · the tiny, least-dumb, speedy vector embedding database · 5 minutes
+    </a>
+</section>
+</li>
+
  
 </div>
 

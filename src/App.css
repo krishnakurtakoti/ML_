@@ -1006,6 +1006,19 @@ section {
 .section-gap-AlexandreMutel * {
   margin: 0 !important;
 }
+.section-gap-AnthonyShaw{
+  margin-bottom: 48px; /* Adjust the value for more or less space */
+}
+.section-gap-AnthonyShaw * {
+  margin: 0 !important;
+}
+.section-gap-trstringer{
+  margin-bottom: 48px; /* Adjust the value for more or less space */
+}
+.section-gap-trstringer * {
+  margin: 0 !important;
+}
+
 .section-gap-GuillaumeGuy * {
   margin: 0 !important;
 }
@@ -1046,4 +1059,16 @@ section {
   list-style: none;   /* ✅ Removes the bullet/dot */
   margin: 0;          /* ✅ Removes any default margin */
   padding: 0;         /* ✅ Optional: removes default padding */
+}
+  .passion-container-jimmy-lefevre {
+  padding: 20px; /* Add some padding */
+  background-color: #f9f9f9; /* Light background color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.passion-text-jimmy-lefevre {
+  font-size: 16px; /* Base font size */
+  line-height: 1.6; /* Space between lines */
+  color: #333; /* Text color */
 }
