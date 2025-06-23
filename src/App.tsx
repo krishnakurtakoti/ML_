@@ -89,6 +89,7 @@ import Edzer_Pebesma_VCardDetails from './Edzer_Pebesma_VCardDetails';
 import Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30 from './Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30';
 import Pranjali_Awasthi_raidingAI_Twitter_Following from './Max_Liani_Twitter_Following copy';
 import JimmyLefevre_kb_GitHubRepository from './Cédric_Luthi_0xced_Chisel_GitHubRepository copy';
+import ShayRojanskyAccordion from './ShayRojanskyAccordion';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -1947,6 +1948,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
        Jimmy Lefevre(@JimmyLefevre)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#ShayRojanskyAccordion"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Shay Rojansky(@roji)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Shay Rojansky(@roji)
     </h3>
   </a>
 </li>
@@ -13430,6 +13447,23 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
           <a href="https://github.com/JimmyLefevre/kb/blob/main/kb_text_shape.h">kb_text_shape.h</a> provides ICU-like text segmentation (i.e. breaking Unicode text by direction, line, word and grapheme). It also provides Harfbuzz-like text shaping for OpenType fonts, which means it is capable of handling complex script layout and ligatures, among other things.</p>
   </section>
 
+</div>
+<div id="ShayRojanskyAccordion">
+<a
+    href="https://github.com/roji/"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Shay Rojansky(@roji)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Shay Rojansky(@roji)
+    </h3>
+  </a>
+  <ShayRojanskyAccordion />
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
