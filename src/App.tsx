@@ -1967,6 +1967,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+<li>
+<a
+    href="#TaniaAllard"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Tania Allard(@trallard)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Tania Allard(@trallard)
+    </h3>
+  </a>
+</li>
 {/* <li>
 <a
     href="#Marlene"
@@ -13463,7 +13479,108 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       Shay Rojansky(@roji)
     </h3>
   </a>
-  <ShayRojanskyAccordion />
+       <section className="section-gap-AlexandreMutel">
+      <p>
+              Wes Doyle(@wesdoyle) (<a href="https://github.com/wesdoyle">https://github.com/wesdoyle</a>) followed a GitHub user on 4/1/24
+                <br />
+                <a href="https://github.com/roji/">roji </a>
+
+              </p>
+      </section>
+      <section className="section-gap-AnthonyShaw">
+          <ShayRojanskyAccordion />
+      </section>
+
+</div>
+<div id="TaniaAllard">
+<a
+    href="https://github.com/trallard"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Tania Allard(@trallard)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Tania Allard(@trallard)
+    </h3>
+  </a>
+   <section className="section-gap-AlexandreMutel">
+      <p>
+              Anshuman Mishra(@kanpuriyanawab) (<a href="https://github.com/kanpuriyanawab?tab=following">https://github.com/kanpuriyanawab?tab=following</a>) follows a GitHub user 
+                <br />
+                <a href="https://github.com/trallard">Tania Allard(@trallard) </a>
+
+              </p>
+      </section>
+      <section className="section-gap-AnthonyShaw">
+            <a href="https://github.com/trallard/TLJH-azure-button" 
+          target="_blank" 
+          rel="noopener noreferrer">
+          Visit the featured project: The Littlest JupyterHub deploy button · Deploy a vanilla JupyterHub on Azure · Now supports custom configurations and plugins | JupyterHub, Azure, ARM templates
+        </a>
+      </section>
+</div>
+<div id="Ben_chmark_Adams">
+<a
+    href="https://github.com/benaadams"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ben (chmark) Adams(@benaadams)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ben (chmark) Adams(@benaadams)
+    </h3>
+  </a>
+    <section className="section-gap-AlexandreMutel">
+      <p>
+              Yoshifumi Kawai(@neuecc) (<a href="https://github.com/neuecc?tab=following">https://github.com/neuecc?tab=following</a>) follows a GitHub user 
+                <br />
+                <a href="hhttps://github.com/benaadams">Ben (chmark) Adams(@benaadams) </a>
+
+              </p>
+      </section>
+  <section className="section-gap-AnthonyShaw">
+      <p>
+        <a href="https://x.com/ben_a_adams" target="_blank" rel="noopener noreferrer">Ben &#34;chmark&#34; Adams ⟠ (@ben_a_adams)</a> reposted 
+        <a href="https://x.com/shayrojansky/status/1935768679167189044" target="_blank" rel="noopener noreferrer">Shay Rojansky (@shayrojansky)</a> · June 20, 2025 · Reposted after 12/6/25
+      </p>
+      <p>       
+      </p>
+          <a href="https://x.com/shayrojansky/status/1935768679167189044" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post: Just gave a talk about the new .NET abstraction for vector databases — Microsoft.Extensions.VectorData · Originally posted June 20, 2025 · Reposted by @ben_a_adams between May 26, 2025 and Jun 2, 2025 · .NET, Vector DBs, Data Abstractions
+          </a>
+  </section>
+    <section className="section-gap-AnthonyShaw">
+       <p>
+        <a href="https://x.com/ben_a_adams" target="_blank" rel="noopener noreferrer">Ben &#34;chmark&#34; Adams ⟠ (@ben_a_adams)</a> reposted 
+        <a href="https://x.com/James_M_South/status/1928467284214816890" target="_blank" rel="noopener noreferrer">JimBobSquarePants (@James_M_South)</a> · May 30, 2025 · Reposted between 26/5/25 and 2/6/25
+      </p>
+      <p></p>
+        <a href="https://x.com/James_M_South/status/1928467284214816890" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post: The ImageSharp codebase is rapidly becoming an excellent reference source for people wanting to utilize cross platform #dotnet intrinsics as I work on improving the performance on mobile. · Originally posted May 30, 2025 · Reposted by @ben_a_adams between May 26, 2025 and Jun 2, 2025 · .NET, #dotnet intrinsics, #oss
+          </a>
+          <p></p>
+  <a href="https://mastodon.social/@james_jackson_south/109738725146504380" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post: ImageSharp has over 43.5 million Nuget downloads and only 37 open issues in the issue tracker (soon to be 36).
+
+I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 23, 2023  · .NET, #dotnet intrinsics, #oss
+          </a>
+          
+    </section>
+    
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
