@@ -13556,7 +13556,7 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
           <a href="https://x.com/shayrojansky/status/1935768679167189044" 
             target="_blank" 
             rel="noopener noreferrer">
-            View the post: Just gave a talk about the new .NET abstraction for vector databases — Microsoft.Extensions.VectorData · Originally posted June 20, 2025 · Reposted by @ben_a_adams between May 26, 2025 and Jun 2, 2025 · .NET, Vector DBs, Data Abstractions
+            View the post: Just gave a talk about the new .NET abstraction for vector databases — Microsoft.Extensions.VectorData · Originally posted June 20, 2025 · Reposted by @ben_a_adams after  Jun 12, 2025 · .NET, Vector DBs, Data Abstractions
           </a>
   </section>
     <section className="section-gap-AnthonyShaw">
@@ -13581,6 +13581,36 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
           
     </section>
     
+</div>
+<div id="EllieHuxtable">
+<a
+    href="https://github.com/ellie"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      EllieHuxtable(@ellie)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      EllieHuxtable(@ellie)
+    </h3>
+  </a>
+        <section className="section-gap-AnthonyShaw">
+           <a href="https://ellie.wtf/notes/postgres-hba-tailscale" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Postgres HBA with a Tailscale network  | Posts  · 3/11/2023  · Databases, #postgresql, #tailscale · 1 minute
+    </a>
+    <p></p>
+        <a href="https://www.reddit.com/r/selfhosted/comments/18491e9/tailscale_the_marvellous_tool_that_became/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full Reddit Discussion: Tailscale: the marvellous tool that became indispensable to my tech life  | Discussion  · 26/11/2023  · Databases, #postgresql, #tailscale · 4 minutes
+    </a>
+    
+      </section>
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
@@ -14205,6 +14235,30 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </a>
 </section>
 </li>
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+        <a
+    href="#EllieHuxtable"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      EllieHuxtable(@ellie)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      EllieHuxtable(@ellie)
+    </h3>
+  </a>
+             <a href="https://ellie.wtf/notes/postgres-hba-tailscale" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Postgres HBA with a Tailscale network  | Posts  · 3/11/2023  · Databases, #postgresql, #tailscale · 1 minute
+    </a>
+</section>
+</li>
+
 
  
 </div>
