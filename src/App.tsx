@@ -1983,6 +1983,54 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+<li>
+<a
+    href="#Ben_chmark_Adams"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ben (chmark) Adams(@benaadams)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ben (chmark) Adams(@benaadams)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#ReynoldXin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Reynold Xin(@rxin)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Reynold Xin(@rxin)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#DavidOrtinau"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      David Ortinau(@davidortinau)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      David Ortinau(@davidortinau)
+    </h3>
+  </a>
+</li>
 {/* <li>
 <a
     href="#Marlene"
@@ -13598,6 +13646,12 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </h3>
   </a>
         <section className="section-gap-AnthonyShaw">
+                  <a href="https://ellie.wtf/notes/debugging-slow-postgres-queries" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Debugging slow PostgreSQL queries  | Posts  · 24/5/2024  · Databases, #postgresql · 1 minute
+    </a>
+    <p></p>
            <a href="https://ellie.wtf/notes/postgres-hba-tailscale" 
       target="_blank" 
       rel="noopener noreferrer">
@@ -13611,6 +13665,70 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </a>
     
       </section>
+</div>
+<div id="ReynoldXin">
+<a
+    href="https://github.com/rxin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Reynold Xin(@rxin)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Reynold Xin(@rxin)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+     <p>
+        <a href="https://x.com/jerrinot" target="_blank" rel="noopener noreferrer">Jaromir Hamala (@jerrinot)</a> posted 
+        <a href="https://x.com/jerrinot/status/1202129732483108864" target="_blank" rel="noopener noreferrer">Jaromir Hamala (@jerrinot)</a> · Dec 20, 2019 
+      </p>
+      <p>       
+      </p>
+          <a href="https://x.com/jerrinot/status/1202129732483108864" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post: My new blogpost was just released. If you have ever wondered how are System.currentTimeMillis() or System.nanoTime() implemented and what's the price of single timestamp then read the post! ·  Posted Dec 20, 2019 
+          </a>
+          <p></p>
+          <h3>
+    <a href="https://github.com/jerrinot?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Jaromir Hamala(jerrinot) on GitHub
+    </a>
+  </h3>
+   </section>
+</div>
+<div id="DavidOrtinau">
+<a
+    href="https://github.com/davidortinau"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      David Ortinau(@davidortinau)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      David Ortinau(@davidortinau)
+    </h3>
+  </a>
+  <section className="section-gap-AnthonyShaw">
+      <h3>
+                  <a href="https://github.com/jonathanpeppers?tab=following" target="_blank" rel="noopener noreferrer">
+              Followings of	Jonathan Peppers(jonathanpeppers) on GitHub
+            </a>
+      </h3>
+    <p></p>
+      <a href="https://dev.to/davidortinau/boosting-github-copilot-accuracy-3ja" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post:Boosting GitHub Copilot Accuracy ·  Posted Mar 10, 2025  · #dotnetmaui, #githubcopilot, #vscode
+          </a>
+  </section>
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
