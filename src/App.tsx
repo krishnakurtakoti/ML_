@@ -90,6 +90,7 @@ import Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_
 import Pranjali_Awasthi_raidingAI_Twitter_Following from './Max_Liani_Twitter_Following copy';
 import JimmyLefevre_kb_GitHubRepository from './Cédric_Luthi_0xced_Chisel_GitHubRepository copy';
 import ShayRojanskyAccordion from './ShayRojanskyAccordion';
+import Eric_Berg_MVP_TwitterProfile from './Eric_Berg_MVP_TwitterProfile';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -1071,6 +1072,54 @@ Veggie 🌿, opinions are my own.</div></h3>
     </p>
   </h3>
 </a>
+</li>
+<li>
+<a
+    href="#WebAssembly"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  WebAssembly
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        WebAssembly
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#JeffHollan"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jeff Hollan(@jeffhollan)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jeff Hollan(@jeffhollan)
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#Eric_Berg_MVP"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Eric Berg - MVP(@ericberg_de)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Eric Berg - MVP(@ericberg_de)
+    </h3>
+  </a>
 </li>
 <li>
   
@@ -8090,6 +8139,13 @@ Veggie 🌿, opinions are my own.</div>
 
       </ul>
 
+      <section className="section-gap-AlexandreMutel">
+             <p>
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 1/7/25
+          <br />
+          <a href="https://github.com/sailro/AzdTool">sailro/AzdTool </a> (C#) 1 STARS
+          </p>
+      </section>
 
       <section className="section-gap-AlexandreMutel">
              <p>
@@ -13293,7 +13349,9 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       David Pine(@IEvangelist)
     </h3>
   </a>
- 
+ <section className="section-gap-AnthonyShaw">
+<p dir="auto">I work in Developer Relations at Microsoft, specializing in <a href="https://docs.microsoft.com/dotnet" rel="nofollow">.NET</a> and <a href="https://docs.microsoft.com/azure" rel="nofollow">Azure</a> developer content. I'm also a <a href="https://developers.google.com/community/experts/directory/profile/profile-david-pine" rel="nofollow">Google Developer Expert</a> in Web Technologies, Twilio Champion, and author of <a href="https://bit.ly/learning-blazor" rel="nofollow">"Learning Blazor: Build Single-Page Apps with WebAssembly and C#"</a>. I co-host the <a href="https://dotnet.microsoft.com/live/on-dotnet-live" rel="nofollow">On .NET Live</a> stream and can be followed on Twitter at <a href="https://twitter.com/davidpine7" rel="nofollow">@davidpine7</a> and on Mastodon at <a href="https://dotnet.social/@davidpine" rel="nofollow">@davidpine</a>.</p>
+ </section>
 
   <section className="section-gap-AnthonyShaw">
     <p>
@@ -13308,6 +13366,14 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
                     </a>
                   </h3>
   </section>
+  <section className="section-gap-AnthonyShaw">
+         <a href="https://davidpine.net/blog/learning-blazor/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Learning Blazor | Build Single-Page Apps with WebAssembly and C# | Posts  · __/09/2022  · .Net Programming, Blazor, WebAssembly, C# · 6 minutes
+              </a>
+  </section>
+  
 </div>
 <div id="BohdanStupak">
 <a
@@ -13730,6 +13796,133 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
           </a>
   </section>
 </div>
+<div id="LaurentKempé">
+  <a
+    href="https://github.com/laurentkempe"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Laurent Kempé(@laurentkempe)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Laurent Kempé(@laurentkempe)
+    </h3>
+  </a>
+        <section className="section-gap-AlexandreMutel">
+             <p>
+        Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>) starred a repository on 1/7/25
+          <br />
+          <a href="https://github.com/sailro/AzdTool">sailro/AzdTool </a> (C#) 1 STARS
+          </p>
+            <h3>
+    <a href="https://github.com/sailro?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Sebastien Lebreton(sailro) on GitHub
+    </a>
+    </h3>
+      </section>
+       <section className="section-gap-AnthonyShaw">
+                    <a href="https://laurentkempe.com/tags/Dapr/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Posts tagged with "Dapr" | Posts 
+    </a><p>
+    </p>
+                      <a href="https://laurentkempe.com/2023/02/27/debugging-dapr-applications-with-rider-or-visual-studio-a-better-way/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Debugging Dapr applications with Rider or Visual Studio: A better way | Posts  · 27/2/2023  · .Net Programming, Dapr, Rider, Visual Studio · 10 minutes
+    </a>
+       </section>
+
+</div>
+<div id="JeffHollan">
+  <a
+    href="https://github.com/jeffhollan"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jeff Hollan(@jeffhollan)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jeff Hollan(@jeffhollan)
+    </h3>
+  </a>
+       <section className="section-gap-AnthonyShaw">
+                <a href="https://medium.com/hackernoon/azure-functions-choosing-between-queues-and-event-hubs-dac4157eee1c" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on  <strong>Medium</strong>: Azure Functions: Choosing between queues and event hubs | Performance and throughput considerations | Posts  · 5/11/2018  · .Net Programming, Serverless, Azure, Azure Functions, Messaging · 8 minutes
+              </a>
+     </section>
+</div>
+<div id="Eric_Berg_MVP">
+  <a
+    href="https://x.com/ericberg_de"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Eric Berg - MVP(@ericberg_de)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Eric Berg - MVP(@ericberg_de)
+    </h3>
+  </a>
+  <Eric_Berg_MVP_TwitterProfile />
+  <section className="section-gap-AnthonyShaw">
+  <WhyThisRepo />
+  <h2 className="widget-title"><span></span>Blogroll</h2>
+  <ul className="xoxo blogroll">
+<li><a href="http://www.aidanfinn.com" title="A Hyper-V blog, but you’ll also find Windows Server, desktop, systems management, deployment, and so on …">Aidan Finn</a></li>
+<li><a href="http://it-pirate.com/" title="Alexander Benoit" target="_blank">Alexander Benoit</a></li>
+<li><a href="https://andikrueger.wordpress.com/" rel="contact met colleague" title="SharePoint and Office 365" target="_blank">Andi Krüger</a></li>
+<li><a href="http://www.danielstechblog.de/" rel="contact met colleague" title="Daniel’s Tech Blog" target="_blank">Daniel Neumann</a></li>
+<li><a href="https://blog.workinghardinit.work/" rel="contact met colleague" title="Working Hard in IT" target="_blank">Didier Van Hoye</a></li>
+<li><a href="https://www.reimling.eu" rel="friend met" target="_blank">Gregor Reimling</a></li>
+<li><a href="https://mountainss.wordpress.com/" rel="contact met colleague" title="System Center Cloud and DataCenter Management" target="_blank">James van den Berg</a></li>
+<li><a href="https://www.zueschen.eu/" rel="contact met colleague" title="MVP – File System Storage" target="_blank">Jan Kappen</a></li>
+<li><a href="https://www.mannoni.ch/" target="_blank">Marco Mannoni</a></li>
+<li><a href="https://rlevchenko.com/" title="Roman Levchenko – MVP" target="_blank">Roman Levchenko</a></li>
+<li><a href="http://stefanroth.net" title="stefanroth.net – Things about System Center and Cloud…" target="_blank">Stefan Roth</a></li>
+<li><a href="http://blog.tyang.org/" rel="contact met colleague" title="Tao Yang’s System Center Blog" target="_blank">Tao Yang</a></li>
+<li><a href="http://www.thomasmaurer.ch/" rel="contact met colleague" title="Cloud and Virtualization" target="_blank">Thomas Maurer</a></li>
+<li><a href="https://www.cloud-architekt.net" rel="friend" target="_blank">Thomas Naunheim</a></li>
+
+	</ul>
+  </section>
+  
+</div>
+<div id="KyleBarron">
+  <a
+    href="https://github.com/kylebarron"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kyle Barron(@kylebarron)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Kyle Barron(@kylebarron)
+    </h3>
+  </a>
+         <section className="section-gap-AnthonyShaw">
+                <a href="https://kylebarron.dev/blog/zero-copy-apache-arrow-with-webassembly/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Zero-copy Apache Arrow with WebAssembly | Posts  · 22/08/2022 Edits 9/07/2023 · .Javascript, WebAssembly, Apache Arrow C Data Interface · 8 minutes
+              </a>
+     </section>
+</div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
     href="https://github.com/Scooletz"
@@ -13795,12 +13988,100 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
   <a href="https://medium.com/c-sharp-programming/building-distributed-apps-using-dapr-locally-and-on-azure-65316a2f259" 
       target="_blank" 
       rel="noopener noreferrer">
-      Visit the full article: Building distributed apps using Dapr, locally and on Azure | Posts  · 17/3/2021  · .Net Programming, Microservices · 10 minutes
+      Visit the full article on <strong>Medium</strong>: Building distributed apps using Dapr, locally and on Azure | Posts  · 17/3/2021  · .Net Programming, Microservices · 10 minutes
     </a>
   </section>
   </li>
-</div>
 
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+            <a
+    href="#LaurentKempé"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Laurent Kempé(@laurentkempe)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Laurent Kempé(@laurentkempe)
+    </h3>
+  </a>
+                   <a href="https://laurentkempe.com/tags/Dapr/" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full article: Posts tagged with "Dapr" | Posts 
+    </a>
+  </section>
+  </li>
+
+</div>
+<div id="WebAssembly">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  WebAssembly
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        WebAssembly
+    </h3>
+  </a>
+    <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#KyleBarron"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kyle Barron(@kylebarron)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Kyle Barron(@kylebarron)
+    </h3>
+  </a>
+    <a href="https://kylebarron.dev/blog/zero-copy-apache-arrow-with-webassembly/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Zero-copy Apache Arrow with WebAssembly | Posts  · 22/08/2022 Edits 9/07/2023 · .Javascript, WebAssembly, Apache Arrow C Data Interface · 8 minutes
+              </a>
+  </section>
+  </li>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a
+        href="#DavidPine"
+        className="vcard-names1"
+        style={{ textDecoration: 'underline' }}
+      >
+        <h1 style={{ margin: 0 }}>
+          <span className="p-name vcard-fullname d-block overflow-hidden">
+          David Pine(@IEvangelist)
+          </span>
+        </h1>
+        <h3 style={{ margin: 0 }}>
+          David Pine(@IEvangelist)
+        </h3>
+      </a>
+       <a href="https://davidpine.net/blog/learning-blazor/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Learning Blazor | Build Single-Page Apps with WebAssembly and C# | Posts  · __/09/2022  · .Net Programming, Blazor, WebAssembly, C# · 6 minutes
+              </a>
+  </section>
+  </li>
+
+
+</div>
 <div id="Span_T_andPipelines">
 <a
     href=""
@@ -14376,7 +14657,24 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </a>
 </section>
 </li>
-
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#ReynoldXin"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Reynold Xin(@rxin)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Reynold Xin(@rxin)
+    </h3>
+  </a>
+</section>
+</li>
 
  
 </div>
