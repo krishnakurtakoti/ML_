@@ -91,6 +91,7 @@ import Pranjali_Awasthi_raidingAI_Twitter_Following from './Max_Liani_Twitter_Fo
 import JimmyLefevre_kb_GitHubRepository from './Cédric_Luthi_0xced_Chisel_GitHubRepository copy';
 import ShayRojanskyAccordion from './ShayRojanskyAccordion';
 import Eric_Berg_MVP_TwitterProfile from './Eric_Berg_MVP_TwitterProfile';
+import GorsairComponent from './GorsairComponent';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -2077,6 +2078,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       David Ortinau(@davidortinau)
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#BrendanLeGlaunec"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Brendan Le Glaunec(@Ullaakut)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Brendan Le Glaunec(@Ullaakut)
     </h3>
   </a>
 </li>
@@ -11568,6 +11585,10 @@ Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>
 <p>https://github.com/JackHopkins/factorio-learning-environment</p>
 
 <WhyThisRepo />
+<a href="https://github.com/JackHopkins/factorio-learning-environment/commit/47e5d1ab3234ba462544f419b9b205f1d686a922">
+  https://github.com/JackHopkins/factorio-learning-environment/commit/47e5d1ab3234ba462544f419b9b205f1d686a922
+</a>
+
 </div>
 
 <div id="ml_linear_regression">
@@ -12501,6 +12522,7 @@ Realcat Vincentqyw(<a href="https://github.com/Vincentqyw">https://github.com/Vi
     Conrad Ludgate.
     </h3>
   </a>
+  <section className="section-gap-AnthonyShaw">
   <a href="https://conradludgate.com/posts/cnpg" 
      target="_blank" 
      rel="noopener noreferrer">
@@ -12513,10 +12535,12 @@ Since I have a new cluster now, I thought I should try something new. I recently
 It got high praise from the replies, which is quite remarkable for HN.</p>
 <p>It seems to have all the features I would want from a 'managed' postgres:</p>
 <ul className="conrad-ludgate">
-<li>Managed backups</li>
-<li>Easily create a new database</li>
-<li>Manage secrets</li>
+  <li>Managed backups</li>
+  <li>Easily create a new database</li>
+  <li>Manage secrets</li>
 </ul>
+  </section>
+
 </div>
 <div id="SQLJoin">
 <a
@@ -13915,6 +13939,11 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
       Kyle Barron(@kylebarron)
     </h3>
   </a>
+    <h3>
+    <a href="https://github.com/jashanbhullar?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	json singh(jashanbhullar) on GitHub
+    </a>
+  </h3>
          <section className="section-gap-AnthonyShaw">
                 <a href="https://kylebarron.dev/blog/zero-copy-apache-arrow-with-webassembly/" 
                 target="_blank" 
@@ -13922,6 +13951,27 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
                 Visit the full article: Zero-copy Apache Arrow with WebAssembly | Posts  · 22/08/2022 Edits 9/07/2023 · .Javascript, WebAssembly, Apache Arrow C Data Interface · 8 minutes
               </a>
      </section>
+</div>
+<div id="BrendanLeGlaunec">
+  <a
+    href="https://github.com/Ullaakut"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Brendan Le Glaunec(@Ullaakut)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Brendan Le Glaunec(@Ullaakut)
+    </h3>
+  </a>
+  <a rel="nofollow me" className="Link--primary wb-break-all" href="https://ullaakut.github.io">https://ullaakut.github.io</a>
+<section className="section-gap-AnthonyShaw">
+          <GorsairComponent />
+</section>
+
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
@@ -14082,6 +14132,7 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
 
 
 </div>
+
 <div id="Span_T_andPipelines">
 <a
     href=""

@@ -1,0 +1,22 @@
+.Ullaakut-Gorsair-bg-white {
+  background-color: rgb(31, 38, 45) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.Ullaakut-Gorsair-d-flex {
+  display: flex !important;
+}
+
+.Ullaakut-Gorsair-mb-1 {
+  margin-bottom: 4px !important;
+}
+
+.Ullaakut-Gorsair-flex-justify-between {
+  justify-content: space-between !important;
+}
+
+.Ullaakut-Gorsair-flex-items-start {
+  align-items: flex-start !important;
+}
+
+/* Add more classes as needed */
