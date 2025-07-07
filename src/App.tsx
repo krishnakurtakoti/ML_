@@ -1091,6 +1091,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+<a
+    href="#ApplicationSecurity"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Application Security
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Application Security
+    </h3>
+  </a>
+</li>
+<li>
   <a
     href="#JeffHollan"
     className="vcard-names1"
@@ -1886,6 +1902,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Anthony Shaw(@tonybaloney)
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#PamelaFox"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Pamela Fox(@pamelafox)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Pamela Fox(@pamelafox)
     </h3>
   </a>
 </li>
@@ -13968,9 +14000,49 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </h3>
   </a>
   <a rel="nofollow me" className="Link--primary wb-break-all" href="https://ullaakut.github.io">https://ullaakut.github.io</a>
-<section className="section-gap-AnthonyShaw">
-          <GorsairComponent />
-</section>
+          <section className="section-gap-AnthonyShaw">
+                    <h3>
+            <a href="https://github.com/gurr-i?tab=following" target="_blank" rel="noopener noreferrer">
+              Followings of	Gurveer(gurr-i) on GitHub
+            </a>
+          </h3>
+          </section>
+          <div id="BrendanLeGlaunec_Ullaakut_Gorsair">
+                <section className="section-gap-AnthonyShaw">
+              <GorsairComponent />
+                </section>
+          </div>
+
+</div>
+<div id="PamelaFox">
+  <a
+    href="https://github.com/pamelafox"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Pamela Fox(@pamelafox)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Pamela Fox(@pamelafox)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+                    <h3>
+            <a href="https://github.com/winglian?tab=following" target="_blank" rel="noopener noreferrer">
+              Followings of	Wing Lian(winglian) on GitHub
+            </a>
+          </h3>
+          </section>
+           <section className="section-gap-AnthonyShaw">
+           <a href="https://blog.pamelafox.org/2024/06/rag-on-database-table-with-postgresql.html" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on <strong>Blogger</strong>: RAG on a database table with PostgreSQL | Posts  · 10/6/2024  · azure, openai, python · 10 minutes
+              </a>
+           </section>
 
 </div>
 <div id="Span_T_andPipelines_Scooletz">
@@ -14067,6 +14139,44 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
   </section>
   </li>
 
+</div>
+<div id="ApplicationSecurity">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Application Security
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Application Security
+    </h3>
+  </a>
+     <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+      <a
+          href="#BrendanLeGlaunec_Ullaakut_Gorsair"
+          className="vcard-names1"
+          style={{ textDecoration: 'underline' }}
+        >
+          <h1 style={{ margin: 0 }}>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Brendan Le Glaunec(@Ullaakut)
+            </span>
+          </h1>
+          <h3 style={{ margin: 0 }}>
+            Brendan Le Glaunec(@Ullaakut)
+          </h3>
+        </a>
+
+        <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+          <a href="https://github.com/Ullaakut/Gorsair">Visit the GitHub Repository: Gorsair gives root access on remote docker containers that expose their APIs  </a>  
+        </div>
+  </section>
+  </li>
 </div>
 <div id="WebAssembly">
 <a
