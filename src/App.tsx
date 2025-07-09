@@ -888,6 +888,22 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
 <li>
+<a
+    href="#Serilog"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Serilog
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Serilog
+    </h3>
+  </a>
+</li>
+<li>
   <a
     href="#PhilippWagner"
     className="vcard-names1"
@@ -1087,6 +1103,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
         WebAssembly
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#DotNetRuntime"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  DotNet Runtime
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        DotNet Runtime
     </h3>
   </a>
 </li>
@@ -10598,7 +10630,7 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
     </h3>
   </a>
 
-  <div>
+  <div id="AndrewLock_.NETEscapades_Elasticsearch_Fluentd_Serilog_ASP_DOTNET_Core">
     <h3>Writing Logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core</h3>
     <h5>https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/</h5>
     <p>Category: <strong>ASP.NET Core, DevOps, Logging, Docker</strong></p>
@@ -14042,8 +14074,69 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
                 rel="noopener noreferrer">
                 Visit the full article on <strong>Blogger</strong>: RAG on a database table with PostgreSQL | Posts  · 10/6/2024  · azure, openai, python · 10 minutes
               </a>
+              <p></p>
+                  <a href="https://blog.pamelafox.org/2023/05/postgresql-bicep.html" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on <strong>Blogger</strong>: Deploying PostgreSQL servers with Bicep | Posts  · 8/5/2023  · Azure, Bicep, PostgreSQL servers · 10 minutes
+              </a>
            </section>
 
+</div>
+<div id="JerriePelser">
+  <a
+    href="https://github.com/jerriep"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jerrie Pelser(@jerriep)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jerrie Pelser(@jerriep)
+    </h3>
+  </a>
+        <h3>
+                  <a href="https://github.com/elanderson?tab=following" target="_blank" rel="noopener noreferrer">
+              Followings of	Eric Anderson(elanderson) on GitHub
+            </a>
+      </h3>
+      <div id="JerriePelser_ASP_NET_Core_and_Serilog"> 
+       <section className="section-gap-AnthonyShaw">
+              <a href="https://www.jerriepelser.com/posts/implement-user-facing-log-files/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Implement user-facing logs with ASP.NET Core and Serilog | Posts  · 25/2/2025  ·   asp.net core, serilog · 9 minutes
+              </a>
+       </section>
+      </div>
+</div>
+<div id="MichalStrehovský">
+  <a
+    href="https://github.com/michalstrehovsky"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Michal Strehovský(@MichalStrehovsky)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Michal Strehovský(@MichalStrehovsky)
+    </h3>
+  </a>
+  <div id="MichalStrehovsky_DotNetRuntime"> 
+       <section className="section-gap-AnthonyShaw">
+              <a href="https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Building a self-contained game in C# under 2 kilobytes | How I fit a graphical game in C# into 2 kilobytes, with no .NET runtime required.| Posts  · 2/1/2024  · dotnet, long form · 13 minutes
+              </a>
+       </section>
+      </div>
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
@@ -14177,6 +14270,110 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
         </div>
   </section>
   </li>
+</div>
+<div id="Serilog">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  Serilog
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        Serilog
+    </h3>
+  </a>
+      <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#JerriePelser_ASP_NET_Core_and_Serilog"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jerrie Pelser(@jerriep)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jerrie Pelser(@jerriep)
+    </h3>
+  </a>
+              <a href="https://www.jerriepelser.com/posts/implement-user-facing-log-files/" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Implement user-facing logs with ASP.NET Core and Serilog | Posts  · 25/2/2025  ·   asp.net core, serilog · 9 minutes
+              </a>
+  </section>
+    </li>
+
+      <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+  <a
+    href="#AndrewLock_.NETEscapades_Elasticsearch_Fluentd_Serilog_ASP_DOTNET_Core"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      AndrewLock
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Hi there! I’m AndrewLock.
+    </h3>
+  </a>
+   <a href="https://andrewlock.net/writing-logs-to-elasticsearch-with-fluentd-using-serilog-in-asp-net-core/" 
+       target="_blank" 
+       rel="noopener noreferrer">
+        Visit the full article: Writing Logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core
+    </a>
+  </section>
+</li>
+</div>
+<div id="DotNetRuntime">
+<a
+    href=""
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+        {/* Span &#ltT> and Pipelines */}  DotNet Runtime
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+        DotNet Runtime
+    </h3>
+  </a>
+
+    <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+          <a
+    href="#MichalStrehovsky_DotNetRuntime"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Michal Strehovský(@MichalStrehovsky)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Michal Strehovský(@MichalStrehovsky)
+    </h3>
+  </a>
+   <a href="https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Building a self-contained game in C# under 2 kilobytes | How I fit a graphical game in C# into 2 kilobytes, with no .NET runtime required.| Posts  · 2/1/2024  · dotnet, long form · 13 minutes
+              </a>
+  </section>
+    </li>
+
 </div>
 <div id="WebAssembly">
 <a
