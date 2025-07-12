@@ -1954,6 +1954,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+  <a
+    href="#JerriePelser"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Jerrie Pelser(@jerriep)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Jerrie Pelser(@jerriep)
+    </h3>
+  </a>
+</li>
+<li>
 <a
     href="#EthanHarris"
     className="vcard-names1"
@@ -2158,6 +2174,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Brendan Le Glaunec(@Ullaakut)
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#JohannaLarsson"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Johanna Larsson(@joladev)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Johanna Larsson(@joladev)
     </h3>
   </a>
 </li>
@@ -13344,20 +13376,20 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
 
       </p>
   </section>
+  <div id="AnthonyShaw_Replace_MD5_with_SHA256_for_cache_index_entry_keys_and_names">
+      <section className="section-gap-AnthonyShaw">
+            <p>
+        Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+          <br />
+          <a href="https://github.com/langchain-ai/langchain-azure/pull/99">langchain-ai/langchain-azure - langchain-ai/langchain-azure/pull/99 </a> on 10/6/25
 
-    <section className="section-gap-AnthonyShaw">
-          <p>
-      Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
-        <br />
-        <a href="https://github.com/langchain-ai/langchain-azure/pull/99">langchain-ai/langchain-azure - langchain-ai/langchain-azure/pull/99 </a> on 10/6/25
-
-      </p>
-      <Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30 />
-      <WhyThisRepo />
-      <p dir="auto">MD5 and SHA1 should never be used for cache keys because there is a chance of collisions.</p>
-      <p dir="auto">The implication here is that the in-process cache dictionary will use different cache keys, but that doesn't matter since it's stored in memory and you need to restart to run this update.</p>
-    </section>
-
+        </p>
+        <Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30 />
+        <WhyThisRepo />
+        <p dir="auto">MD5 and SHA1 should never be used for cache keys because there is a chance of collisions.</p>
+        <p dir="auto">The implication here is that the in-process cache dictionary will use different cache keys, but that doesn't matter since it's stored in memory and you need to restart to run this update.</p>
+      </section>
+    </div>
 </div>
 <div id="JirkaBorovec">
 <a
@@ -14138,6 +14170,68 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
        </section>
       </div>
 </div>
+<div id="JohannaLarsson">
+  <a
+    href="https://github.com/joladev"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Johanna Larsson(@joladev)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Johanna Larsson(@joladev)
+    </h3>
+  </a>
+    <section className="section-gap-AnthonyShaw">
+      <p>
+        <a href="https://bsky.app/profile/josevalim.bsky.social" target="_blank" rel="noopener noreferrer">José Valim (@‪josevalim.bsky.social‬)</a> posted  ·  12/10/2023
+      </p>
+      <p>       
+      </p>
+          <a href="https://bsky.app/profile/josevalim.bsky.social/post/3kbivz6c3wj2k" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post on <strong>bsky.app</strong>: What if you could:
+
+* upload a .csv file to see & plot its contents
+* stream and transform GBs of .parquet files from S3
+* drag and drop a sqlite3 database and query it
+* drag and drop an audio/video file for live transcription· posted  12/10/2023 
+          </a>
+  </section>
+   <section className="section-gap-AnthonyShaw">
+      <p>
+      <a href="https://bsky.app/profile/josevalim.bsky.social" target="_blank" rel="noopener noreferrer">José Valim (@‪josevalim.bsky.social‬)</a> reposted
+        <a href="https://bsky.app/profile/whatyouhi.de" target="_blank" rel="noopener noreferrer">Andrea Leopardi (@whatyouhi.de)</a> ·  2/1/2025 · Reposted between 21/1/25 and 14/1/25
+      </p>
+      <p>       
+      </p>
+          <a href="https://bsky.app/profile/whatyouhi.de/post/3lepn6vsmxk2q" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post  on <strong>bsky.app</strong>: Super nice post about @elixir-lang.org's nimble_ownership library by Alex Martsinovich: · Originally posted  2/1/2025 · Reposted by @‪josevalim.bsky.social‬ between 21/1/25 and 14/1/25
+          </a>
+  </section>
+  <section className="section-gap-AnthonyShaw">
+     <h3>
+    <a href="https://github.com/martosaur?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Alex Martsinovich(martosaur) on GitHub
+    </a>
+    </h3>
+  </section>
+   <section className="section-gap-AnthonyShaw">
+              <a href="https://jola.dev/posts/health-checks-for-plug-and-phoenix"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Health checks for Plug and Phoenix.| Posts  · 1/6/2019  · HealthChecks, Kubernetes, Plug and Phoenix  · 5 minutes
+              </a>
+       </section>
+  
+
+</div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
     href="https://github.com/Scooletz"
@@ -14270,6 +14364,29 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
         </div>
   </section>
   </li>
+     <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+          href="#AnthonyShaw_Replace_MD5_with_SHA256_for_cache_index_entry_keys_and_names"
+          className="vcard-names1"
+          style={{ textDecoration: 'underline' }}
+        >
+           <h1 style={{ margin: 0 }}>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Anthony Shaw(@tonybaloney)
+            </span>
+          </h1>
+          <h3 style={{ margin: 0 }}>
+            Anthony Shaw(@tonybaloney)
+          </h3>
+        </a>
+        
+        <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+          <a href="https://github.com/langchain-ai/langchain-azure/pull/99">Visit the GitHub PR: Replace MD5 with SHA256 for cache index entry keys and names #99  </a>  
+        </div>
+  </section>
+    </li>
+  
 </div>
 <div id="Serilog">
 <a
