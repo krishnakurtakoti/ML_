@@ -2130,6 +2130,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+  <a
+    href="#KarenPayne"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Karen Payne(@karenpayneoregon)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Karen Payne(@karenpayneoregon)
+    </h3>
+  </a>
+</li>
+<li>
 <a
     href="#ReynoldXin"
     className="vcard-names1"
@@ -14231,6 +14247,29 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
        </section>
   
 
+</div>
+<div id="KarenPayne">
+  <a
+    href="https://github.com/karenpayneoregon"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Karen Payne(@karenpayneoregon)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Karen Payne(@karenpayneoregon)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+              <a href="https://dev.to/karenpayneoregon/working-with-dappersql-server-framework-48-c-57je"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on <strong>https://dev.to/</strong>: Working with Dapper/SQL-Server Framework 4.8 C# | Working with database with C# (9 Part Series) | Posts  · Posted on Jan 28/1/2024 • Edited on 25/2/2024  · #database, #csharp, #dotnet  · 5 minutes
+              </a>
+       </section>
 </div>
 <div id="Span_T_andPipelines_Scooletz">
 <a
