@@ -13224,6 +13224,40 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
       Asankhaya Sharma
     </h3>
   </a>
+
+
+  <section className="section-gap-AsankhayaSharma">
+    <p>
+       Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>)  contributed to
+        <br />
+        <a href="https://github.com/codelion/openevolve/pull/148">codelion/openevolve</a> on 15/7/25
+
+      </p>
+      <p></p>
+          <a
+      href="https://github.com/codelion/openevolve/pull/148"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the PR on <strong>GitHub Repository</strong>: fix: MAP-Elite complexity binning issue #147 #148
+    </a>
+      <p></p>
+          <p>
+       Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>)  contributed to
+        <br />
+        <a href="https://github.com/codelion/openevolve/pull/147">codelion/openevolve</a> on 15/7/25
+
+      </p>
+      <p></p>
+                <a
+      href="https://github.com/codelion/openevolve/pull/147"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the PR on <strong>GitHub Repository</strong>: Problems of '_calculate_feature_coords' function #147
+    </a>
+  </section>
+
   <section className="section-gap-AsankhayaSharma">
     <p>
     Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>) 
