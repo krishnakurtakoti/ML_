@@ -10061,7 +10061,7 @@ datetime="2024-07-18T08:44:29.000Z" title="Jul 18, 2024, 2:14 PM GMT+5:30">on Ju
               <strong>Updated:</strong> March 28, 2022<br />
               <a href="https://trstringer.com/github-actions-manual-approval/">Visit the full article here</a>
             </p>
-            <a href="https://www.meziantou.net/replace-characters-in-a-string-using-vectorization.htm" target="_blank" rel="noopener noreferrer"> Visit the full article: Manual Approval in a GitHub Actions Workflow | Posts · 28/3/2022 · 4 minutes </a>
+            <a href="https://trstringer.com/github-actions-manual-approval/" target="_blank" rel="noopener noreferrer"> Visit the full article: Manual Approval in a GitHub Actions Workflow | Posts · 28/3/2022 · 4 minutes </a>
             <p></p>
         <a href="https://github.com/trstringer/manual-approval/issues" 
           target="_blank" 
@@ -13244,14 +13244,15 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
       Visit the PR on <strong>GitHub Repository</strong>: fix: MAP-Elite complexity binning issue #147 #148
     </a>
       <p></p>
-          <p>
+        
+      <Asankhaya_SharmaPR_codelion_openevolve_issues_148_From_2025_7_01_To_2025_7_31 />
+      <p></p>
+        <p>
        Asankhaya Sharma(<a href="https://github.com/codelion">https://github.com/codelion</a>)  contributed to
         <br />
         <a href="https://github.com/codelion/openevolve/pull/147">codelion/openevolve</a> on 15/7/25
 
       </p>
-      <Asankhaya_SharmaPR_codelion_openevolve_issues_148_From_2025_7_01_To_2025_7_31 />
-      <p></p>
                 <a
       href="https://github.com/codelion/openevolve/pull/147"
       target="_blank"
@@ -14303,11 +14304,19 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </h3>
   </a>
    <section className="section-gap-AnthonyShaw">
+                   <a href="https://dev.to/karenpayneoregon/visual-studio-shared-user-secrets-14ki"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on <strong>https://dev.to/</strong>: Visual Studio shared user secrets | Working with database with C# (55 Part Series) | Posts  · Posted on 21/7/2025  · #csharp, #dotnetcore, #devops, #security   · 5 minutes
+              </a>
+               <p></p>
               <a href="https://dev.to/karenpayneoregon/working-with-dappersql-server-framework-48-c-57je"
                 target="_blank" 
                 rel="noopener noreferrer">
                 Visit the full article on <strong>https://dev.to/</strong>: Working with Dapper/SQL-Server Framework 4.8 C# | Working with database with C# (9 Part Series) | Posts  · Posted on Jan 28/1/2024 • Edited on 25/2/2024  · #database, #csharp, #dotnet  · 5 minutes
               </a>
+             
+ 
        </section>
 </div>
 <div id="Span_T_andPipelines_Scooletz">
