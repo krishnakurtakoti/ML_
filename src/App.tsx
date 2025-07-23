@@ -14304,12 +14304,15 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </h3>
   </a>
    <section className="section-gap-AnthonyShaw">
+    <div id="Karen_Payne_Visual_Studio_shared_user_secrets_21_7_25">
                    <a href="https://dev.to/karenpayneoregon/visual-studio-shared-user-secrets-14ki"
                 target="_blank" 
                 rel="noopener noreferrer">
                 Visit the full article on <strong>https://dev.to/</strong>: Visual Studio shared user secrets | Working with database with C# (55 Part Series) | Posts  · Posted on 21/7/2025  · #csharp, #dotnetcore, #devops, #security   · 5 minutes
               </a>
-               <p></p>
+             
+    </div>
+            <p></p>
               <a href="https://dev.to/karenpayneoregon/working-with-dappersql-server-framework-48-c-57je"
                 target="_blank" 
                 rel="noopener noreferrer">
@@ -14474,6 +14477,30 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
   </section>
     </li>
   
+     <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+           <a
+            href="#Karen_Payne_Visual_Studio_shared_user_secrets_21_7_25"
+            className="vcard-names1"
+            style={{ textDecoration: 'underline' }}
+          >
+            <h1 style={{ margin: 0 }}>
+              <span className="p-name vcard-fullname d-block overflow-hidden">
+              Karen Payne(@karenpayneoregon)
+              </span>
+            </h1>
+            <h3 style={{ margin: 0 }}>
+              Karen Payne(@karenpayneoregon)
+            </h3>
+          </a>
+           <a href="https://dev.to/karenpayneoregon/visual-studio-shared-user-secrets-14ki"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article on <strong>https://dev.to/</strong>: Visual Studio shared user secrets | Working with database with C# (55 Part Series) | Posts  · Posted on 21/7/2025  · #csharp, #dotnetcore, #devops, #security   · 5 minutes
+              </a>
+  </section>
+</li>
+
 </div>
 <div id="Serilog">
 <a
