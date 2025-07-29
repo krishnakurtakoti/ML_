@@ -94,6 +94,8 @@ import Eric_Berg_MVP_TwitterProfile from './Eric_Berg_MVP_TwitterProfile';
 import GorsairComponent from './GorsairComponent';
 import Asankhaya_SharmaPR_codelion_openevolve_issues_148_From_2025_7_01_To_2025_7_31 from './Asankhaya_SharmaPR_codelion_openevolve_issues_148_From_2025_7_01_To_2025_7_31';
 import Asankhaya_SharmaPR_codelion_openevolve_issues_147_From_2025_7_01_To_2025_7_31 from './Asankhaya_SharmaPR_codelion_openevolve_issues_147_From_2025_7_01_To_2025_7_31';
+import AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31 from './AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31';
+import Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 from './Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -1968,6 +1970,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Jerrie Pelser(@jerriep)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#AaronPowell"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Aaron Powell(@aaronpowell)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Aaron Powell(@aaronpowell)
     </h3>
   </a>
 </li>
@@ -13210,7 +13228,48 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
     </a>
 </div>
 
+<div id="AaronPowell">
+<a
+    href="https://github.com/aaronpowell"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Aaron Powell(@aaronpowell)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Aaron Powell(@aaronpowell)
+    </h3>
+  </a>
+  <section className="section-gap-AsankhayaSharma">
+    <p>
+       Aaron Powell(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>)  Answered 1 discussion in 1 repository
+        <br />
+        <a href="https://github.com/github/awesome-copilot/discussions/64#discussioncomment-13690191">github/awesome-copilot/discussions/64</a> on 8/7/25
 
+      </p>
+      <p></p>
+          <a
+      href="https://github.com/github/awesome-copilot/discussions/64#discussioncomment-13690191"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Visit the Discussion on <strong>GitHub discussions</strong>: Is there awesome intructions for SQL queries? #64
+    </a>
+      <p></p>
+      <AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31 />
+      <p></p>
+      <p>
+       Ambily(<a href="https://github.com/ambilykk">https://github.com/ambilykk</a>)  Opened 1 pull request in 1 repository
+        <br />
+        <a href="https://github.com/github/awesome-copilot/pull/49">github/awesome-copilot</a> on 5/7/25
+
+      </p>
+      <Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 />
+  </section>
+</div>
 <div id="AsankhayaSharma">
 <a
     href="https://github.com/codelion"
