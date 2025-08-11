@@ -96,6 +96,7 @@ import Asankhaya_SharmaPR_codelion_openevolve_issues_148_From_2025_7_01_To_2025_
 import Asankhaya_SharmaPR_codelion_openevolve_issues_147_From_2025_7_01_To_2025_7_31 from './Asankhaya_SharmaPR_codelion_openevolve_issues_147_From_2025_7_01_To_2025_7_31';
 import AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31 from './AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31';
 import Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 from './Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31';
+import Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30 from './Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -13481,6 +13482,18 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       Anthony Shaw(@tonybaloney)
     </h3>
   </a>
+  <section className="section-gap-AnthonyShaw">
+    <p>
+       Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+        <br />
+        <a href="https://github.com/Azure-Samples/azure-search-openai-demo/pull/2553">Azure-Samples/azure-search-openai-demo</a> on 2/6/25
+
+      </p>
+      <p>
+        <Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30 />
+      </p>
+  </section>
+
 
 
   <section className="section-gap-AnthonyShaw">
