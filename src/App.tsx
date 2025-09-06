@@ -13519,6 +13519,38 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       </section>
     </div>
 </div>
+<div id="Bowrna">
+<a
+    href="https://github.com/Bowrna"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Bowrna(@Bowrna)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Bowrna(@Bowrna)
+    </h3>
+  </a>
+      <h3>
+    <a href="https://github.com/tonybaloney?tab=following" target="_blank" rel="noopener noreferrer">
+      Followings of	Anthony Shaw(tonybaloney) on GitHub
+    </a>
+  </h3>
+  <div id="ApplicationSecurity_Bowrna_knadh_listmonk_issues_2357">
+
+  </div>
+    <section className="section-gap-AnthonyShaw">
+    <p>
+       Bowrna(<a href="https://github.com/Bowrna">https://github.com/Bowrna</a>) contributed/added 2 commits that reference the issue 
+        <br />
+        <a href="https://github.com/knadh/listmonk/issues/2357">knadh/listmonk</a> on 15/4/25
+
+      </p>
+    </section>
+</div>
 <div id="JirkaBorovec">
 <a
     href="https://github.com/Borda"
@@ -14273,6 +14305,36 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
        </section>
       </div>
 </div>
+<div id="DillionLowry">
+  <a
+    href="https://github.com/DillionLowry"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Dillion Lowry(@DillionLowry)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Dillion Lowry(@DillionLowry)
+    </h3>
+  </a>
+      <p>
+Martin Evans (<a href="https://github.com/martindevans">https://github.com/martindevans</a>) starred a repository on 23/3/25
+  <br />
+  <a href="https://github.com/DillionLowry/NeuralCodecs">https://github.com/DillionLowry/NeuralCodecs </a> (C#) 43 STARS
+</p>
+      <div id="DillionLowry_ASP_NET_Core_and_Serilog"> 
+       <section className="section-gap-AnthonyShaw">
+              <a href="https://github.com/DillionLowry/Serilog.Sinks.ObservableCollection" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full GitHub Repository: Serilog sink for logging to an ObservableCollection | Posts  · 28/4/2025  ·   asp.net core, serilog · 9 minutes
+              </a>
+       </section>
+      </div>
+</div>
 <div id="MichalStrehovský">
   <a
     href="https://github.com/michalstrehovsky"
@@ -14572,7 +14634,30 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
               </a>
   </section>
 </li>
+  <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#ApplicationSecurity_Bowrna_knadh_listmonk_issues_2357"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Bowrna(@Bowrna)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Bowrna(@Bowrna)
+    </h3>
+  </a>
+   <p>
+       Bowrna(<a href="https://github.com/Bowrna">https://github.com/Bowrna</a>) contributed/added 2 commits that reference the issue, 
+        <br />
+         <a href="https://github.com/knadh/listmonk/issues/2357"><strong>PostgreSQL Database Exposed to the Internet #2357</strong>, knadh/listmonk</a> on 15/4/25
 
+      </p>
+  </section>
+  </li>
 </div>
 <div id="Serilog">
 <a
@@ -14634,6 +14719,29 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
        rel="noopener noreferrer">
         Visit the full article: Writing Logs to Elasticsearch with Fluentd using Serilog in ASP.NET Core
     </a>
+  </section>
+</li>
+ <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+<a
+    href="#DillionLowry_ASP_NET_Core_and_Serilog"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Dillion Lowry(@DillionLowry)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Dillion Lowry(@DillionLowry)
+    </h3>
+  </a>
+              <a href="https://github.com/DillionLowry/Serilog.Sinks.ObservableCollection" 
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full GitHub Repository: Serilog sink for logging to an ObservableCollection | Posts  · 28/4/2025  ·   asp.net core, serilog · 9 minutes
+              </a>
   </section>
 </li>
 </div>
