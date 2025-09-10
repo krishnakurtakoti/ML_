@@ -97,6 +97,7 @@ import Asankhaya_SharmaPR_codelion_openevolve_issues_147_From_2025_7_01_To_2025_
 import AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31 from './AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_2025_7_31';
 import Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 from './Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31';
 import Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30 from './Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30';
+import Cédric_Luthi_0xced_PR_Arcenox_co_TickerQ_pull_169_From_2025_08_01_To_2025_08_31_Target_NET_8_and_NET_9 from './Cédric_Luthi_0xced_PR_Arcenox_co_TickerQ_pull_169_From_2025_08_01_To_2025_08_31_Target_.NET_8_and_.NET_9';
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -10252,6 +10253,17 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
     </p>
 
    
+</section>
+
+
+<section className="section-gap-cédric-luthi">
+    <p>
+Cédric Luthi (<a href="https://github.com/0xced">https://github.com/0xced</a>) Created a pull request on 13/8/25
+  <br />
+  <a href="https://github.com/Arcenox-co/TickerQ/pull/169">Arcenox-co/TickerQ/pull/169 </a> that received 18 comments
+
+</p>
+<Cédric_Luthi_0xced_PR_Arcenox_co_TickerQ_pull_169_From_2025_08_01_To_2025_08_31_Target_NET_8_and_NET_9 />
 </section>
 
 <section className="section-gap-cédric-luthi">
