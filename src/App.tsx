@@ -2088,6 +2088,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+  <a
+    href="#DmitryBrant"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Dmitry Brant(@dbrant)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Dmitry Brant(@dbrant)
+    </h3>
+  </a>
+</li>
+<li>
 <a
     href="#AshVardanian"
     className="vcard-names1"
@@ -14513,10 +14529,38 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
                   <a href="https://dev.to/ambarishg/azure-ml-aks-and-a-bit-of-mlops-2gj7"
                 target="_blank" 
                 rel="noopener noreferrer">
-                Visit the full article: Red Wine Quality prediction using AzureML, AKS | Posts  · 23/4/2021  · azure, machine learning, kubernetes, mlops · 13 minutes
+                Visit the full article on <strong>https://dev.to/</strong>: Red Wine Quality prediction using AzureML, AKS | Posts  · 23/4/2021  · azure, machine learning, kubernetes, mlops · 13 minutes
               </a>
 </section>
       
+</div>
+<div id="DmitryBrant">
+  <a
+    href="https://github.com/dbrant"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Dmitry Brant(@dbrant)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Dmitry Brant(@dbrant)
+    </h3>
+  </a>
+  <WhyThisRepo />
+  <section className="section-gap-AnthonyShaw">
+    <div id="Karen_Payne_Visual_Studio_shared_user_secrets_21_7_25">
+                   <a href="https://dmitrybrant.com/2025/06/26/diskdigger-avalonia-ui-a-success-story"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: DiskDigger + Avalonia UI: a success story | Posts  · Posted on 26/6/2025  · #csharp, #dotnetcore  · 5 minutes
+              </a>
+             
+    </div>
+     <p>.NET itself has also made its own strides in being able to bundle your app into a single executable, with a single command:</p>
+    </section>
 </div>
 <div id="KarenPayne">
   <a
