@@ -1992,6 +1992,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+  <a
+    href="#AmbarishGanguly"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ambarish Ganguly(@ambarishg)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ambarish Ganguly(@ambarishg)
+    </h3>
+  </a>
+</li>
+<li>
 <a
     href="#EthanHarris"
     className="vcard-names1"
@@ -2228,6 +2244,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Johanna Larsson(@joladev)
+    </h3>
+  </a>
+</li>
+<li>
+  <a
+    href="#MiguelYoung"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Miguel Young(@mcy)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Miguel Young(@mcy)
     </h3>
   </a>
 </li>
@@ -14433,6 +14465,58 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
        </section>
   
 
+</div>
+<div id="MiguelYoung">
+  <a
+    href="https://github.com/mcy"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Miguel Young(@mcy)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Miguel Young(@mcy)
+    </h3>
+  </a>
+</div>
+<div id="AmbarishGanguly">
+  <a
+    href="https://github.com/ambarishg"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Ambarish Ganguly(@ambarishg)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ambarish Ganguly(@ambarishg)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+       <h3>
+                        <a href="https://www.linkedin.com/in/ambarish-ganguly/" target="_blank" rel="noopener noreferrer">
+                          Ambarish Ganguly on LinkedIn
+                        </a>
+                      </h3>
+                      <h3>
+                        <a href="https://github.com/rahulrai-in?tab=following" target="_blank" rel="noopener noreferrer">
+                          Followings of	Rahul Rai(@rahulrai-in) on GitHub
+                        </a>
+                      </h3>
+   </section>
+<section className="section-gap-AnthonyShaw">
+                  <a href="https://dev.to/ambarishg/azure-ml-aks-and-a-bit-of-mlops-2gj7"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the full article: Red Wine Quality prediction using AzureML, AKS | Posts  · 23/4/2021  · azure, machine learning, kubernetes, mlops · 13 minutes
+              </a>
+</section>
+      
 </div>
 <div id="KarenPayne">
   <a
