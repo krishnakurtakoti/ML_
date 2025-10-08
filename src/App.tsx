@@ -1944,6 +1944,22 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+<a
+    href="#CSnakes_Repository"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       tonybaloney/CSnakes
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      tonybaloney/CSnakes
+    </h3>
+  </a>
+</li>
+<li>
   <a
     href="#PamelaFox"
     className="vcard-names1"
@@ -13579,6 +13595,32 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       </section>
     </div>
 </div>
+<div id="CSnakes_Repository">
+<a
+    href="https://github.com/tonybaloney/CSnakes"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       tonybaloney/CSnakes
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      tonybaloney/CSnakes
+    </h3>
+  </a>
+  <section className="section-gap-AnthonyShaw">
+                  <a href="https://youtu.be/dv_Rn1nRQwI"
+                target="_blank" 
+                rel="noopener noreferrer">
+                Visit the tutorial video on <strong>https://www.youtube.com/</strong>: CSnakes: Use Python in .NET Like a Pro! 🐍💻 | Posts  · 25/5/2025  ·  #MAUI #VisualStudio #WPF · 13 minutes
+              </a>
+              <p>
+                Want to run Python code inside your C#/.NET app without installing Python globally?
+              </p>
+</section>
+</div>
 <div id="Bowrna">
 <a
     href="https://github.com/Bowrna"
@@ -14551,6 +14593,12 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
   </a>
   <WhyThisRepo />
   <section className="section-gap-AnthonyShaw">
+     <p>
+        Olivier Grisel (<a href="https://github.com/ogrisel">https://github.com/ogrisel</a>) starred a repository on 8/9/25
+          <br />
+          <a href="https://github.com/dbrant/ftape">dbrant/ftape </a> (C) 86 STARS
+
+     </p>
     <div id="Karen_Payne_Visual_Studio_shared_user_secrets_21_7_25">
                    <a href="https://dmitrybrant.com/2025/06/26/diskdigger-avalonia-ui-a-success-story"
                 target="_blank" 
