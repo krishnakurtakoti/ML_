@@ -1031,6 +1031,22 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
 <li>
 <a
+    href="#IanCooper"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ian Cooper(@iancooper)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ian Cooper(@iancooper)
+    </h3>
+  </a>
+</li>
+<li>
+<a
     href="#Dapr"
     className="vcard-names1"
     style={{ textDecoration: 'underline' }}
@@ -13778,6 +13794,42 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       rel="noopener noreferrer">
        Visit the full article: Improve C# code performance with Span&lt;T&gt; | Posts  · 24/3/2025  · 9 minutes 
     </a>
+</div>
+<div id="IanCooper">
+<a
+    href="https://github.com/iancooper"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ian Cooper(@iancooper)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ian Cooper(@iancooper)
+    </h3>
+  </a>
+    <section className="section-gap-AnthonyShaw">
+          <p>
+    Alexandre Mutel (<a href="https://github.com/xoofx">https://github.com/xoofx</a>)  starred a repository on 29/9/25
+      <br />
+      <a href="https://github.com/BrighterCommand/Brighter">https://github.com/BrighterCommand/Brighter</a> (C# ) 2.3k STARS
+    
+    </p>
+    </section>
+       <section className="section-gap-AnthonyShaw">
+      <p>
+        <a href="https://x.com/ICooper" target="_blank" rel="noopener noreferrer">ICooper (@‪ICooper‬)</a> posted  ·  26/9/2025
+      </p>
+      <p>       
+      </p>
+          <a href="https://x.com/ICooper/status/1971486374206300304" 
+            target="_blank" 
+            rel="noopener noreferrer">
+            View the post on <strong>https://x.com</strong>: How can you determine whether you should attend? One easy route is simply to review the course materials. They are available online at https://github.com/iancooper/practical-messaging, including older versions. That will explain what we cover, and if those are topics you want to understand, come along. · posted  26/9/2025 
+          </a>
+  </section>
 </div>
 <div id="Friedrich_von_Never">
 <a
