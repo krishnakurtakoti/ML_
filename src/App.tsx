@@ -13631,6 +13631,35 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
 
       </p>
   </section>
+  
+  <div id="AnthonyShaw_tonybaloney_CSnakes_573_Implement_Half_spans">
+      <section className="section-gap-AnthonyShaw">                   
+            {/* <p>
+        Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) contributed to 
+          <br />
+          <a href="https://github.com/langchain-ai/langchain-azure/pull/99">langchain-ai/langchain-azure - langchain-ai/langchain-azure/pull/99 </a> on 10/6/25
+
+        </p> */}
+              <p>
+       Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) Opened 1 pull request in 1 repository
+        <br />
+        <a href="https://github.com/tonybaloney/CSnakes/pull/573">tonybaloney/CSnakes</a> on 9/7/25
+
+      </p>
+        <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+          <a href="https://github.com/tonybaloney/CSnakes/issues/572">Visit the GitHub Issue: Numpy float16 dtype support #572  </a>  
+        </div>
+       <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+          <a href="https://github.com/tonybaloney/CSnakes/pull/573">Visit the GitHub PR: Implement Half spans  #573  </a>  
+        </div>
+         
+        
+        {/* <Anthony_ShawPR_langchain_ai_langchain_community_pull_99_From_2025_6_01_To_2025_6_30 />
+        <WhyThisRepo />
+        <p dir="auto">MD5 and SHA1 should never be used for cache keys because there is a chance of collisions.</p>
+        <p dir="auto">The implication here is that the in-process cache dictionary will use different cache keys, but that doesn't matter since it's stored in memory and you need to restart to run this update.</p> */}
+      </section>
+    </div>
   <div id="AnthonyShaw_Replace_MD5_with_SHA256_for_cache_index_entry_keys_and_names">
       <section className="section-gap-AnthonyShaw">
             <p>
@@ -13645,6 +13674,8 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
         <p dir="auto">The implication here is that the in-process cache dictionary will use different cache keys, but that doesn't matter since it's stored in memory and you need to restart to run this update.</p>
       </section>
     </div>
+
+
 </div>
 <div id="CSnakes_Repository">
 <a
@@ -13671,6 +13702,33 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
                 Want to run Python code inside your C#/.NET app without installing Python globally?
               </p>
 </section>
+       <li className="no-margin-bottom1">
+        <a
+          href="#AnthonyShaw_tonybaloney_CSnakes_573_Implement_Half_spans"
+          className="vcard-names1"
+          style={{ textDecoration: 'underline' }}
+        >
+           <h1 style={{ margin: 0 }}>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Anthony Shaw(@tonybaloney)
+            </span>
+          </h1>
+          <h3 style={{ margin: 0 }}>
+            Implement Half spans  #573
+          </h3>
+        </a>
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+         <p>
+       Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybaloney</a>) Opened 1 pull request in 1 repository
+        <br />
+        <a href="https://github.com/tonybaloney/CSnakes/pull/573">tonybaloney/CSnakes</a> on 9/7/25
+
+      </p>
+        <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+          <a href="https://github.com/tonybaloney/CSnakes/pull/573">Visit the GitHub PR: Implement Half spans  #573  </a>  
+        </div>
+  </section>
+    </li>
 </div>
 <div id="Bowrna">
 <a
@@ -14933,7 +14991,6 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
         </div>
   </section>
     </li>
-  
      <li className="no-margin-bottom1">
   <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
            <a
