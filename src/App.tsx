@@ -98,6 +98,9 @@ import AaronPowell_PR_github_awesome_copilot_discussions_64_From_2025_7_01_To_20
 import Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 from './Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31';
 import Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30 from './Anthony_ShawPR_Azure_Samples_azure_search_openai_demo_pull_2553_From_2025_6_01_To_2025_6_30';
 import Cédric_Luthi_0xced_PR_Arcenox_co_TickerQ_pull_169_From_2025_08_01_To_2025_08_31_Target_NET_8_and_NET_9 from './Cédric_Luthi_0xced_PR_Arcenox_co_TickerQ_pull_169_From_2025_08_01_To_2025_08_31_Target_.NET_8_and_.NET_9';
+import Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31 from './Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1';
+import Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1 from './Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1';
+
 // Define the expected props type for the component
 interface MyTwitterWidgetProps {
   name: string; // The 'name' prop will be a string
@@ -2308,6 +2311,38 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Miguel Young(@mcy)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#EllieHuxtable"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      EllieHuxtable(@ellie)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      EllieHuxtable(@ellie)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#KienDang"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kien Dang(@kiendang)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Kien Dang(@kiendang)
     </h3>
   </a>
 </li>
@@ -14144,7 +14179,18 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     <h3 style={{ margin: 0 }}>
       EllieHuxtable(@ellie)
     </h3>
-  </a>
+  </a>  
+          <section className="section-gap-AnthonyShaw">
+            <div id="atuinsh_desktop_issues_47">      
+              <p>
+              EllieHuxtable(@ellie)(<a href="https://github.com/ellie">https://github.com/ellie</a>)  Opened 5 other issues in 1 repository
+                <br />
+                <a href="atuinsh/desktop/issues/47">atuinsh/desktop</a> on 1-8/10/25
+
+              </p>
+              <Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1 />
+            </div>
+        </section>
         <section className="section-gap-AnthonyShaw">
                   <a href="https://ellie.wtf/notes/debugging-slow-postgres-queries" 
       target="_blank" 
@@ -14165,6 +14211,43 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </a>
     
       </section>
+</div>
+<div id="KienDang">
+<a
+    href="https://github.com/kiendang"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+      Kien Dang(@kiendang)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Kien Dang(@kiendang)
+    </h3>
+  </a>
+   <section className="section-gap-AnthonyShaw">
+            <div id="atuinsh_desktop_issues_47">      
+              <p>
+              EllieHuxtable(@ellie)(<a href="https://github.com/ellie">https://github.com/ellie</a>)  Opened 5 other issues in 1 repository
+                <br />
+                <a href="atuinsh/desktop/issues/47">atuinsh/desktop</a> on 1-8/10/25
+
+              </p>
+              <Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1 />
+            </div>
+        </section>
+<li className="no-margin-bottom1">
+<section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+    <a href="#atuinsh_desktop_issues_47"
+      target="_blank" 
+      rel="noopener noreferrer">
+      Visit the full issue of <strong>atuinsh/desktop</strong>:  · 7/10/2025  · Databases, #postgresql, #atuinsh desktop · 3 minute
+    </a>
+</section>
+</li>
+
 </div>
 <div id="ReynoldXin">
 <a
