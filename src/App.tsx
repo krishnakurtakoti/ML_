@@ -14249,6 +14249,25 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
               <Kiendang_PR_atuinsh_desktop_issues_47_From_2025_10_01_To_2025_10_31_1 />
             </div>
         </section>
+          <li className="no-margin-bottom1">
+  <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+            <a
+          href="#KienDang_atuinsh_desktop_issues_99_BUG_Toggling_vim_mode_in_settings_has_no_effect_on_existing_terminals_scripts"
+          className="vcard-names1"
+          style={{ textDecoration: 'underline' }}
+        >
+           <h3 style={{ margin: 0 }}>
+            <span className="p-name vcard-fullname d-block overflow-hidden">
+            Kien Dang(@kiendang), EllieHuxtable(@ellie)
+            </span>
+          </h3>
+          <h3 style={{ margin: 0 }}>
+            [BUG] Toggling vim mode in settings has no effect on existing terminals/scripts #99
+          </h3>
+        </a>
+  </section>
+  </li>
+      
         <section className="section-gap-AnthonyShaw">
                   <a href="https://ellie.wtf/notes/debugging-slow-postgres-queries" 
       target="_blank" 
@@ -14305,7 +14324,38 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
     </a>
 </section>
 </li>
+      <div id="KienDang_atuinsh_desktop_issues_99_BUG_Toggling_vim_mode_in_settings_has_no_effect_on_existing_terminals_scripts">
+        <li className="no-margin-bottom1">
+          <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+              <p>
+              Kien Dang(@kiendang)(<a href="https://github.com/kiendang">https://github.com/kiendang</a>) Opened 1 issue in 1 repository
+                <br />
+                <a href="https://github.com/atuinsh/desktop/issues/99">atuinsh/desktop</a> on 6/10/25
 
+              </p>
+
+        <a
+                  href="https://github.com/atuinsh/desktop/issues/99"
+                  className="vcard-names1"
+                  style={{ textDecoration: 'underline' }}
+                >
+                  <h3 style={{ margin: 0 }}>
+                    <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Kien Dang(@kiendang), EllieHuxtable(@ellie)
+                    </span>
+                  </h3>
+                  <h3 style={{ margin: 0 }}>
+                    [BUG] Toggling vim mode in settings has no effect on existing terminals/scripts #99
+                  </h3>
+                </a>
+                
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/atuinsh/desktop/issues/99">Visit the GitHub Issue: [BUG] Toggling vim mode in settings has no effect on existing terminals/scripts #99  </a>  
+                </div>
+          </section>
+            </li>
+      </div>
+  
 </div>
 <div id="ReynoldXin">
 <a
