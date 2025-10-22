@@ -638,6 +638,30 @@ Veggie 🌿, opinions are my own.</div></h3>
               </h3>
             </a>
 </li>
+          <li>
+            <a
+              href="#py_econometrics_pyfixest"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  py-econometrics/pyfixest
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m the py-econometrics/pyfixest GitHub repository.
+                  <a
+                    href="https://github.com/py-econometrics/pyfixest"
+                    data-original-href="https://github.com/py-econometrics/pyfixest"
+                  >
+                    Visit repo
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
 <li>
 <a
   href="#RossWightmanGitHubProfile"
@@ -1854,6 +1878,29 @@ Veggie 🌿, opinions are my own.</div></h3>
     DB.
     </h3>
   </a>
+</li>
+<li>
+            <a
+              href="#krisajenkins"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Kris Jenkins(@krisajenkins)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Kris Jenkins(@krisajenkins)..
+                  <a
+                    href="https://github.com/schroedk"
+                    data-original-href="https://github.com/schroedk"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
 </li>
 <li>
 <a
@@ -9712,7 +9759,29 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
             </div>
           </div>
 
-
+          <div id="py_econometrics_pyfixest">
+            <a
+              href="https://github.com/py-econometrics/pyfixest"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  py-econometrics/pyfixest
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m py-econometrics/pyfixest GitHub repository.
+                  <a
+                    href="https://github.com/py-econometrics/pyfixest"
+                    data-original-href="https://github.com/py-econometrics/pyfixest"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </div>
 <div id="RossWightmanGitHubProfile">
 
 
@@ -14443,6 +14512,43 @@ I'm pretty proud of the quality of the software. 😇. · Originally posted Jan 
       </div>
   
 </div>
+          <div id="krisajenkins">
+            <a
+              href="https://github.com/krisajenkins"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Kris Jenkins(@krisajenkins)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Kris Jenkins(@krisajenkins).
+                  <a
+                    href="https://github.com/krisajenkins"
+                    data-original-href="https://github.com/krisajenkins"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+            <div id="Kris_Jenkins_Snowflake_Labs_sfguide_getting_started_with_snowflakeintelligence_and_cke_pull_1_Refactoring_the_setup_script">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Kris Jenkins(@krisajenkins)(<a href="https://github.com/krisajenkins">https://github.com/krisajenkins</a>) Opened 2 pull requests in 2 repositories
+                  <br />
+                  <a href="https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke/pull/1">Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke</a> on 1/10/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke/pull/1">Visit the GitHub PR: Refactoring the setup script #1  </a>
+                </div>
+              </section>
+            </div>
+          </div>
+
 <div id="ReynoldXin">
 <a
     href="https://github.com/rxin"
@@ -15960,14 +16066,31 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
   </a>
 </section>
 </li>
-
- 
+<li className="no-margin-bottom1">
+              <a
+                href="#Kris_Jenkins_Snowflake_Labs_sfguide_getting_started_with_snowflakeintelligence_and_cke_pull_1_Refactoring_the_setup_script"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Kris Jenkins(@krisajenkins)
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <p>
+                  Kris Jenkins(@krisajenkins)(<a href="https://github.com/krisajenkins">https://github.com/krisajenkins</a>) Opened 2 pull requests in 2 repositories
+                  <br />
+                  <a href="https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke/pull/1">Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke</a> on 1/10/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-intelligence-and-cke/pull/1">Visit the GitHub PR: Refactoring the setup script #1  </a>
+                </div>
+              </section>
+</li>
 </div>
-
-
 <div id="githubcom_huggingface_transformers_pull_35848">
-
-
 <a
   href="https://github.com/huggingface/transformers/pull/35848"
   className="vcard-names1"
