@@ -614,8 +614,29 @@ Veggie 🌿, opinions are my own.</div></h3>
     </p>
   </h3>
 </a>
-
-
+</li>
+<li>
+            <a
+              href="#KristofSchröder"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Kristof Schröder
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Kristof Schröder.
+                  <a
+                    href="https://github.com/schroedk"
+                    data-original-href="https://github.com/schroedk"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
 </li>
 <li>
 <a
@@ -9625,7 +9646,72 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
   follows
 </p>
 <AlexanderFischerGitHubProfile />
+
+
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#KristofSchröder_scikit_learn_scikit_learn_issues_30748_Unexpected_behavior_for_subclassing_Pipeline"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Kristof Schröder(@schroedk)
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <p>
+                  Kristof Schröder(<a href="https://github.com/schroedk">https://github.com/schroedk</a>) Created an issue in 1 repository
+                  <br />
+                  <a href="scikit-learn/scikit-learn/issues/30748">scikit-learn/scikit-learn</a> on 2/2/25 that received 4 comments
+                </p>
+                <p style={{ margin: 0 }}>
+                  <a href="https://github.com/scikit-learn/scikit-learn/issues/30748">Visit the GitHub Issue: Unexpected behavior for subclassing Pipeline #30748  </a>
+                </p>
+              </section>
+            </li>
+
 </div>
+
+          <div id="KristofSchröder">
+            <a
+              href="https://github.com/schroedk"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Kristof Schröder
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Kristof Schröder.
+                  <a
+                    href="https://github.com/schroedk"
+                    data-original-href="https://github.com/schroedk"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+            <div id="KristofSchröder_scikit_learn_scikit_learn_issues_30748_Unexpected_behavior_for_subclassing_Pipeline">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Kristof Schröder(<a href="https://github.com/schroedk">https://github.com/schroedk</a>) Created an issue in 1 repository
+                  <br />
+                  <a href="scikit-learn/scikit-learn/issues/30748">scikit-learn/scikit-learn</a> on 2/2/25 that received 4 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/scikit-learn/scikit-learn/issues/30748">Visit the GitHub Issue: Unexpected behavior for subclassing Pipeline #30748  </a>
+                </div>
+              </section>
+            </div>
+          </div>
+
 
 <div id="RossWightmanGitHubProfile">
 
