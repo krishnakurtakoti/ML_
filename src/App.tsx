@@ -13884,6 +13884,60 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
         </div>
   </section>
     </li>
+            <li className="no-margin-bottom1">
+              <a
+                href="#KonstantinGukov_tonybaloney_CSnakes_pull_387_Use_redistributable_Python_for_runtime_and_integration_tests"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Konstantin Gukov(@gukoff)
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <p>
+                  Konstantin Gukov(<a href="https://github.com/gukoff">https://github.com/gukoff</a>) Created an PR in
+                  <br />
+                  <a href="tonybaloney/CSnakes/pull/387">tonybaloney/CSnakes</a> repository on 2/4/25 that received 4 comments
+                </p>
+                <p style={{ margin: 0 }}>
+                  <a href="https://github.com/tonybaloney/CSnakes/pull/387">Visit the GitHub PR: Use redistributable Python for runtime- and integration tests #387  </a>
+                </p>
+              </section>
+            </li>
+</div>
+<div id="KonstantinGukov">
+<a
+    href="https://github.com/gukoff"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Konstantin Gukov(@gukoff)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Konstantin Gukov(@gukoff)
+    </h3>
+  </a>
+
+ <div id="KonstantinGukov_tonybaloney_CSnakes_pull_387_Use_redistributable_Python_for_runtime_and_integration_tests">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Konstantin Gukov(<a href="https://github.com/gukoff">https://github.com/gukoff</a>) Created an PR in 
+                  <br />
+                  <a href="tonybaloney/CSnakes/pull/387">tonybaloney/CSnakes</a> repository on 2/4/25 that received 4 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/tonybaloney/CSnakes/pull/387">Visit the GitHub PR: Use redistributable Python for runtime- and integration tests #387  </a>
+                </div>
+              </section>
+            </div>
+
+
 </div>
 <div id="Bowrna">
 <a
