@@ -2047,6 +2047,39 @@ Veggie 🌿, opinions are my own.</div></h3>
   </a>
 </li>
 <li>
+<a
+    href="#MatějŠtágl"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Matěj Štágl(lofcz)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Matěj Štágl(lofcz)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#FastCloner_Repository"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       lofcz/FastCloner
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      lofcz/FastCloner
+    </h3>
+  </a>
+</li>
+
+<li>
   <a
     href="#PamelaFox"
     className="vcard-names1"
@@ -2411,6 +2444,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h1>
     <h3 style={{ margin: 0 }}>
       Kien Dang(@kiendang)
+    </h3>
+  </a>
+</li>
+<li>
+<a
+    href="#OfekLev"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ofek Lev(ofek)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ofek Lev(ofek)
     </h3>
   </a>
 </li>
@@ -13970,6 +14019,79 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
 
       </p>
     </section>
+</div>
+
+<div id="MatějŠtágl">
+<a
+    href="https://github.com/lofcz"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Matěj Štágl(lofcz)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Matěj Štágl(lofcz)
+    </h3>
+  </a>
+ <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <p>
+                  Matěj Štágl(lofcz)(<a href="https://github.com/lofcz">https://github.com/lofcz</a>) Reviewed 2 pull requests in 1 repository
+                  <br />
+                  <a href="https://github.com/jcrist/msgspec/pull/918">lofcz/LLMTornado</a> on 8/8/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lofcz/LLMTornado/pull/73">Visit the GitHub PR: throw HttpRequestException instead of general Exception for api errors #73 </a>
+                </div>
+              </section>
+
+
+</div>
+<div id="FastCloner_Repository">
+<a
+    href="https://github.com/lofcz/FastCloner"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       lofcz/FastCloner
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      lofcz/FastCloner
+    </h3>
+  </a>
+</div>
+<div id="OfekLev">
+<a
+    href="https://github.com/ofek"
+    className="vcard-names1"
+    style={{ textDecoration: 'underline' }}
+  >
+    <h1 style={{ margin: 0 }}>
+      <span className="p-name vcard-fullname d-block overflow-hidden">
+       Ofek Lev(ofek)
+      </span>
+    </h1>
+    <h3 style={{ margin: 0 }}>
+      Ofek Lev(ofek)
+    </h3>
+  </a>
+
+        <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <p>
+                  Ofek Lev(ofek)(<a href="https://github.com/ofek">https://github.com/ofek</a>) Opened 20 pull requests in 1 repository
+                  <br />
+                  <a href="https://github.com/jcrist/msgspec/pull/918">jcrist/msgspec</a> on 6/11/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/jcrist/msgspec/pull/918">Visit the GitHub PR: Update developer experience #918  </a>
+                </div>
+              </section>
+
 </div>
 <div id="JirkaBorovec">
 <a
