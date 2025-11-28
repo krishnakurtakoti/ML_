@@ -640,6 +640,29 @@ Veggie 🌿, opinions are my own.</div></h3>
 </li>
           <li>
             <a
+              href="#TrevorManz"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Trevor Manz
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Trevor Manz.
+                  <a
+                    href="hhttps://github.com/manzt"
+                    data-original-href="https://github.com/manzt"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
+          <li>
+            <a
               href="#py_econometrics_pyfixest"
               className="vcard-names1"
               style={{ textDecoration: 'underline' }}
@@ -1049,6 +1072,53 @@ Veggie 🌿, opinions are my own.</div></h3>
 </a>
 
 </li>
+          <li>
+
+            <a
+              href="#LambdaExpressions"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Lambda Expressions
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Lambda Expressions.
+                  <a
+                    href=""
+                    data-original-href=""
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
+          <li>
+            <a
+              href="#dotnet_runtime"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  dotnet/runtime
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m dotnet/runtime.
+                  <a
+                    href="https://github.com/dotnet/runtime"
+                    data-original-href="https://github.com/dotnet/runtime"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
 <li>
 
 <a
@@ -1077,6 +1147,29 @@ Veggie 🌿, opinions are my own.</div></h3>
   </h3>
 </a>
 </li>
+          <li>
+            <a
+              href="#Steve_hez2010"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Steve(hez2010)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Steve(hez2010).
+                  <a
+                    href="https://github.com/hez2010"
+                    data-original-href="https://github.com/hez2010"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
 <li>
 <a
     href="#IanCooper"
@@ -9831,6 +9924,46 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
               </h3>
             </a>
           </div>
+
+          <div id="TrevorManz">
+            <a
+              href="https://github.com/manzt"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Trevor Manz
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Trevor Manz.
+                  <a
+                    href="https://github.com/manzt"
+                    data-original-href="https://github.com/manzt"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+            <div id="Trevor_Manz_marimo_team_marimo_lsp_pull_159_Remove_type_assertions_from_mocks">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Trevor Manz(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created a PR in 1 repository
+                  <br />
+                  <a href="marimo-team/marimo-lsp/pull/159">marimo-team/marimo-lsp/</a> on 22/10/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/marimo-team/marimo-lsp/pull/159">Visit the GitHub PR: Remove type assertions from mocks #159  </a>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+
 <div id="RossWightmanGitHubProfile">
 
 
@@ -11449,7 +11582,218 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
   </h3>
 </a>
 </div>
+          <div id="LambdaExpressions">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Lambda Expressions
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Lambda Expressions.
+                  <a
+                    href=""
+                    data-original-href=""
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </div>
 
+          <li className="no-margin-bottom1">
+            <a
+              href="#Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h3 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Artificial Intelligence: A Modern Approach
+                </span>
+              </h3>
+            </a>
+            <section className="section-gap-AnthonyShaw">
+              <p>
+                {/* <img src="https://tarlton.info/attachments/Backprop-chain-Drawing-3.png" // width="auto" height="auto" 
+  alt=""></img> */}
+                Just re-illustrating the example from the Russell book Chapter 21. Note how the unit “numbers” have changed.
+                Give it a shot if you have literally nothing else to do. There is a reason we make computers do this.</p>
+
+              <a href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                target="_blank"
+                rel="noopener noreferrer">
+                Visit the Wikipedia Page: Artificial Intelligence: A Modern Approach |  Written by Stuart J. Russell and Peter Norvig
+              </a>
+              {/* <div className="mw-body-content"> */}
+              <p>
+                <i>AIMA</i> has been called "the most popular artificial intelligence textbook in the world",
+                <sup id="cite_ref-2" className="reference">
+                  <a href="#cite_note-2">
+                    <span className="cite-bracket">[</span>2<span className="cite-bracket">]</span>
+                  </a>
+                </sup>{" "}
+                and is considered the standard text in the field of AI.
+                <sup id="cite_ref-3" className="reference">
+                  <a href="#cite_note-3">
+                    <span className="cite-bracket">[</span>3<span className="cite-bracket">]</span>
+                  </a>
+                </sup>
+                <sup id="cite_ref-4" className="reference">
+                  <a href="#cite_note-4">
+                    <span className="cite-bracket">[</span>4<span className="cite-bracket">]</span>
+                  </a>
+                </sup>{" "}
+                As of 2023, it was being used at over 1500 universities worldwide,
+                <sup id="cite_ref-5" className="reference">
+                  <a href="#cite_note-5">
+                    <span className="cite-bracket">[</span>5<span className="cite-bracket">]</span>
+                  </a>
+                </sup>{" "}
+                and it has over 59,000 citations on{" "}
+                <a href="/wiki/Google_Scholar" title="Google Scholar">
+                  Google Scholar
+                </a>
+                .
+                <sup id="cite_ref-6" className="reference">
+                  <a href="#cite_note-6">
+                    <span className="cite-bracket">[</span>6<span className="cite-bracket">]</span>
+                  </a>
+                </sup>
+              </p>
+            </section>
+          </li>
+
+
+
+          <div id="Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7">
+            <a
+              href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Artificial Intelligence: A Modern Approach
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Artificial Intelligence: A Modern Approach.
+                  <a
+                    href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                    data-original-href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+              <div id="wiki_Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  {/* <img src="https://tarlton.info/attachments/Backprop-chain-Drawing-3.png" // width="auto" height="auto" 
+  alt=""></img> */}
+                  Just re-illustrating the example from the Russell book Chapter 21. Note how the unit “numbers” have changed.
+                  Give it a shot if you have literally nothing else to do. There is a reason we make computers do this.</p>
+
+                <a href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the Wikipedia Page: Artificial Intelligence: A Modern Approach |  Written by Stuart J. Russell and Peter Norvig
+                </a>
+                {/* <div className="mw-body-content"> */}
+                <p>
+                  <i>AIMA</i> has been called "the most popular artificial intelligence textbook in the world",
+                  <sup id="cite_ref-2" className="reference">
+                    <a href="#cite_note-2">
+                      <span className="cite-bracket">[</span>2<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  and is considered the standard text in the field of AI.
+                  <sup id="cite_ref-3" className="reference">
+                    <a href="#cite_note-3">
+                      <span className="cite-bracket">[</span>3<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>
+                  <sup id="cite_ref-4" className="reference">
+                    <a href="#cite_note-4">
+                      <span className="cite-bracket">[</span>4<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  As of 2023, it was being used at over 1500 universities worldwide,
+                  <sup id="cite_ref-5" className="reference">
+                    <a href="#cite_note-5">
+                      <span className="cite-bracket">[</span>5<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  and it has over 59,000 citations on{" "}
+                  <a href="/wiki/Google_Scholar" title="Google Scholar">
+                    Google Scholar
+                  </a>
+                  .
+                  <sup id="cite_ref-6" className="reference">
+                    <a href="#cite_note-6">
+                      <span className="cite-bracket">[</span>6<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>
+                </p>
+              </section>
+            </div>
+          </div>
+
+          <div id="dotnet_runtime">
+            <a
+              href="https://github.com/dotnet/runtime"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  dotnet/runtime
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m dotnet/runtime.
+                  <a
+                    href="https://github.com/dotnet/runtime"
+                    data-original-href="https://github.com/dotnet/runtime"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Steve_hez2010__dotnet_runtime_issues_117244_Tensor_Create_overloads_are_extremely_confusing_and_can_lead_to_unintended_behaviors"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Steve(hez2010)
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Steve(hez2010)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created an issue
+                  <br />
+                  <a href="https://github.com/dotnet/runtime/issues/117244">dotnet/runtime</a> on 2/7/25 that received 4 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/dotnet/runtime/issues/117244">Visit the GitHub Issue: Tensor.Create overloads are extremely confusing and can lead to unintended behaviors #117244  </a>
+                </div>
+              </section>
+            </li>
+          </div>
 <div id="YoshifumiKawai">
 
 
@@ -11478,11 +11822,59 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
     </p>
   </h3>
 </a>
+            <section className="section-gap-AnthonyShaw">
+              <p>
+                Yoshifumi Kawai (<a href="https://github.com/neuecc">https://github.com/neuecc</a>)  starred a repository on 24/11/25
+                <br />
+                <a href="https://github.com/hez2010/TypedSql">https://github.com/hez2010/TypedSql</a> (C# ) 120 STARS
+              </p>
+            </section>
 <YoshifumiKawai_Cysharp_ZLinq_GitHubRepository />
 
 
 </div>
-
+          <div id="Steve_hez2010">
+            <a
+              href="https://github.com/hez2010"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Steve(hez2010)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m Steve(hez2010).
+                  <a
+                    href="https://github.com/hez2010"
+                    data-original-href="https://github.com/hez2010"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+            <section className="section-gap-AnthonyShaw">
+              <p>
+                Yoshifumi Kawai (<a href="https://github.com/neuecc">https://github.com/neuecc</a>)  starred a repository on 24/11/25
+                <br />
+                <a href="https://github.com/hez2010/TypedSql">https://github.com/hez2010/TypedSql</a> (C# ) 120 STARS
+              </p>
+            </section>
+            <div id="Steve_hez2010__dotnet_runtime_issues_117244_Tensor_Create_overloads_are_extremely_confusing_and_can_lead_to_unintended_behaviors">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Steve(hez2010)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created an issue
+                  <br />
+                  <a href="https://github.com/dotnet/runtime/issues/117244">dotnet/runtime</a> on 2/7/25 that received 4 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/dotnet/runtime/issues/117244">Visit the GitHub Issue: Tensor.Create overloads are extremely confusing and can lead to unintended behaviors #117244  </a>
+                </div>
+              </section>
+            </div>
+          </div>
 
 <div id="MohammadElsheimy">
 
@@ -13432,6 +13824,73 @@ Martin Krasser(<a href="https://github.com/krasserm">https://github.com/krasserm
       Hi there! I’m Books.
     </h3>
   </a>
+
+
+        <li className="no-margin-bottom1">
+              <a
+                href="#Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    Artificial Intelligence: A Modern Approach
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  {/* <img src="https://tarlton.info/attachments/Backprop-chain-Drawing-3.png" // width="auto" height="auto" 
+  alt=""></img> */}
+                  Just re-illustrating the example from the Russell book Chapter 21. Note how the unit “numbers” have changed.
+                  Give it a shot if you have literally nothing else to do. There is a reason we make computers do this.</p>
+
+                <a href="https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach#cite_note-index-4th-7"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the Wikipedia Page: Artificial Intelligence: A Modern Approach |  Written by Stuart J. Russell and Peter Norvig
+                </a>
+                {/* <div className="mw-body-content"> */}
+                <p>
+                  <i>AIMA</i> has been called "the most popular artificial intelligence textbook in the world",
+                  <sup id="cite_ref-2" className="reference">
+                    <a href="#cite_note-2">
+                      <span className="cite-bracket">[</span>2<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  and is considered the standard text in the field of AI.
+                  <sup id="cite_ref-3" className="reference">
+                    <a href="#cite_note-3">
+                      <span className="cite-bracket">[</span>3<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>
+                  <sup id="cite_ref-4" className="reference">
+                    <a href="#cite_note-4">
+                      <span className="cite-bracket">[</span>4<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  As of 2023, it was being used at over 1500 universities worldwide,
+                  <sup id="cite_ref-5" className="reference">
+                    <a href="#cite_note-5">
+                      <span className="cite-bracket">[</span>5<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>{" "}
+                  and it has over 59,000 citations on{" "}
+                  <a href="/wiki/Google_Scholar" title="Google Scholar">
+                    Google Scholar
+                  </a>
+                  .
+                  <sup id="cite_ref-6" className="reference">
+                    <a href="#cite_note-6">
+                      <span className="cite-bracket">[</span>6<span className="cite-bracket">]</span>
+                    </a>
+                  </sup>
+                </p>
+              </section>
+            </li>
+
+
+
 </div>
 { <div id="MichaelTarlton">
 <a
