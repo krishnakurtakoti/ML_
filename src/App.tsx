@@ -1119,6 +1119,29 @@ Veggie 🌿, opinions are my own.</div></h3>
               </h3>
             </a>
           </li>
+          <li>
+            <a
+              href="#dotnet_logging"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  dotnet_logging
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m dotnet_logging.
+                  <a
+                    href="https://github.com/dotnet/runtime"
+                    data-original-href="https://github.com/dotnet/runtime"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
 <li>
 
 <a
@@ -11794,6 +11817,49 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
               </section>
             </li>
           </div>
+          
+          <div id="dotnet_logging">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  dotnet_logging
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                dotnet_logging
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Aaron_Powell__LANCommander_LANCommander_pull_365_Adding_logging_to_library_endpoints_for_better_debugging"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    LANCommander/LANCommander
+                  </span>
+                </h3>
+              </a>
+
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/LANCommander/LANCommander">LANCommander/LANCommander</a> on 2/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/LANCommander/LANCommander/pull/365">Visit the GitHub PR: Adding logging to library endpoints for better debugging #365 </a>
+                </div>
+              </section>
+            </li>
+
+          </div>
 <div id="YoshifumiKawai">
 
 
@@ -14034,6 +14100,32 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
       Aaron Powell(@aaronpowell)
     </h3>
   </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Aaron_Powell__LANCommander_LANCommander_pull_365_Adding_logging_to_library_endpoints_for_better_debugging"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    LANCommander/LANCommander
+                  </span>
+                </h3>
+              </a>
+
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/LANCommander/LANCommander">LANCommander/LANCommander</a> on 2/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/LANCommander/LANCommander/pull/365">Visit the GitHub PR: Adding logging to library endpoints for better debugging #365 </a>
+                </div>
+              </section>
+            </li>
+
   <section className="section-gap-AsankhayaSharma">
     <p>
        Aaron Powell(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>)  Answered 1 discussion in 1 repository
@@ -14061,6 +14153,39 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
       <Ambily_PR_github_awesome_copilot_pull_49_From_2025_7_01_To_2025_7_31 />
   </section>
 </div>
+          <div id="LANCommander_LANCommander">
+            <a
+              href="https://github.com/LANCommander/LANCommander"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  LANCommander/LANCommander
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                LANCommander/LANCommander
+              </h3>
+            </a>
+
+            <div id="Aaron_Powell__LANCommander_LANCommander_pull_365_Adding_logging_to_library_endpoints_for_better_debugging">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/LANCommander/LANCommander">LANCommander/LANCommander</a> on 2/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/LANCommander/LANCommander/pull/365">Visit the GitHub PR: Adding logging to library endpoints for better debugging #365 </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
+
+
+
 <div id="AsankhayaSharma">
 <a
     href="https://github.com/codelion"
