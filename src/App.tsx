@@ -14479,7 +14479,32 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
     <h3 style={{ margin: 0 }}>
       tonybaloney/CSnakes
     </h3>
-  </a>
+  </a>     
+            <li className="no-margin-bottom1">
+              <a
+                href="#SorenFrederiksen_mindzie__thefrederiksen_CSnakesCourse_commit_Upgrade_CSnakes_and_add_deployment_enhancements"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    thefrederiksen/CSnakesCourse
+                  </span>
+                </h3>
+              </a>
+
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Soren Frederiksen @ mindzie(@sorenfrederiksen2)(<a href="https://github.com/sorenfrederiksen2">https://github.com/sorenfrederiksen2</a>) Created a commit
+                  <br />
+                  <a href="https://github.com/thefrederiksen/CSnakesCourse/">thefrederiksen/CSnakesCourse</a> on 3/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/thefrederiksen/CSnakesCourse/commit/d92c49525697c53132a4fbb5c809e8533bcb37ba">Visit the GitHub commit: Upgrade CSnakes and add deployment enhancements Commit #d92c495 </a>
+                </div>
+              </section>
+            </li>
+
   <section className="section-gap-AnthonyShaw">
                   <a href="https://youtu.be/dv_Rn1nRQwI"
                 target="_blank" 
@@ -14541,6 +14566,39 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
               </section>
             </li>
 </div>
+
+          <div id="thefrederiksen_CSnakesCourse">
+            <a
+              href="https://github.com/thefrederiksen/CSnakesCourse"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Soren Frederiksen @ mindzie(@sorenfrederiksen2)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Soren Frederiksen @ mindzie(@sorenfrederiksen2)
+              </h3>
+            </a>
+            <div id="SorenFrederiksen_mindzie__thefrederiksen_CSnakesCourse_commit_Upgrade_CSnakes_and_add_deployment_enhancements">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Soren Frederiksen @ mindzie(@sorenfrederiksen2)(<a href="https://github.com/sorenfrederiksen2">https://github.com/sorenfrederiksen2</a>) Created a commit
+                  <br />
+                  <a href="https://github.com/thefrederiksen/CSnakesCourse/">thefrederiksen/CSnakesCourse</a> on 3/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/thefrederiksen/CSnakesCourse/commit/d92c49525697c53132a4fbb5c809e8533bcb37ba">Visit the GitHub commit: Upgrade CSnakes and add deployment enhancements Commit #d92c495 </a>
+                </div>
+              </section>
+            </div>
+
+
+          </div>
+
+
 <div id="KonstantinGukov">
 <a
     href="https://github.com/gukoff"
