@@ -14706,6 +14706,19 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       lofcz/FastCloner
     </h3>
   </a>
+
+            <div id="MatějŠtágl_lofcz__lofcz_FastCloner_commit_5_12_25_Update_README_md">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Matěj Štágl(lofcz)(<a href="https://github.com/lofcz">https://github.com/lofcz</a>) Created 4 commits
+                  <br />
+                  <a href="https://github.com/lofcz/FastCloner">lofcz/FastCloner</a> on 5/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lofcz/FastCloner/commit/99904e48302449b2040185be801ddef0865484b6">Visit the GitHub commit: Update README.md </a>
+                </div>
+              </section>
+            </div>
 </div>
 <div id="OfekLev">
 <a
@@ -15844,6 +15857,34 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
       Dmitry Brant(@dbrant)
     </h3>
   </a>
+
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#DmitryBrant__unframework_licheepi_nano_buildroot_pull_33_Improve_docker_build_in_Windows_and_fix_executable_flag_on_post_image_sh"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    unframework/licheepi-nano-buildroot/
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Dmitry Brant(@dbrant)(<a href="https://github.com/dbrant">https://github.com/dbrant</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/unframework/licheepi-nano-buildroot/">unframework/licheepi-nano-buildroot/</a> on 25/10/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/unframework/licheepi-nano-buildroot/pull/33">Visit the GitHub PR: Improve docker build in Windows, and fix executable flag on post-image.sh. #33 </a>
+                </div>
+              </section>
+            </li>
+
+
+
   <WhyThisRepo />
   <section className="section-gap-AnthonyShaw">
      <p>
@@ -15863,6 +15904,41 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
      <p>.NET itself has also made its own strides in being able to bundle your app into a single executable, with a single command:</p>
     </section>
 </div>
+
+ <div id="unframework_licheepi-nano-buildroot">
+            <a
+              href="https://github.com/unframework/licheepi-nano-buildroot/"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  unframework/licheepi-nano-buildroot/
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                unframework/licheepi-nano-buildroot/
+              </h3>
+            </a>
+
+            <div id="DmitryBrant__unframework_licheepi_nano_buildroot_pull_33_Improve_docker_build_in_Windows_and_fix_executable_flag_on_post_image_sh">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Dmitry Brant(@dbrant)(<a href="https://github.com/dbrant">https://github.com/dbrant</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/unframework/licheepi-nano-buildroot/">unframework/licheepi-nano-buildroot/</a> on 25/10/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/unframework/licheepi-nano-buildroot/pull/33">Visit the GitHub PR: Improve docker build in Windows, and fix executable flag on post-image.sh #33 </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
+
+
+
+
 <div id="KarenPayne">
   <a
     href="https://github.com/karenpayneoregon"
