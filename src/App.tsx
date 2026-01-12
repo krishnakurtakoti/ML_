@@ -439,7 +439,29 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
 
-
+          <li>
+            <a
+              href="#Leland_McInnes"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Leland McInnes(lmcinnes)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m  Leland McInnes(lmcinnes).
+                  <a
+                    href="https://github.com/lmcinnes"
+                    data-original-href="https://github.com/lmcinnes"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+          </li>
 
 
 <li>
@@ -10022,55 +10044,214 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
 </div> */}
 
 
-<div id="MilesCranmer">
+          <div id="MilesCranmer">
+            <a
+              href="https://github.com/MilesCranmer"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Miles Cranmer
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m  Miles Cranmer.
+                  <a
+                    href="https://github.com/MilesCranmer"
+                    data-original-href="https://github.com/MilesCranmer"
+                  >
+                    <div>
 
-
-
-<a
-  href="https://github.com/MilesCranmer"
-  className="vcard-names1"
-  style={{ textDecoration: 'underline' }}
->
-  <h1 style={{ margin: 0 }}>
-    <span className="p-name vcard-fullname d-block overflow-hidden">
-    Miles Cranmer
-    </span>
-  </h1>
-  <h3 style={{ margin: 0 }}>
-    <p style={{ margin: 0 }}>
-      Hi there! I’m  Miles Cranmer.
-      <a
-        href="https://github.com/MilesCranmer"
-        data-original-href="https://github.com/MilesCranmer"
-      >
-          <div>
-            
-          {/* <p>Currently an associate professor in
+                      {/* <p>Currently an associate professor in
 <a href="https://ssm.sufe.edu.cn/">School of Statistics and Management</a> at
 <a href="https://english.sufe.edu.cn/">Shanghai University of Finance and Economics (SUFE)</a>.</p> */}
-            </div>
-      </a>
-    </p>
-  </h3>
-</a>
-<MilesCranmerGitHubProfile />
-<MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing />
+                    </div>
+                  </a>
+                </p>
+              </h3>
+            </a>
+            <MilesCranmerGitHubProfile />
+            <MilesCranmerPR_From_2025_03_01_To_2025_03_31_PySR_845_fix_comparison_operator_parsing />
 
-<MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite/>
+            <MilesCranmerPR_JuliaNLSolvers_Optim_jl_pull_1084_From_2025_03_01_To_2025_03_31_Create_benchmark_suite />
 
-<div style={{ display: 'flex', alignItems: 'center' }}>
+            <div style={{ display: 'flex', alignItems: 'center' }}>
 
-  {/* <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
+              {/* <img src="/assets/right-arrow-svgrepo-com.svg" alt="Right Arrow" style={{ marginLeft: '10px', width: '96px', height: '78px' }} />
   <JonShlensGitHubProfile />
   <strong style={{ marginLeft: '10px' }}>Reference:  </strong>
   <a href="https://github.com/tensorflow/models/issues/2778" target="_blank" style={{ marginLeft: '5px', textDecoration: 'none', color: '#007bff' }}>
     PR - Odd batch_size specific behaviour with nasnet_large on ImageNet validation #2778
   </a> */}
- 
-  {/* <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br> */}
-</div>
 
-</div>
+              {/* <a href="https://hachyderm.io/@djnavarro/113477662963181887" target="_blank">hachyderm.io/@djnavarro/113477662963181887</a><br></br> */}
+            </div>
+
+          </div>
+
+          <div id="prasanta_chandra_mahalanobis">
+            <a
+              href="https://azimpremjiuniversity.edu.in/indian-economists/prasanta-chandra-mahalanobis"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Prasanta Chandra (P.C.) Mahalanobis
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m  Prasanta Chandra (P.C.) Mahalanobis.
+                  <a
+                    href="https://azimpremjiuniversity.edu.in/indian-economists/prasanta-chandra-mahalanobis"
+                    data-original-href="https://azimpremjiuniversity.edu.in/indian-economists/prasanta-chandra-mahalanobis"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#lmcinnes_pynndescent_pull_257__Add_docstrings_for_various_distance_functions_in_distances_py_file"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  lmcinnes/pynndescent
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Leland McInnes(lmcinnes)(<a href="https://github.com/lmcinnes">https://github.com/lmcinnes</a>) Opened 1  PR
+                  <br />
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">lmcinnes/pynndescent</a> on 7/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub PR: Optimize 0.6dev #257 </a>
+                </div>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub commit: Add docstrings for various distance functions in distances.py
+                    #257 </a>
+                </div>
+              </section>
+            </li>
+
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#wiki_Artificial_Intelligence:_A_Modern_Approach#Chapter18_7_NonParametricModels_18_7_1_NearestNeighbor_models_Mahalanobis_Distance_Page677_678"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  Artificial_Intelligence:_A_Modern_Approach  Mahalanobis_Distance_Page677_678
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p> Page 678 Chapter 18 Learning from Examples <br></br>
+                  Often Euclidean distance is used if the dimensions are measuring similar properties, such as weight, height, and depth of parts, and Manhattan distance is used if they are dissimilar, such as age, weight, and gender of a patient. Note that if we use the raw numbers from each dimension then the total distance will be affected by a change in units in any dimensions. That is, if we chanage the <i>height</i> dimension from metres to miles while keeping the <i>width</i> and <i>depth</i> dimensions the same, we’ll get different nearest neighbours. And how do we compare a difference in age to difference in weight? A common approach is to apply <strong>normalization</strong> to the measurements in each dimension.
+                  Μi
+                  A more complex metric known as <strong>Mahalanobis distance</strong> takes into account the covariance between dimensions.
+                </p>
+              </section>
+            </li>
+
+
+          </div>
+
+
+          <div id="Leland_McInnes">
+            <a
+              href="https://github.com/lmcinnes"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Leland McInnes(lmcinnes)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                <p style={{ margin: 0 }}>
+                  Hi there! I’m  Leland McInnes(lmcinnes).
+                  <a
+                    href="https://github.com/lmcinnes"
+                    data-original-href="https://github.com/lmcinnes"
+                  >
+                  </a>
+                </p>
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#lmcinnes_pynndescent_pull_257__Add_docstrings_for_various_distance_functions_in_distances_py_file"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  lmcinnes/pynndescent
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Leland McInnes(lmcinnes)(<a href="https://github.com/lmcinnes">https://github.com/lmcinnes</a>) Opened 1  PR
+                  <br />
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">lmcinnes/pynndescent</a> on 7/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub PR: Optimize 0.6dev #257 </a>
+                </div>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub commit: Add docstrings for various distance functions in distances.py
+                    #257 </a>
+                </div>
+              </section>
+            </li>
+          </div>
+
+
+
+
+          <div id="lmcinnes_pynndescent">
+            <a
+              href="https://github.com/lmcinnes/pynndescent"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  lmcinnes/pynndescent
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                lmcinnes/pynndescent
+              </h3>
+            </a>
+
+            <div id="lmcinnes_pynndescent_pull_257__Add_docstrings_for_various_distance_functions_in_distances_py_file">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Leland McInnes(lmcinnes)(<a href="https://github.com/lmcinnes">https://github.com/lmcinnes</a>) Opened 1  PR
+                  <br />
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">lmcinnes/pynndescent</a> on 7/12/25 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub PR: Optimize 0.6dev #257 </a>
+                </div>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/lmcinnes/pynndescent/pull/257">Visit the GitHub commit: Add docstrings for various distance functions in distances.py
+                    #257 </a>
+                </div>
+              </section>
+            </div>
+          </div>
+
 
 
 
@@ -11768,6 +11949,21 @@ In the discussion on <a href="https://github.com/Azure/azure-service-bus-emulato
                 </p>
               </section>
             </div>
+
+
+
+
+            <div id="wiki_Artificial_Intelligence:_A_Modern_Approach#Chapter18_7_NonParametricModels_18_7_1_NearestNeighbor_models_Mahalanobis_Distance_Page677_678">
+              <section className="section-gap-AnthonyShaw">
+                <p> Page 678 Chapter 18 Learning from Examples <br></br>
+                  Often Euclidean distance is used if the dimensions are measuring similar properties, such as weight, height, and depth of parts, and Manhattan distance is used if they are dissimilar, such as age, weight, and gender of a patient. Note that if we use the raw numbers from each dimension then the total distance will be affected by a change in units in any dimensions. That is, if we chanage the <i>height</i> dimension from metres to miles while keeping the <i>width</i> and <i>depth</i> dimensions the same, we’ll get different nearest neighbours. And how do we compare a difference in age to difference in weight? A common approach is to apply <strong>normalization</strong> to the measurements in each dimension.
+                  Μi
+                  A more complex metric known as <strong>Mahalanobis distance</strong> takes into account the covariance between dimensions.
+                </p>
+              </section>
+            </div>
+
+
           </div>
 
           <div id="dotnet_runtime">
