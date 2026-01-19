@@ -14297,6 +14297,31 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
     </h3>
   </a>
 
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Aaron_Powell_github_awesome_copilot_pull_590_Enhance_the_skill_to_include_sampling_of_data_to_detect_better_join#590"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    github/awesome-copilot
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Reviewed 7 PRs
+                  <br />
+                  <a href="https://github.com/github/awesome-copilot/">github/awesome-copilot/</a> on 19/1/26 that received 5 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/github/awesome-copilot/pull/590">Visit the GitHub PR: Enhance the skill to include sampling of data, to detect better joins. #590 </a>
+                </div>
+              </section>
+            </li>
+
             <li className="no-margin-bottom1">
               <a
                 href="#Aaron_Powell__LANCommander_LANCommander_pull_365_Adding_logging_to_library_endpoints_for_better_debugging"
@@ -14380,6 +14405,48 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
 
           </div>
 
+          <div id="github_awesome_copilot">
+            <a
+              href="https://github.com/github/awesome-copilot"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  github/awesome-copilot
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                github/awesome-copilot
+              </h3>
+            </a>
+
+            <div id="Aaron_Powell_github_awesome_copilot_pull_590_Enhance_the_skill_to_include_sampling_of_data_to_detect_better_join#590">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Reviewed 7 PRs
+                  <br />
+                  <a href="https://github.com/github/awesome-copilot/">github/awesome-copilot/</a> on 19/1/26 that received 5 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/github/awesome-copilot/pull/590">Visit the GitHub PR: Enhance the skill to include sampling of data, to detect better joins. #590 </a>
+                </div>
+              </section>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  <a href="https://x.com/miguelperedo" target="_blank" rel="noopener noreferrer">Miguel Peredo Z (@‪miguelperedo‬)</a> posted  ·  9/2/25
+                </p>
+                <p>
+                </p>
+                <a href="https://x.com/miguelperedo/status/1888308497458282961?s=20"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  View the post on <strong>https://x.com</strong>: Season 1 of my blog "Modelando" is now available!  It is about data and data modeling concepts, covers also file formats, etc.  https://miguelelgallo.github.io/Modelando2025/ · posted  9/2/2025
+                </a>
+              </section>
+            </div>
+
+          </div>
 
 
 <div id="AsankhayaSharma">
@@ -17179,6 +17246,44 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
                 </div>
               </section>
 </li>
+            <li className="no-margin-bottom1">
+              <a
+                href="#Aaron_Powell_github_awesome_copilot_pull_590_Enhance_the_skill_to_include_sampling_of_data_to_detect_better_join#590"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    github/awesome-copilot
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Reviewed 7 PRs
+                  <br />
+                  <a href="https://github.com/github/awesome-copilot/">github/awesome-copilot/</a> on 19/1/26 that received 5 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/github/awesome-copilot/pull/590">Visit the GitHub PR: Enhance the skill to include sampling of data, to detect better joins. #590 </a>
+                </div>
+                 <p>
+                  <a href="https://x.com/miguelperedo" target="_blank" rel="noopener noreferrer">Miguel Peredo Z (@‪miguelperedo‬)</a> posted  ·  9/2/25
+                </p>
+                <p>
+                </p>
+                <a href="https://x.com/miguelperedo/status/1888308497458282961?s=20"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  View the post on <strong>https://x.com</strong>: Season 1 of my blog "Modelando" is now available!  It is about data and data modeling concepts, covers also file formats, etc.  https://miguelelgallo.github.io/Modelando2025/ · posted  9/2/2025
+                </a>
+                <p></p>
+                <a href="https://miguelelgallo.github.io/Modelando2025/Season%202/S2E1/S2E1%20Keys/">Keys</a>
+              </section>
+            </li>
+
+
+
 </div>
 <div id="githubcom_huggingface_transformers_pull_35848">
 <a
