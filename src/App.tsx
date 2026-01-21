@@ -1095,6 +1095,22 @@ Veggie 🌿, opinions are my own.</div></h3>
 
 </li>
           <li>
+            <a
+              href="#Azure"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Microsoft Azure
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Microsoft Azure
+              </h3>
+            </a>
+          </li>
+          <li>
 
             <a
               href="#LambdaExpressions"
@@ -2265,6 +2281,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+          <li>
+            <a
+              href="#MiguelElGallo"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Miguel P Z(@MiguelElGallo)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Miguel P Z(@MiguelElGallo)
+              </h3>
+            </a>
+          </li>
 <li>
   <a
     href="#AmbarishGanguly"
@@ -14281,6 +14313,48 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
     </a>
 </div>
 
+          <div id="Azure">
+            <a
+              href="https://azure.microsoft.com/en-in"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Microsoft Azure
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Microsoft Azure
+              </h3>
+            </a>
+            <li className="no-margin-bottom1">
+              <a
+                href="#github_com_MiguelElGallo_mpzsql_Run_Ducklake_ducklake_select_in_Azure_and_with_own_compute"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    MiguelElGallo/mpzsql
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  <a href="https://x.com/miguelperedo" target="_blank" rel="noopener noreferrer">Miguel Peredo Z (@‪miguelperedo‬)</a> posted  · 17/9/2025
+                </p>
+                <p>
+                </p>
+                <a href="https://x.com/miguelperedo/status/1968360764835512369?s=20"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  View the post on <strong>https://x.com</strong>: #Ducklake 0.3 has been released. Wanna try it running in Azure? Use my MPZSQL server.  https://github.com/MiguelElGallo/mpzsql · posted  17/9/2025
+                </a>
+              </section>
+            </li>
+          </div>
+
 <div id="AaronPowell">
 <a
     href="https://github.com/aaronpowell"
@@ -14448,6 +14522,104 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
 
           </div>
 
+          <div id="MiguelElGallo_mpzsql">
+            <a
+              href="https://github.com/MiguelElGallo/mpzsql"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  MiguelElGallo/mpzsql
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                MiguelElGallo/mpzsql
+              </h3>
+            </a>
+
+            <div id="github_com_MiguelElGallo_mpzsql_Run_Ducklake_ducklake_select_in_Azure_and_with_own_compute">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  <a href="https://x.com/miguelperedo" target="_blank" rel="noopener noreferrer">Miguel Peredo Z (@‪miguelperedo‬)</a> posted  · 17/9/2025
+                </p>
+                <p>
+                </p>
+                <a href="https://x.com/miguelperedo/status/1968360764835512369?s=20"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  View the post on <strong>https://x.com</strong>: #Ducklake 0.3 has been released. Wanna try it running in Azure? Use my MPZSQL server.  https://github.com/MiguelElGallo/mpzsql · posted  17/9/2025
+                </a>
+              </section>
+            </div>
+          </div>
+
+          <div id="MiguelElGallo">
+            <a
+              href="https://github.com/MiguelElGallo"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Miguel P Z(@MiguelElGallo)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Miguel P Z(@MiguelElGallo)
+              </h3>
+            </a>
+            <li className="no-margin-bottom1">
+              <a
+                href="#Aaron_Powell_github_awesome_copilot_pull_590_Enhance_the_skill_to_include_sampling_of_data_to_detect_better_join#590"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    github/awesome-copilot
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Aaron Powell(@aaronpowell)(<a href="https://github.com/aaronpowell">https://github.com/aaronpowell</a>) Reviewed 7 PRs
+                  <br />
+                  <a href="https://github.com/github/awesome-copilot/">github/awesome-copilot/</a> on 19/1/26 that received 5 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/github/awesome-copilot/pull/590">Visit the GitHub PR: Enhance the skill to include sampling of data, to detect better joins. #590 </a>
+                </div>
+              </section>
+            </li>
+
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#github_com_MiguelElGallo_mpzsql_Run_Ducklake_ducklake_select_in_Azure_and_with_own_compute"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    MiguelElGallo/mpzsql
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  <a href="https://x.com/miguelperedo" target="_blank" rel="noopener noreferrer">Miguel Peredo Z (@‪miguelperedo‬)</a> posted  · 17/9/2025
+                </p>
+                <p>
+                </p>
+                <a href="https://x.com/miguelperedo/status/1968360764835512369?s=20"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  View the post on <strong>https://x.com</strong>: #Ducklake 0.3 has been released. Wanna try it running in Azure? Use my MPZSQL server.  https://github.com/MiguelElGallo/mpzsql · posted  17/9/2025
+                </a>
+              </section>
+            </li>
+          </div>
 
 <div id="AsankhayaSharma">
 <a
