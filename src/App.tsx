@@ -14425,6 +14425,12 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
                 <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
                   <a href="https://github.com/marimo-team/marimo/pull/8132">Visit the GitHub PR: Prefer native Uint8Array base64 methods when available #8132 </a>
                 </div>
+                                <p></p>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/fromBase64"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: Uint8Array.fromBase64() | Baseline 2025 Newly available | Posts · JavaScript · Uint8Array.fromBase64 · 09/2025
+                </a>
               </section>
             </li>
           </div>
@@ -14455,6 +14461,12 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
                 <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
                   <a href="https://github.com/marimo-team/marimo/pull/8132">Visit the GitHub PR: Prefer native Uint8Array base64 methods when available #8132 </a>
                 </div>
+                <p></p>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/fromBase64"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: Uint8Array.fromBase64() | Baseline 2025 Newly available | Posts · JavaScript · Uint8Array.fromBase64 · 09/2025
+                </a>
               </section>
             </div>
           </div>
