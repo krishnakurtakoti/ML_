@@ -1002,6 +1002,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+          <li>
+            <a
+              href="#Base64_Conversion_"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Base64 Methods
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Base64 Methods
+              </h3>
+            </a>
+          </li>
 <li>
   <a
     href="#PhilippWagner"
@@ -10039,7 +10055,22 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
             </div>
           </div>
 
-
+          <div id="marimo_team_marimo">
+            <a
+              href="https://github.com/marimo-team/marimo"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  marimo-team/marimo
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                /marimo-team/marimo
+              </h3>
+            </a>
+          </div>
 
 <div id="RossWightmanGitHubProfile">
 
@@ -14353,6 +14384,79 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
                 </a>
               </section>
             </li>
+          </div>
+
+
+
+          <div id="Base64_Conversion_">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Base64 Methods
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Base64 Methods
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#github_com_marimo_team_marimo_pull_8132_Prefer_native_Uint8Array_base64_methods_when_available"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    marimo-team/marimo
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Trevor Manz(@manzt)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/marimo-team/marimo/pull/8132">marimo-team/marimo</a> on 5/2/26 that received 1 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/marimo-team/marimo/pull/8132">Visit the GitHub PR: Prefer native Uint8Array base64 methods when available #8132 </a>
+                </div>
+              </section>
+            </li>
+          </div>
+
+
+          <div id="github_com_marimo_team_marimo">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  marimo-team/marimo
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                marimo-team/marimo
+              </h3>
+            </a>
+            <div id="github_com_marimo_team_marimo_pull_8132_Prefer_native_Uint8Array_base64_methods_when_available">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Trevor Manz(@manzt)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/marimo-team/marimo/pull/8132">marimo-team/marimo</a> on 5/2/26 that received 1 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/marimo-team/marimo/pull/8132">Visit the GitHub PR: Prefer native Uint8Array base64 methods when available #8132 </a>
+                </div>
+              </section>
+            </div>
           </div>
 
 <div id="AaronPowell">
