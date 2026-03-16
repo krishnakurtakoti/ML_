@@ -685,6 +685,22 @@ Veggie 🌿, opinions are my own.</div></h3>
           </li>
           <li>
             <a
+              href="#PrettierIgnore_"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  prettier/prettier
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                prettier/prettier
+              </h3>
+            </a>
+          </li>
+          <li>
+            <a
               href="#py_econometrics_pyfixest"
               className="vcard-names1"
               style={{ textDecoration: 'underline' }}
@@ -10072,6 +10088,7 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
             </a>
           </div>
 
+
 <div id="RossWightmanGitHubProfile">
 
 
@@ -14386,7 +14403,60 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
             </li>
           </div>
 
+          <div id="PrettierIgnore_">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  prettier/prettier
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                prettier/prettier
+              </h3>
+            </a>
+            <li className="no-margin-bottom1">
+              <a
+                href="#github_com_marimo_team_marimo_lsp_pull_433_Prevent_marimo_py_filename_and_detect_module_shadowing_errors"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    marimo-team/marimo-lsp
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Trevor Manz(@manzt)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/marimo-team/marimo-lsp/pull/433">marimo-team/marimo-lsp</a> on 4/3/26 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/marimo-team/marimo-lsp/pull/433">Visit the GitHub PR: Prevent marimo.py filename and detect module shadowing errors
+                    #433 </a>
+                </div>
+                <p></p>
+                <a href="https://stackoverflow.com/questions/66259151/how-to-make-prettier-to-ignore-a-block-of-code"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: How to make Prettier to ignore a block of code? · by STEEL on 21/7/2021 30/6/2023
+                </a>
+                <p></p>
+                <a href="https://github.com/prettier/prettier/issues/5287"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: known issue - https://github.com/prettier/prettier/issues/5287 · by STEEL on 21/7/2021, where HungThinhIT commented: Best hack I have got for this is - to put all the to-be-ignored code inside a function and put the // prettier-ignore over that function definition to ignore the whole function block.
+                  on Oct 14, 2025
+                </a>
 
+              </section>
+            </li>
+          </div>
 
           <div id="Base64_Conversion_">
             <a
@@ -14425,7 +14495,7 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
                 <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
                   <a href="https://github.com/marimo-team/marimo/pull/8132">Visit the GitHub PR: Prefer native Uint8Array base64 methods when available #8132 </a>
                 </div>
-                                <p></p>
+                <p></p>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array/fromBase64"
                   target="_blank"
                   rel="noopener noreferrer">
@@ -14469,7 +14539,63 @@ Give it a shot if you have literally nothing else to do. There is a reason we ma
                 </a>
               </section>
             </div>
+
           </div>
+
+          <div id="github_com_marimo_team_marimo_lsp">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  marimo-team/marimo-lsp
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                marimo-team/marimo-lsp
+              </h3>
+            </a>
+
+
+            <div id="github_com_marimo_team_marimo_lsp_pull_433_Prevent_marimo_py_filename_and_detect_module_shadowing_errors">
+              <section className="section-gap-AnthonyShaw">
+                <p>
+                  Trevor Manz(@manzt)(<a href="https://github.com/manzt">https://github.com/manzt</a>) Created a PR
+                  <br />
+                  <a href="https://github.com/marimo-team/marimo-lsp/pull/433">marimo-team/marimo-lsp</a> on 4/3/26 that received 0 comments
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/marimo-team/marimo-lsp/pull/433">Visit the GitHub PR: Prevent marimo.py filename and detect module shadowing errors
+                    #433 </a>
+                </div>
+                <p></p>
+                <a href="https://stackoverflow.com/questions/66259151/how-to-make-prettier-to-ignore-a-block-of-code"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: How to make Prettier to ignore a block of code? · by STEEL on 21/7/2021 30/6/2023
+                </a>
+                <p></p>
+                {/* <a href="https://github.com/prettier/prettier/issues/5287"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: known issue - https://github.com/prettier/prettier/issues/5287 · by STEEL on 21/7/2021, where HungThinhIT on Oct 14, 2025
+                </a> */}
+                <a href="https://github.com/prettier/prettier/issues/5287"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full article: known issue - https://github.com/prettier/prettier/issues/5287 · by STEEL on 21/7/2021, where HungThinhIT commented: Best hack I have got for this is - to put all the to-be-ignored code inside a function and put the // prettier-ignore over that function definition to ignore the whole function block.
+                  on Oct 14, 2025
+                </a>
+
+              </section>
+            </div>
+
+
+          </div>
+
+
 
 <div id="AaronPowell">
 <a
