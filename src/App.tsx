@@ -1394,6 +1394,22 @@ Veggie 🌿, opinions are my own.</div></h3>
     </h3>
   </a>
 </li>
+          <li>
+            <a
+              href="#OAuth_and_OpenID_Connect"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}  OAuth and OpenID Connect
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                OAuth and OpenID Connect
+              </h3>
+            </a>
+          </li>
 <li>
   <a
     href="#JeffHollan"
@@ -15532,6 +15548,36 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
                 Anamika Aggarwal(Anamika1608)
               </h3>
             </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#medium_com_@anamikagg07_oauth-and-openid-connect-1def117ee947"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    OAuth and OpenID Connect
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://medium.com/@anamikagg07/oauth-and-openid-connect-1def117ee947"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: OAuth and OpenID Connect on 11/8/25
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Reviewed 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/dataframe/pull/185">DataHaskell/dataframe</a> on 17/3/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/dataframe/pull/185">Visit the GitHub PR: fix: alignment in iris tutorial introduction
+                    #185  </a>
+                </div>
+              </section>
+            </li>
           </div>
 <div id="JirkaBorovec">
 <a
@@ -16991,6 +17037,39 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
               </section>
             </li>
 </div>
+          <div id="OAuth_and_OpenID_Connect">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}  OAuth and OpenID Connect
+                </span>
+              </h1>
+            </a>
+
+            <div id="medium_com_@anamikagg07_oauth-and-openid-connect-1def117ee947">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://medium.com/@anamikagg07/oauth-and-openid-connect-1def117ee947"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: OAuth and OpenID Connect on 11/8/25
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Reviewed 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/dataframe/pull/185">DataHaskell/dataframe</a> on 17/3/25
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/dataframe/pull/185">Visit the GitHub PR: fix: alignment in iris tutorial introduction
+                    #185  </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
 <div id="Serilog">
 <a
     href=""
