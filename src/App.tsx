@@ -17070,6 +17070,47 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
             </div>
 
           </div>
+
+          <div id="Git_add_example_to_the_rebase">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}  Git Rebase
+                </span>
+              </h1>
+            </a>
+
+            <div id="maelle_https_github_com_r-lib_gert_pull_274_changes">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://medium.com/@anamikagg07/oauth-and-openid-connect-1def117ee947"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article:docs: add example to the rebase manual page
+                  #274
+
+                </a>
+                <p>
+                  Maëlle Salmon(maelle)(<a href="https://github.com/maelle">https://github.com/maelle</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/r-lib/gert/pull/274/changes">r-lib/gert</a> on 4/5/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/r-lib/gert/pull/274/changes">Visit the GitHub PR: fix: add example to the rebase manual page
+                    #274  </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
+
+
+
+
+
 <div id="Serilog">
 <a
     href=""
