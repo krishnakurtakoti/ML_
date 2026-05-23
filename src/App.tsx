@@ -2698,6 +2698,22 @@ Veggie 🌿, opinions are my own.</div></h3>
               </h3>
             </a>
           </li>
+          <li>
+            <a
+              href="#Maëlle_Salmon"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Maëlle Salmon(maelle)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Maëlle Salmon(maelle)
+              </h3>
+            </a>
+          </li>
 {/* <li>
 <a
     href="#Marlene"
@@ -15579,6 +15595,58 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
               </section>
             </li>
           </div>
+
+          <div id="Maëlle_Salmon">
+            <a
+              href="https://github.com/maelle"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Maëlle Salmon(maelle)
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Maëlle Salmon(maelle)
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#maelle_https_github_com_r-lib_gert_pull_274_changes"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    {/* Span &#ltT> and Pipelines */}  Git Rebase
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/r-lib/gert/pull/274/changes"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article:docs: add example to the rebase manual page
+                  #274
+
+                </a>
+                <p>
+                  Maëlle Salmon(maelle)(<a href="https://github.com/maelle">https://github.com/maelle</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/r-lib/gert/pull/274/changes">r-lib/gert</a> on 4/5/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/r-lib/gert/pull/274/changes">Visit the GitHub PR: fix: add example to the rebase manual page
+                    #274  </a>
+                </div>
+              </section>
+            </li>
+
+          </div>
+
+
 <div id="JirkaBorovec">
 <a
     href="https://github.com/Borda"
@@ -17086,7 +17154,7 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
 
             <div id="maelle_https_github_com_r-lib_gert_pull_274_changes">
               <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
-                <a href="https://medium.com/@anamikagg07/oauth-and-openid-connect-1def117ee947"
+                <a href="https://github.com/r-lib/gert/pull/274/changes"
                   target="_blank"
                   rel="noopener noreferrer">
                   Visit the full Article:docs: add example to the rebase manual page
