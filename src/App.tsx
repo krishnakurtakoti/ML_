@@ -2345,6 +2345,22 @@ Veggie 🌿, opinions are my own.</div></h3>
               </h3>
             </a>
           </li>
+          <li>
+            <a
+              href="#Git_add_example_to_the_rebase"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}   Git Rebase
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Git Rebase
+              </h3>
+            </a>
+          </li>
 <li>
   <a
     href="#AmbarishGanguly"
@@ -2695,6 +2711,22 @@ Veggie 🌿, opinions are my own.</div></h3>
               </h1>
               <h3 style={{ margin: 0 }}>
                 Michael Chavinda(mchav)
+              </h3>
+            </a>
+          </li>
+          <li>
+            <a
+              href="#Michael_Chavinda_gauss_function_to_plot_a_bell_curve"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Gauss function to plot a bell curve
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Gauss function to plot a bell curve
               </h3>
             </a>
           </li>
@@ -10342,6 +10374,42 @@ className="heading-element" dir="auto">Advanced Probabilistic Model 高级概率
                 </div>
               </section>
             </li>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#TutteInstitute_hirank_issues_11"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    {/* Span &#ltT> and Pipelines */}  TutteInstitute/hirank Random thoughts #11
+                  </span>
+                </h3>
+              </a>
+              
+               <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/TutteInstitute/hirank/issues/11"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Random thoughts #11
+                </a>
+                <p>
+                  Leland McInnes(lmcinnes)(<a href="https://github.com/lmcinnes">https://github.com/lmcinnes</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/TutteInstitute/hirank/issues/11">TutteInstitute/hirank</a> on 23/6/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/TutteInstitute/hirank/issues/11"> Visit the full Article: Random thoughts #11  </a>
+                </div>
+              </section>
+            </li>
+
+
+
+
+
+
           </div>
 
 
@@ -15512,7 +15580,7 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
               </section>
 
 </div>
-<div id="Michael_Chavinda">
+          <div id="Michael_Chavinda">
             <a
               href="https://github.com/mchav"
               className="vcard-names1"
@@ -15548,7 +15616,66 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
               </div>
             </section>
 
-</div>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Michael_Chavinda_gauss_function_to_plot_a_bell_curve_DataHaskell_sabela_pull_9"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    {/* Span &#ltT> and Pipelines */}  Gauss function to plot a bell curve
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/DataHaskell/sabela/pull/9"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article:Football striker example ⚽ #9
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Reviewed 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/sabela/pull/9">DataHaskell/sabela</a> on 2/7/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/sabela/pull/9">Visit the GitHub PR: Football striker example ⚽   </a>
+                </div>
+              </section>
+            </li>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Michael_Chavinda_DataHaskell_dataframe_pull_commit_34af2bc"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    {/* Span &#ltT> and Pipelines */} DataHaskell/dataframe
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/DataHaskell/dataframe/commit/34af2bc1ee84c995b899fefb1d467954d5d8aefa"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Commit 34af2bc
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/dataframe/"> DataHaskell/dataframe</a> on 20/4/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/dataframe/commit/34af2bc1ee84c995b899fefb1d467954d5d8aefa">Visit the GitHub PR: docs: Update documentation for clarity and accuracy across multiple files   </a>
+                </div>
+              </section>
+            </li>
+          </div>
+
           <div id="Anamika1608">
             <a
               href="https://github.com/Anamika1608"
@@ -17139,6 +17266,9 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
 
           </div>
 
+
+
+
           <div id="Git_add_example_to_the_rebase">
             <a
               href=""
@@ -17177,7 +17307,110 @@ Martin Evans (<a href="https://github.com/martindevans">https://github.com/marti
 
 
 
+          <div id="Random_thoughts_#11">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}  TutteInstitute/hirank  Random thoughts #11
+                </span>
+              </h1>
+            </a>
 
+            <div id="TutteInstitute_hirank_issues_11">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/TutteInstitute/hirank/issues/11"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Random thoughts #11
+                </a>
+                <p>
+                  Leland McInnes(lmcinnes)(<a href="https://github.com/lmcinnes">https://github.com/lmcinnes</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/TutteInstitute/hirank/issues/11">TutteInstitute/hirank</a> on 23/6/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/TutteInstitute/hirank/issues/11"> Visit the full Article: Random thoughts #11  </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
+
+
+          <div id="Michael_Chavinda_gauss_function_to_plot_a_bell_curve">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}   Gauss function to plot a bell curve
+                </span>
+              </h1>
+            </a>
+
+            <div id="Michael_Chavinda_gauss_function_to_plot_a_bell_curve_DataHaskell_sabela_pull_9">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/DataHaskell/sabela/pull/9"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article:Football striker example ⚽ #9
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Reviewed 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/sabela/pull/9">DataHaskell/sabela</a> on 2/7/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/sabela/pull/9">Visit the GitHub PR: Football striker example ⚽   </a>
+                </div>
+                 <p>
+                  <strong>Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>)</strong> commented on 2/7/26: </p><p>Dash is used as a parenthetical here. Prefer parentheses. But the whole sentence could be rewritten a little bit to:</p>
+                <p>We use the gauss function to plot a bell curve that labels the x-axis... etc.</p>
+                <p>Sounds less &#34;salesy&#34;</p>
+              </section>
+            </div>
+
+          </div>
+
+
+          <div id="Michael_Chavinda_GitHub_Reposiotyr_DataHaskell_dataframe">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}   DataHaskell/dataframe
+                </span>
+              </h1>
+            </a>
+
+            <div id="Michael_Chavinda_DataHaskell_dataframe_pull_commit_34af2bc">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/DataHaskell/dataframe/commit/34af2bc1ee84c995b899fefb1d467954d5d8aefa"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Commit 34af2bc
+                </a>
+                <p>
+                  Michael Chavinda(mchav)(<a href="https://github.com/mchav">https://github.com/mchav</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/DataHaskell/dataframe/"> DataHaskell/dataframe</a> on 20/4/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/DataHaskell/dataframe/commit/34af2bc1ee84c995b899fefb1d467954d5d8aefa">Visit the GitHub PR: docs: Update documentation for clarity and accuracy across multiple files   </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
 
 <div id="Serilog">
 <a
