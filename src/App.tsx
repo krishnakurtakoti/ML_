@@ -2745,7 +2745,40 @@ Veggie 🌿, opinions are my own.</div></h3>
                 Maëlle Salmon(maelle)
               </h3>
             </a>
+          </li>  
+          <li>
+            <a
+              href="#Use_clustered_medoid_for_stay_recommendations_#1"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                 clustered medoid
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                clustered medoid
+              </h3>
+            </a>
           </li>
+          <li>
+            <a
+              href="#Durand_Kerner_algorithm"
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Durand Kerner algorithm
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Durand Kerner algorithm
+              </h3>
+            </a>
+          </li>
+            
 {/* <li>
 <a
     href="#Marlene"
@@ -15799,6 +15832,129 @@ Anthony Shaw(<a href="https://github.com/tonybaloney">https://github.com/tonybal
       <Jirka_Borovec_PR_Lightning_AI_lightning_thunder_pull_2208_From_2025_6_01_To_2025_6_30 />
    </section>
 </div>
+
+
+          <div id="Use_clustered_medoid_for_stay_recommendations_#1">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */}  clustered medoid
+                </span>
+              </h1>
+            </a>
+
+            <div id="AmandaSilver_workiq-uber-demo_Use_clustered_medoid_for_stay_recommendations_1">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/AmandaSilver/workiq-uber-demo/pull/1"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article:Use clustered medoid for stay recommendations- #1
+                </a>
+                <p>
+                  Anthony Shaw(tonybaloney)(<a href="https://github.com/tonybaloney">tonybaloney</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="https://github.com/AmandaSilver/workiq-uber-demo/pull/1">AmandaSilver/workiq-uber-demo</a> on 11/6/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/AmandaSilver/workiq-uber-demo/pull/1">Visit the GitHub PR: Use clustered medoid for stay recommendations- #1
+                    #1  </a>
+                </div>
+              </section>
+            </div>
+
+          </div>
+
+
+          <div id="Durand_Kerner_algorithm_akretz_https_github_com_opencv_opencv_pull_29109">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  {/* Span &#ltT> and Pipelines */} Better Durand-Kerner Initialization
+                </span>
+              </h1>
+            </a>
+
+            <div id="Adrian_Kretz_Durand_Kerner_algorithm_akretz_https_github_com_opencv_opencv_pull_29109">
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/opencv/opencv/pull/29109"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Better Durand-Kerner Initialization-#29109
+                </a>
+                <p>
+                  Adrian Kretz(akretz)(<a href="https://github.com/akretz">akretz</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="hhttps://github.com/opencv/opencv/pull/29109">opencv/opencv</a> on 11/6/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/opencv/opencv/pull/29109">Visit the GitHub PR: Better Durand-Kerner Initialization- #29109 </a>
+                </div>
+                <p>
+                  While investigating issue #23644, I have found this paper - <a href="https://link.springer.com/article/10.1007/BF01935059">Initial approximations in Durand-Kerner's root finding method</a> published on 1986, which presents a good initialization for the Durand-Kerner algorithm. Basically the idea is to put the initial points equidistantly on a circle on the complex plane. The radius of the circle is computed as
+                  <br />
+
+                </p>
+              </section>
+            </div>
+
+          </div>
+
+
+          <div id="Durand_Kerner_algorithm">
+            <a
+              href=""
+              className="vcard-names1"
+              style={{ textDecoration: 'underline' }}
+            >
+              <h1 style={{ margin: 0 }}>
+                <span className="p-name vcard-fullname d-block overflow-hidden">
+                  Durand Kerner algorithm
+                </span>
+              </h1>
+              <h3 style={{ margin: 0 }}>
+                Durand Kerner algorithm
+              </h3>
+            </a>
+
+            <li className="no-margin-bottom1">
+              <a
+                href="#Adrian_Kretz_Durand_Kerner_algorithm_akretz_https_github_com_opencv_opencv_pull_29109"
+                className="vcard-names1"
+                style={{ textDecoration: 'underline' }}
+              >
+                <h3 style={{ margin: 0 }}>
+                  <span className="p-name vcard-fullname d-block overflow-hidden">
+                    {/* Span &#ltT> and Pipelines */} Better Durand-Kerner Initialization-#29109
+                  </span>
+                </h3>
+              </a>
+              <section className="section-gap-SQL-Join" style={{ margin: 0 }}>
+                <a href="https://github.com/opencv/opencv/pull/29109"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit the full Article: Better Durand-Kerner Initialization-#29109
+                </a>
+                <p>
+                  Adrian Kretz(akretz)(<a href="https://github.com/akretz">akretz</a>) Created 1 pull request in 1 repository
+                  <br />
+                  <a href="hhttps://github.com/opencv/opencv/pull/29109">opencv/opencv</a> on 11/6/26
+                </p>
+                <div className="Ullaakut-Gorsair-text-gray Ullaakut-Gorsair-mb-2 Ullaakut-Gorsair-ws-normal">
+                  <a href="https://github.com/opencv/opencv/pull/29109">Visit the GitHub PR: Better Durand-Kerner Initialization- #29109 </a>
+                </div>
+              </section>
+            </li>
+          </div>
+
+
 <div id="EthanHarris">
 <a
     href="https://github.com/ethanwharris"
